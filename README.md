@@ -10,12 +10,12 @@ This repository currently includes **sample data** for illustration purposes. Th
 Each poem in the corpus is represented in **JSON format** and includes the following fields:
 
 - `authors` — the poet(s) attributed to the text
-- 'source' - the critical edition from which the text was drawn
+- `source` - the critical edition from which the text was drawn
 - `fine_grained_label` — detailed classification of the poem’s type or theme
 - `coarse_grained_label` — broader categorical label for genre or form
 - `text_full` — complete poem text
 - `stanzas` — the poem segmented by stanza
-- `references` — mentions or allusions to other authors within the text
+- `references` — mentions or allusions to other authors within the text (if any)
 
 ## Repository Status
 - ✅ Sample data provided for reference
