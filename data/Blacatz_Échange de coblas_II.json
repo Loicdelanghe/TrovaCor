@@ -1,0 +1,55 @@
+{
+    "Author": [
+        "Blacatz",
+        "Peirol"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "Peirol, pois vengutz es vas nos ",
+    "FullText": [
+        "Peirol, pois vengutz es vas nos",
+        "Vai tost, et es rics tos chaptals,",
+        "Vas la dompna qes bele pros,",
+        "Franche cortesa e leials",
+        "Lai devas Trez, e don te per desprendre",
+        "Un dels seus dons, e seras rics del mendre.",
+        "Lo parentat volgra donar o vendre",
+        "Sol qem poges laz son bel cors estendre.",
+        "Car el es bon et eu sui bos",
+        "Be meschazegra dompn aitals,",
+        "E car sui francs et amoros",
+        "E vas dompna fins e leials.",
+        "Qil parentat vendes, lo feira pendre,",
+        "Qeu agra lei, no sen pogra defendre,",
+        "Et agra pois guierdon de latendre",
+        "Qeu fi en tal qe anc no lom volc rendre.",
+        ""
+    ],
+    "Stanzas": [
+        [
+            "Peirol, pois vengutz es vas nos",
+            "Vai tost, et es rics tos chaptals,",
+            "Vas la dompna qes bele pros,",
+            "Franche cortesa e leials",
+            "Lai devas Trez, e don te per desprendre",
+            "Un dels seus dons, e seras rics del mendre.",
+            "Lo parentat volgra donar o vendre",
+            "Sol qem poges laz son bel cors estendre."
+        ],
+        [
+            "Car el es bon et eu sui bos",
+            "Be meschazegra dompn aitals,",
+            "E car sui francs et amoros",
+            "E vas dompna fins e leials.",
+            "Qil parentat vendes, lo feira pendre,",
+            "Qeu agra lei, no sen pogra defendre,",
+            "Et agra pois guierdon de latendre",
+            "Qeu fi en tal qe anc no lom volc rendre.",
+            ""
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Soltau, Otto. Die Werke des Trobadors Blacatz. \"Zeitschrift fr romanische Philologie\", 23 (1899)"
+}

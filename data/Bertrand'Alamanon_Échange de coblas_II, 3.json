@@ -1,0 +1,53 @@
+{
+    "Author": [
+        "Bertrand'Alamanon",
+        "LoComsdeProensa"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "Seigner Coms, eus prec quem diiatz ",
+    "FullText": [
+        "Bertrams d'Alamano al coms de Proensa :",
+        "Seigner Coms, eus prec quem diiatz",
+        "el palenc qeus en conortatz,",
+        "sil penres per forsa o no:",
+        "q'eus i conosc honor e pro",
+        "ab sol qe primier vos metatz;",
+        "car, pel trauc on seretz passatz,",
+        "intraran leu li conpaigno.",
+        "Lo coms de Proensa li respondet :",
+        "Bertram, be cre qe conoscatz",
+        "q'eu soi ab armas tan senatz",
+        "qe be saubrai triar mon pro,",
+        "ab qe nom metatz a razo",
+        "cum envazirai toz armatz",
+        "quan veirai Cremones intratz,",
+        "si lo portier no dis de no !"
+    ],
+    "Stanzas": [
+        [
+            "Bertrams d'Alamano al coms de Proensa :",
+            "Seigner Coms, eus prec quem diiatz",
+            "el palenc qeus en conortatz,",
+            "sil penres per forsa o no:",
+            "q'eus i conosc honor e pro",
+            "ab sol qe primier vos metatz;",
+            "car, pel trauc on seretz passatz,",
+            "intraran leu li conpaigno."
+        ],
+        [
+            "Lo coms de Proensa li respondet :",
+            "Bertram, be cre qe conoscatz",
+            "q'eu soi ab armas tan senatz",
+            "qe be saubrai triar mon pro,",
+            "ab qe nom metatz a razo",
+            "cum envazirai toz armatz",
+            "quan veirai Cremones intratz,",
+            "si lo portier no dis de no !"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Salverda de Grave, Jean-Jacques. Le troubadour Bertran d'Alamanon. Toulouse: Imprimerie et librarie douard Privat, 1902."
+}

@@ -1,0 +1,98 @@
+{
+    "Author": [
+        "Cadenet"
+    ],
+    "Genre": "Pastorela",
+    "Title": "L'autrier lonc un bosc folhos ",
+    "FullText": [
+        "Lautrier lonc un bosc folhos",
+        "trobei en ma via",
+        "un pastor mot angoissos",
+        "cantan; e disia",
+        "sa cansos: Amors,",
+        "em clam dels lauzenjadors,",
+        "quar la dolors",
+        "qua per els mamia,",
+        "mi fai pietz quel mia. ",
+        "Pastre, lauzengier gelos",
+        "monron quascun dia,",
+        "e dizon quieu soi joios",
+        "de tal drudaria",
+        "don mi creis honors ;",
+        "e non ai autre socors ;",
+        "perol paors",
+        "que cil nan, seria",
+        "vertatz, sieu podia. ",
+        "Senher, pos lo fals ressos",
+        "de lor gelozia",
+        "os platz, pauc etz amoros,",
+        "que lor felonia",
+        "part mans amadors ;",
+        "quieu pert midons pels trachors ;",
+        " et es errors",
+        "e dobla folia",
+        "qui en lor se fia. ",
+        "Pastre, ieu no soi ges vos,",
+        "quel maritz, volria,",
+        "bates midons a sazos,",
+        "quadoncs lam daria,",
+        "quar per aitals flors",
+        "las an li gelos pejors,",
+        "quab las melhors",
+        "ten dan vilania",
+        "ei vai cortezia,"
+    ],
+    "Stanzas": [
+        [
+            "Lautrier lonc un bosc folhos",
+            "trobei en ma via",
+            "un pastor mot angoissos",
+            "cantan; e disia",
+            "sa cansos: Amors,",
+            "em clam dels lauzenjadors,",
+            "quar la dolors",
+            "qua per els mamia,",
+            "mi fai pietz quel mia. "
+        ],
+        [
+            "Pastre, lauzengier gelos",
+            "monron quascun dia,",
+            "e dizon quieu soi joios",
+            "de tal drudaria",
+            "don mi creis honors ;",
+            "e non ai autre socors ;",
+            "perol paors",
+            "que cil nan, seria",
+            "vertatz, sieu podia. "
+        ],
+        [
+            "Senher, pos lo fals ressos",
+            "de lor gelozia",
+            "os platz, pauc etz amoros,",
+            "que lor felonia",
+            "part mans amadors ;",
+            "quieu pert midons pels trachors ;",
+            " et es errors",
+            "e dobla folia",
+            "qui en lor se fia. "
+        ],
+        [
+            "Pastre, ieu no soi ges vos,",
+            "quel maritz, volria,",
+            "bates midons a sazos,",
+            "quadoncs lam daria,",
+            "quar per aitals flors",
+            "las an li gelos pejors,",
+            "quab las melhors",
+            "ten dan vilania",
+            "ei vai cortezia,"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Appel, Carl. Der Trobador Cadenet. Halle a. S.: Verlag von Max Niemeyer, 1920"
+}

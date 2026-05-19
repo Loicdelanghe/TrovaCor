@@ -1,0 +1,54 @@
+{
+    "Author": [
+        "Blacasset"
+    ],
+    "Genre": "Canso",
+    "Title": "Ieu crezi per verai e pense fermamen ",
+    "FullText": [
+        "Ieu crezi per verai e pense fermamen",
+        "Que de faire la gerrha encontra de son paire",
+        "E lo vouler cassar foras de son repaire,",
+        "Quaquo mal no ses vist sobta lo firmament ;",
+        "Ni que non es pas fach ben ni degudamen",
+        "De si voler fidar ni de voler complaire",
+        "A un sieu enemi ansian per desplaire",
+        "A son prochan paren qui lays mortalmen.",
+        "Poure jove, indigent de lerba dAntesieira,",
+        "Engendrat de parens de tant illustra rassa,",
+        "Non tagra mais volgut segre lopinio",
+        "Daquel que ti podia ezentar de son yra ?",
+        "Tu nagras pas agut lonta que ti descassa",
+        "De perdre en batalhan ta reputatio."
+    ],
+    "Stanzas": [
+        [
+            "Ieu crezi per verai e pense fermamen",
+            "Que de faire la gerrha encontra de son paire",
+            "E lo vouler cassar foras de son repaire,",
+            "Quaquo mal no ses vist sobta lo firmament ;"
+        ],
+        [
+            "Ni que non es pas fach ben ni degudamen",
+            "De si voler fidar ni de voler complaire",
+            "A un sieu enemi ansian per desplaire",
+            "A son prochan paren qui lays mortalmen."
+        ],
+        [
+            "Poure jove, indigent de lerba dAntesieira,",
+            "Engendrat de parens de tant illustra rassa,",
+            "Non tagra mais volgut segre lopinio"
+        ],
+        [
+            "Daquel que ti podia ezentar de son yra ?",
+            "Tu nagras pas agut lonta que ti descassa",
+            "De perdre en batalhan ta reputatio."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Meyer, Paul. Les derniers troubadours de la Provence d'aprs le chansonnier donn  la Bibliothque Impriale par M. Ch. Giraud. Paris: Librairie A. Franck, 1871"
+}

@@ -1,0 +1,56 @@
+{
+    "Author": [
+        "Bertran_de_Born"
+    ],
+    "Genre": "Sirventes",
+    "Title": "Un sirventes fatz dels malvatz barons ",
+    "FullText": [
+        "Un sirventes fatz dels malvatz barons,",
+        "E ja mais dels no mausirez parlar,",
+        "Qen lor ai fraiz mais de mil agulions,",
+        "Canc non puoic far un correr ni trotar,",
+        "Anz se laissen ses clam deseretar.",
+        "Maldigals Dieus ! E que cujan doncs far",
+        "Nostre baron ? Caissi cum us confraire",
+        "Non i es uns nol poscatz tondre raire",
+        "O ses congrenz dels qatre pes ferar.",
+        "Lous e NAimars, NAqenbauz eN Guions",
+        "Degran oi mai lor joven demostrar ;",
+        "Quar joves rics cui non platz messions,",
+        "Cortz ni guerra, non po en pretz montar",
+        "Nis fai temer ni grazir ni onrar ;",
+        ". . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "Que da Londres troqua la ciutat dAire",
+        "Non i a un quen la terra son paire",
+        "Noil faisson tort senes tot caloingnar."
+    ],
+    "Stanzas": [
+        [
+            "Un sirventes fatz dels malvatz barons,",
+            "E ja mais dels no mausirez parlar,",
+            "Qen lor ai fraiz mais de mil agulions,",
+            "Canc non puoic far un correr ni trotar,",
+            "Anz se laissen ses clam deseretar.",
+            "Maldigals Dieus ! E que cujan doncs far",
+            "Nostre baron ? Caissi cum us confraire",
+            "Non i es uns nol poscatz tondre raire",
+            "O ses congrenz dels qatre pes ferar."
+        ],
+        [
+            "Lous e NAimars, NAqenbauz eN Guions",
+            "Degran oi mai lor joven demostrar ;",
+            "Quar joves rics cui non platz messions,",
+            "Cortz ni guerra, non po en pretz montar",
+            "Nis fai temer ni grazir ni onrar ;",
+            ". . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+            "Que da Londres troqua la ciutat dAire",
+            "Non i a un quen la terra son paire",
+            "Noil faisson tort senes tot caloingnar."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Gouiran, Grard. L'amour et la guerre. L'uvre de Bertran de Born. Aix-en-Provence: Universit de Provence, 1985."
+}

@@ -1,0 +1,91 @@
+{
+    "Author": [
+        "Blacatz",
+        "PeireVidal"
+    ],
+    "Genre": "Tenso",
+    "Title": "Peire Vidal, pois far m'aven tensson ",
+    "FullText": [
+        "Peire Vidal, pois far maven tensson,",
+        "Nous sia greu sieus deman per cabal",
+        "Per cal razon avetz sen tant venal",
+        "E mainz affars, que nous tornon a pron,",
+        "Et en trobar avetz saber e sen ;",
+        "E qui ia vieills en aital loc aten",
+        "Et en ioven nes atressi passatz,",
+        "Meins a de ben que si ia non fos natz.",
+        "Blacatz, non teng ges vostre sen per bon",
+        "Car anc partitz plaich tant descomunal,",
+        "Qieu ai bon sen e fin e natural",
+        "En totz affars, per qem par ben qui son,",
+        "Et ai mamor messa e mon ioven",
+        "En la meillor et en la plus valen ;",
+        "Non vuoil perdre los guizerdos nils gratz,",
+        "Car quis recre es vilans e malvatz.",
+        "Peire Vidal, ia la vostra razon",
+        "Non vuoill aver ab midonz, que tant val,",
+        "Queill vuoill servir a totz iorns per engal,",
+        "E delam platz qem fassa guizerdon,",
+        "Et a vos lais lo lonc atendemen",
+        "Senes gauzir, queu vuoill lo gauzimen ;",
+        "Qe loncs atens senes ioi, so sapchatz,",
+        "Es iois perdutz, canc uns non fon cobratz.",
+        "Blacatz, non sui eu ges daital faisson",
+        "Cum vos autre, a cui damor non cal ;",
+        "Gran iornada vuoill far per bon ostal",
+        "E lonc servir per recebre gent don.",
+        "Non es fins drutz cel qeis camia soven",
+        "Ni bona dompna cella qui lo consen ;",
+        "Non es amors, anz es engans proatz",
+        "Suoi enqueretz e deman o laissatz."
+    ],
+    "Stanzas": [
+        [
+            "Peire Vidal, pois far maven tensson,",
+            "Nous sia greu sieus deman per cabal",
+            "Per cal razon avetz sen tant venal",
+            "E mainz affars, que nous tornon a pron,",
+            "Et en trobar avetz saber e sen ;",
+            "E qui ia vieills en aital loc aten",
+            "Et en ioven nes atressi passatz,",
+            "Meins a de ben que si ia non fos natz."
+        ],
+        [
+            "Blacatz, non teng ges vostre sen per bon",
+            "Car anc partitz plaich tant descomunal,",
+            "Qieu ai bon sen e fin e natural",
+            "En totz affars, per qem par ben qui son,",
+            "Et ai mamor messa e mon ioven",
+            "En la meillor et en la plus valen ;",
+            "Non vuoil perdre los guizerdos nils gratz,",
+            "Car quis recre es vilans e malvatz."
+        ],
+        [
+            "Peire Vidal, ia la vostra razon",
+            "Non vuoill aver ab midonz, que tant val,",
+            "Queill vuoill servir a totz iorns per engal,",
+            "E delam platz qem fassa guizerdon,",
+            "Et a vos lais lo lonc atendemen",
+            "Senes gauzir, queu vuoill lo gauzimen ;",
+            "Qe loncs atens senes ioi, so sapchatz,",
+            "Es iois perdutz, canc uns non fon cobratz."
+        ],
+        [
+            "Blacatz, non sui eu ges daital faisson",
+            "Cum vos autre, a cui damor non cal ;",
+            "Gran iornada vuoill far per bon ostal",
+            "E lonc servir per recebre gent don.",
+            "Non es fins drutz cel qeis camia soven",
+            "Ni bona dompna cella qui lo consen ;",
+            "Non es amors, anz es engans proatz",
+            "Suoi enqueretz e deman o laissatz."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Soltau, Otto. Die Werke des Trobadors Blacatz. \"Zeitschrift fr romanische Philologie\", 23 (1899)"
+}

@@ -1,0 +1,74 @@
+{
+    "Author": [
+        "Bieiris_de_Romans"
+    ],
+    "Genre": "Canso",
+    "Title": "Na Maria, prtz e fina valors ",
+    "FullText": [
+        "Na Maria, prtz e fina valors,",
+        "E'l ji e'l sen e la fina beutatz,",
+        "E l'aculhir e'l prtz e las onors,",
+        "E'l gen parlar e l'avinen solatz,",
+        "E la dou car' e la gaia cuendana,",
+        "E'l dou esgart e l'amors semblan",
+        "Que son en vos, don non avtz engana",
+        "Me fan traire vas vos ses cr truan.",
+        "Per que vos prc, si'us platz, que fin' amors",
+        "E gausiment e dou umilitatz",
+        "Me posca far ab vos tan de socors,",
+        "Que mi donetz, bla Domna, si'us platz,",
+        " don plus ai d'aver ji esperana ;",
+        "Car en vos ai mon cr e mon talan,",
+        "E per vos ai tot  qu'ai d'alegrana",
+        "E per vos vauc mantas vetz sospiran.",
+        "E car beutatz e valor vos enana",
+        "Sobre totas, qu'una no'us es denan,",
+        "Vos prc, si'us platz, per  que'us es onrana",
+        "Que non ametz entendidor truan.",
+        "Bla Dmna, cui prtz e ji enana",
+        "E gen parlar, a vos mas coblas man,",
+        "Car en vos es gaiez'e alegrana",
+        "E tot lo ben qu'm en dmna deman."
+    ],
+    "Stanzas": [
+        [
+            "Na Maria, prtz e fina valors,",
+            "E'l ji e'l sen e la fina beutatz,",
+            "E l'aculhir e'l prtz e las onors,",
+            "E'l gen parlar e l'avinen solatz,",
+            "E la dou car' e la gaia cuendana,",
+            "E'l dou esgart e l'amors semblan",
+            "Que son en vos, don non avtz engana",
+            "Me fan traire vas vos ses cr truan."
+        ],
+        [
+            "Per que vos prc, si'us platz, que fin' amors",
+            "E gausiment e dou umilitatz",
+            "Me posca far ab vos tan de socors,",
+            "Que mi donetz, bla Domna, si'us platz,",
+            " don plus ai d'aver ji esperana ;",
+            "Car en vos ai mon cr e mon talan,",
+            "E per vos ai tot  qu'ai d'alegrana",
+            "E per vos vauc mantas vetz sospiran."
+        ],
+        [
+            "E car beutatz e valor vos enana",
+            "Sobre totas, qu'una no'us es denan,",
+            "Vos prc, si'us platz, per  que'us es onrana",
+            "Que non ametz entendidor truan."
+        ],
+        [
+            "Bla Dmna, cui prtz e ji enana",
+            "E gen parlar, a vos mas coblas man,",
+            "Car en vos es gaiez'e alegrana",
+            "E tot lo ben qu'm en dmna deman."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Bec, Pierre. Burlesque et obscnit chez les troubadours. Pour une approche du contre-texte mdival. Paris: Stock, 1984"
+}
