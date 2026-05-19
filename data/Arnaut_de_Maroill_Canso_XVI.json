@@ -1,0 +1,125 @@
+{
+    "Author": [
+        "Arnaut_de_Maroill"
+    ],
+    "Genre": "Canso",
+    "Title": "Belhs m'es lo dous temps amoros ",
+    "FullText": [
+        " Belhs m'es lo dous temps amoros,",
+        " lanquan lo mons reverdezis,",
+        " per qu'ieu m'alegr' e m'esbaudis",
+        " ab joy de las novellas flors",
+        "e chant d'amor jausens pel bon esper ;",
+        "qu'aissi m'estai mos cors mati e ser",
+        "que d'als nom ve pessamens e cossires.",
+        " En tal domna, qu'es belh' e pros,",
+        " ai mon entendemen assis,",
+        " e sos pretz es tam bos e fis",
+        " qu'en sa beutat gensa valors :",
+        "aisso lam fai plus duptar e temer ;",
+        "et on mielhs vey que nom deu eschazer,",
+        "m'en creys magers voluntatz e dezires.",
+        " Ges no puesc esser oblidos,",
+        " qu'el mon ren tant no m'abelis ;",
+        " bem malmenet e be m'aucis ;",
+        " quar anc lam fes amar Amors ?",
+        "Sim son li mal abaissat a plazer",
+        "que totz jorns muer, pus no m'en vol mover,",
+        "ans m'es sojorns lo solas el martires.",
+        " E pero, si bel mals m'es bos,",
+        " grans ops m'auria qu'en gueris,",
+        " e s'ilh, ves cuy ieu sui aclis,",
+        " fezes m'ajuda e secors,",
+        "Amor, faras ja ren al mieu voler ?",
+        "per so t'en prec, tu qu'o as em poder,",
+        "qu'un pauc ves mi lo sieu coratge vires.",
+        " E s'ieu auzes dir :  Quar mi fos",
+        " una nug lai on desvestis,",
+        " sol quel plagues qu'ieu li servis, ",
+        " qu'aisso seria grans honors ;",
+        "e s'a prezent, per proar de saber,",
+        "non l'auzava adoncx solatz tener,",
+        "mans joys es ja que valon mais que rires.",
+        " Contrals lauzengiers enveyos,",
+        " mal parlans, per qui jois delis,",
+        " volgra que celes e cobris",
+        " son cor quasqus dels amadors,",
+        "que tals es fals, lo segles a tener,",
+        "e ges ades non deu hom dire ver,",
+        "soven val mais mentirs et escondires.",
+        "Lo vers tramet a midons per plazer ;",
+        "mal o fas, cors, c'aissit potz abstener,",
+        "quant aus parlar de lieis, que non sospires."
+    ],
+    "Stanzas": [
+        [
+            " Belhs m'es lo dous temps amoros,",
+            " lanquan lo mons reverdezis,",
+            " per qu'ieu m'alegr' e m'esbaudis",
+            " ab joy de las novellas flors",
+            "e chant d'amor jausens pel bon esper ;",
+            "qu'aissi m'estai mos cors mati e ser",
+            "que d'als nom ve pessamens e cossires."
+        ],
+        [
+            " En tal domna, qu'es belh' e pros,",
+            " ai mon entendemen assis,",
+            " e sos pretz es tam bos e fis",
+            " qu'en sa beutat gensa valors :",
+            "aisso lam fai plus duptar e temer ;",
+            "et on mielhs vey que nom deu eschazer,",
+            "m'en creys magers voluntatz e dezires."
+        ],
+        [
+            " Ges no puesc esser oblidos,",
+            " qu'el mon ren tant no m'abelis ;",
+            " bem malmenet e be m'aucis ;",
+            " quar anc lam fes amar Amors ?",
+            "Sim son li mal abaissat a plazer",
+            "que totz jorns muer, pus no m'en vol mover,",
+            "ans m'es sojorns lo solas el martires."
+        ],
+        [
+            " E pero, si bel mals m'es bos,",
+            " grans ops m'auria qu'en gueris,",
+            " e s'ilh, ves cuy ieu sui aclis,",
+            " fezes m'ajuda e secors,",
+            "Amor, faras ja ren al mieu voler ?",
+            "per so t'en prec, tu qu'o as em poder,",
+            "qu'un pauc ves mi lo sieu coratge vires."
+        ],
+        [
+            " E s'ieu auzes dir :  Quar mi fos",
+            " una nug lai on desvestis,",
+            " sol quel plagues qu'ieu li servis, ",
+            " qu'aisso seria grans honors ;",
+            "e s'a prezent, per proar de saber,",
+            "non l'auzava adoncx solatz tener,",
+            "mans joys es ja que valon mais que rires."
+        ],
+        [
+            " Contrals lauzengiers enveyos,",
+            " mal parlans, per qui jois delis,",
+            " volgra que celes e cobris",
+            " son cor quasqus dels amadors,",
+            "que tals es fals, lo segles a tener,",
+            "e ges ades non deu hom dire ver,",
+            "soven val mais mentirs et escondires."
+        ],
+        [
+            "Lo vers tramet a midons per plazer ;",
+            "mal o fas, cors, c'aissit potz abstener,",
+            "quant aus parlar de lieis, que non sospires."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Johnston, Ronald C. Les posies lyriques du troubadour Arnaut de Mareuil. Paris: Droz, 1935"
+}

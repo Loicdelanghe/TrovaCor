@@ -1,0 +1,125 @@
+{
+    "Author": [
+        "Arnaut_de_Maroill"
+    ],
+    "Genre": "Canso",
+    "Title": "Si cum li peis an en l'aiga lor vida ",
+    "FullText": [
+        "Si cum li peis an en l'aiga lor vida",
+        "l'ai eu en joi e totz temps lai aurai,",
+        "c'Amors m'a faich en tal dompna chausir",
+        "on viu jauzens sol del desir qu'ieu n'ai,",
+        "tant es valens que, quan ben m'o cossir,",
+        "m'en nais orguoills em creis humilitatz ;",
+        "mais sils ten joins amors e jois amdos,",
+        "que ren noi pert mesura ni razos.",
+        "Tot autre joi desconois et oblida",
+        "qui vel sieu cors coind'e cortes e gai,",
+        "qu'enaissi sap d'avinen far e dir",
+        "ab purs plazers tot so qu'ill ditz ni fai,",
+        "qu'om non pot mal dire senes mentir ;",
+        "en lieis es pretz, honors, senz e beutatz,",
+        "e si nom val sos gens cors amoros,",
+        "Amors n'a tort, car m'en fai enveios.",
+        "Bona dompna de totz bos aips complida,",
+        "tant etz valens part las meillors qu'ieu sai,",
+        "mais am de vos lo talen el desir",
+        "que d'autr' aver tot so c'a drut s'eschai ;",
+        "e tan n'ai pro, que del plus tem faillir,",
+        "pero non sui del tot desesperatz,",
+        "qu'en ricas cortz ai vist maintas sazos",
+        "paubr' enriquir e recebre gens dos.",
+        "Ves lo pas, pros dompna issernida,",
+        "repaus mos huoills on vostre cors estai,",
+        "e car plus pres de vos nom puosc aizir,",
+        "tenc vos el cor ades e cossir sa",
+        "ostre gen cors cortes, quim fai languir,",
+        "el gen parlar el deport el solatz,",
+        "lo pretz el sen e la beutat de vos,",
+        "on pois vos vi non fui anc oblidos.",
+        "Dompna, cui pretz e jois e jovens guida,",
+        "ja no m'ametz, totz temps vos amarai,",
+        "c'Amors o vol, ves cui nom puosc gandir,",
+        "e car conois qu'ieus ai fin cor verai,",
+        "mostram de vos de tal guisa jausir,",
+        "penssan vos bais eus manei eus embratz :",
+        "aquest dompneis m'es doutz e cars e bos,",
+        "e nol mi pot vedar negus gelos.",
+        "Mos Gens Conquis, jois e pretz e solatz",
+        "os tenon gai vostre cors e joios,",
+        "per qu'om nous ve que no s'azaut de vos.",
+        "Ves Mon Frances voill ques n'an ma chansos,",
+        "car es adrechs e gais et amoros."
+    ],
+    "Stanzas": [
+        [
+            "Si cum li peis an en l'aiga lor vida",
+            "l'ai eu en joi e totz temps lai aurai,",
+            "c'Amors m'a faich en tal dompna chausir",
+            "on viu jauzens sol del desir qu'ieu n'ai,",
+            "tant es valens que, quan ben m'o cossir,",
+            "m'en nais orguoills em creis humilitatz ;",
+            "mais sils ten joins amors e jois amdos,",
+            "que ren noi pert mesura ni razos."
+        ],
+        [
+            "Tot autre joi desconois et oblida",
+            "qui vel sieu cors coind'e cortes e gai,",
+            "qu'enaissi sap d'avinen far e dir",
+            "ab purs plazers tot so qu'ill ditz ni fai,",
+            "qu'om non pot mal dire senes mentir ;",
+            "en lieis es pretz, honors, senz e beutatz,",
+            "e si nom val sos gens cors amoros,",
+            "Amors n'a tort, car m'en fai enveios."
+        ],
+        [
+            "Bona dompna de totz bos aips complida,",
+            "tant etz valens part las meillors qu'ieu sai,",
+            "mais am de vos lo talen el desir",
+            "que d'autr' aver tot so c'a drut s'eschai ;",
+            "e tan n'ai pro, que del plus tem faillir,",
+            "pero non sui del tot desesperatz,",
+            "qu'en ricas cortz ai vist maintas sazos",
+            "paubr' enriquir e recebre gens dos."
+        ],
+        [
+            "Ves lo pas, pros dompna issernida,",
+            "repaus mos huoills on vostre cors estai,",
+            "e car plus pres de vos nom puosc aizir,",
+            "tenc vos el cor ades e cossir sa",
+            "ostre gen cors cortes, quim fai languir,",
+            "el gen parlar el deport el solatz,",
+            "lo pretz el sen e la beutat de vos,",
+            "on pois vos vi non fui anc oblidos."
+        ],
+        [
+            "Dompna, cui pretz e jois e jovens guida,",
+            "ja no m'ametz, totz temps vos amarai,",
+            "c'Amors o vol, ves cui nom puosc gandir,",
+            "e car conois qu'ieus ai fin cor verai,",
+            "mostram de vos de tal guisa jausir,",
+            "penssan vos bais eus manei eus embratz :",
+            "aquest dompneis m'es doutz e cars e bos,",
+            "e nol mi pot vedar negus gelos."
+        ],
+        [
+            "Mos Gens Conquis, jois e pretz e solatz",
+            "os tenon gai vostre cors e joios,",
+            "per qu'om nous ve que no s'azaut de vos."
+        ],
+        [
+            "Ves Mon Frances voill ques n'an ma chansos,",
+            "car es adrechs e gais et amoros."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Johnston, Ronald C. Les posies lyriques du troubadour Arnaut de Mareuil. Paris: Droz, 1935"
+}

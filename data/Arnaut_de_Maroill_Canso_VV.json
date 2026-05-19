@@ -1,0 +1,44 @@
+{
+    "Author": [
+        "Arnaut_de_Maroill"
+    ],
+    "Genre": "Canso",
+    "Title": "Sim destreignetz, dompna, ves et Amors ",
+    "FullText": [
+        "Sim destreignetz, dompna, ves et Amors,",
+        "Camar nous aus ni no men puosc estraire:",
+        "Lus mencaussa, lautrem fai remaner;",
+        "Lus menardis e lautrem fai temer;",
+        "Prejar nous aus per enten de jauzir,",
+        "Mas, si cum cel qes nafratz per morir,",
+        "Que sap qes mortz e pero sis combat,",
+        "Vos clam merce ab cor desesperat...",
+        "",
+        "De Mon-Carbon nous puosc ben sos laus dir,",
+        "Mas quil Marques mentau de Monferrat",
+        "Ja nol laus plus, cassatz la ben laudat."
+    ],
+    "Stanzas": [
+        [
+            "Sim destreignetz, dompna, ves et Amors,",
+            "Camar nous aus ni no men puosc estraire:",
+            "Lus mencaussa, lautrem fai remaner;",
+            "Lus menardis e lautrem fai temer;",
+            "Prejar nous aus per enten de jauzir,",
+            "Mas, si cum cel qes nafratz per morir,",
+            "Que sap qes mortz e pero sis combat,",
+            "Vos clam merce ab cor desesperat...",
+            ""
+        ],
+        [
+            "De Mon-Carbon nous puosc ben sos laus dir,",
+            "Mas quil Marques mentau de Monferrat",
+            "Ja nol laus plus, cassatz la ben laudat."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "VI"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}

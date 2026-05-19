@@ -1,0 +1,117 @@
+{
+    "Author": [
+        "Arnaut_de_Maroill"
+    ],
+    "Genre": "Canso",
+    "Title": "Aissi cum cel c'am' e non es amaz ",
+    "FullText": [
+        "Aissi cum cel c'am' e non es amaz",
+        "o hai eu fach, c'ai amat longamen",
+        "en un sol luoc, e ges no m'en repen,",
+        "anz la voill mais amar desesperaz,",
+        "que d'autr' aver totas mas voluntatz ;",
+        "e car eu l'am finamen, ses engan,",
+        "cre qu'il val tan per que noi haurai dan.",
+        "Auzit ai dir, per quem soi conortaz,",
+        "que qui ben serf bo guierdo aten,",
+        "ab quel servirs sia en luoc valen,",
+        "qu'enaissi es mot meilz guierdonaz ;",
+        "per qu'eu me soi del tot a vos donaz,",
+        "bona dona, que d'al non ai talan",
+        "mas de servir vostre cors benestan.",
+        "Meills que nous dic, vos prec que m'entendaz,",
+        "que mais vos am qu'eu non aus far parven,",
+        "e non m'en lais mais per drech espaven ;",
+        "qu'eu me feira mot de vos plus privaz,",
+        "mas diri' hom qu'eu fos enamoratz ;",
+        "pero vers es c'anc re non amei tan,",
+        "mas endrech vos non aus far lo semblan.",
+        "Vos valez tan, ben cre que sapaz",
+        "que miells ama cel que prega temen ;",
+        "e cals que prec' ades ardidamen,",
+        "bela dona, ja aqel non cresatz,",
+        "c'ab enjan va (e sia enganaz !),",
+        "mas eu soi cel que temen muor aman,",
+        "per que nous aus preiar mas en chantan.",
+        "Soven m'aven, la nuoch can soi colgaz,",
+        "que soi ab vos per semblan en dormen ;",
+        "adonc estau en tan ric jausimen,",
+        "ja non volri' esser mais residaz,",
+        "sol quem dures aquel plazenz pensatz ;",
+        "e can m'esveill, cuich murir desiran,",
+        "per qu'eu volgra aissi dormir un an.",
+        "Bela dona, soven soi acordaz",
+        "qu'ieus an vezer, e soven vau doptan",
+        "que nous plagues ; per qu'eu n'ai estat tan.",
+        "Seigner Frances, cals que sia baussaz,",
+        "e toz bos prez vos anaz meilloran,",
+        "per dir e far trestot faich benestan."
+    ],
+    "Stanzas": [
+        [
+            "Aissi cum cel c'am' e non es amaz",
+            "o hai eu fach, c'ai amat longamen",
+            "en un sol luoc, e ges no m'en repen,",
+            "anz la voill mais amar desesperaz,",
+            "que d'autr' aver totas mas voluntatz ;",
+            "e car eu l'am finamen, ses engan,",
+            "cre qu'il val tan per que noi haurai dan."
+        ],
+        [
+            "Auzit ai dir, per quem soi conortaz,",
+            "que qui ben serf bo guierdo aten,",
+            "ab quel servirs sia en luoc valen,",
+            "qu'enaissi es mot meilz guierdonaz ;",
+            "per qu'eu me soi del tot a vos donaz,",
+            "bona dona, que d'al non ai talan",
+            "mas de servir vostre cors benestan."
+        ],
+        [
+            "Meills que nous dic, vos prec que m'entendaz,",
+            "que mais vos am qu'eu non aus far parven,",
+            "e non m'en lais mais per drech espaven ;",
+            "qu'eu me feira mot de vos plus privaz,",
+            "mas diri' hom qu'eu fos enamoratz ;",
+            "pero vers es c'anc re non amei tan,",
+            "mas endrech vos non aus far lo semblan."
+        ],
+        [
+            "Vos valez tan, ben cre que sapaz",
+            "que miells ama cel que prega temen ;",
+            "e cals que prec' ades ardidamen,",
+            "bela dona, ja aqel non cresatz,",
+            "c'ab enjan va (e sia enganaz !),",
+            "mas eu soi cel que temen muor aman,",
+            "per que nous aus preiar mas en chantan."
+        ],
+        [
+            "Soven m'aven, la nuoch can soi colgaz,",
+            "que soi ab vos per semblan en dormen ;",
+            "adonc estau en tan ric jausimen,",
+            "ja non volri' esser mais residaz,",
+            "sol quem dures aquel plazenz pensatz ;",
+            "e can m'esveill, cuich murir desiran,",
+            "per qu'eu volgra aissi dormir un an."
+        ],
+        [
+            "Bela dona, soven soi acordaz",
+            "qu'ieus an vezer, e soven vau doptan",
+            "que nous plagues ; per qu'eu n'ai estat tan."
+        ],
+        [
+            "Seigner Frances, cals que sia baussaz,",
+            "e toz bos prez vos anaz meilloran,",
+            "per dir e far trestot faich benestan."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Johnston, Ronald C. Les posies lyriques du troubadour Arnaut de Mareuil. Paris: Droz, 1935"
+}

@@ -1,0 +1,90 @@
+{
+    "Author": [
+        "Arnaut_de_Maroill"
+    ],
+    "Genre": "Canso",
+    "Title": "Belh m'es quan lo vens m'alena ",
+    "FullText": [
+        "Belh m'es quan lo vens m'alena",
+        "en abril ans qu'entre mais,",
+        "e tota la nueg serena",
+        "chantal rossinhols el jais ;",
+        "quecx auzel en son lenguatge,",
+        "per la frescor del mati,",
+        "an menan joi d'agradatge,",
+        "com quecx ab sa par s'aizi.",
+        "E pus tota res terrena",
+        "s'alegra quan fuelha nais,",
+        "nom puesc mudar nom sovena",
+        "'un amor per qu'ieu sui jais ;",
+        "per natur' e per uzatge",
+        "me ve qu'ieu vas joi macli,",
+        "lai quan fai lo dous auratge",
+        "quem reve lo cor aissi.",
+        "Pus blanca es que Elena,",
+        "belhazors que flors que nais,",
+        "e de cortezia plena,",
+        "blancas dens ab motz verais,",
+        "ab cor franc ses vilanatge,",
+        "color fresc' ab saura cri.",
+        "Dieus, quel det lo senhoratge,",
+        "la sal, qu'anc gensor non vi !",
+        "Merce fara, si nom mena",
+        "'aisi enan per loncs plais,",
+        "e don m'en un bais d'estrena",
+        "e segon servizil mais !",
+        "E pueis farem breu viatge",
+        "sovendet e breu cami,",
+        "quel sieus belhs cors d'alegratge",
+        "me a mes en est trahi."
+    ],
+    "Stanzas": [
+        [
+            "Belh m'es quan lo vens m'alena",
+            "en abril ans qu'entre mais,",
+            "e tota la nueg serena",
+            "chantal rossinhols el jais ;",
+            "quecx auzel en son lenguatge,",
+            "per la frescor del mati,",
+            "an menan joi d'agradatge,",
+            "com quecx ab sa par s'aizi."
+        ],
+        [
+            "E pus tota res terrena",
+            "s'alegra quan fuelha nais,",
+            "nom puesc mudar nom sovena",
+            "'un amor per qu'ieu sui jais ;",
+            "per natur' e per uzatge",
+            "me ve qu'ieu vas joi macli,",
+            "lai quan fai lo dous auratge",
+            "quem reve lo cor aissi."
+        ],
+        [
+            "Pus blanca es que Elena,",
+            "belhazors que flors que nais,",
+            "e de cortezia plena,",
+            "blancas dens ab motz verais,",
+            "ab cor franc ses vilanatge,",
+            "color fresc' ab saura cri.",
+            "Dieus, quel det lo senhoratge,",
+            "la sal, qu'anc gensor non vi !"
+        ],
+        [
+            "Merce fara, si nom mena",
+            "'aisi enan per loncs plais,",
+            "e don m'en un bais d'estrena",
+            "e segon servizil mais !",
+            "E pueis farem breu viatge",
+            "sovendet e breu cami,",
+            "quel sieus belhs cors d'alegratge",
+            "me a mes en est trahi."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Johnston, Ronald C. Les posies lyriques du troubadour Arnaut de Mareuil. Paris: Droz, 1935"
+}

@@ -1,0 +1,108 @@
+{
+    "Author": [
+        "Arnaut_de_Maroill"
+    ],
+    "Genre": "Canso",
+    "Title": "Lo jorn queus vi, dompna, primieramen ",
+    "FullText": [
+        "Lo jorn queus vi, dompna, primieramen,",
+        "cant a vos plac queus mi laissest vezer,",
+        "parti mon cor tot d'altre pensamen,",
+        "e foron ferm en vos tuit miei voler,",
+        "c'aissim pauzest, dompna, el cor l'enveia",
+        "ab un dous ris et ab un simpl' esgar,",
+        "mi e cant es mi fezest oblidar.",
+        "Quel granz beutatz el solatz d'avinen",
+        "el cortes dig e l'amoros plazer",
+        "quem saubest far, m'embleron si mon sen",
+        "c'anc pueis hora, dompna, nol puec aver ;",
+        "a vos lautrei, cui mos fis cors merceia,",
+        "per enantir vostre pretz et onrar,",
+        "a vos mi ren, c'om miels non pot amar.",
+        "E car vos am, dompna, tan finamen,",
+        "que d'autr' amar nom don Amors poder,",
+        "mas aizem da, c'ab autras cortei gen,",
+        "on cug de mi la greu dolor mover,",
+        "pueis can cossir de vos, cui jois sopleia,",
+        "tot' autr' amor oblit e desampar,",
+        "ab vos romaing, cui tenc al cor plus car.",
+        "E membre vos, sius plaz, del bon coven",
+        "que mi fezest al departir saber,",
+        "on aic mon cor adonc guai e jauzen,",
+        "pel bon respeig en quem mandest tener ;",
+        "mout n'aic gran joi, s'era lo mals s'engreia,",
+        "et aurai lo, can vos plaira, encar,",
+        "bona dompna, qu'eu soi en l'esperar.",
+        "E ges mals trags no m'en fai espaven,",
+        "sol qu'eu en cuit e ma vida aver",
+        "e vos, dompna, calacom jauzimen ;",
+        "anz li maltrag mi son joi e plazer",
+        "sol per aisso car sai c'Amors autreia",
+        "que fis amanz deu grans torz perdonar",
+        "e gen soffrir maltraz per gazaing far.",
+        "Aissi er ja, dompna, l'ora qu'eu veia",
+        "que per merce mi voillaz tant onrar",
+        "que sol amic me deignes apellar."
+    ],
+    "Stanzas": [
+        [
+            "Lo jorn queus vi, dompna, primieramen,",
+            "cant a vos plac queus mi laissest vezer,",
+            "parti mon cor tot d'altre pensamen,",
+            "e foron ferm en vos tuit miei voler,",
+            "c'aissim pauzest, dompna, el cor l'enveia",
+            "ab un dous ris et ab un simpl' esgar,",
+            "mi e cant es mi fezest oblidar."
+        ],
+        [
+            "Quel granz beutatz el solatz d'avinen",
+            "el cortes dig e l'amoros plazer",
+            "quem saubest far, m'embleron si mon sen",
+            "c'anc pueis hora, dompna, nol puec aver ;",
+            "a vos lautrei, cui mos fis cors merceia,",
+            "per enantir vostre pretz et onrar,",
+            "a vos mi ren, c'om miels non pot amar."
+        ],
+        [
+            "E car vos am, dompna, tan finamen,",
+            "que d'autr' amar nom don Amors poder,",
+            "mas aizem da, c'ab autras cortei gen,",
+            "on cug de mi la greu dolor mover,",
+            "pueis can cossir de vos, cui jois sopleia,",
+            "tot' autr' amor oblit e desampar,",
+            "ab vos romaing, cui tenc al cor plus car."
+        ],
+        [
+            "E membre vos, sius plaz, del bon coven",
+            "que mi fezest al departir saber,",
+            "on aic mon cor adonc guai e jauzen,",
+            "pel bon respeig en quem mandest tener ;",
+            "mout n'aic gran joi, s'era lo mals s'engreia,",
+            "et aurai lo, can vos plaira, encar,",
+            "bona dompna, qu'eu soi en l'esperar."
+        ],
+        [
+            "E ges mals trags no m'en fai espaven,",
+            "sol qu'eu en cuit e ma vida aver",
+            "e vos, dompna, calacom jauzimen ;",
+            "anz li maltrag mi son joi e plazer",
+            "sol per aisso car sai c'Amors autreia",
+            "que fis amanz deu grans torz perdonar",
+            "e gen soffrir maltraz per gazaing far."
+        ],
+        [
+            "Aissi er ja, dompna, l'ora qu'eu veia",
+            "que per merce mi voillaz tant onrar",
+            "que sol amic me deignes apellar."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Johnston, Ronald C. Les posies lyriques du troubadour Arnaut de Mareuil. Paris: Droz, 1935"
+}

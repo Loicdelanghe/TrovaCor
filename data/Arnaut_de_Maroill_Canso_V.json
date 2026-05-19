@@ -1,0 +1,110 @@
+{
+    "Author": [
+        "Arnaut_de_Maroill"
+    ],
+    "Genre": "Canso",
+    "Title": "A guiza de fin amador ",
+    "FullText": [
+        "A guiza de fin amador,",
+        "ab franc cor humil e verai,",
+        "u sol del bon respieg d'amor",
+        "jauzens, ab greu pena qu'en tra",
+        "mos cors, per que lam fetz chauzir",
+        "ont hom non pot lauzan mentir,",
+        "ni del be quey es direl tertz.",
+        "Ges no l'aus mostrar ma dolor,",
+        "estiers ad hora quans'escha",
+        "qu'ieu la vei, li dic a temor",
+        "semblans per que sap be cum vai,",
+        "e s'ieu en re mensprenc el dir,",
+        "sobretemers me fai falhir,",
+        "que fai humilhs los plus espertz.",
+        "Ai las ! que n'er, si nom socor ?",
+        "non als mas deziran morrai ",
+        "e donc aura hi gran honor,",
+        "si, per so quar l'am, mi dechai ;",
+        "lh en pot ben son cor complir ;",
+        "mas non l'er, segon mon albir,",
+        "apres me nulhs amics tan certz.",
+        "Tot ades soplei et azor",
+        "al pas on ma don' estai ;",
+        "en tenria neis per senhor",
+        "un pastor que vengues de lai.",
+        "Empero negus nos cossir,",
+        "quel castelhs, on se fai servir,",
+        "ja sia per me descubertz.",
+        "Chanso, vai t'en a la melhor,",
+        "e dil qu'eul clam merce, sil plai ;",
+        "quan cossirara sa valor,",
+        "li membre del fin cor qu'ieu l'ai ;",
+        "que sim lais Dieus s'amor jauzir,",
+        "semblariam, tan la dezir,",
+        "ab lieis paradis us dezertz.",
+        "Pueis diguas a mon Ben S'Escha",
+        "qu'en tal son pauzat mei dezir,",
+        "sil puesc' a son plazer servir,",
+        "e ric guizardon serai certz."
+    ],
+    "Stanzas": [
+        [
+            "A guiza de fin amador,",
+            "ab franc cor humil e verai,",
+            "u sol del bon respieg d'amor",
+            "jauzens, ab greu pena qu'en tra",
+            "mos cors, per que lam fetz chauzir",
+            "ont hom non pot lauzan mentir,",
+            "ni del be quey es direl tertz."
+        ],
+        [
+            "Ges no l'aus mostrar ma dolor,",
+            "estiers ad hora quans'escha",
+            "qu'ieu la vei, li dic a temor",
+            "semblans per que sap be cum vai,",
+            "e s'ieu en re mensprenc el dir,",
+            "sobretemers me fai falhir,",
+            "que fai humilhs los plus espertz."
+        ],
+        [
+            "Ai las ! que n'er, si nom socor ?",
+            "non als mas deziran morrai ",
+            "e donc aura hi gran honor,",
+            "si, per so quar l'am, mi dechai ;",
+            "lh en pot ben son cor complir ;",
+            "mas non l'er, segon mon albir,",
+            "apres me nulhs amics tan certz."
+        ],
+        [
+            "Tot ades soplei et azor",
+            "al pas on ma don' estai ;",
+            "en tenria neis per senhor",
+            "un pastor que vengues de lai.",
+            "Empero negus nos cossir,",
+            "quel castelhs, on se fai servir,",
+            "ja sia per me descubertz."
+        ],
+        [
+            "Chanso, vai t'en a la melhor,",
+            "e dil qu'eul clam merce, sil plai ;",
+            "quan cossirara sa valor,",
+            "li membre del fin cor qu'ieu l'ai ;",
+            "que sim lais Dieus s'amor jauzir,",
+            "semblariam, tan la dezir,",
+            "ab lieis paradis us dezertz."
+        ],
+        [
+            "Pueis diguas a mon Ben S'Escha",
+            "qu'en tal son pauzat mei dezir,",
+            "sil puesc' a son plazer servir,",
+            "e ric guizardon serai certz."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Johnston, Ronald C. Les posies lyriques du troubadour Arnaut de Mareuil. Paris: Droz, 1935"
+}

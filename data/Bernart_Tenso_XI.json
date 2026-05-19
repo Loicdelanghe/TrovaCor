@@ -1,0 +1,137 @@
+{
+    "Author": [
+        "Bernart",
+        "Blacatz"
+    ],
+    "Genre": "Tenso",
+    "Title": "Segner Blacatz, ben mi platz e m'aienza ",
+    "FullText": [
+        "Segner Blacatz, ben mi platz e maienza",
+        "Quem respondatz daizo queu vos voil dir :",
+        "Cal volriazavostr obs retenir",
+        "De doas domnas bonas ses falenza,",
+        "Duna beutat et dun joven,",
+        "Mais luna val mais veramen ;",
+        "Et cell aurez sol un jorn lan",
+        "Amic Bernart, segont ma conoissenza",
+        "Vos respondrai, cal deu om mais grazir :",
+        "Ades mi plaz on plus men pois jauzir",
+        "De ma domna; mas percamais valenza",
+        "Prenc ab tot meinz de jauzimen",
+        "Cella com ten per plus valen ;",
+        "Seu tot men suffre plus dafan,",
+        "Segner, gran ben son perdut per bistenza ;",
+        "Per queu non ai de lonc aten desir.",
+        "Mais volria lo quart meinz ses mentir",
+        "A mon plazer cun jorn de lan Proenza.",
+        "Que seu ai a mon mandamen",
+        "Bella domna gai e plazen",
+        "Mos jois mira quec jorn doblan,",
+        "Bernart, a obs donrada captenenza",
+        "Voil ades mais bona domna servir,",
+        "Quel seus bons prez mi fai mais enantir.",
+        "Et honraz dons val mais a ma parvenza,",
+        "Qui de fort bona domnal pren,",
+        "Que dautra non farian cen,",
+        "E menor fach men son plus gran,",
+        "Segner, beus dic a la mia crezenza",
+        "Quel magers gaug com puesc el mon chausir",
+        "Es, qui pot nus abprodomna jauzir ;",
+        "Cam jauzimenz non vim per benvolenza",
+        "Un morir, zous dic veramen,",
+        "E son en mort mil de talen ;",
+        "Per queu voil joi douze mes lan",
+        "Bernart, tan val cil on ai mentendenza",
+        "Queu non la voil per meinz valen gequir ;",
+        "Quan un sol jorn mi pot plus enriquir",
+        "Que ja mais joisnomfaria failenza ;",
+        "E pos eu sai ben quen breumen",
+        "Prenrai lo ric don queu naten,",
+        "Nous cuidez per ren queu am tan",
+        "Segner, a lei de tota gen",
+        "Valon mais mil don avinen",
+        "Que non fai un sols chascun an,",
+        "Bernart, eun voil lo jutgamen",
+        "De nAudiart, ca prez valen,",
+        "E sabez per lei, qui val tan,",
+        ""
+    ],
+    "Stanzas": [
+        [
+            "Segner Blacatz, ben mi platz e maienza",
+            "Quem respondatz daizo queu vos voil dir :",
+            "Cal volriazavostr obs retenir",
+            "De doas domnas bonas ses falenza,",
+            "Duna beutat et dun joven,",
+            "Mais luna val mais veramen ;",
+            "Et cell aurez sol un jorn lan"
+        ],
+        [
+            "Amic Bernart, segont ma conoissenza",
+            "Vos respondrai, cal deu om mais grazir :",
+            "Ades mi plaz on plus men pois jauzir",
+            "De ma domna; mas percamais valenza",
+            "Prenc ab tot meinz de jauzimen",
+            "Cella com ten per plus valen ;",
+            "Seu tot men suffre plus dafan,"
+        ],
+        [
+            "Segner, gran ben son perdut per bistenza ;",
+            "Per queu non ai de lonc aten desir.",
+            "Mais volria lo quart meinz ses mentir",
+            "A mon plazer cun jorn de lan Proenza.",
+            "Que seu ai a mon mandamen",
+            "Bella domna gai e plazen",
+            "Mos jois mira quec jorn doblan,"
+        ],
+        [
+            "Bernart, a obs donrada captenenza",
+            "Voil ades mais bona domna servir,",
+            "Quel seus bons prez mi fai mais enantir.",
+            "Et honraz dons val mais a ma parvenza,",
+            "Qui de fort bona domnal pren,",
+            "Que dautra non farian cen,",
+            "E menor fach men son plus gran,"
+        ],
+        [
+            "Segner, beus dic a la mia crezenza",
+            "Quel magers gaug com puesc el mon chausir",
+            "Es, qui pot nus abprodomna jauzir ;",
+            "Cam jauzimenz non vim per benvolenza",
+            "Un morir, zous dic veramen,",
+            "E son en mort mil de talen ;",
+            "Per queu voil joi douze mes lan"
+        ],
+        [
+            "Bernart, tan val cil on ai mentendenza",
+            "Queu non la voil per meinz valen gequir ;",
+            "Quan un sol jorn mi pot plus enriquir",
+            "Que ja mais joisnomfaria failenza ;",
+            "E pos eu sai ben quen breumen",
+            "Prenrai lo ric don queu naten,",
+            "Nous cuidez per ren queu am tan"
+        ],
+        [
+            "Segner, a lei de tota gen",
+            "Valon mais mil don avinen",
+            "Que non fai un sols chascun an,"
+        ],
+        [
+            "Bernart, eun voil lo jutgamen",
+            "De nAudiart, ca prez valen,",
+            "E sabez per lei, qui val tan,",
+            ""
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII"
+    ],
+    "Source": " Soltau, Otto. Die Werke des Trobadors Blacatz. \"Zeitschrift fr romanische Philologie\", 23 (1899), pp. 201-248"
+}
