@@ -1,0 +1,119 @@
+{
+    "Author": [
+        "Marques"
+    ],
+    "Genre": "Tenson fictive",
+    "Title": "Dona, a vos me coman ",
+    "FullText": [
+        " Dona, [a] vos me coman,",
+        "Canc res mai non amei tan.",
+        " Amics, be vos dic eus man",
+        "Qu'ieu farai vostre coman.",
+        " Dona, trop mi vai tarzan.",
+        " Amicx, ia noy auretz dan.",
+        " Dona, a la mia fe,",
+        "Murray, s'aysim gayre te.",
+        " Amicx, menbre vos de me,",
+        "Qu'ieus am de cor e de fe.",
+        " Dona, aiatz en doncx merce.",
+        " Amicx, si auray yeu be.",
+        " Be suy gays et amoros,",
+        "Dona, per amor de vos.",
+        " Amicx, lo meu[s] cors ioyos",
+        "Es vostres tota[s] sazos.",
+        " Dona, autreyatz lom vos!",
+        " O[c] yeu, amicx bels e bos.",
+        " Dona, per vos mi cofort",
+        "En fas chanson e deport.",
+        " Amicx, ies non avetz tort,",
+        "Que ben sabetz qu'ieus am fort.",
+        " Dona, co er del conort?",
+        " Amicx, bona fe vos port.",
+        " Be soi gueritz ab aitan,",
+        "Dona, de pen'e d'afan,",
+        " Amicx, sufren merceyan",
+        "Conqueron li fin aman.",
+        " Dona, trop mi greval dan.",
+        "Amicx, yeus retenc bayzan.",
+        " Dona, doncs a vos mi ren",
+        "De mas ionchas humilmen.",
+        " Marques, en trop d'onramen",
+        "Cuiatz puiar veramen.",
+        " Dona, qu'ieus am finamen.",
+        " Marques, e tu fas no-cen.",
+        " Domna, mot ay gran talan",
+        "Qu'ieus tengues a mon coman.",
+        "Marques, bem n'iray gardan,",
+        "E dizetz folia gran.",
+        " Dona, ia noy agras dan.",
+        " Marques, no men plieu en tan!"
+    ],
+    "Stanzas": [
+        [
+            " Dona, [a] vos me coman,",
+            "Canc res mai non amei tan.",
+            " Amics, be vos dic eus man",
+            "Qu'ieu farai vostre coman.",
+            " Dona, trop mi vai tarzan.",
+            " Amicx, ia noy auretz dan."
+        ],
+        [
+            " Dona, a la mia fe,",
+            "Murray, s'aysim gayre te.",
+            " Amicx, menbre vos de me,",
+            "Qu'ieus am de cor e de fe.",
+            " Dona, aiatz en doncx merce.",
+            " Amicx, si auray yeu be."
+        ],
+        [
+            " Be suy gays et amoros,",
+            "Dona, per amor de vos.",
+            " Amicx, lo meu[s] cors ioyos",
+            "Es vostres tota[s] sazos.",
+            " Dona, autreyatz lom vos!",
+            " O[c] yeu, amicx bels e bos."
+        ],
+        [
+            " Dona, per vos mi cofort",
+            "En fas chanson e deport.",
+            " Amicx, ies non avetz tort,",
+            "Que ben sabetz qu'ieus am fort.",
+            " Dona, co er del conort?",
+            " Amicx, bona fe vos port."
+        ],
+        [
+            " Be soi gueritz ab aitan,",
+            "Dona, de pen'e d'afan,",
+            " Amicx, sufren merceyan",
+            "Conqueron li fin aman.",
+            " Dona, trop mi greval dan.",
+            "Amicx, yeus retenc bayzan."
+        ],
+        [
+            " Dona, doncs a vos mi ren",
+            "De mas ionchas humilmen.",
+            " Marques, en trop d'onramen",
+            "Cuiatz puiar veramen.",
+            " Dona, qu'ieus am finamen.",
+            " Marques, e tu fas no-cen."
+        ],
+        [
+            " Domna, mot ay gran talan",
+            "Qu'ieus tengues a mon coman.",
+            "Marques, bem n'iray gardan,",
+            "E dizetz folia gran.",
+            " Dona, ia noy agras dan.",
+            " Marques, no men plieu en tan!"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Bertoni, Giulio. I trovatori d'Italia. Modena: Editore Cav. Umberto Orlandini, 1915"
+}

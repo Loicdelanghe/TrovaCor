@@ -1,0 +1,120 @@
+{
+    "Author": [
+        "Lamberti_di_Buvalel"
+    ],
+    "Genre": "Canso",
+    "Title": "Er quant florisson li verger ",
+    "FullText": [
+        "Er quant florisson li verger",
+        "Eill auzel chanton per lor iai,",
+        "Voill far ab gai sonet leuger",
+        "Coinda chanzon, pos a lei plai,",
+        "De cui eu chan, q'es tan plasenz",
+        "Q'als pros fai e als conoissenz",
+        "Totas las autras desplazer",
+        "E si honrar e car tener.",
+        "Tant ai [de ioi e] d'alegrer",
+        "E tant son tuit miei consir gai,",
+        "Qe capdelar cuit tot l'emper,",
+        "Quant m'albir cum d'amor me vai;",
+        "E cel q'esser volra sabenz",
+        "Qals es cil de cui sui iausenz,",
+        "An la genchor del mont vezer,",
+        "Q'esters noill lo aus far saber.",
+        "Car enveios e lausengier",
+        "Per cui mainz bes d'amor decha",
+        "Men fan paor, per qem suffer",
+        "Que mon ioi non dic ni retrai,",
+        "Anz faz cuiar a mantas genz",
+        "Q'aillors sia mos pessamenz;",
+        "E puosc o ben far senz temer,",
+        "Pos mos fis cors en sap lo ver.",
+        "Complit son tuit mei desirer,",
+        "Pos cil, dont mos cors no s'estrai,",
+        "Me reten per son cavaler,",
+        "Qui qe n'aia dol ni esglai.",
+        "Per aizoil sui tant benvolenz",
+        "Que totas [las] autras valenz",
+        "Nom poirion tant far plazer,",
+        "Per q'eu partis mon bon esper.",
+        "La bell'ab lo cors plazenter",
+        "Pos da lei nom part nim partrai,",
+        "Prec, seil plai, c'ab lo ioi entier",
+        "Mi socorra, q'atendrem fa",
+        "Sa vermeilla bocha rienz;",
+        "Q'aissi co ill promes, eissamenz",
+        "Lo deu atendre, al meu parer,",
+        "Sel dreit d'amor vol mantener.",
+        "A Mon Restaur, qar es valenz",
+        "Al laus de toz los conoissenz,",
+        "Faz mon ioi e mon chan saber",
+        "Car li plazon tuit mei placer."
+    ],
+    "Stanzas": [
+        [
+            "Er quant florisson li verger",
+            "Eill auzel chanton per lor iai,",
+            "Voill far ab gai sonet leuger",
+            "Coinda chanzon, pos a lei plai,",
+            "De cui eu chan, q'es tan plasenz",
+            "Q'als pros fai e als conoissenz",
+            "Totas las autras desplazer",
+            "E si honrar e car tener."
+        ],
+        [
+            "Tant ai [de ioi e] d'alegrer",
+            "E tant son tuit miei consir gai,",
+            "Qe capdelar cuit tot l'emper,",
+            "Quant m'albir cum d'amor me vai;",
+            "E cel q'esser volra sabenz",
+            "Qals es cil de cui sui iausenz,",
+            "An la genchor del mont vezer,",
+            "Q'esters noill lo aus far saber."
+        ],
+        [
+            "Car enveios e lausengier",
+            "Per cui mainz bes d'amor decha",
+            "Men fan paor, per qem suffer",
+            "Que mon ioi non dic ni retrai,",
+            "Anz faz cuiar a mantas genz",
+            "Q'aillors sia mos pessamenz;",
+            "E puosc o ben far senz temer,",
+            "Pos mos fis cors en sap lo ver."
+        ],
+        [
+            "Complit son tuit mei desirer,",
+            "Pos cil, dont mos cors no s'estrai,",
+            "Me reten per son cavaler,",
+            "Qui qe n'aia dol ni esglai.",
+            "Per aizoil sui tant benvolenz",
+            "Que totas [las] autras valenz",
+            "Nom poirion tant far plazer,",
+            "Per q'eu partis mon bon esper."
+        ],
+        [
+            "La bell'ab lo cors plazenter",
+            "Pos da lei nom part nim partrai,",
+            "Prec, seil plai, c'ab lo ioi entier",
+            "Mi socorra, q'atendrem fa",
+            "Sa vermeilla bocha rienz;",
+            "Q'aissi co ill promes, eissamenz",
+            "Lo deu atendre, al meu parer,",
+            "Sel dreit d'amor vol mantener."
+        ],
+        [
+            "A Mon Restaur, qar es valenz",
+            "Al laus de toz los conoissenz,",
+            "Faz mon ioi e mon chan saber",
+            "Car li plazon tuit mei placer."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Bertoni, Giulio. I trovatori d'Italia. Modena: Editore Cav. Umberto Orlandini, 1915"
+}

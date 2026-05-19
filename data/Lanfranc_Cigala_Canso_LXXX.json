@@ -1,0 +1,83 @@
+{
+    "Author": [
+        "Lanfranc_Cigala"
+    ],
+    "Genre": "Canso",
+    "Title": "E mon fin cor regna tan fin'amors ",
+    "FullText": [
+        "E mon fin cor regna tan fin' amors",
+        "qu'eu chantarai, si tot s'espan freidura,",
+        "c'om no i deu agradar autras flors",
+        "ni chanz d'ausels ni foilla ni verdura,",
+        "mais ioi d'amor; doncs d'amor, quim ten gai,",
+        "farai chanson, que bona razo n'ai;",
+        "e quis voilla, fassa chanson o dansa",
+        "de chanz d'ausels, quar eu non ai voler",
+        "de far chanson mas d'amoros plazer,",
+        "que ses amor no fon anc benanansa.",
+        "E si solatz es faiditz pels maiors",
+        "ni leialtatz non reingna ni drechura,",
+        "anz tenon cort cobeitaz et errors",
+        "per lo conseill d'orgoill ab desmesura,",
+        "ges per aisso de chan nom laissarai,",
+        "quel dan qu'es granz, acreisser non s'eschai;",
+        "e s'il fan mal, il n'aian la pezanssa,",
+        "qu'eu non mier mal ni no i vuel part tener,",
+        "anz vuel chantar d'amor e ioi aver",
+        "qu'eu mi lau, e del mais ai fiansa.",
+        "Em meravil de totz los clamadors",
+        "ques van claman d'amor nin fan rancura,",
+        "car entre totz los corals amadors",
+        "on fo anc us, miels ames ses falsura",
+        "con ai amat et am et amarai;",
+        "es ad amic adoncx amors esglai,",
+        "sentit n'agr'eu em fag o en senblanssa,",
+        "tant loniamen m'a tengut en poder,",
+        "mas anc iorn nom fes amors doler,",
+        "z m'a totz temps faig viur' en alegransa."
+    ],
+    "Stanzas": [
+        [
+            "E mon fin cor regna tan fin' amors",
+            "qu'eu chantarai, si tot s'espan freidura,",
+            "c'om no i deu agradar autras flors",
+            "ni chanz d'ausels ni foilla ni verdura,",
+            "mais ioi d'amor; doncs d'amor, quim ten gai,",
+            "farai chanson, que bona razo n'ai;",
+            "e quis voilla, fassa chanson o dansa",
+            "de chanz d'ausels, quar eu non ai voler",
+            "de far chanson mas d'amoros plazer,",
+            "que ses amor no fon anc benanansa."
+        ],
+        [
+            "E si solatz es faiditz pels maiors",
+            "ni leialtatz non reingna ni drechura,",
+            "anz tenon cort cobeitaz et errors",
+            "per lo conseill d'orgoill ab desmesura,",
+            "ges per aisso de chan nom laissarai,",
+            "quel dan qu'es granz, acreisser non s'eschai;",
+            "e s'il fan mal, il n'aian la pezanssa,",
+            "qu'eu non mier mal ni no i vuel part tener,",
+            "anz vuel chantar d'amor e ioi aver",
+            "qu'eu mi lau, e del mais ai fiansa."
+        ],
+        [
+            "Em meravil de totz los clamadors",
+            "ques van claman d'amor nin fan rancura,",
+            "car entre totz los corals amadors",
+            "on fo anc us, miels ames ses falsura",
+            "con ai amat et am et amarai;",
+            "es ad amic adoncx amors esglai,",
+            "sentit n'agr'eu em fag o en senblanssa,",
+            "tant loniamen m'a tengut en poder,",
+            "mas anc iorn nom fes amors doler,",
+            "z m'a totz temps faig viur' en alegransa."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Bertoni, Giulio. I trovatori d'Italia. Modena: Editore Cav. Umberto Orlandini, 1915"
+}

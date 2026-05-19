@@ -1,0 +1,51 @@
+{
+    "Author": [
+        "LoBortdelreid'Arago",
+        "RostaingBerenguierdeMarseilla"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "Un joc novell ay entaulat / Ab dous dezir ay desirat ",
+    "FullText": [
+        " Un juoc novell ay entaulat :",
+        " Vay li permieira apres set;",
+        " Tut(z) son de .vj., quieu lay comtat,",
+        " E notz pot far ses des e set;",
+        "Hel qui us y es cap .xviii. si lia,",
+        "Ez ab. xiii., qui ben o sap comptar ;",
+        "Daquest capel si cruop mi dons tot dia.",
+        "MOSEN ROSTANH BERENGUIER DE MASEILHA remisio.",
+        " Ab dous dezir ay desirat (f. 10)",
+        " De servir leys quaisim liet",
+        " Ab sesgart docxz quant esguarat",
+        " Mac, quen aissi menamoret",
+        "Cab docxz consir consirant nueh e dia",
+        "Ma si conques cailhous non puesc virar,",
+        "Mas non conoxs Guarcen ni say quintz sia."
+    ],
+    "Stanzas": [
+        [
+            " Un juoc novell ay entaulat :",
+            " Vay li permieira apres set;",
+            " Tut(z) son de .vj., quieu lay comtat,",
+            " E notz pot far ses des e set;",
+            "Hel qui us y es cap .xviii. si lia,",
+            "Ez ab. xiii., qui ben o sap comptar ;",
+            "Daquest capel si cruop mi dons tot dia.",
+            "MOSEN ROSTANH BERENGUIER DE MASEILHA remisio."
+        ],
+        [
+            " Ab dous dezir ay desirat (f. 10)",
+            " De servir leys quaisim liet",
+            " Ab sesgart docxz quant esguarat",
+            " Mac, quen aissi menamoret",
+            "Cab docxz consir consirant nueh e dia",
+            "Ma si conques cailhous non puesc virar,",
+            "Mas non conoxs Guarcen ni say quintz sia."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Bec, Pierre. Burlesque et obscnit chez les troubadours. Pour une approche du contre-texte mdival. Paris: Stock, 1984"
+}

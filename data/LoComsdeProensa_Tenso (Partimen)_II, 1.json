@@ -1,0 +1,75 @@
+{
+    "Author": [
+        "LoComsdeProensa",
+        "Arnaut"
+    ],
+    "Genre": "Tenso (Partimen)",
+    "Title": "Amichs N'Arnautz, cent dompnes de peratge ",
+    "FullText": [
+        " Amichs NArnautz, cent dompnes de peratge",
+        "an oultremar e son en miege via,",
+        "e non podon complir lo lur viatge",
+        "ne dreyt tornar per nulla re que sia",
+        "si per vos no : qu'es per aytal coven",
+        "qu'un pet fassatz, de ques moga tal vent",
+        "que les dompnes vagen a salvamen.",
+        "Fer l'etz, ho no? Qu'yeu saber o volria!",
+        " Senyer En Coms, yeu ay un tal usatge",
+        "qu'ades mantien depes en drudaria;",
+        "sy tot lo pet no m'en ve d'egradatge",
+        "eu lo faray, que, s'eu no lo fasia,",
+        "falria trop vas dompnes malamen!",
+        "E dich vos be que, si per autr'engen",
+        "apres lo pet no son a salvamen,",
+        "per pembre fort tot me conquagueria!",
+        " Amichs N'Arnautz, trop parlats malemen",
+        "pel blasme gran quez hauretz de la gen :",
+        "que vol pessar tan gen cors avinent,",
+        "vent de cul, en terra de Soria?",
+        " Senyer En Coms, molt es miels per un cen",
+        "qu'yeu facel pet, ans que tan cors plasen",
+        "ffesson lor dan per fol ensenyamen:",
+        "quem pusch levar can cunquegat me sia!"
+    ],
+    "Stanzas": [
+        [
+            " Amichs NArnautz, cent dompnes de peratge",
+            "an oultremar e son en miege via,",
+            "e non podon complir lo lur viatge",
+            "ne dreyt tornar per nulla re que sia",
+            "si per vos no : qu'es per aytal coven",
+            "qu'un pet fassatz, de ques moga tal vent",
+            "que les dompnes vagen a salvamen.",
+            "Fer l'etz, ho no? Qu'yeu saber o volria!"
+        ],
+        [
+            " Senyer En Coms, yeu ay un tal usatge",
+            "qu'ades mantien depes en drudaria;",
+            "sy tot lo pet no m'en ve d'egradatge",
+            "eu lo faray, que, s'eu no lo fasia,",
+            "falria trop vas dompnes malamen!",
+            "E dich vos be que, si per autr'engen",
+            "apres lo pet no son a salvamen,",
+            "per pembre fort tot me conquagueria!"
+        ],
+        [
+            " Amichs N'Arnautz, trop parlats malemen",
+            "pel blasme gran quez hauretz de la gen :",
+            "que vol pessar tan gen cors avinent,",
+            "vent de cul, en terra de Soria?"
+        ],
+        [
+            " Senyer En Coms, molt es miels per un cen",
+            "qu'yeu facel pet, ans que tan cors plasen",
+            "ffesson lor dan per fol ensenyamen:",
+            "quem pusch levar can cunquegat me sia!"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Cluzel, Irne. Princes et troubadours de la maison royale de Barcelone-Aragon. \"Boletn de la Real Academia de Buenas Letras de Barcelona\", 27 (1957-1958)"
+}

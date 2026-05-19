@@ -1,0 +1,140 @@
+{
+    "Author": [
+        "Monge_de_Montaudo"
+    ],
+    "Genre": "Satira",
+    "Title": "L'autre jorn m'en pogei el cel, ",
+    "FullText": [
+        "L'autre jorn m'en pogei el cel,",
+        "Qu'anei parlar a Saint Miquel",
+        "Don fui mandatz;",
+        "Et auzi u clam quem fo bel:",
+        "Era l'aujatz.",
+        "Sainz Julias venc denan Deu",
+        "E dis: \"Deus, a vos me clam eu,",
+        "Com hom forzatz,",
+        "Deseritatz de tt so feu",
+        "E malmenatz.",
+        "Car qui be voli' albergar",
+        "De matim solia pregar",
+        "Queill fos privatz;",
+        "Era noil pose conseill donar",
+        "Ab los malvatz.",
+        "Qu'aissi m'an toit tot mo poder",
+        "Qu'om nom prega mati ni ser;",
+        "Neis lor colgatz",
+        "Laissan mati dejus mover;",
+        "Be sui amtatz.",
+        "De Tolzan ni de Carcases",
+        "Nom plaing tan fort ni d'Albiges",
+        "Com d'autras fatz;",
+        "En Cataloingn' ai totz mos ces",
+        "Ei sui amatz.",
+        "En Peiregorc e'n Limozi,",
+        " Mas lo coms e reis los auzi ",
+        "Sui ben amatz.",
+        "Et a'n de tais en Caerci",
+        "Don sui pagatz.",
+        "De Roergu'e de Gavalda",
+        "Nom clam nim lau qu'aissi s'esta;",
+        "Pero assatz",
+        "I a d'aquels qu'usquecs mi fa",
+        "Mas voluntatz.",
+        "En Alvergne ses acoillir",
+        "Podetz albergar, e venir",
+        "Desconvidatz;",
+        "Qu'il non o sabon fort gen dir,",
+        "Mas be lor platz.",
+        "En Proenza, els sos baros",
+        "Ai ben encara mas razos.",
+        "Nom sui clamatz",
+        "De Proensals ni de Gascos",
+        "Ni trop lausatz.",
+        "Anc de Vivares non aie clam",
+        "Qu'oms estrainz agues set ni fam",
+        "N'i fos cochatz."
+    ],
+    "Stanzas": [
+        [
+            "L'autre jorn m'en pogei el cel,",
+            "Qu'anei parlar a Saint Miquel",
+            "Don fui mandatz;",
+            "Et auzi u clam quem fo bel:",
+            "Era l'aujatz."
+        ],
+        [
+            "Sainz Julias venc denan Deu",
+            "E dis: \"Deus, a vos me clam eu,",
+            "Com hom forzatz,",
+            "Deseritatz de tt so feu",
+            "E malmenatz."
+        ],
+        [
+            "Car qui be voli' albergar",
+            "De matim solia pregar",
+            "Queill fos privatz;",
+            "Era noil pose conseill donar",
+            "Ab los malvatz."
+        ],
+        [
+            "Qu'aissi m'an toit tot mo poder",
+            "Qu'om nom prega mati ni ser;",
+            "Neis lor colgatz",
+            "Laissan mati dejus mover;",
+            "Be sui amtatz."
+        ],
+        [
+            "De Tolzan ni de Carcases",
+            "Nom plaing tan fort ni d'Albiges",
+            "Com d'autras fatz;",
+            "En Cataloingn' ai totz mos ces",
+            "Ei sui amatz."
+        ],
+        [
+            "En Peiregorc e'n Limozi,",
+            " Mas lo coms e reis los auzi ",
+            "Sui ben amatz.",
+            "Et a'n de tais en Caerci",
+            "Don sui pagatz."
+        ],
+        [
+            "De Roergu'e de Gavalda",
+            "Nom clam nim lau qu'aissi s'esta;",
+            "Pero assatz",
+            "I a d'aquels qu'usquecs mi fa",
+            "Mas voluntatz."
+        ],
+        [
+            "En Alvergne ses acoillir",
+            "Podetz albergar, e venir",
+            "Desconvidatz;",
+            "Qu'il non o sabon fort gen dir,",
+            "Mas be lor platz."
+        ],
+        [
+            "En Proenza, els sos baros",
+            "Ai ben encara mas razos.",
+            "Nom sui clamatz",
+            "De Proensals ni de Gascos",
+            "Ni trop lausatz."
+        ],
+        [
+            "Anc de Vivares non aie clam",
+            "Qu'oms estrainz agues set ni fam",
+            "N'i fos cochatz."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X"
+    ],
+    "Source": " RIQUER, M. DE, Los trovadores: historia literaria y textos, Barcelone, 1975"
+}

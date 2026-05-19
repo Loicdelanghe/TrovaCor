@@ -1,0 +1,135 @@
+{
+    "Author": [
+        "LanfrancCigala",
+        "Rubaut"
+    ],
+    "Genre": "Tenso (Partimen)",
+    "Title": "Amics Rubaut, de leis, q'am ses bauzia ",
+    "FullText": [
+        "Amics Rubaut, de leis, q'am ses bauzia,",
+        " Vos dirai cossim vai;",
+        "Qe qant mi ve elam ri tota via,",
+        "    Mas autre be nom fai;",
+        " Non sai sim men'eschern o iai.",
+        "Vos, qen cuidatz? Fai o per tricharia,",
+        "O qar li plai m'amors e ma paria?",
+        "Segne'n Lafranc, pos voletz q'eu vos dia",
+        "    Mon semblan, vos dirai:",
+        "Cella q'amatz crei q'a cor qeus aucia",
+        "    Pos null ioi nos atrai,",
+        " Q'ab ris vos trahis eus decha",
+        "Com fetz baizan luda Dieu, ses faillia,",
+        "E sim desplai q'ill es vostr'enemia.",
+        "Amics Rubaut, se midonz aitals era",
+        "    Com cella qius trahi,",
+        "Zo qe dizes ges non desconfessera",
+        "    Qe non fos enaissi;",
+        " Mas ab leial cor e pretz f",
+        "Regna midonz, per q'ieu non autregera",
+        "Pos elam ri qem fos falsa ni fera.",
+        "Segne'n Lafranc, savis hom non lauzera",
+        "    Zo qe lauzatz aici,",
+        "Qar ia domna q'ames tant non celera",
+        "    Son cor a son ami;",
+        " Ma per o qar vos fai ien ri,",
+        "Non crei qeus am, ni ieu non l'o prezera",
+        "Q'il fez a mi, anz men desesperera.",
+        "Rubaut, ris nais de ioi e d'alegranza",
+        "    E d'amoros talen,",
+        "Et es del cor veraia demostranza",
+        "    Q'el veia ren plazen:",
+        " Doncs sim garda midonz rizen,",
+        "Nom pot d'amor far plus bella semblanza,",
+        "Et eu o pren enaissi, ses doptanza.",
+        "Segne'n Lafranc, nous puesc gitar d'erranza",
+        "    Tant amatz follamen,",
+        "Car vos prenetz ris en luec d'amistanza,",
+        "    Mas ieu nom n'atalen,",
+        " Qe badars mi don'espaven.",
+        "Vos atendretz vostra bona esperanza,",
+        "Mas ieu enten queus er desesperanza.",
+        "Rubaut, apres lo ris aten",
+        "Q'eu aurai ioi de leis e benananza,",
+        "Qar non desmen ma domna sa semblanza.",
+        "Lafranc, si del ris bes vos ven,",
+        "Ben poiretz dir q'aventuraus enanza:",
+        "Pero rizen gab'om los fols en Franza."
+    ],
+    "Stanzas": [
+        [
+            "Amics Rubaut, de leis, q'am ses bauzia,",
+            " Vos dirai cossim vai;",
+            "Qe qant mi ve elam ri tota via,",
+            "    Mas autre be nom fai;",
+            " Non sai sim men'eschern o iai.",
+            "Vos, qen cuidatz? Fai o per tricharia,",
+            "O qar li plai m'amors e ma paria?"
+        ],
+        [
+            "Segne'n Lafranc, pos voletz q'eu vos dia",
+            "    Mon semblan, vos dirai:",
+            "Cella q'amatz crei q'a cor qeus aucia",
+            "    Pos null ioi nos atrai,",
+            " Q'ab ris vos trahis eus decha",
+            "Com fetz baizan luda Dieu, ses faillia,",
+            "E sim desplai q'ill es vostr'enemia."
+        ],
+        [
+            "Amics Rubaut, se midonz aitals era",
+            "    Com cella qius trahi,",
+            "Zo qe dizes ges non desconfessera",
+            "    Qe non fos enaissi;",
+            " Mas ab leial cor e pretz f",
+            "Regna midonz, per q'ieu non autregera",
+            "Pos elam ri qem fos falsa ni fera."
+        ],
+        [
+            "Segne'n Lafranc, savis hom non lauzera",
+            "    Zo qe lauzatz aici,",
+            "Qar ia domna q'ames tant non celera",
+            "    Son cor a son ami;",
+            " Ma per o qar vos fai ien ri,",
+            "Non crei qeus am, ni ieu non l'o prezera",
+            "Q'il fez a mi, anz men desesperera."
+        ],
+        [
+            "Rubaut, ris nais de ioi e d'alegranza",
+            "    E d'amoros talen,",
+            "Et es del cor veraia demostranza",
+            "    Q'el veia ren plazen:",
+            " Doncs sim garda midonz rizen,",
+            "Nom pot d'amor far plus bella semblanza,",
+            "Et eu o pren enaissi, ses doptanza."
+        ],
+        [
+            "Segne'n Lafranc, nous puesc gitar d'erranza",
+            "    Tant amatz follamen,",
+            "Car vos prenetz ris en luec d'amistanza,",
+            "    Mas ieu nom n'atalen,",
+            " Qe badars mi don'espaven.",
+            "Vos atendretz vostra bona esperanza,",
+            "Mas ieu enten queus er desesperanza."
+        ],
+        [
+            "Rubaut, apres lo ris aten",
+            "Q'eu aurai ioi de leis e benananza,",
+            "Qar non desmen ma domna sa semblanza."
+        ],
+        [
+            "Lafranc, si del ris bes vos ven,",
+            "Ben poiretz dir q'aventuraus enanza:",
+            "Pero rizen gab'om los fols en Franza."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII"
+    ],
+    "Source": " Bertoni, Giulio. I trovatori d'Italia. Modena: Editore Cav. Umberto Orlandini, 1915"
+}

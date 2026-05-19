@@ -1,0 +1,54 @@
+{
+    "Author": [
+        "Monge_de_Foissan"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "Subrefusa ab cabirol ",
+    "FullText": [
+        "Subrefusa ab cabirol",
+        "Porc ab [un] uny novell,",
+        "E gallina ab juxell,",
+        "E cap rostit d'un an",
+        "Vull que hom me pos denan,",
+        "E formatge torrador,",
+        "E vi rosat en Pascor,",
+        "E giroflat quan iverna.",
+        "Responcio sibi facta",
+        "Truja vella morta a dol,",
+        "Et al ventre haja porcell,",
+        "E cols ab magre anyell,",
+        "............................",
+        "Vull que hom li pos denan",
+        "Aquel monge enganador,",
+        "E vi torbat part Martror,",
+        "E haja foc de lenterna."
+    ],
+    "Stanzas": [
+        [
+            "Subrefusa ab cabirol",
+            "Porc ab [un] uny novell,",
+            "E gallina ab juxell,",
+            "E cap rostit d'un an",
+            "Vull que hom me pos denan,",
+            "E formatge torrador,",
+            "E vi rosat en Pascor,",
+            "E giroflat quan iverna.",
+            "Responcio sibi facta"
+        ],
+        [
+            "Truja vella morta a dol,",
+            "Et al ventre haja porcell,",
+            "E cols ab magre anyell,",
+            "............................",
+            "Vull que hom li pos denan",
+            "Aquel monge enganador,",
+            "E vi torbat part Martror,",
+            "E haja foc de lenterna."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Li Gotti, Ettore. Jofre de Foix. Vers e Regles de trobar. Modena: Societ Tipografica Modenese, 1952"
+}

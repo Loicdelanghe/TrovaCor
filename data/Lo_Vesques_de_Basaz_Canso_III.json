@@ -1,0 +1,69 @@
+{
+    "Author": [
+        "Lo_Vesques_de_Basaz"
+    ],
+    "Genre": "Canso",
+    "Title": "Cor, poder, saber e sen ",
+    "FullText": [
+        "Cor, poder, saber e sen",
+        "hantar e d'amor",
+        "vir gai seignor",
+        "que prez e valor enten;",
+        "ill mort son greu per garir,",
+        "m volguesson auzir,",
+        "mel traissera de secuda.",
+        "Bella dompn' ab cors plazen",
+        "ol grans de la flor",
+        "m eu, del mont la genzor:",
+        "que negun' ab leis nos pren",
+        "oilz de falcon trait de muda,",
+        "bocha rien per ben dir,",
+        "l cors plus dolz per sentir",
+        "'uns prims ranzans sus char nuda.",
+        "Bona dompna et avinen",
+        "m, e no ges per amor,",
+        "mas en luoc de bon seignor",
+        "virai son bel cors gen, -",
+        "ost causa saubuda, -",
+        "pren per luoc de iauzir",
+        "qant li plai quem faz'auzir.",
+        ", domna, vos saluda."
+    ],
+    "Stanzas": [
+        [
+            "Cor, poder, saber e sen",
+            "hantar e d'amor",
+            "vir gai seignor",
+            "que prez e valor enten;",
+            "ill mort son greu per garir,",
+            "m volguesson auzir,",
+            "mel traissera de secuda."
+        ],
+        [
+            "Bella dompn' ab cors plazen",
+            "ol grans de la flor",
+            "m eu, del mont la genzor:",
+            "que negun' ab leis nos pren",
+            "oilz de falcon trait de muda,",
+            "bocha rien per ben dir,",
+            "l cors plus dolz per sentir",
+            "'uns prims ranzans sus char nuda."
+        ],
+        [
+            "Bona dompna et avinen",
+            "m, e no ges per amor,",
+            "mas en luoc de bon seignor",
+            "virai son bel cors gen, -",
+            "ost causa saubuda, -",
+            "pren per luoc de iauzir",
+            "qant li plai quem faz'auzir.",
+            ", domna, vos saluda."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Appel, Carl. Posies provenales indites tires des manuscrits dItalie. \"Revue des langues romanes\", 34 (1890)"
+}

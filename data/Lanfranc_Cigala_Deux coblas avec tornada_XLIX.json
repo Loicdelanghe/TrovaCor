@@ -1,0 +1,63 @@
+{
+    "Author": [
+        "Lanfranc_Cigala"
+    ],
+    "Genre": "Coblas avec tornada",
+    "Title": "Tan franc cors de dompn'ai trobat ",
+    "FullText": [
+        " Tan franc cors de dompn'ai trobat",
+        " A Villafranca e tan plazen,",
+        " Qe m'acuilli tan francamen,",
+        " Qe de franc m'a son serf tornat.",
+        "Mas franqeza com m'adui a servir,",
+        "Qem deuria, s'eu era sers, franqir?",
+        "Car pros dompna ab sa franca douzor",
+        "Cor d'ome franc fai leu son servidor.",
+        " S'ieu agues ges de franqetat,",
+        " Eu amera son franc cors gen,",
+        " Mas no ai tan franc ardimen",
+        " D'entendr'en tan francamistat;",
+        "Mas son franc pretz sivals farai auzir",
+        "Tan qe mains francs farai sers devenir",
+        "De lei cui am francamen ad honor",
+        "Ab fi cor franc mas no en dreit d'amor.",
+        "Dompna, ia mais no voill francs devenir",
+        "De vos amar francamen e servir,",
+        "Q'eu fora fols, pois ai tan franc seignor,",
+        "Si franqetat demandava maior."
+    ],
+    "Stanzas": [
+        [
+            " Tan franc cors de dompn'ai trobat",
+            " A Villafranca e tan plazen,",
+            " Qe m'acuilli tan francamen,",
+            " Qe de franc m'a son serf tornat.",
+            "Mas franqeza com m'adui a servir,",
+            "Qem deuria, s'eu era sers, franqir?",
+            "Car pros dompna ab sa franca douzor",
+            "Cor d'ome franc fai leu son servidor."
+        ],
+        [
+            " S'ieu agues ges de franqetat,",
+            " Eu amera son franc cors gen,",
+            " Mas no ai tan franc ardimen",
+            " D'entendr'en tan francamistat;",
+            "Mas son franc pretz sivals farai auzir",
+            "Tan qe mains francs farai sers devenir",
+            "De lei cui am francamen ad honor",
+            "Ab fi cor franc mas no en dreit d'amor."
+        ],
+        [
+            "Dompna, ia mais no voill francs devenir",
+            "De vos amar francamen e servir,",
+            "Q'eu fora fols, pois ai tan franc seignor,",
+            "Si franqetat demandava maior."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Bertoni, Giulio. I trovatori d'Italia. Modena: Editore Cav. Umberto Orlandini, 1915"
+}

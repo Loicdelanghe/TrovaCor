@@ -1,0 +1,68 @@
+{
+    "Author": [
+        "Monge_de_Montaudo"
+    ],
+    "Genre": "Sirventes",
+    "Title": "Be m'enueja, per Saynt Marsal, ",
+    "FullText": [
+        "Be m'enueja, per Saynt Marsal,",
+        "Aquist baro descominal",
+        "Que, non denhen vendre caval,",
+        "Empenhon lo aitan quan val,",
+        "E que meton en lor ostal",
+        "Sel qu'an azirat per gran mal.",
+        "Be m'enueja de cavallier",
+        "Que quer trs vetz cauls e sabrier,",
+        "E de dompneyador petier,",
+        "E de vielh hom' avol arquier,",
+        "E d'hom' escas sobre taulier.",
+        "Enuejam, pels Sayns de Colonha,",
+        "Amicx quem falh a gran bezonha,",
+        "E tracher que non a vergonha,",
+        "E qui-s colgu' ab mi ab gran ronha.",
+        "............................",
+        "Messatgiers, vai t'en, [te] ta via",
+        "Al comte, cuy Dieus benezia,",
+        "Que te Toloza en baylia;",
+        "S'y a ren qu'a lui desplayria",
+        "Ieu suy selh quel ne ostaria."
+    ],
+    "Stanzas": [
+        [
+            "Be m'enueja, per Saynt Marsal,",
+            "Aquist baro descominal",
+            "Que, non denhen vendre caval,",
+            "Empenhon lo aitan quan val,",
+            "E que meton en lor ostal",
+            "Sel qu'an azirat per gran mal."
+        ],
+        [
+            "Be m'enueja de cavallier",
+            "Que quer trs vetz cauls e sabrier,",
+            "E de dompneyador petier,",
+            "E de vielh hom' avol arquier,",
+            "E d'hom' escas sobre taulier."
+        ],
+        [
+            "Enuejam, pels Sayns de Colonha,",
+            "Amicx quem falh a gran bezonha,",
+            "E tracher que non a vergonha,",
+            "E qui-s colgu' ab mi ab gran ronha.",
+            "............................"
+        ],
+        [
+            "Messatgiers, vai t'en, [te] ta via",
+            "Al comte, cuy Dieus benezia,",
+            "Que te Toloza en baylia;",
+            "S'y a ren qu'a lui desplayria",
+            "Ieu suy selh quel ne ostaria."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " RIQUER, M. DE, Los trovadores: historia literaria y textos, Barcelone, 1975"
+}

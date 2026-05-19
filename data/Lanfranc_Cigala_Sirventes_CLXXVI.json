@@ -1,0 +1,82 @@
+{
+    "Author": [
+        "Lanfranc_Cigala"
+    ],
+    "Genre": "Sirventes",
+    "Title": "Bem meravilh del marques Moruel",
+    "FullText": [
+        "Bem meravilh del marques Moruel",
+        "Qui hom tan joves pot aver tant apres;",
+        "Car trasgitar sap sottilmenz e bel,",
+        "E pariar Frances e Jenoes;",
+        "E sap si far de son secors ofrenda,",
+        "Quen reten grat dambas partz e merces;",
+        "Mas estrain par quensems se ne deffenda;",
+        "E totz ho fai a guisa de marques.",
+        "E car a sen tan sotil et esnel,",
+        "Digan s . . . . si com en son . . . es",
+        ". . . . . . . . hom per . . . . e cor tan fel,",
+        "Ni qi sos griei mers que p . . . en pales",
+        "Per traimen nuilla venjansa prenda",
+        ". . . . . . . . es per ven . . . quen pres;",
+        "Car, sieu antan que . . . . entenda,",
+        "Ques venje mal qi dechai si m . . . es.",
+        "E, sen amor regnab aital capdel",
+        "Com en guerra, deu naver pro conques!",
+        "Car hom qui saup de veil e de novel",
+        "Fan leu creire so quel vol ses contes;",
+        "E lui non cal que negun hom naprenda",
+        "Si dizon ver, domna, en Tertones;",
+        "I nai . . . es e gran beutat Berlenda,",
+        "Que per sa . . . . . . . . far mantas res.",
+        ". . . . . . . . pli jes non atenda,",
+        "Quen . . . . . mas pero nescies",
+        "Es de creire . . . . . l la faisenda",
+        "Desenpar hom . . . . . . . . . . ies."
+    ],
+    "Stanzas": [
+        [
+            "Bem meravilh del marques Moruel",
+            "Qui hom tan joves pot aver tant apres;",
+            "Car trasgitar sap sottilmenz e bel,",
+            "E pariar Frances e Jenoes;",
+            "E sap si far de son secors ofrenda,",
+            "Quen reten grat dambas partz e merces;",
+            "Mas estrain par quensems se ne deffenda;",
+            "E totz ho fai a guisa de marques."
+        ],
+        [
+            "E car a sen tan sotil et esnel,",
+            "Digan s . . . . si com en son . . . es",
+            ". . . . . . . . hom per . . . . e cor tan fel,",
+            "Ni qi sos griei mers que p . . . en pales",
+            "Per traimen nuilla venjansa prenda",
+            ". . . . . . . . es per ven . . . quen pres;",
+            "Car, sieu antan que . . . . entenda,",
+            "Ques venje mal qi dechai si m . . . es."
+        ],
+        [
+            "E, sen amor regnab aital capdel",
+            "Com en guerra, deu naver pro conques!",
+            "Car hom qui saup de veil e de novel",
+            "Fan leu creire so quel vol ses contes;",
+            "E lui non cal que negun hom naprenda",
+            "Si dizon ver, domna, en Tertones;",
+            "I nai . . . es e gran beutat Berlenda,",
+            "Que per sa . . . . . . . . far mantas res."
+        ],
+        [
+            ". . . . . . . . pli jes non atenda,",
+            "Quen . . . . . mas pero nescies",
+            "Es de creire . . . . . l la faisenda",
+            "Desenpar hom . . . . . . . . . . ies."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Bertoni, Giulio. I trovatori d'Italia. Modena: Editore Cav. Umberto Orlandini, 1915"
+}

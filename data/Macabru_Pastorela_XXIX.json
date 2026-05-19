@@ -1,0 +1,89 @@
+{
+    "Author": [
+        "Macabru"
+    ],
+    "Genre": "Pastorela",
+    "Title": "L'autrier, a l'issida d'abriu ",
+    "FullText": [
+        "L'autrier, a l'issida d'abriu,",
+        "En uns pasturaus lonc un riu,",
+        "Et ab lo comens d'un chantiu",
+        "Que fant l'auzeill peralegrar,",
+        "Auzi la votz d'un pastoriu",
+        "Ab una mancipa chantar.",
+        "Trobei la sotz un fau ombriu :",
+        " Bella, fich m'ieu, pois Jois reviu",
+        ". . . . . . . . . . .",
+        "Ben nos devein apareillar. ",
+        "  Nondevem, don, que d'als pensiu",
+        "Ai mon coratg' e mon affar. ",
+        "  Digatz, bella, del pens cum va",
+        "On vostre coratges estai? ",
+        "  A ma fe, don, ieu vos dirai,",
+        "S'aisi es vers cum aug comtar,",
+        "Pretz e Jovens e Jois decha",
+        "C'om en autre nois pot fiar.",
+        "D'autra manieira cogossos,",
+        "Hi a rics homes e baros",
+        "Qui las enserron dinz maios",
+        "Qu'estrains non i poscaintrar",
+        "E tenon guirbautz als tisos",
+        "Cui las comandon a gardar.",
+        "E segon que ditz Salamos,",
+        "Non podon cill pejors lairos",
+        "Acuillir d'aquels compaignos",
+        "Qui fant la noirim cogular,",
+        "Et aplanon los guirbaudos",
+        "E cujon lor fills piadar. "
+    ],
+    "Stanzas": [
+        [
+            "L'autrier, a l'issida d'abriu,",
+            "En uns pasturaus lonc un riu,",
+            "Et ab lo comens d'un chantiu",
+            "Que fant l'auzeill peralegrar,",
+            "Auzi la votz d'un pastoriu",
+            "Ab una mancipa chantar."
+        ],
+        [
+            "Trobei la sotz un fau ombriu :",
+            " Bella, fich m'ieu, pois Jois reviu",
+            ". . . . . . . . . . .",
+            "Ben nos devein apareillar. ",
+            "  Nondevem, don, que d'als pensiu",
+            "Ai mon coratg' e mon affar. "
+        ],
+        [
+            "  Digatz, bella, del pens cum va",
+            "On vostre coratges estai? ",
+            "  A ma fe, don, ieu vos dirai,",
+            "S'aisi es vers cum aug comtar,",
+            "Pretz e Jovens e Jois decha",
+            "C'om en autre nois pot fiar."
+        ],
+        [
+            "D'autra manieira cogossos,",
+            "Hi a rics homes e baros",
+            "Qui las enserron dinz maios",
+            "Qu'estrains non i poscaintrar",
+            "E tenon guirbautz als tisos",
+            "Cui las comandon a gardar."
+        ],
+        [
+            "E segon que ditz Salamos,",
+            "Non podon cill pejors lairos",
+            "Acuillir d'aquels compaignos",
+            "Qui fant la noirim cogular,",
+            "Et aplanon los guirbaudos",
+            "E cujon lor fills piadar. "
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Dejeanne, Jean Marie Lucien. Posies compltes du troubadour Marcabru. Toulouse: douard Privat, 1909"
+}

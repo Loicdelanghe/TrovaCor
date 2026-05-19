@@ -1,0 +1,66 @@
+{
+    "Author": [
+        "LanzaMarques",
+        "PeireVidal"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "Emperador avem de tal manera ",
+    "FullText": [
+        "Emperador avem de tal manera",
+        "Que non a sen ni saber ni menbranza;",
+        "Plus ibriacs no s'asec en chadera,",
+        "Ni plus volpills no porta escut ni lanza,",
+        "Ne plus avols non chaucet esperos,",
+        "Ni plus malvaz no fez vers ni chanzos.",
+        "Rens non es meinz, mas qe peiras non lanza.",
+        "Espaza voill que sus pel cap lo fera",
+        "E darz d'acer voill qeill pertus la panza,",
+        "E brocas voill, qeil tragan la lumera.",
+        "Pois li darem del vi, en luoc d'onranza",
+        "Un viell capel d'escarlat ses cordos,",
+        "E sa lanza sera uns loncs bastos.",
+        "Pois poira anar segurs d'aqui en Franza.",
+        "[Lanza Marqes, paubresa e neschera",
+        "Vos coichan fort, dolors e malananza:",
+        "Et es com l'orbs qe pissa en la carrera",
+        "Quant a perdut vergoingna e menbranza.",
+        "Plus sovent venz chastels e domeios",
+        "No fai veilla gallinas ni capos,",
+        "E s'anc fos francs, ar es sers ses doptanza]."
+    ],
+    "Stanzas": [
+        [
+            "Emperador avem de tal manera",
+            "Que non a sen ni saber ni menbranza;",
+            "Plus ibriacs no s'asec en chadera,",
+            "Ni plus volpills no porta escut ni lanza,",
+            "Ne plus avols non chaucet esperos,",
+            "Ni plus malvaz no fez vers ni chanzos.",
+            "Rens non es meinz, mas qe peiras non lanza."
+        ],
+        [
+            "Espaza voill que sus pel cap lo fera",
+            "E darz d'acer voill qeill pertus la panza,",
+            "E brocas voill, qeil tragan la lumera.",
+            "Pois li darem del vi, en luoc d'onranza",
+            "Un viell capel d'escarlat ses cordos,",
+            "E sa lanza sera uns loncs bastos.",
+            "Pois poira anar segurs d'aqui en Franza."
+        ],
+        [
+            "[Lanza Marqes, paubresa e neschera",
+            "Vos coichan fort, dolors e malananza:",
+            "Et es com l'orbs qe pissa en la carrera",
+            "Quant a perdut vergoingna e menbranza.",
+            "Plus sovent venz chastels e domeios",
+            "No fai veilla gallinas ni capos,",
+            "E s'anc fos francs, ar es sers ses doptanza]."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Anglade, Joseph. Les posies de Peire Vidal. Paris: Librairie ancienne Honor Champion, 1913"
+}

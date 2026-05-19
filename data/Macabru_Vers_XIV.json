@@ -1,0 +1,152 @@
+{
+    "Author": [
+        "Macabru"
+    ],
+    "Genre": "Canso",
+    "Title": "Contra l'ivern que s'enansa ",
+    "FullText": [
+        "[Co]ntra [l'i]vern que s'e[n]ansa,",
+        "Ab cossi[ri]er que m'as[sa]ilh",
+        "M'es belh [q]ue del chant [m]'enans,",
+        "Ans [q]u'autre cossiriers m'assalha,",
+        "Pus per un cosselh descrec",
+        "No m'es ops qu'autre m'encresca.",
+        "Qu'ieu sui assis en trebalh",
+        "E levatz en la balansa",
+        "D'aquesta say quem trebalha",
+        "Em ten en aquest balans",
+        "Qu'ab doussa sabor azesca",
+        "Sos digz de felho[n] azesc.",
+        "Mos talans e sa semblansa",
+        "So e no so d'un entalh,",
+        "Pueys del talent nays semblans",
+        "E pueys ab son dig lentalha,",
+        "Quar si lus trai ab mal vesc",
+        "Lo brico, l'autre lenvesca.",
+        "L'amar[s] d'aquesta nom falh",
+        "Pels tricx enojos d'amansa,",
+        "Ab sol qu'en amar nom falha",
+        "Em sia d'amar amans",
+        "Ab guizardon quem paresca",
+        "Plus tozetz que nonparesc.",
+        "Per cujatz n'ay esperansa",
+        "Qu'enquer ab mi s'enguasalh,",
+        "Mas tan n'ay bons esperans",
+        "Estranhs de corta guasalha",
+        "Qu'en mieg mon afar folesc",
+        "Non dic paraula folesca.",
+        "La musa port' el badalh",
+        "Selh qu'en amar a fizansa",
+        "Qu'estra grat mus' e badalh[a]",
+        "Soven, so vos afizans,",
+        "Qu'amors adoncx entrebresca ;",
+        "Enginhos desentrebresc.",
+        "Ab felhona deziransa",
+        "Ed estranhatge baralh",
+        "Pays Amors los dezirans",
+        "Cuy vir e vol[v] em baralha,",
+        "Qu'unam n'a en ufanesc",
+        "Pagut d'aital ufanesca.",
+        "Manque VIII. La forme de IX est celle des strophes impaires.",
+        "D'esta qu'ieu chant sobransa</em",
+        "Sos pretz, senes devinalh,",
+        "Et en valor essobrans</em",
+        "Neychas segon devinalha,",
+        "Quar si per lieys no m'espresc",
+        "Non aten qu'autra m'espresca.",
+        "Selh qui fes lo vers el tresc",
+        "No sap don si mou la tresca.",
+        "XI",
+        "Marcabrus a fag lo tresc",
+        "E no sap don mou la tresca."
+    ],
+    "Stanzas": [
+        [
+            "[Co]ntra [l'i]vern que s'e[n]ansa,",
+            "Ab cossi[ri]er que m'as[sa]ilh",
+            "M'es belh [q]ue del chant [m]'enans,",
+            "Ans [q]u'autre cossiriers m'assalha,",
+            "Pus per un cosselh descrec",
+            "No m'es ops qu'autre m'encresca."
+        ],
+        [
+            "Qu'ieu sui assis en trebalh",
+            "E levatz en la balansa",
+            "D'aquesta say quem trebalha",
+            "Em ten en aquest balans",
+            "Qu'ab doussa sabor azesca",
+            "Sos digz de felho[n] azesc."
+        ],
+        [
+            "Mos talans e sa semblansa",
+            "So e no so d'un entalh,",
+            "Pueys del talent nays semblans",
+            "E pueys ab son dig lentalha,",
+            "Quar si lus trai ab mal vesc",
+            "Lo brico, l'autre lenvesca."
+        ],
+        [
+            "L'amar[s] d'aquesta nom falh",
+            "Pels tricx enojos d'amansa,",
+            "Ab sol qu'en amar nom falha",
+            "Em sia d'amar amans",
+            "Ab guizardon quem paresca",
+            "Plus tozetz que nonparesc."
+        ],
+        [
+            "Per cujatz n'ay esperansa",
+            "Qu'enquer ab mi s'enguasalh,",
+            "Mas tan n'ay bons esperans",
+            "Estranhs de corta guasalha",
+            "Qu'en mieg mon afar folesc",
+            "Non dic paraula folesca."
+        ],
+        [
+            "La musa port' el badalh",
+            "Selh qu'en amar a fizansa",
+            "Qu'estra grat mus' e badalh[a]",
+            "Soven, so vos afizans,",
+            "Qu'amors adoncx entrebresca ;",
+            "Enginhos desentrebresc."
+        ],
+        [
+            "Ab felhona deziransa",
+            "Ed estranhatge baralh",
+            "Pays Amors los dezirans",
+            "Cuy vir e vol[v] em baralha,",
+            "Qu'unam n'a en ufanesc",
+            "Pagut d'aital ufanesca."
+        ],
+        [
+            "Manque VIII. La forme de IX est celle des strophes impaires."
+        ],
+        [
+            "D'esta qu'ieu chant sobransa</em",
+            "Sos pretz, senes devinalh,",
+            "Et en valor essobrans</em",
+            "Neychas segon devinalha,",
+            "Quar si per lieys no m'espresc",
+            "Non aten qu'autra m'espresca."
+        ],
+        [
+            "Selh qui fes lo vers el tresc",
+            "No sap don si mou la tresca.",
+            "XI",
+            "Marcabrus a fag lo tresc",
+            "E no sap don mou la tresca."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X"
+    ],
+    "Source": " Dejeanne, Jean Marie Lucien. Posies compltes du troubadour Marcabru. Toulouse: douard Privat, 1909"
+}
