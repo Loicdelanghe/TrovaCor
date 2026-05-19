@@ -1,0 +1,45 @@
+{
+    "Author": [
+        "UcdeMaensac",
+        "PeireCardenal"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "En Prie, per mon chantar bl ",
+    "FullText": [
+        " En Pire, per mon chantar bl",
+        "Ai de mi Dns gantz et anl,",
+        "E mant autre n'an atress",
+        "Agut de dmnas per lur chant ;",
+        "E cel que contra chantar",
+        "Sembla ben qu'ane rebuzant.",
+        " Ugon, si vos n'avtz jol,",
+        "Autre n'a la carn e la pl,",
+        "E chantatz quant el es el ni.",
+        "E quan vos enformatz son gant,",
+        "Autre enforma [son] laur :",
+        "Dont vos anatz brezanejant."
+    ],
+    "Stanzas": [
+        [
+            " En Pire, per mon chantar bl",
+            "Ai de mi Dns gantz et anl,",
+            "E mant autre n'an atress",
+            "Agut de dmnas per lur chant ;",
+            "E cel que contra chantar",
+            "Sembla ben qu'ane rebuzant."
+        ],
+        [
+            " Ugon, si vos n'avtz jol,",
+            "Autre n'a la carn e la pl,",
+            "E chantatz quant el es el ni.",
+            "E quan vos enformatz son gant,",
+            "Autre enforma [son] laur :",
+            "Dont vos anatz brezanejant."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Bec, Pierre. Burlesque et obscnit chez les troubadours. Pour une approche du contre-texte mdival. Paris: Stock, 1984"
+}

@@ -1,0 +1,48 @@
+{
+    "Author": [
+        "Uc_de_Saint_Circ"
+    ],
+    "Genre": "Canso",
+    "Title": "Enaissi cum son plus car ",
+    "FullText": [
+        "Enaissi cum son plus car",
+        "Qe non solon miei cossir",
+        "E plus onrat miei desir,",
+        "Dei plus plazen chanson far,",
+        "E, sieu tant plazen chanso",
+        "Fatz cum ai plazen razo,",
+        "Ben er ma chansos plazens",
+        "Et gaia et avinens;",
+        "Qeil dig eil faich eil ris eil bel semblan",
+        "Son avinen de vos, per cui eu chan . . .",
+        "Na Salvatga, mout es gens",
+        "Vostre bel comensamens,",
+        "Qeil dig son gai e li faich benestan",
+        "El cors plazens e davinen semblan."
+    ],
+    "Stanzas": [
+        [
+            "Enaissi cum son plus car",
+            "Qe non solon miei cossir",
+            "E plus onrat miei desir,",
+            "Dei plus plazen chanson far,",
+            "E, sieu tant plazen chanso",
+            "Fatz cum ai plazen razo,",
+            "Ben er ma chansos plazens",
+            "Et gaia et avinens;",
+            "Qeil dig eil faich eil ris eil bel semblan",
+            "Son avinen de vos, per cui eu chan . . ."
+        ],
+        [
+            "Na Salvatga, mout es gens",
+            "Vostre bel comensamens,",
+            "Qeil dig son gai e li faich benestan",
+            "El cors plazens e davinen semblan."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "VII"
+    ],
+    "Source": " Jeanroy, Alfred; Salverda de Grave, Jean-Jacques. Posies de Uc de Saint-Circ. Toulouse: Imprimerie et Librairie douard Privat, 1913"
+}

@@ -1,0 +1,48 @@
+{
+    "Author": [
+        "Uc_de_Saint_Circ"
+    ],
+    "Genre": "Coblas",
+    "Title": "Antan fez coblas duna bordeliera ",
+    "FullText": [
+        "Antan fez coblas duna bordeliera",
+        "Ser Aimerics, e sen det alegranza,",
+        "Et aras auch qen una lavandeira",
+        "A mes son cor e tota sa esperanza;",
+        "Qaissi saven dome qes trop dios,",
+        "Qe sos affars torna de sus en jos,",
+        "Quant veillesa lo rom ni desbalanza.",
+        "Ja toseta noil er mais lausengiera",
+        "Ni noill dira lausengas ni honranza;",
+        "E, si o fai, fara per nessieira",
+        "Quaura en si, e per grant malananza;",
+        "E faill li ben pans, vins, sez e maisos",
+        "A leis, sab si lo colga nis met jos",
+        "Ni abracha sa fronzida pel ranza."
+    ],
+    "Stanzas": [
+        [
+            "Antan fez coblas duna bordeliera",
+            "Ser Aimerics, e sen det alegranza,",
+            "Et aras auch qen una lavandeira",
+            "A mes son cor e tota sa esperanza;",
+            "Qaissi saven dome qes trop dios,",
+            "Qe sos affars torna de sus en jos,",
+            "Quant veillesa lo rom ni desbalanza."
+        ],
+        [
+            "Ja toseta noil er mais lausengiera",
+            "Ni noill dira lausengas ni honranza;",
+            "E, si o fai, fara per nessieira",
+            "Quaura en si, e per grant malananza;",
+            "E faill li ben pans, vins, sez e maisos",
+            "A leis, sab si lo colga nis met jos",
+            "Ni abracha sa fronzida pel ranza."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Jeanroy, Alfred; Salverda de Grave, Jean-Jacques. Posies de Uc de Saint-Circ. Toulouse: Imprimerie et Librairie douard Privat, 1913"
+}
