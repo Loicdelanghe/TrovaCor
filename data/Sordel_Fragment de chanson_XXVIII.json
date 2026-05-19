@@ -1,0 +1,39 @@
+{
+    "Author": [
+        "Sordel"
+    ],
+    "Genre": "Canso",
+    "Title": "Ar hai proat q'el mon non ha dolor ",
+    "FullText": [
+        "Ar hai proat qel mon non ha dolor",
+        ".     . . . . . .",
+        "(II?)",
+        "Bars qa vint anz no fai comenzamen",
+        "e far rics faitz, a gauz donan nien,",
+        "ja noi aia nuls hom respieg a cen,",
+        "qill meillor faich sacordon ab joven.",
+        "Per aisso preg mon seingnor que breumen",
+        "comenz a far rics faitz, sen prez enten;",
+        "qar si joves no conqer prez valen,",
+        "u er conqes per lui al seu viven."
+    ],
+    "Stanzas": [
+        [
+            "Ar hai proat qel mon non ha dolor",
+            ".     . . . . . .",
+            "(II?)",
+            "Bars qa vint anz no fai comenzamen",
+            "e far rics faitz, a gauz donan nien,",
+            "ja noi aia nuls hom respieg a cen,",
+            "qill meillor faich sacordon ab joven.",
+            "Per aisso preg mon seingnor que breumen",
+            "comenz a far rics faitz, sen prez enten;",
+            "qar si joves no conqer prez valen,",
+            "u er conqes per lui al seu viven."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I"
+    ],
+    "Source": " Boni, Marco. Sordello, Le poesie. Nuova edizione critica con studio introduttivo, traduzioni, note e glossario. Bologna: Palmaverde, 1954"
+}

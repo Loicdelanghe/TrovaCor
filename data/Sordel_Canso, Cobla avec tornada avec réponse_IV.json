@@ -1,0 +1,101 @@
+{
+    "Author": [
+        "Sordel"
+    ],
+    "Genre": "Canso",
+    "Title": "Bel m'es ab motz leugiers a far ",
+    "FullText": [
+        " Bel mes ab motz leugiers a far",
+        " chanson plazen et ab guay so,",
+        " quel melher que hom pot triar,",
+        " a cuy mautrey em ren em do,",
+        "no vol nil plai chantar de maestria;",
+        "e mas nolh plai, farai hueymais mon chan",
+        "leu a chantar e dauzir agradan,",
+        "entendre e prim, qui prim lo tria.",
+        " Gen mi saup mon fin cor emblar,",
+        " al prim quieu miriey sa faisso,",
+        " ab un dous amoros esguar",
+        " quem lansero siey huelh lairo.",
+        "Ab selh esguar mintret en aisselh dia",
+        "Amors pels huelhs al cor daital semblan,",
+        "quel cor en trays e mes la son coman,",
+        "quab lieys es, on quieu an ni estia.",
+        " Ai, cum mi saup gent esgardar,",
+        " si lesgartz messongiers no fo,",
+        " dels huelhs que sap gent enviar",
+        " totz temps per dreg lai on les bo;",
+        "mas a sos digz mi par quaisos cambia:",
+        "pero lesgar creirai; quab cor forsan",
+        "parlom pro vetz, mas nulh poder non an",
+        "huelh desgardar gen, sil cor nols envia.",
+        " E quar am de bon pretz ses par,",
+        " am mais servir lieys en perdo",
+        " quautra quab sim degnes colgar;",
+        " mas no la sier ses guazardo,",
+        "quar fis amicx no sier ges daitai guia,",
+        "quan sier de cor en honrat loc prezan:",
+        "per que lonors mes guazardos daitan,",
+        "quel sobreplus non quier, mas beu penria.",
+        "Vaillam ab vos merce[s], dolza enemia,",
+        "no mauziez, seu vos am ses enjan:",
+        "qe me suffratz qeus servab ferm talan,",
+        "on deman, ni estre non deuria."
+    ],
+    "Stanzas": [
+        [
+            " Bel mes ab motz leugiers a far",
+            " chanson plazen et ab guay so,",
+            " quel melher que hom pot triar,",
+            " a cuy mautrey em ren em do,",
+            "no vol nil plai chantar de maestria;",
+            "e mas nolh plai, farai hueymais mon chan",
+            "leu a chantar e dauzir agradan,",
+            "entendre e prim, qui prim lo tria."
+        ],
+        [
+            " Gen mi saup mon fin cor emblar,",
+            " al prim quieu miriey sa faisso,",
+            " ab un dous amoros esguar",
+            " quem lansero siey huelh lairo.",
+            "Ab selh esguar mintret en aisselh dia",
+            "Amors pels huelhs al cor daital semblan,",
+            "quel cor en trays e mes la son coman,",
+            "quab lieys es, on quieu an ni estia."
+        ],
+        [
+            " Ai, cum mi saup gent esgardar,",
+            " si lesgartz messongiers no fo,",
+            " dels huelhs que sap gent enviar",
+            " totz temps per dreg lai on les bo;",
+            "mas a sos digz mi par quaisos cambia:",
+            "pero lesgar creirai; quab cor forsan",
+            "parlom pro vetz, mas nulh poder non an",
+            "huelh desgardar gen, sil cor nols envia."
+        ],
+        [
+            " E quar am de bon pretz ses par,",
+            " am mais servir lieys en perdo",
+            " quautra quab sim degnes colgar;",
+            " mas no la sier ses guazardo,",
+            "quar fis amicx no sier ges daitai guia,",
+            "quan sier de cor en honrat loc prezan:",
+            "per que lonors mes guazardos daitan,",
+            "quel sobreplus non quier, mas beu penria."
+        ],
+        [
+            "Vaillam ab vos merce[s], dolza enemia,",
+            "no mauziez, seu vos am ses enjan:",
+            "qe me suffratz qeus servab ferm talan,",
+            "on deman, ni estre non deuria."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Boni, Marco. Sordello, Le poesie. Nuova edizione critica con studio introduttivo, traduzioni, note e glossario. Bologna: Palmaverde, 1954"
+}

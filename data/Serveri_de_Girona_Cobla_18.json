@@ -1,0 +1,40 @@
+{
+    "Author": [
+        "Serveri_de_Girona"
+    ],
+    "Genre": "Cobla",
+    "Title": "Prometre ses dar es aytals ",
+    "FullText": [
+        "Prometre ses dar es aytals",
+        "Con solatz d'enemics mortals,",
+        "E pert se dos e laus e gratz",
+        "En dos foradamens donatz.",
+        "Al prometres deu hom guardar",
+        "Trop mays del do promes tardar ;",
+        "Qu'entrels francs, vertaders, cortes",
+        "N'ai egals dos datz e promes.",
+        "Gentils domn'ab gay cor cortes,",
+        "Per vos ay dit o que vers es !"
+    ],
+    "Stanzas": [
+        [
+            "Prometre ses dar es aytals",
+            "Con solatz d'enemics mortals,",
+            "E pert se dos e laus e gratz",
+            "En dos foradamens donatz.",
+            "Al prometres deu hom guardar",
+            "Trop mays del do promes tardar ;",
+            "Qu'entrels francs, vertaders, cortes",
+            "N'ai egals dos datz e promes."
+        ],
+        [
+            "Gentils domn'ab gay cor cortes,",
+            "Per vos ay dit o que vers es !"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Kolsen, Adolf. Beitrge zur Altprovenzalischen Lyrik (42 Erstmalig Bearbeitete Dichtungen). Firenze: Leo S.Olschki, 1939"
+}

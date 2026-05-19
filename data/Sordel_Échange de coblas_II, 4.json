@@ -1,0 +1,47 @@
+{
+    "Author": [
+        "Sordel",
+        "LoComsdeProensa"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "Toz hom me van disen, en esta maladia ",
+    "FullText": [
+        "Cobla de messer Sordel q'era malad.",
+        "Toz hom me van disen, en esta maladia,",
+        "que s'ieu mi conortes qe gran ben m'o faria :",
+        "ben sai q'il deison ver; mas com far lo porria",
+        "hom q'e[s] paubre daver ed es malat tot dia,",
+        "ed es mal de seignor e d'amor e d'amia ?",
+        "Fos qi m'on l'ensignes, ben rix conortaria !",
+        " Sordel diz mal de mi e far no lon deuria,",
+        "q'ieu l'ai tengut [en] car e [molt] onrat tot dia:",
+        "onei li fol molin e autra manentia,",
+        "e donei li molli[e]r aital com el volia.",
+        "Mas fol es ennojos e es plen de follia :",
+        "qil dones un contat, grat no lin sent[i]ria !"
+    ],
+    "Stanzas": [
+        [
+            "Cobla de messer Sordel q'era malad.",
+            "Toz hom me van disen, en esta maladia,",
+            "que s'ieu mi conortes qe gran ben m'o faria :",
+            "ben sai q'il deison ver; mas com far lo porria",
+            "hom q'e[s] paubre daver ed es malat tot dia,",
+            "ed es mal de seignor e d'amor e d'amia ?",
+            "Fos qi m'on l'ensignes, ben rix conortaria !"
+        ],
+        [
+            " Sordel diz mal de mi e far no lon deuria,",
+            "q'ieu l'ai tengut [en] car e [molt] onrat tot dia:",
+            "onei li fol molin e autra manentia,",
+            "e donei li molli[e]r aital com el volia.",
+            "Mas fol es ennojos e es plen de follia :",
+            "qil dones un contat, grat no lin sent[i]ria !"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Boni, Marco. Sordello, Le poesie. Nuova edizione critica con studio introduttivo, traduzioni, note e glossario. Bologna: Palmaverde, 1954"
+}

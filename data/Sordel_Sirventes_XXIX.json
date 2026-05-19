@@ -1,0 +1,82 @@
+{
+    "Author": [
+        "Sordel"
+    ],
+    "Genre": "Sirventes",
+    "Title": "Lai al comte mon segnor voill pregar ",
+    "FullText": [
+        "Lai al comte mon segnor voill pregar",
+        "non li plassa qab sem men oltra mar,",
+        "qar ben sapcha queu lai non posc passar;",
+        "pero el miez totz temps volriestar,",
+        "ben volria la gent acompagnar",
+        "e Deus penses de las armas salvar:",
+        "mas fort lo deu nostre segner amar,",
+        "qar dels peccatz vol penedenza far.",
+        "Ancar non hai de la mar tant apres,",
+        "si tot lai gen sui nuiriz, qeu pogues",
+        "oltra passar, per esfortz qeu fezes;",
+        "per qel compte voill pregar non li pes",
+        "sab lui non pas, qesser non dei repres,",
+        "qeu tem tant fort la mar, qan mals temps es,",
+        "qoltra non posc passar per re, zom pes,",
+        "l coms non deu voler queu mora ges.",
+        "Mas sab se vol marinier ben saben",
+        "e la mar, men em Bertran, si les gen,",
+        "Alamanon, qa lui sai qes plazen,",
+        "e sap tan be qal son li meillor ven,",
+        "qen un jorn passa e sen torna leumen,",
+        "el coms lais mi, qe poder ni talen",
+        "non hai passar la mar al meu viven",
+        "mi fai mortz de paor e spaven.",
+        "Mon seignor prec non li sia plazen",
+        "qoltram fassa passar, part mon talen;",
+        "qen la mar ven totz hom a perdemen,",
+        "per qeu non voill passar, al meu viven."
+    ],
+    "Stanzas": [
+        [
+            "Lai al comte mon segnor voill pregar",
+            "non li plassa qab sem men oltra mar,",
+            "qar ben sapcha queu lai non posc passar;",
+            "pero el miez totz temps volriestar,",
+            "ben volria la gent acompagnar",
+            "e Deus penses de las armas salvar:",
+            "mas fort lo deu nostre segner amar,",
+            "qar dels peccatz vol penedenza far."
+        ],
+        [
+            "Ancar non hai de la mar tant apres,",
+            "si tot lai gen sui nuiriz, qeu pogues",
+            "oltra passar, per esfortz qeu fezes;",
+            "per qel compte voill pregar non li pes",
+            "sab lui non pas, qesser non dei repres,",
+            "qeu tem tant fort la mar, qan mals temps es,",
+            "qoltra non posc passar per re, zom pes,",
+            "l coms non deu voler queu mora ges."
+        ],
+        [
+            "Mas sab se vol marinier ben saben",
+            "e la mar, men em Bertran, si les gen,",
+            "Alamanon, qa lui sai qes plazen,",
+            "e sap tan be qal son li meillor ven,",
+            "qen un jorn passa e sen torna leumen,",
+            "el coms lais mi, qe poder ni talen",
+            "non hai passar la mar al meu viven",
+            "mi fai mortz de paor e spaven."
+        ],
+        [
+            "Mon seignor prec non li sia plazen",
+            "qoltram fassa passar, part mon talen;",
+            "qen la mar ven totz hom a perdemen,",
+            "per qeu non voill passar, al meu viven."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Boni, Marco. Sordello, Le poesie. Nuova edizione critica con studio introduttivo, traduzioni, note e glossario. Bologna: Palmaverde, 1954"
+}

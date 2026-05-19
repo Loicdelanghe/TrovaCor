@@ -1,0 +1,89 @@
+{
+    "Author": [
+        "Serveri_de_Girona"
+    ],
+    "Genre": "Dansa",
+    "Title": "Tot can cors dezira ",
+    "FullText": [
+        "Car per aver plazer, esper",
+        "Ab fi, ferm, franc voler humil ;",
+        "C'amor d'aylor no m'or, ans plor",
+        "E suspire mays per un mil",
+        "D'altra, don partira,",
+        "Si pogues, c'aley",
+        "M'amor, sem partira,",
+        "Don totz nom desley.",
+        "Quel gens, jausens, plasens, valens",
+        "S'esfors, qu'enamorals amans",
+        "E fai, o say, d'esmay ab jay",
+        "Gaug e dona sens als amans !",
+        "Ay, las ! sol nos vira",
+        "Vas mi ; que mals, crey,",
+        "Plaix es, can los vira ;",
+        "Pero nom recrey.",
+        "A port de mort me port, s'acort,",
+        "Lay, nel soy d'amar flacs ne vas,",
+        "E si ma fi vol ni m'auci,",
+        "Ja volgra que sos faitz leujas;",
+        "Que mortz no sufrira",
+        "Est mal, don sordey ;",
+        "Qu'eu say quil sofrira",
+        "Per mi, fe queus dey.",
+        "Tot or me dezira",
+        "Que Cardona vey ;",
+        "Pero nom dezira",
+        "Sobrepretz, qu'en vey !",
+        " L'enfans Peyres mira",
+        "En pretz, fe queus dey."
+    ],
+    "Stanzas": [
+        [
+            "Car per aver plazer, esper",
+            "Ab fi, ferm, franc voler humil ;",
+            "C'amor d'aylor no m'or, ans plor",
+            "E suspire mays per un mil",
+            "D'altra, don partira,",
+            "Si pogues, c'aley",
+            "M'amor, sem partira,",
+            "Don totz nom desley."
+        ],
+        [
+            "Quel gens, jausens, plasens, valens",
+            "S'esfors, qu'enamorals amans",
+            "E fai, o say, d'esmay ab jay",
+            "Gaug e dona sens als amans !",
+            "Ay, las ! sol nos vira",
+            "Vas mi ; que mals, crey,",
+            "Plaix es, can los vira ;",
+            "Pero nom recrey."
+        ],
+        [
+            "A port de mort me port, s'acort,",
+            "Lay, nel soy d'amar flacs ne vas,",
+            "E si ma fi vol ni m'auci,",
+            "Ja volgra que sos faitz leujas;",
+            "Que mortz no sufrira",
+            "Est mal, don sordey ;",
+            "Qu'eu say quil sofrira",
+            "Per mi, fe queus dey."
+        ],
+        [
+            "Tot or me dezira",
+            "Que Cardona vey ;",
+            "Pero nom dezira",
+            "Sobrepretz, qu'en vey !"
+        ],
+        [
+            " L'enfans Peyres mira",
+            "En pretz, fe queus dey."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Kolsen, Adolf. Beitrge zur Altprovenzalischen Lyrik (42 Erstmalig Bearbeitete Dichtungen). Firenze: Leo S.Olschki, 1939"
+}

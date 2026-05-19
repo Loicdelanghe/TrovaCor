@@ -1,0 +1,89 @@
+{
+    "Author": [
+        "Sordel"
+    ],
+    "Genre": "Canso",
+    "Title": "Qan plus creis, dompna, l desiriers ",
+    "FullText": [
+        "[Q]an plus creis, dompna, l desiriers,",
+        "on languisc qar nom faitz amor,",
+        "e lauzar vostre prez ausor",
+        "creis plus mos cors; car jois entiers",
+        " nom pot ges vinir, amija,",
+        " de vos, sil prez sen destrija;",
+        "qaitan car teing vostre fin prez valen",
+        "om am ni voill vostre cors car e gen.",
+        "Aital mautrei, fis, vertadiers,",
+        "a vos qetz ses par de valor,",
+        "qeu am mais morir ab dolor,",
+        "qe de vos mi vengaligriers,",
+        " qal fin prez qen vos sabrija",
+        " puesca dan tener; e si ja-",
+        "mais me trobaz vas vos dautre talen,",
+        "ja non aiaz merce ni chausimen.",
+        "Qamar non pot nuls cavaliers",
+        "sa dompna ses cor trichador,",
+        "sengal lei non ama sa honor;",
+        "per qeus prec, bels cors plazentiers,",
+        " qe pauc ni gaire ni mija",
+        " non fassaz de re qeus dija,",
+        "qesser puesc[a] contral vostronramen.",
+        "Gardaz sieus am de fin cor leialmen!",
+        " Per merceus prec, bellamija,",
+        " qez ab una qualqe brija",
+        "el joi damor mi secoraz breumen,",
+        "far se pot salvan vostronramen;",
+        "qestiers non pose aver nul jauzimen,",
+        "pietat[z] e merces nous inpren."
+    ],
+    "Stanzas": [
+        [
+            "[Q]an plus creis, dompna, l desiriers,",
+            "on languisc qar nom faitz amor,",
+            "e lauzar vostre prez ausor",
+            "creis plus mos cors; car jois entiers",
+            " nom pot ges vinir, amija,",
+            " de vos, sil prez sen destrija;",
+            "qaitan car teing vostre fin prez valen",
+            "om am ni voill vostre cors car e gen."
+        ],
+        [
+            "Aital mautrei, fis, vertadiers,",
+            "a vos qetz ses par de valor,",
+            "qeu am mais morir ab dolor,",
+            "qe de vos mi vengaligriers,",
+            " qal fin prez qen vos sabrija",
+            " puesca dan tener; e si ja-",
+            "mais me trobaz vas vos dautre talen,",
+            "ja non aiaz merce ni chausimen."
+        ],
+        [
+            "Qamar non pot nuls cavaliers",
+            "sa dompna ses cor trichador,",
+            "sengal lei non ama sa honor;",
+            "per qeus prec, bels cors plazentiers,",
+            " qe pauc ni gaire ni mija",
+            " non fassaz de re qeus dija,",
+            "qesser puesc[a] contral vostronramen.",
+            "Gardaz sieus am de fin cor leialmen!"
+        ],
+        [
+            " Per merceus prec, bellamija,",
+            " qez ab una qualqe brija",
+            "el joi damor mi secoraz breumen,",
+            "far se pot salvan vostronramen;"
+        ],
+        [
+            "qestiers non pose aver nul jauzimen,",
+            "pietat[z] e merces nous inpren."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Boni, Marco. Sordello, Le poesie. Nuova edizione critica con studio introduttivo, traduzioni, note e glossario. Bologna: Palmaverde, 1954"
+}

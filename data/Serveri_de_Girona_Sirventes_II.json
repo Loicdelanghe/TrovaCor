@@ -1,0 +1,79 @@
+{
+    "Author": [
+        "Serveri_de_Girona"
+    ],
+    "Genre": "Sirventes",
+    "Title": "EntrArago    e Navarra jazia ",
+    "FullText": [
+        "en tal mayzo    que de sus me plovia,",
+        "e lamps ab tro    e vens, plugs y fazia;",
+        "mays puis fo bo    o quen durmen vezia,",
+        "que cil cuy so    missatgem trametria",
+        "de tal razo    que per re no diria.",
+        "Ja vezio    vi on gran joy avia:",
+        "la vespra fo    de Totz Sans, que dormia;",
+        "e querray do    a ma dona quem dia",
+        "cela sazo    si de mil sovenia.",
+        "Ay! car no so    lay on tan gen se lia",
+        "e que ab so    dixes o que solia?",
+        "Lautre jorn pres    en la canbra mestava",
+        "on midons es,    e tan gen mi baisava",
+        "plus de cen ves    que sol non i pauzava;",
+        "ens sobrepres    una qui lam guardava,",
+        "mas per o ges    del baysar nos laxava,",
+        "ans dic quen res    non era sil pezava.",
+        "Er auziretz    o don eu la preyava:",
+        "que mi baizes    tan, pus axi monrava,",
+        "tro quem nuges;    pero no macordava",
+        "quem desplagues,    si totz temps mo durava.",
+        "Si tan cortes    ostals totz jorns trobava!",
+        ".    .    .    .    .    .    .    .    .    .    .    .",
+        "Ay, cors cortes!    Si con durmen estava,",
+        "si ans dun mes    veylan pres malegrava!"
+    ],
+    "Stanzas": [
+        [
+            "en tal mayzo    que de sus me plovia,",
+            "e lamps ab tro    e vens, plugs y fazia;",
+            "mays puis fo bo    o quen durmen vezia,",
+            "que cil cuy so    missatgem trametria",
+            "de tal razo    que per re no diria."
+        ],
+        [
+            "Ja vezio    vi on gran joy avia:",
+            "la vespra fo    de Totz Sans, que dormia;",
+            "e querray do    a ma dona quem dia",
+            "cela sazo    si de mil sovenia.",
+            "Ay! car no so    lay on tan gen se lia",
+            "e que ab so    dixes o que solia?"
+        ],
+        [
+            "Lautre jorn pres    en la canbra mestava",
+            "on midons es,    e tan gen mi baisava",
+            "plus de cen ves    que sol non i pauzava;",
+            "ens sobrepres    una qui lam guardava,",
+            "mas per o ges    del baysar nos laxava,",
+            "ans dic quen res    non era sil pezava."
+        ],
+        [
+            "Er auziretz    o don eu la preyava:",
+            "que mi baizes    tan, pus axi monrava,",
+            "tro quem nuges;    pero no macordava",
+            "quem desplagues,    si totz temps mo durava.",
+            "Si tan cortes    ostals totz jorns trobava!",
+            ".    .    .    .    .    .    .    .    .    .    .    ."
+        ],
+        [
+            "Ay, cors cortes!    Si con durmen estava,",
+            "si ans dun mes    veylan pres malegrava!"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Marco Grimaldi, Cerveri de Girona, EntrArago e Navarra jazia (BdT 434.7a), Lecturae tropatorum, 1, 2008."
+}

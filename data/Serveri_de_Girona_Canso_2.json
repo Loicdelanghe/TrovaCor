@@ -1,0 +1,131 @@
+{
+    "Author": [
+        "Serveri_de_Girona"
+    ],
+    "Genre": "Canso",
+    "Title": "Si com l'ayga tra peitz que res que sia ",
+    "FullText": [
+        "Si com l'ayga tra peitz que res que sia",
+        "Trail mals d'amor sobre tot los amanz ;",
+        "Car cil cuy am me frayn covens e mans",
+        "Em destreyn tan qu'eu desir que m'aucia.",
+        "Quel mals quem fay me fen em frayn em mort ;",
+        "Mas faram dreit, o ditz, can m'aura mort,",
+        "De ma vida, quem fay penan despendre",
+        "Axi com cel quil pendut fa despendre.",
+        "Sil plazia, merce demandaria,",
+        "Car Merces es humils e durs demanz.",
+        "C'ab merce vey amanz guerir de manz",
+        "Greus mals e say que sens dernan daria",
+        "Sos gentils cors a me joy e deport,",
+        "Si sabia lo mal el faix que port.",
+        "Car fin'amors, quim fay en leys entendre,",
+        "Me fay penan languen merce atendre",
+        "Si que per mal, qu'en sofris, nom partria",
+        "De leys servir e far totz sos comanz.",
+        " Fay tan sevals, sol c'un bays li comanz.",
+        "Pus amors t'a fait d'amar, ses partria,",
+        "Con mays no puc !  Qu'en amor vay per tort",
+        "Dreitz e per pris cel c'om te per estort,",
+        "Ez eu tem tan menzcabar e reprendre,",
+        "Re noil coman ne aus del seu re prendre.",
+        "Si sui destreitz que ora tenc per dia",
+        "E dia m'es adreitz de mes semblans,",
+        "Car leys no vey, las, e no m'es semblans",
+        "E sil vezer nel gay solatz perdia",
+        "De la bela, qu'es la gener ques tort,",
+        "Leu auria de tot l'als fait acort !",
+        "Car qui pert o que pus am'escuxendre,",
+        "Nol cal per l'als ; car no pot pus dexendre !",
+        "Si per valor tan de merce m'avia,",
+        "Car es gentils, plasenz, cuynd'e prezans,",
+        "Que vis com fay languir em te pres anz",
+        "C'axis muris, per leys languen, ma via",
+        "Mal aguir no temeria ne sort,",
+        "E s'il nom val, ja Deus nom vaylla ! Hort,",
+        "Prat ne jardi nom podon vid'estendre",
+        "Un jorn ; tan vey la mort prs mi destendre.",
+        "Can Cardona vey, ay gauig e deport ;",
+        "Qu'el mon no say loc de pla ne de port",
+        "Ab mays valor, per qu'eu vuyll lay atendre",
+        "E Sobrepretz, car hom no1 pot geyn tendre.",
+        "L'enfans Peyre ditz que troban acort,",
+        "E pus o ditz il, eu noy voyl recort",
+        "C'om deu guardar fi a grans faitz empendre,",
+        "E quis mendar no sab, no deu rependre !"
+    ],
+    "Stanzas": [
+        [
+            "Si com l'ayga tra peitz que res que sia",
+            "Trail mals d'amor sobre tot los amanz ;",
+            "Car cil cuy am me frayn covens e mans",
+            "Em destreyn tan qu'eu desir que m'aucia.",
+            "Quel mals quem fay me fen em frayn em mort ;",
+            "Mas faram dreit, o ditz, can m'aura mort,",
+            "De ma vida, quem fay penan despendre",
+            "Axi com cel quil pendut fa despendre."
+        ],
+        [
+            "Sil plazia, merce demandaria,",
+            "Car Merces es humils e durs demanz.",
+            "C'ab merce vey amanz guerir de manz",
+            "Greus mals e say que sens dernan daria",
+            "Sos gentils cors a me joy e deport,",
+            "Si sabia lo mal el faix que port.",
+            "Car fin'amors, quim fay en leys entendre,",
+            "Me fay penan languen merce atendre"
+        ],
+        [
+            "Si que per mal, qu'en sofris, nom partria",
+            "De leys servir e far totz sos comanz.",
+            " Fay tan sevals, sol c'un bays li comanz.",
+            "Pus amors t'a fait d'amar, ses partria,",
+            "Con mays no puc !  Qu'en amor vay per tort",
+            "Dreitz e per pris cel c'om te per estort,",
+            "Ez eu tem tan menzcabar e reprendre,",
+            "Re noil coman ne aus del seu re prendre."
+        ],
+        [
+            "Si sui destreitz que ora tenc per dia",
+            "E dia m'es adreitz de mes semblans,",
+            "Car leys no vey, las, e no m'es semblans",
+            "E sil vezer nel gay solatz perdia",
+            "De la bela, qu'es la gener ques tort,",
+            "Leu auria de tot l'als fait acort !",
+            "Car qui pert o que pus am'escuxendre,",
+            "Nol cal per l'als ; car no pot pus dexendre !"
+        ],
+        [
+            "Si per valor tan de merce m'avia,",
+            "Car es gentils, plasenz, cuynd'e prezans,",
+            "Que vis com fay languir em te pres anz",
+            "C'axis muris, per leys languen, ma via",
+            "Mal aguir no temeria ne sort,",
+            "E s'il nom val, ja Deus nom vaylla ! Hort,",
+            "Prat ne jardi nom podon vid'estendre",
+            "Un jorn ; tan vey la mort prs mi destendre."
+        ],
+        [
+            "Can Cardona vey, ay gauig e deport ;",
+            "Qu'el mon no say loc de pla ne de port",
+            "Ab mays valor, per qu'eu vuyll lay atendre",
+            "E Sobrepretz, car hom no1 pot geyn tendre."
+        ],
+        [
+            "L'enfans Peyre ditz que troban acort,",
+            "E pus o ditz il, eu noy voyl recort",
+            "C'om deu guardar fi a grans faitz empendre,",
+            "E quis mendar no sab, no deu rependre !"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Kolsen, Adolf. Beitrge zur Altprovenzalischen Lyrik (42 Erstmalig Bearbeitete Dichtungen). Firenze: Leo S.Olschki, 1939"
+}

@@ -1,0 +1,60 @@
+{
+    "Author": [
+        "SimonDoria",
+        "JacmeGrill"
+    ],
+    "Genre": "Tenso",
+    "Title": "Segne'n Iacme Grils, eus deman ",
+    "FullText": [
+        "Segne'n Iacme Grils, eus deman,",
+        "Car vos vei larc e ben istan",
+        "E qar per ric pretz sobeiran",
+        "E per saber es mentaubutz,",
+        "Qe me digatz per q'es perdutz",
+        "Solatz e domneis mal volgutz.",
+        "Cobeitatz, q'es vengud'avan,",
+        "Nos a tot bastit aqest dan,",
+        "En Symon, qe las domnas han",
+        "Amor e domnei gen tengutz,",
+        "Mas per los cobes recrezutz",
+        "Rics drutz [e] bes es abatutz.",
+        "Segne'n Iacme, mout es sennatz",
+        "E primamen vos razonatz,",
+        "Mas qar dizetz qe cobeitatz",
+        "N'a zo mogut, vos aug faillir,",
+        "Qar tost con fon, al mieu albir,",
+        "Aitant o plus, nol devetz dir."
+    ],
+    "Stanzas": [
+        [
+            "Segne'n Iacme Grils, eus deman,",
+            "Car vos vei larc e ben istan",
+            "E qar per ric pretz sobeiran",
+            "E per saber es mentaubutz,",
+            "Qe me digatz per q'es perdutz",
+            "Solatz e domneis mal volgutz."
+        ],
+        [
+            "Cobeitatz, q'es vengud'avan,",
+            "Nos a tot bastit aqest dan,",
+            "En Symon, qe las domnas han",
+            "Amor e domnei gen tengutz,",
+            "Mas per los cobes recrezutz",
+            "Rics drutz [e] bes es abatutz."
+        ],
+        [
+            "Segne'n Iacme, mout es sennatz",
+            "E primamen vos razonatz,",
+            "Mas qar dizetz qe cobeitatz",
+            "N'a zo mogut, vos aug faillir,",
+            "Qar tost con fon, al mieu albir,",
+            "Aitant o plus, nol devetz dir."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Bertoni, Giulio. I trovatori d'Italia. Modena: Editore Cav. Umberto Orlandini, 1915"
+}

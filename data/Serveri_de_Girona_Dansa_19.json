@@ -1,0 +1,76 @@
+{
+    "Author": [
+        "Serveri_de_Girona"
+    ],
+    "Genre": "Dansa",
+    "Title": "Pus no vey leys cuy son amics ",
+    "FullText": [
+        "Pus no vey leys cuy son amics,",
+        "Amors, dil que de mil soveyna.",
+        "No la vey ? Si vey, de jay rics,",
+        "Mal grat de fals gelos enics.",
+        "Pessan doncs sens, no men chastics",
+        "Que nom tem c'om d'ayom destreyna.",
+        "Amors, porta lim salutz cen",
+        "E de plazers lim fay prezen",
+        "Tal com tayn a dompna plazen,",
+        "On pretz e joys e valors reyna !",
+        "Lauzenger, beus fay Deus mendics.",
+        "Per queus ve dans, mals e destrics ?",
+        "Car faitz ab la lenga mals pics",
+        "C'om non er bo pus vos manteyna.",
+        "Ay, fols, ben ay petit de sen !",
+        "Com cuges quet faa manen",
+        "D'amor dompn'ab ric pretz valen",
+        "Net deyn, pus nuyls hom noy ateyna ?",
+        "La dels Cartz es de pretz abrics",
+        "El mante, qui quel desmanteyna.",
+        "Sobrepretz a valor valen",
+        "E l'enfans Peyr'en fin pretz reyna."
+    ],
+    "Stanzas": [
+        [
+            "Pus no vey leys cuy son amics,",
+            "Amors, dil que de mil soveyna.",
+            "No la vey ? Si vey, de jay rics,",
+            "Mal grat de fals gelos enics.",
+            "Pessan doncs sens, no men chastics",
+            "Que nom tem c'om d'ayom destreyna."
+        ],
+        [
+            "Amors, porta lim salutz cen",
+            "E de plazers lim fay prezen",
+            "Tal com tayn a dompna plazen,",
+            "On pretz e joys e valors reyna !"
+        ],
+        [
+            "Lauzenger, beus fay Deus mendics.",
+            "Per queus ve dans, mals e destrics ?",
+            "Car faitz ab la lenga mals pics",
+            "C'om non er bo pus vos manteyna."
+        ],
+        [
+            "Ay, fols, ben ay petit de sen !",
+            "Com cuges quet faa manen",
+            "D'amor dompn'ab ric pretz valen",
+            "Net deyn, pus nuyls hom noy ateyna ?"
+        ],
+        [
+            "La dels Cartz es de pretz abrics",
+            "El mante, qui quel desmanteyna."
+        ],
+        [
+            "Sobrepretz a valor valen",
+            "E l'enfans Peyr'en fin pretz reyna."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Kolsen, Adolf. Beitrge zur Altprovenzalischen Lyrik (42 Erstmalig Bearbeitete Dichtungen). Firenze: Leo S.Olschki, 1939"
+}

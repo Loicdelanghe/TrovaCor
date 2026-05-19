@@ -1,0 +1,63 @@
+{
+    "Author": [
+        "Sordel"
+    ],
+    "Genre": "Coblas avec tornada",
+    "Title": "Del cavaler me plai, qe per amor ",
+    "FullText": [
+        "Del cavaler me plai, qe per amor",
+        "moric lautrer en Flandres, car llaman",
+        "en seran trop miellz crezut derenan",
+        "per las dompnas qels tenon en error.",
+        "Ben volgra fos ab lui morta samia,",
+        "pois gascuna cho qe no cre creiria,",
+        "qe on plus fan los fins amanz languir,",
+        "plus van tarzan zo qe degran complir.",
+        "[P]er dreit pod om apelar falsAmor,",
+        "car nauis un ses un, al meu semblan;",
+        "car per nuill mal tan adreit non estan",
+        "ui mort ensems cum per scela dolor:",
+        "et esteran, se ad Amor plazia,",
+        "mell viu jauzen; mas, pois plai qels auzia,",
+        "ad Amor prec no voilla un sol auzir,",
+        "qel vius trai peiz no fai lautral morir.",
+        "Per qe prec lei, qe pod longar ma via,",
+        "qem socorranz qel mals damor mauzia;",
+        "qe, sel socors nom ven anz del morir,",
+        "mon dan get lei e son repentir."
+    ],
+    "Stanzas": [
+        [
+            "Del cavaler me plai, qe per amor",
+            "moric lautrer en Flandres, car llaman",
+            "en seran trop miellz crezut derenan",
+            "per las dompnas qels tenon en error.",
+            "Ben volgra fos ab lui morta samia,",
+            "pois gascuna cho qe no cre creiria,",
+            "qe on plus fan los fins amanz languir,",
+            "plus van tarzan zo qe degran complir."
+        ],
+        [
+            "[P]er dreit pod om apelar falsAmor,",
+            "car nauis un ses un, al meu semblan;",
+            "car per nuill mal tan adreit non estan",
+            "ui mort ensems cum per scela dolor:",
+            "et esteran, se ad Amor plazia,",
+            "mell viu jauzen; mas, pois plai qels auzia,",
+            "ad Amor prec no voilla un sol auzir,",
+            "qel vius trai peiz no fai lautral morir."
+        ],
+        [
+            "Per qe prec lei, qe pod longar ma via,",
+            "qem socorranz qel mals damor mauzia;",
+            "qe, sel socors nom ven anz del morir,",
+            "mon dan get lei e son repentir."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Boni, Marco. Sordello, Le poesie. Nuova edizione critica con studio introduttivo, traduzioni, note e glossario. Bologna: Palmaverde, 1954"
+}

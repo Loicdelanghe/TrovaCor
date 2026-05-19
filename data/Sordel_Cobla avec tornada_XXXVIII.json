@@ -1,0 +1,48 @@
+{
+    "Author": [
+        "Sordel"
+    ],
+    "Genre": "Cobla avec tornada",
+    "Title": "Entre dolsor ez amar sui fermatz ",
+    "FullText": [
+        "Entre dolsor ez amar sui fermatz",
+        "ab finamor qem destreing noich e dia;",
+        "qe dolsors mes qar am ma dolsamia,",
+        "e mes amar qar eu non sui amaz;",
+        "e mes dolsors sos genz cors e sa faz,",
+        "e mes amar qil nom fai nul secors;",
+        "e mes dolsors qe tan plazenz non regna,",
+        "e mes amar qar en samor nom degna:",
+        "qaissim destreing mitadat finamors,",
+        "qe totz lo montz mes amars e dolsors.",
+        "Voillatz, sius platz, dompna genser qe regna,",
+        "qe de lamar plazenz dolsors mi vegna;",
+        "qe pos mauci per lo dolz lamarors,",
+        "bem deu garir de lamar la dolsors."
+    ],
+    "Stanzas": [
+        [
+            "Entre dolsor ez amar sui fermatz",
+            "ab finamor qem destreing noich e dia;",
+            "qe dolsors mes qar am ma dolsamia,",
+            "e mes amar qar eu non sui amaz;",
+            "e mes dolsors sos genz cors e sa faz,",
+            "e mes amar qil nom fai nul secors;",
+            "e mes dolsors qe tan plazenz non regna,",
+            "e mes amar qar en samor nom degna:",
+            "qaissim destreing mitadat finamors,",
+            "qe totz lo montz mes amars e dolsors."
+        ],
+        [
+            "Voillatz, sius platz, dompna genser qe regna,",
+            "qe de lamar plazenz dolsors mi vegna;",
+            "qe pos mauci per lo dolz lamarors,",
+            "bem deu garir de lamar la dolsors."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Boni, Marco. Sordello, Le poesie. Nuova edizione critica con studio introduttivo, traduzioni, note e glossario. Bologna: Palmaverde, 1954"
+}

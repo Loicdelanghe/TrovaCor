@@ -1,0 +1,60 @@
+{
+    "Author": [
+        "Rostaing_Berenguier_de_Marseilla"
+    ],
+    "Genre": "Coblas",
+    "Title": "Pos de sa mar man cavalier del Temple ",
+    "FullText": [
+        "Pos de sa mar man cavalier del Temple,",
+        "Man cavall gris cavalcant si solombran,",
+        "E lurs cabeils saurs remiran senombran,",
+        "Mostran soven al mont malvays eysemple,",
+        "Ez es tan grieus e tan fers lur ergueilhs",
+        "Com non los pot esguardar de dregz hueilhs,",
+        "Diguas mi, Bort, per quel papa los sufre,",
+        "Pos sap e ves quehn mans pratz, sotz verssims,",
+        "Don lur ressort deshonors e grieus crims,",
+        "Guastan lo ben que nom per Dieu lur hufre.",
+        "Car pos ho an per cobrar lo Sepulcre",
+        "E guastan ho menan rumor el segle",
+        "Ez enguanan lo pobol daquest segle,",
+        "Contrafasen guolias e sahulcre",
+        "Que desplassa a Dieu, car tan lonc tems",
+        "Hill ez aquill de lEspital emsemps,",
+        "Han sufertat que li falsa gens turgua",
+        "Haya tengut Jherusalem ez Acre.",
+        "Car son fugen plus fort que falcon sacre,",
+        "Per quem par tort quil segle non en purgua."
+    ],
+    "Stanzas": [
+        [
+            "Pos de sa mar man cavalier del Temple,",
+            "Man cavall gris cavalcant si solombran,",
+            "E lurs cabeils saurs remiran senombran,",
+            "Mostran soven al mont malvays eysemple,",
+            "Ez es tan grieus e tan fers lur ergueilhs",
+            "Com non los pot esguardar de dregz hueilhs,",
+            "Diguas mi, Bort, per quel papa los sufre,",
+            "Pos sap e ves quehn mans pratz, sotz verssims,",
+            "Don lur ressort deshonors e grieus crims,",
+            "Guastan lo ben que nom per Dieu lur hufre."
+        ],
+        [
+            "Car pos ho an per cobrar lo Sepulcre",
+            "E guastan ho menan rumor el segle",
+            "Ez enguanan lo pobol daquest segle,",
+            "Contrafasen guolias e sahulcre",
+            "Que desplassa a Dieu, car tan lonc tems",
+            "Hill ez aquill de lEspital emsemps,",
+            "Han sufertat que li falsa gens turgua",
+            "Haya tengut Jherusalem ez Acre.",
+            "Car son fugen plus fort que falcon sacre,",
+            "Per quem par tort quil segle non en purgua."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Meyer, Paul. Les derniers troubadours de la Provence d'aprs le chansonnier donn  la Bibliothque Impriale par M. Ch. Giraud. Paris: Librairie A. Franck, 1871"
+}

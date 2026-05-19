@@ -1,0 +1,71 @@
+{
+    "Author": [
+        "Raimon_de_las_Salas"
+    ],
+    "Genre": "Canso",
+    "Title": "Ancse m'avetz tengut a nonchaler ",
+    "FullText": [
+        "Ancse m'avetz tengut a nonchaler",
+        "On meillz vos sai de bon talan servir.",
+        "Adonc veirai s'ab mal m'en pose jauzir,",
+        "Amors, pos bes no m'en pot pro tener,",
+        "E deu esser, so mi par, per razo,",
+        "Qe, s'ieu faz mal, n'aia bon guizerdo,",
+        "Pos per be-faitz mi rendetz mal ancse,",
+        "Ez er pechatz, s'al vostre tort m'ave.",
+        "E poriatz m'ab pauc be retenir ;",
+        "Mas vos non cal, per q'eu vas vos m'azir.",
+        "Pero trop faill, qui fai autrui faillir",
+        "Son escien, desqe l'a en poder.",
+        "Mas eu faill plus, qar ab vos mou tenzo,",
+        "E nous cugez qe vostr'oc torn en no,",
+        "Amors ! Anz voill, s'anc jorn vos hai dit re,",
+        "Qems sia greu? Veus m'a vostra merce !",
+        "E si merces nom pot ab vos valer,",
+        "Sera pechatz, puois tan voill obezir",
+        "Vostres comanz, e sim volez aucir,",
+        "Nous mi defen e faz o ben parer ;",
+        "Qe merceian vos veing qerre perdo",
+        "Del vostre tort. Gardatz doncs s'anc mais fo",
+        "Hom qez ames ab tan de bona fe ;",
+        "Qeus qier perdon del tort q'avez de me !"
+    ],
+    "Stanzas": [
+        [
+            "Ancse m'avetz tengut a nonchaler",
+            "On meillz vos sai de bon talan servir.",
+            "Adonc veirai s'ab mal m'en pose jauzir,",
+            "Amors, pos bes no m'en pot pro tener,",
+            "E deu esser, so mi par, per razo,",
+            "Qe, s'ieu faz mal, n'aia bon guizerdo,",
+            "Pos per be-faitz mi rendetz mal ancse,",
+            "Ez er pechatz, s'al vostre tort m'ave."
+        ],
+        [
+            "E poriatz m'ab pauc be retenir ;",
+            "Mas vos non cal, per q'eu vas vos m'azir.",
+            "Pero trop faill, qui fai autrui faillir",
+            "Son escien, desqe l'a en poder.",
+            "Mas eu faill plus, qar ab vos mou tenzo,",
+            "E nous cugez qe vostr'oc torn en no,",
+            "Amors ! Anz voill, s'anc jorn vos hai dit re,",
+            "Qems sia greu? Veus m'a vostra merce !"
+        ],
+        [
+            "E si merces nom pot ab vos valer,",
+            "Sera pechatz, puois tan voill obezir",
+            "Vostres comanz, e sim volez aucir,",
+            "Nous mi defen e faz o ben parer ;",
+            "Qe merceian vos veing qerre perdo",
+            "Del vostre tort. Gardatz doncs s'anc mais fo",
+            "Hom qez ames ab tan de bona fe ;",
+            "Qeus qier perdon del tort q'avez de me !"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Kolsen, Adolf. Beitrge zur Altprovenzalischen Lyrik (42 Erstmalig Bearbeitete Dichtungen). Firenze: Leo S.Olschki, 1939"
+}
