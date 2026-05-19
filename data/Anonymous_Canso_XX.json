@@ -1,0 +1,74 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Canso",
+    "Title": "Can vei la flor sobrel sambuc",
+    "FullText": [
+        "Can vei la flor sobrel sambuc",
+        "et au lo pic el merle el gais,",
+        "e lo refrim del brau airol,",
+        "ma dompna m'am plus q'el non sol:",
+        "otz temps l'amei, pois la conuc,",
+        "mas ara m'es privatz e mol.",
+        "Ben me cuia plantar lo duc",
+        "chi dis q'eu de s'amor mi lais.",
+        "Non vol m'ensegn'aital virol,",
+        "ancs l'amarai, se Deus lo vol:",
+        "anar i pogra ad oil cluc",
+        "lo iorn, cant son marit non col.",
+        "Per lei m'aplan lo pel del zuc",
+        "e non desir guera ni fais;",
+        "cant en la plaza m'acuoil,",
+        "enc mon meillor vesin per fol;",
+        "cant eu la vei, tot m'abessuc",
+        "et oclei mai d'un ratairol.",
+        "Ela tem canch e pezuc,  (- 1)  ",
+        "e val tal q'i s'apreza mais;",
+        "e negerei entr'un moiol,",
+        "qel be plus prim d'un rocairol:",
+        "anc non vic ren tant leu s'embuc",
+        "e mania a lei d'un escirol."
+    ],
+    "Stanzas": [
+        [
+            "Can vei la flor sobrel sambuc",
+            "et au lo pic el merle el gais,",
+            "e lo refrim del brau airol,",
+            "ma dompna m'am plus q'el non sol:",
+            "otz temps l'amei, pois la conuc,",
+            "mas ara m'es privatz e mol."
+        ],
+        [
+            "Ben me cuia plantar lo duc",
+            "chi dis q'eu de s'amor mi lais.",
+            "Non vol m'ensegn'aital virol,",
+            "ancs l'amarai, se Deus lo vol:",
+            "anar i pogra ad oil cluc",
+            "lo iorn, cant son marit non col."
+        ],
+        [
+            "Per lei m'aplan lo pel del zuc",
+            "e non desir guera ni fais;",
+            "cant en la plaza m'acuoil,",
+            "enc mon meillor vesin per fol;",
+            "cant eu la vei, tot m'abessuc",
+            "et oclei mai d'un ratairol."
+        ],
+        [
+            "Ela tem canch e pezuc,  (- 1)  ",
+            "e val tal q'i s'apreza mais;",
+            "e negerei entr'un moiol,",
+            "qel be plus prim d'un rocairol:",
+            "anc non vic ren tant leu s'embuc",
+            "e mania a lei d'un escirol."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": "UNK"
+}

@@ -1,0 +1,74 @@
+{
+    "Author": [
+        "Albric_da_Romano"
+    ],
+    "Genre": "Canso",
+    "Title": "Na Maria, pret e fina valors ",
+    "FullText": [
+        "Na Maria, pret e fina valors",
+        "El giois el sens e la fina beutat",
+        "E l'acuglirs el pret et las onors",
+        "El gint parlars e l'avinens solas",
+        "E la do cara e la gaia acundana",
+        "El duc esgart e lamoros se[m]blan",
+        "Ce son e vos, don non avet egansa,",
+        "Me fan traire vas vos, sis cor truan.",
+        "Por o vos prec, sius plat, ce fin'amors",
+        "E gausiment et dout'umilitat",
+        "Me puosca far ab vos tan de socors",
+        "Ce mi donet, bella dopna, sius plat,",
+        "So don plus ai d'aver gioi esperansa,",
+        "Car en vos ai mon cor e mon talan",
+        "E per vos ai tut so c'ai d'alegransa",
+        "E per vos vauc mantas ves sospiran.",
+        "E car beutas e valors vos enansa",
+        "Sobra tutas, c'una nous es denan,",
+        "Vos prec, seus plas, per so ceus es onransa",
+        "Ce non amet entendidor truan.",
+        "Bella dompna, cui pret e giois enana",
+        "E gient parlars, a vos mas coblas man,",
+        "Car e vos es gaessa et alegransa",
+        "E tut lo bens c'om e dona deman."
+    ],
+    "Stanzas": [
+        [
+            "Na Maria, pret e fina valors",
+            "El giois el sens e la fina beutat",
+            "E l'acuglirs el pret et las onors",
+            "El gint parlars e l'avinens solas",
+            "E la do cara e la gaia acundana",
+            "El duc esgart e lamoros se[m]blan",
+            "Ce son e vos, don non avet egansa,",
+            "Me fan traire vas vos, sis cor truan."
+        ],
+        [
+            "Por o vos prec, sius plat, ce fin'amors",
+            "E gausiment et dout'umilitat",
+            "Me puosca far ab vos tan de socors",
+            "Ce mi donet, bella dopna, sius plat,",
+            "So don plus ai d'aver gioi esperansa,",
+            "Car en vos ai mon cor e mon talan",
+            "E per vos ai tut so c'ai d'alegransa",
+            "E per vos vauc mantas ves sospiran."
+        ],
+        [
+            "E car beutas e valors vos enansa",
+            "Sobra tutas, c'una nous es denan,",
+            "Vos prec, seus plas, per so ceus es onransa",
+            "Ce non amet entendidor truan."
+        ],
+        [
+            "Bella dompna, cui pret e giois enana",
+            "E gient parlars, a vos mas coblas man,",
+            "Car e vos es gaessa et alegransa",
+            "E tut lo bens c'om e dona deman."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Bertoni, Giulio. I trovatori d'Italia. Modena: Editore Cav. Umberto Orlandini, 1915."
+}

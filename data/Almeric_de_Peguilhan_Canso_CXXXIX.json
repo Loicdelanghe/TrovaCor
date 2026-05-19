@@ -1,0 +1,44 @@
+{
+    "Author": [
+        "Almeric_de_Peguilhan"
+    ],
+    "Genre": "Canso",
+    "Title": "Totz hom qui so blasma que deu lauzar ",
+    "FullText": [
+        "Totz hom qui so blasma que deu lauzar",
+        "Lauz atressi aso que deu blasmar;",
+        "Et ieu dic o per so car es Amors",
+        "Forsjutjada per nescis jutjadors",
+        "Que non sabon adreich mostrar per que;",
+        "Mas er es temps que ditz hom de mal be,",
+        "Et atressi que del ben ditz hom mal;",
+        "Per que lor digz non es conditz de sal . . .",
+        "Quar conoys plus dels autres e mante",
+        "Sen e saber e tot so qes de be",
+        "LEmperaire, que sobrels valens val,",
+        "Conoischera sieu dic ben o dic mal."
+    ],
+    "Stanzas": [
+        [
+            "Totz hom qui so blasma que deu lauzar",
+            "Lauz atressi aso que deu blasmar;",
+            "Et ieu dic o per so car es Amors",
+            "Forsjutjada per nescis jutjadors",
+            "Que non sabon adreich mostrar per que;",
+            "Mas er es temps que ditz hom de mal be,",
+            "Et atressi que del ben ditz hom mal;",
+            "Per que lor digz non es conditz de sal . . ."
+        ],
+        [
+            "Quar conoys plus dels autres e mante",
+            "Sen e saber e tot so qes de be",
+            "LEmperaire, que sobrels valens val,",
+            "Conoischera sieu dic ben o dic mal."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "VII"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}

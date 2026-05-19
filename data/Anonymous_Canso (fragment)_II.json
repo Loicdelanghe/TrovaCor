@@ -1,0 +1,52 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Canso",
+    "Title": "[] acuoill | los bels plasers qe m'a mandatz",
+    "FullText": [
+        "[] acuoill",
+        "los bels plasers qe m'a mandatz",
+        "cil on es iovens e beutatz,",
+        "qe de prez es en l'aut capduoill:",
+        "ma dompn'Agnes, qe tot dia",
+        "fai grazir sos avinens bes",
+        "als enseingnatz et als cortes",
+        "mais qe dompna q'el mon sia.",
+        "Mas eu non son aitals cum suoill,",
+        "qe Amors m'a mos senz camiatz;",
+        "c'aras sai dels enamoratz",
+        "lo mal de qe ploran lor oill,",
+        "e sai qels alegraria,",
+        "e sai lor mals e sai lor bes;",
+        "e d'aqels q'Amors no ten pres",
+        "no sai lor faichz ni lor via."
+    ],
+    "Stanzas": [
+        [
+            "[] acuoill",
+            "los bels plasers qe m'a mandatz",
+            "cil on es iovens e beutatz,",
+            "qe de prez es en l'aut capduoill:",
+            "ma dompn'Agnes, qe tot dia",
+            "fai grazir sos avinens bes",
+            "als enseingnatz et als cortes",
+            "mais qe dompna q'el mon sia."
+        ],
+        [
+            "Mas eu non son aitals cum suoill,",
+            "qe Amors m'a mos senz camiatz;",
+            "c'aras sai dels enamoratz",
+            "lo mal de qe ploran lor oill,",
+            "e sai qels alegraria,",
+            "e sai lor mals e sai lor bes;",
+            "e d'aqels q'Amors no ten pres",
+            "no sai lor faichz ni lor via."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": "UNK"
+}

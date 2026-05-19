@@ -1,0 +1,51 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Canso",
+    "Title": "[] onor | q'e mon cor ai e del meu taill seignor",
+    "FullText": [
+        "[] onor,",
+        "q'e mon cor ai e del meu taill seignor",
+        "e fort castel e dompna de plaissenza,",
+        "per qe zai viu iauzen, qi qe lai plor.",
+        "Pero, can pens la gran beltat qe genza",
+        "lei e m'albir de la fina valor",
+        "q'enanza lui, se tot autr'entendenza",
+        "me destreing zai, lai volria estre ab lor.",
+        "Las! qe ai dit? Torn eu en la folor?",
+        "Non! E m'en lais, car ferma benvollenza",
+        "nos part leumen, se bes vir'om aillor.",
+        "Luna, si tot mi membra d'autr'amor,",
+        "an m'agradatz qe, sios plai ma entendenza,",
+        "n'autra jois ses vos no m'auria sabor."
+    ],
+    "Stanzas": [
+        [
+            "[] onor,",
+            "q'e mon cor ai e del meu taill seignor",
+            "e fort castel e dompna de plaissenza,",
+            "per qe zai viu iauzen, qi qe lai plor."
+        ],
+        [
+            "Pero, can pens la gran beltat qe genza",
+            "lei e m'albir de la fina valor",
+            "q'enanza lui, se tot autr'entendenza",
+            "me destreing zai, lai volria estre ab lor.",
+            "Las! qe ai dit? Torn eu en la folor?",
+            "Non! E m'en lais, car ferma benvollenza",
+            "nos part leumen, se bes vir'om aillor."
+        ],
+        [
+            "Luna, si tot mi membra d'autr'amor,",
+            "an m'agradatz qe, sios plai ma entendenza,",
+            "n'autra jois ses vos no m'auria sabor."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": "UNK"
+}

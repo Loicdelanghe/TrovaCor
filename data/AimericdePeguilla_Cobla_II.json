@@ -1,0 +1,53 @@
+{
+    "Author": [
+        "AimericdePeguilla",
+        "GuilhemFigueira"
+    ],
+    "Genre": "Cobla",
+    "Title": "Anc tan belh colp de joncada ",
+    "FullText": [
+        "Anc tan belh colp de joncada",
+        "No cui qe hom vis",
+        "Com det lautrer Jacopis",
+        "A N Guillelm Testa-pelada;",
+        "Qe, qi naja deport,",
+        "El aja ira e desconort;",
+        "E, se tot ac de joncadal cap blanc,",
+        "Mantas vez la agut negre de sanc.",
+        "Anc tan bella espazada",
+        "No cuit qe hom dis",
+        "Com det NAuzers sus el vis",
+        "A N Guillem Gauta-segnada;",
+        "Qel vis lo feri tant fort",
+        "Cun petit na lun oill tort,",
+        "El cill, qe sol aver negr, era blanc",
+        "El cais plus ros descerlatra e de sanc."
+    ],
+    "Stanzas": [
+        [
+            "Anc tan belh colp de joncada",
+            "No cui qe hom vis",
+            "Com det lautrer Jacopis",
+            "A N Guillelm Testa-pelada;",
+            "Qe, qi naja deport,",
+            "El aja ira e desconort;",
+            "E, se tot ac de joncadal cap blanc,",
+            "Mantas vez la agut negre de sanc."
+        ],
+        [
+            "Anc tan bella espazada",
+            "No cuit qe hom dis",
+            "Com det NAuzers sus el vis",
+            "A N Guillem Gauta-segnada;",
+            "Qel vis lo feri tant fort",
+            "Cun petit na lun oill tort,",
+            "El cill, qe sol aver negr, era blanc",
+            "El cais plus ros descerlatra e de sanc."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Levy, Emil. Guilhem Figueira, ein provenzalischer Troubadour. Berlin: Buchdruckerei von S. Liebrecht, 1880"
+}

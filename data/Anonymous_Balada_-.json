@@ -1,0 +1,78 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Balada",
+    "Title": "Qant lo gilos er fora",
+    "FullText": [
+        "Qant la gilos er fora,</em",
+        "Bels ami, vene(z) vos a mi.</em",
+        "Balada cointa e gaia",
+        "Qant lo gilos er fora</em",
+        "Faz, cui pes ne cui plaia",
+        "Qant lo gilos [er fora]</em",
+        "Pel dolz cant que m'apaia",
+        "Qe.us audi seir e de matin.",
+        "Qant la gilos [er fora</em",
+        "Bels ami, vene(z) vos a mi].",
+        "Amic, s'eu vos tenia",
+        "Qant lo gilos [er fora]</em",
+        "Dinz ma chambra garnia",
+        "Qant lo gilos [er fora]</em",
+        "De joi vos baisaria",
+        "Qar n'audi ben dir l'autre",
+        "Qant lo gilos [er fora,</em",
+        "Bels ami, vene(z) vos a mi].",
+        "Se.l gilos mi menaza",
+        "Qant lo gilos [er fora]</em",
+        "De baston ni de maza",
+        "Qant lo gilos [er fora]</em",
+        "Del batre si se.l faza",
+        "Qe.us afi mon cor no.s camb",
+        "Qant lo gilos [er fora,</em",
+        "Bels ami, vene(z) vos a mi]."
+    ],
+    "Stanzas": [
+        [
+            "Qant la gilos er fora,</em",
+            "Bels ami, vene(z) vos a mi.</em"
+        ],
+        [
+            "Balada cointa e gaia",
+            "Qant lo gilos er fora</em",
+            "Faz, cui pes ne cui plaia",
+            "Qant lo gilos [er fora]</em",
+            "Pel dolz cant que m'apaia",
+            "Qe.us audi seir e de matin.",
+            "Qant la gilos [er fora</em",
+            "Bels ami, vene(z) vos a mi]."
+        ],
+        [
+            "Amic, s'eu vos tenia",
+            "Qant lo gilos [er fora]</em",
+            "Dinz ma chambra garnia",
+            "Qant lo gilos [er fora]</em",
+            "De joi vos baisaria",
+            "Qar n'audi ben dir l'autre",
+            "Qant lo gilos [er fora,</em",
+            "Bels ami, vene(z) vos a mi]."
+        ],
+        [
+            "Se.l gilos mi menaza",
+            "Qant lo gilos [er fora]</em",
+            "De baston ni de maza",
+            "Qant lo gilos [er fora]</em",
+            "Del batre si se.l faza",
+            "Qe.us afi mon cor no.s camb",
+            "Qant lo gilos [er fora,</em",
+            "Bels ami, vene(z) vos a mi]."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": "UNK"
+}

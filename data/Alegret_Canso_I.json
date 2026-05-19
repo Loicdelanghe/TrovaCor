@@ -1,0 +1,120 @@
+{
+    "Author": [
+        "Alegret"
+    ],
+    "Genre": "Canso",
+    "Title": "Aissi cum selh qu'es vencutz e sobratz ",
+    "FullText": [
+        "Aissi cum selh qu'es vencutz e sobratz",
+        "M'an en a far son deman",
+        "D'Amor que no'i apart pro ni dan",
+        "Ni ren [...]atz",
+        "Voluntatz l'es que de len m'aucia,",
+        "E plaz me molt, pus aitan labelhis,",
+        "E qu'en perdos li sia francx et fis",
+        "E ja per lieys qu'ieu am amatz non sia.",
+        "Tot so m'es bo, Amors, pus a vos platz",
+        "Que m'auciatz deziran;",
+        "E sius fora plus benestan",
+        "Qu'a lieys quem defen sas bontatz",
+        "Vs tornessetz e major cortesia,",
+        "Quar no fai gran esfors, so vos plevis,",
+        "Qui so conquer qui vencut no conquis",
+        "Mas esforts fai quils pus fortz vens e lia.",
+        "Ges no suy fortz ves lieys cuy me suy datz,",
+        "E si n'agra yeu ben talan,",
+        "Sivals que li fos fortz d'aitan",
+        "Quel disses ben apensatz",
+        "Si cum yeu l'am finamen ses bauzia,",
+        "E cum li suy francx e leyals e fis;",
+        "E fora ricx s'aitan me cossentis",
+        "Lo ben quiel vuelh nom tengues a follia.",
+        "De sol aitan mi tengr'ieu per pagatz",
+        "Quel vengues, mas jontas, denan",
+        "El mostres de ginolhs ploran",
+        "Cum suy sieus endomenjatz.",
+        "Mas ardimen non ai que yeu loy dia",
+        "Ni l'esgart dreyt, ans tenc mos huelhs aclis,",
+        "Tal paor ai qu'ilh aitan nom sufris",
+        "E quem tolgues la su'avinen paria.",
+        "Per qu'ieu, dona, vuelh mais sufrir em patz",
+        "Lo mal qu'ieu trac e l'afan",
+        "Que d'aitra re vos deman",
+        "Don perdes vostre solatz.",
+        "Pauc n'ay de be e meyns cre que n'auria,",
+        "Qu'eram fai tan de gaug un vostre ris",
+        "Que sim davon Tors, Angieus e Paris,",
+        "Ni re ses vos tan de gaug nom faria.",
+        "Bona dona, vostres sui on quem sia,",
+        "Et on que m'an ades vos suy aclis,",
+        "E s'avia trastor lo mon conquis,",
+        "En tot volgra aguessez senhoria."
+    ],
+    "Stanzas": [
+        [
+            "Aissi cum selh qu'es vencutz e sobratz",
+            "M'an en a far son deman",
+            "D'Amor que no'i apart pro ni dan",
+            "Ni ren [...]atz",
+            "Voluntatz l'es que de len m'aucia,",
+            "E plaz me molt, pus aitan labelhis,",
+            "E qu'en perdos li sia francx et fis",
+            "E ja per lieys qu'ieu am amatz non sia."
+        ],
+        [
+            "Tot so m'es bo, Amors, pus a vos platz",
+            "Que m'auciatz deziran;",
+            "E sius fora plus benestan",
+            "Qu'a lieys quem defen sas bontatz",
+            "Vs tornessetz e major cortesia,",
+            "Quar no fai gran esfors, so vos plevis,",
+            "Qui so conquer qui vencut no conquis",
+            "Mas esforts fai quils pus fortz vens e lia."
+        ],
+        [
+            "Ges no suy fortz ves lieys cuy me suy datz,",
+            "E si n'agra yeu ben talan,",
+            "Sivals que li fos fortz d'aitan",
+            "Quel disses ben apensatz",
+            "Si cum yeu l'am finamen ses bauzia,",
+            "E cum li suy francx e leyals e fis;",
+            "E fora ricx s'aitan me cossentis",
+            "Lo ben quiel vuelh nom tengues a follia."
+        ],
+        [
+            "De sol aitan mi tengr'ieu per pagatz",
+            "Quel vengues, mas jontas, denan",
+            "El mostres de ginolhs ploran",
+            "Cum suy sieus endomenjatz.",
+            "Mas ardimen non ai que yeu loy dia",
+            "Ni l'esgart dreyt, ans tenc mos huelhs aclis,",
+            "Tal paor ai qu'ilh aitan nom sufris",
+            "E quem tolgues la su'avinen paria."
+        ],
+        [
+            "Per qu'ieu, dona, vuelh mais sufrir em patz",
+            "Lo mal qu'ieu trac e l'afan",
+            "Que d'aitra re vos deman",
+            "Don perdes vostre solatz.",
+            "Pauc n'ay de be e meyns cre que n'auria,",
+            "Qu'eram fai tan de gaug un vostre ris",
+            "Que sim davon Tors, Angieus e Paris,",
+            "Ni re ses vos tan de gaug nom faria."
+        ],
+        [
+            "Bona dona, vostres sui on quem sia,",
+            "Et on que m'an ades vos suy aclis,",
+            "E s'avia trastor lo mon conquis,",
+            "En tot volgra aguessez senhoria."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " J.-M.-L- Dejeanne, Alegret, jongleur gascon du XIIime sicle, in: Annales du Midi, 19 (1907)"
+}

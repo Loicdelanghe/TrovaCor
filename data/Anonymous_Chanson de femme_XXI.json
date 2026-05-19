@@ -1,0 +1,120 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Canso",
+    "Title": "Quan vei les praz verdesir",
+    "FullText": [
+        "Quan vei les praz verdesir",
+        "et parens la flor granea,",
+        "adonques pens et consir",
+        "'amors qu'ainsi m'a 'legrea",
+        "per un pou non m'a tuea.",
+        "Tan soen souspir",
+        "c'ainc non vi tan for colea",
+        "senes colp ferir.  Aei!",
+        "Tota nuit souspir etveill",
+        "et tressal tote endormia,",
+        "per oc car veiaire m'es",
+        "quel meus amis se resia.",
+        "A Dex, com seria garia",
+        "s'ensi devengues",
+        "una nuit, par escaria,",
+        "qu'a me s'en vengues!  Aei!",
+        "Donna qui'n amor s'aten,",
+        "ben de aver fin coraie:",
+        "tal n'i a qu'ades la pren,",
+        "puis la laissa per folaie;",
+        "maiz eu l'en ten fin corage",
+        "ensi lealment,",
+        "c'ainc dosna del mieu parage",
+        "non ou fiz tant gent.  Aei!",
+        "Dosna qui amic non a,",
+        "ben si gart que mais no n'aia,",
+        "qu'amors pon ui e demag",
+        "ni tan ni quan non s'apaia;",
+        "senes colp fai mort et plaia;",
+        "tal ia non garra",
+        "per nul mege que ie n'aia,",
+        "s'amors non loi da.  Aei!",
+        "Messagier, levaz matin",
+        "et vai men la gran iornaa,",
+        "la chanon a mon amic",
+        "li portaz en sa contraa!",
+        "Digas li que mol m'agraa,",
+        "quan membres del song",
+        "qu'el mi dist quan m'ot baisaa",
+        "soz mon paveillon!  Aei!",
+        "Dins ma chambre encortinaa",
+        "fu il a larron,",
+        "ns ma chambre ben doraa",
+        "fu il en prison."
+    ],
+    "Stanzas": [
+        [
+            "Quan vei les praz verdesir",
+            "et parens la flor granea,",
+            "adonques pens et consir",
+            "'amors qu'ainsi m'a 'legrea",
+            "per un pou non m'a tuea.",
+            "Tan soen souspir",
+            "c'ainc non vi tan for colea",
+            "senes colp ferir.  Aei!"
+        ],
+        [
+            "Tota nuit souspir etveill",
+            "et tressal tote endormia,",
+            "per oc car veiaire m'es",
+            "quel meus amis se resia.",
+            "A Dex, com seria garia",
+            "s'ensi devengues",
+            "una nuit, par escaria,",
+            "qu'a me s'en vengues!  Aei!"
+        ],
+        [
+            "Donna qui'n amor s'aten,",
+            "ben de aver fin coraie:",
+            "tal n'i a qu'ades la pren,",
+            "puis la laissa per folaie;",
+            "maiz eu l'en ten fin corage",
+            "ensi lealment,",
+            "c'ainc dosna del mieu parage",
+            "non ou fiz tant gent.  Aei!"
+        ],
+        [
+            "Dosna qui amic non a,",
+            "ben si gart que mais no n'aia,",
+            "qu'amors pon ui e demag",
+            "ni tan ni quan non s'apaia;",
+            "senes colp fai mort et plaia;",
+            "tal ia non garra",
+            "per nul mege que ie n'aia,",
+            "s'amors non loi da.  Aei!"
+        ],
+        [
+            "Messagier, levaz matin",
+            "et vai men la gran iornaa,",
+            "la chanon a mon amic",
+            "li portaz en sa contraa!",
+            "Digas li que mol m'agraa,",
+            "quan membres del song",
+            "qu'el mi dist quan m'ot baisaa",
+            "soz mon paveillon!  Aei!"
+        ],
+        [
+            "Dins ma chambre encortinaa",
+            "fu il a larron,",
+            "ns ma chambre ben doraa",
+            "fu il en prison."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": "UNK"
+}

@@ -1,0 +1,85 @@
+{
+    "Author": [
+        "Almeric_de_Peguilhan"
+    ],
+    "Genre": "Canso",
+    "Title": "Ses mon apleich ",
+    "FullText": [
+        "Ses mon apleich",
+        "Non vau ni ses ma lima,",
+        "Ab que fabreich",
+        "Motz e aplan e lim;",
+        "Car ieu non veich",
+        "Dobra sotil e prima",
+        "De nuilla leich",
+        "Plus sotil ni plus prim",
+        "Ni plus adreich",
+        "Obrier en cara rima",
+        "Ni plus pesseich",
+        "Sos digz ni miells los rim;",
+        "Mas el destreich",
+        "Damor, tant no mescrim,",
+        "Sui, fe queus deich,",
+        "E no men val escrima.",
+        "Si per merce",
+        "Fezes Amors percebre",
+        "La bella que",
+        "Mos precs non a percep,",
+        "Que deignes me",
+        "Per servidor recebre,",
+        "Mout feira be . . .",
+        "Ab doutz esgar",
+        "Sap sos vezedors paiser",
+        "Et ab honrar",
+        "NEmilla, cui jois pais,",
+        "Conor ten car",
+        "E pretz cab lieis renais,",
+        "E dompnejar",
+        "Soffre, e fai mort renaisser."
+    ],
+    "Stanzas": [
+        [
+            "Ses mon apleich",
+            "Non vau ni ses ma lima,",
+            "Ab que fabreich",
+            "Motz e aplan e lim;",
+            "Car ieu non veich",
+            "Dobra sotil e prima",
+            "De nuilla leich",
+            "Plus sotil ni plus prim",
+            "Ni plus adreich",
+            "Obrier en cara rima",
+            "Ni plus pesseich",
+            "Sos digz ni miells los rim;",
+            "Mas el destreich",
+            "Damor, tant no mescrim,",
+            "Sui, fe queus deich,",
+            "E no men val escrima."
+        ],
+        [
+            "Si per merce",
+            "Fezes Amors percebre",
+            "La bella que",
+            "Mos precs non a percep,",
+            "Que deignes me",
+            "Per servidor recebre,",
+            "Mout feira be . . ."
+        ],
+        [
+            "Ab doutz esgar",
+            "Sap sos vezedors paiser",
+            "Et ab honrar",
+            "NEmilla, cui jois pais,",
+            "Conor ten car",
+            "E pretz cab lieis renais,",
+            "E dompnejar",
+            "Soffre, e fai mort renaisser."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "VI"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}

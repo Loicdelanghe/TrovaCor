@@ -1,0 +1,53 @@
+{
+    "Author": [
+        "AimericdePeguilhan",
+        "Sordel"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "Anc al temps d'Artus ni d'ara ",
+    "FullText": [
+        "Anc al temps dArtus ni dara",
+        "no crei qe homs vis",
+        "tan bel colp cum en las cris",
+        "pris Sordel[s] dunengrestara;",
+        "e sel colp[s] non fo de mort",
+        "sel qel penchenet nac tort;",
+        "mas el al cor tan umil e tan franc",
+        "qel prend en patz toz colps pois noi a sanc.",
+        "Anc persona tan avara",
+        "no crei qe homs vis",
+        "cum al veils arlots meschis",
+        "nAimeric[s] ab trista cara.",
+        "Sel qel ve a pez de mort;",
+        "e se tot a son cors tort",
+        "e magre sec e vel e clop e ranc,",
+        "mil aitans dis....qel no fes anc."
+    ],
+    "Stanzas": [
+        [
+            "Anc al temps dArtus ni dara",
+            "no crei qe homs vis",
+            "tan bel colp cum en las cris",
+            "pris Sordel[s] dunengrestara;",
+            "e sel colp[s] non fo de mort",
+            "sel qel penchenet nac tort;",
+            "mas el al cor tan umil e tan franc",
+            "qel prend en patz toz colps pois noi a sanc."
+        ],
+        [
+            "Anc persona tan avara",
+            "no crei qe homs vis",
+            "cum al veils arlots meschis",
+            "nAimeric[s] ab trista cara.",
+            "Sel qel ve a pez de mort;",
+            "e se tot a son cors tort",
+            "e magre sec e vel e clop e ranc,",
+            "mil aitans dis....qel no fes anc."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Boni, Marco. Sordello, Le poesie. Nuova edizione critica con studio introduttivo, traduzioni, note e glossario. Bologna: Palmaverde, 1954."
+}

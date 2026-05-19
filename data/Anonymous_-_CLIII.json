@@ -1,0 +1,90 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Canso",
+    "Title": "Mos corages m'es chaniaz",
+    "FullText": [
+        "    Mos corages m'es chaniaz,",
+        " car mains aim que ne solie,",
+        "    ne ia nom plaist l'amistaz",
+        " de negune q'el mun sie,",
+        " s'altresi non plaiz la mie;",
+        "         si voldrie,",
+        "s'estre poguez, c'a toz altres amanz",
+        "fous altresi chaniaz cor et talanz.",
+        "    Donne, se vos m'amavaz,",
+        " volenters vos amerie;",
+        "    se m'amistaz non vos plaz,",
+        " non credaz gins q'eu m'ocie;",
+        " nonporcant, se vos plaisie,",
+        "         mei plairie",
+        "por voz valors, k'orguelz et li bobanz",
+        "qui es en vos, non fous vers mei si granz.",
+        "    Fins amis enamoraz",
+        " sui de vos, coi que ie die,",
+        "    ne ia d'autre non credaz,",
+        " qan mais vos en iurerie;",
+        " mais iriez per ialoisie",
+        "         dic faunie,",
+        "can sui chariaz d'ire et de mals talanz.",
+        "bella donne, sius plaiz, non me seit danz.",
+        "    Toz iere desesperaz,",
+        " cant el me dist qe ferie",
+        "    alques de mes volentaz,",
+        " si que ia ne men plaindrie;",
+        " ai dex, kals merces serie,",
+        "         sel faisie!",
+        "c'ostat m'areit d'ire et de mals talanz,",
+        "ou ai estat por li mais de II  anz."
+    ],
+    "Stanzas": [
+        [
+            "    Mos corages m'es chaniaz,",
+            " car mains aim que ne solie,",
+            "    ne ia nom plaist l'amistaz",
+            " de negune q'el mun sie,",
+            " s'altresi non plaiz la mie;",
+            "         si voldrie,",
+            "s'estre poguez, c'a toz altres amanz",
+            "fous altresi chaniaz cor et talanz."
+        ],
+        [
+            "    Donne, se vos m'amavaz,",
+            " volenters vos amerie;",
+            "    se m'amistaz non vos plaz,",
+            " non credaz gins q'eu m'ocie;",
+            " nonporcant, se vos plaisie,",
+            "         mei plairie",
+            "por voz valors, k'orguelz et li bobanz",
+            "qui es en vos, non fous vers mei si granz."
+        ],
+        [
+            "    Fins amis enamoraz",
+            " sui de vos, coi que ie die,",
+            "    ne ia d'autre non credaz,",
+            " qan mais vos en iurerie;",
+            " mais iriez per ialoisie",
+            "         dic faunie,",
+            "can sui chariaz d'ire et de mals talanz.",
+            "bella donne, sius plaiz, non me seit danz."
+        ],
+        [
+            "    Toz iere desesperaz,",
+            " cant el me dist qe ferie",
+            "    alques de mes volentaz,",
+            " si que ia ne men plaindrie;",
+            " ai dex, kals merces serie,",
+            "         sel faisie!",
+            "c'ostat m'areit d'ire et de mals talanz,",
+            "ou ai estat por li mais de II  anz."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": "UNK"
+}

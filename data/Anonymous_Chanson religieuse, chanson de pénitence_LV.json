@@ -1,0 +1,90 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Chanson religieuse",
+    "Title": "Qui vol savi viur'e membradament",
+    "FullText": [
+        "Qui vol savi viur e membradament",
+        "en aquest mon, non sia trop curos",
+        "acapt aver [a] prezent ni a rescos:",
+        "car hom nol pot gauzir durablament;",
+        "per que cascus deu aver sovinensa",
+        "e sos peccatz e faire penedensa,",
+        "car daquest mont es sobeirana flos",
+        "qui pot tornar [omne] peccaire bos,",
+        "Sol la prena ben ez adrechament",
+        "e la fassa am fin cor coraios",
+        "quex tro la fin, segon qer poderos,",
+        "car non quer mais ni plus so letament.",
+        "Dons prena hom los bens en mantenensa,",
+        "ez en vil mal non ai om sentendensa;",
+        "ans si hom ben pentens e consiros",
+        "e sels can fatz, an gran contreccos.",
+        "Car enaissi ho deu far bonament",
+        "homs que volra intrar el ioy plentos",
+        "ni posezir per tostems ses coros:",
+        "que dezampar totz sos malvatz talent",
+        "e sierva Dieu ab gran hobedensa,",
+        "ez en la fe aya bona crezensa,",
+        "e vuell hobrar segon los bons sermos",
+        "que auzira del bons prezicados.",
+        "Car qui ben aus e ben es retenent",
+        "contra lautres a grans meilhurazos",
+        "que aus lo ben e lauzir non les bos;",
+        "car no reinha pas ben ni saviament",
+        "sel que s arma gieta a mesprezensa,",
+        "e si [va am] malvaiza conoisensa",
+        "car lais a va so ca plus aondos</em",
+        "ses remedi a tormens perilhos."
+    ],
+    "Stanzas": [
+        [
+            "Qui vol savi viur e membradament",
+            "en aquest mon, non sia trop curos",
+            "acapt aver [a] prezent ni a rescos:",
+            "car hom nol pot gauzir durablament;",
+            "per que cascus deu aver sovinensa",
+            "e sos peccatz e faire penedensa,",
+            "car daquest mont es sobeirana flos",
+            "qui pot tornar [omne] peccaire bos,"
+        ],
+        [
+            "Sol la prena ben ez adrechament",
+            "e la fassa am fin cor coraios",
+            "quex tro la fin, segon qer poderos,",
+            "car non quer mais ni plus so letament.",
+            "Dons prena hom los bens en mantenensa,",
+            "ez en vil mal non ai om sentendensa;",
+            "ans si hom ben pentens e consiros",
+            "e sels can fatz, an gran contreccos."
+        ],
+        [
+            "Car enaissi ho deu far bonament",
+            "homs que volra intrar el ioy plentos",
+            "ni posezir per tostems ses coros:",
+            "que dezampar totz sos malvatz talent",
+            "e sierva Dieu ab gran hobedensa,",
+            "ez en la fe aya bona crezensa,",
+            "e vuell hobrar segon los bons sermos",
+            "que auzira del bons prezicados."
+        ],
+        [
+            "Car qui ben aus e ben es retenent",
+            "contra lautres a grans meilhurazos",
+            "que aus lo ben e lauzir non les bos;",
+            "car no reinha pas ben ni saviament",
+            "sel que s arma gieta a mesprezensa,",
+            "e si [va am] malvaiza conoisensa",
+            "car lais a va so ca plus aondos</em",
+            "ses remedi a tormens perilhos."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": "UNK"
+}

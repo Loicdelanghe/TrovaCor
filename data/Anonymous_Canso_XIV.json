@@ -1,0 +1,80 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Canso",
+    "Title": "Aissi m'ave cum a l'enfan petit",
+    "FullText": [
+        "Aissi m'ave cum a l'enfan petit,",
+        "que dins l'espelh esgarda son vizatge,",
+        "ei tast'ades e tan l'a assalhit",
+        "tro que l'espelhs [se] franh per son folatge,",
+        "adoncas pren a plorar son damnatge:",
+        "tot enaissi m'avia enriquit",
+        "us bels semblans, qu'er an de mi partit",
+        "li lauzengier per lor fals vilanatge.",
+        "E per so ai conques gran consirier",
+        "e per so tem perdre sa drudaria,",
+        "et aissom fai chantar per dezirier;",
+        "car la bela tan m'a vencut em lia",
+        "que per mos olhs tem que perda la via",
+        "com Narcisi, que dedins lo potz cler",
+        "sa ombra e l'amet tot entier",
+        "e per fol'amor mori d'aital guia.",
+        "Be fora de son perdo cobeitos,",
+        "car l'an de mi fals lauzengier partida:",
+        "Deus lor do mal, car ses los enojos",
+        "agra gran gaug de leis e gran jauzida!",
+        "Membreus, bela, la douss'ora grazida",
+        "quem fetz baizar vostras belas faissos:",
+        "aissom ten en esperansa joios",
+        "que nostr'amors sia per be fenida.",
+        "A la bela t'en iras, ma chansos,",
+        "e digas li que sai [sui] de joi blos,",
+        "si nom reve qualsque bona jauzida."
+    ],
+    "Stanzas": [
+        [
+            "Aissi m'ave cum a l'enfan petit,",
+            "que dins l'espelh esgarda son vizatge,",
+            "ei tast'ades e tan l'a assalhit",
+            "tro que l'espelhs [se] franh per son folatge,",
+            "adoncas pren a plorar son damnatge:",
+            "tot enaissi m'avia enriquit",
+            "us bels semblans, qu'er an de mi partit",
+            "li lauzengier per lor fals vilanatge."
+        ],
+        [
+            "E per so ai conques gran consirier",
+            "e per so tem perdre sa drudaria,",
+            "et aissom fai chantar per dezirier;",
+            "car la bela tan m'a vencut em lia",
+            "que per mos olhs tem que perda la via",
+            "com Narcisi, que dedins lo potz cler",
+            "sa ombra e l'amet tot entier",
+            "e per fol'amor mori d'aital guia."
+        ],
+        [
+            "Be fora de son perdo cobeitos,",
+            "car l'an de mi fals lauzengier partida:",
+            "Deus lor do mal, car ses los enojos",
+            "agra gran gaug de leis e gran jauzida!",
+            "Membreus, bela, la douss'ora grazida",
+            "quem fetz baizar vostras belas faissos:",
+            "aissom ten en esperansa joios",
+            "que nostr'amors sia per be fenida."
+        ],
+        [
+            "A la bela t'en iras, ma chansos,",
+            "e digas li que sai [sui] de joi blos,",
+            "si nom reve qualsque bona jauzida."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": "UNK"
+}

@@ -1,0 +1,80 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Canso",
+    "Title": "Pelh beutat nominativa",
+    "FullText": [
+        "Pelh beutat nominativa,",
+        "Que avtz, e'lh gran valor,",
+        "Domna de prtz genetiva,",
+        "Mal cuja de ma dolor",
+        "Crezens que'm seretz dativa,",
+        "Bla, de vstra ricor,",
+        "Pis non m'tz acusativa",
+        "Per conselh d'acusador.",
+        "E s'ieu ja, bla, tant valh",
+        "Qu'amdui sam conjuntiu",
+        "Nstre ferm cr optatiu,",
+        "Pis non prezarai un alh",
+        "Cels, qu'ab voluntat activa",
+        "Pausan contra mi error",
+        "E pugnon que disjuntiva",
+        "Sia nstra fin' amor.",
+        "Fama es indicativa",
+        "Que ven gaugs aprs dolor,",
+        "Don mon cr se'n substantiva",
+        "Tan que n'ai mon mal menor.",
+        "Quan ser copulativa",
+        "Cartenguda nstr' amor,",
+        "Ja non r de mal passiva,",
+        "Ieu dic ver ; per qu'ai paor ?",
+        "E car tz nominativa,",
+        "Vlgr' aver un genetiu.",
+        "De vos, qui tz imperativa."
+    ],
+    "Stanzas": [
+        [
+            "Pelh beutat nominativa,",
+            "Que avtz, e'lh gran valor,",
+            "Domna de prtz genetiva,",
+            "Mal cuja de ma dolor",
+            "Crezens que'm seretz dativa,",
+            "Bla, de vstra ricor,",
+            "Pis non m'tz acusativa",
+            "Per conselh d'acusador."
+        ],
+        [
+            "E s'ieu ja, bla, tant valh",
+            "Qu'amdui sam conjuntiu",
+            "Nstre ferm cr optatiu,",
+            "Pis non prezarai un alh",
+            "Cels, qu'ab voluntat activa",
+            "Pausan contra mi error",
+            "E pugnon que disjuntiva",
+            "Sia nstra fin' amor."
+        ],
+        [
+            "Fama es indicativa",
+            "Que ven gaugs aprs dolor,",
+            "Don mon cr se'n substantiva",
+            "Tan que n'ai mon mal menor.",
+            "Quan ser copulativa",
+            "Cartenguda nstr' amor,",
+            "Ja non r de mal passiva,",
+            "Ieu dic ver ; per qu'ai paor ?"
+        ],
+        [
+            "E car tz nominativa,",
+            "Vlgr' aver un genetiu.",
+            "De vos, qui tz imperativa."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": "UNK"
+}

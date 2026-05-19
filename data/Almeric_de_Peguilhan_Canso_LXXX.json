@@ -1,0 +1,44 @@
+{
+    "Author": [
+        "Almeric_de_Peguilhan"
+    ],
+    "Genre": "Canso",
+    "Title": "Pus ma belha malamia",
+    "FullText": [
+        "Pus ma belha malamia",
+        "Ma mes de cent sospirs captal,",
+        "A for de captalier lial",
+        "Los ai cregutz quasqun dia",
+        "Dun mil; per queimais seria,",
+        "Sol qua lieys plagues cominal,",
+        "Quel partissem per egual,",
+        "Quaissis tanh per companhia . . .",
+        "Jes me mezeis non creiria",
+        "Quen Monferrat ni a Moncal",
+        "Vis lo Marques emperial,",
+        "Sautra vetz non lo y vezia."
+    ],
+    "Stanzas": [
+        [
+            "Pus ma belha malamia",
+            "Ma mes de cent sospirs captal,",
+            "A for de captalier lial",
+            "Los ai cregutz quasqun dia",
+            "Dun mil; per queimais seria,",
+            "Sol qua lieys plagues cominal,",
+            "Quel partissem per egual,",
+            "Quaissis tanh per companhia . . ."
+        ],
+        [
+            "Jes me mezeis non creiria",
+            "Quen Monferrat ni a Moncal",
+            "Vis lo Marques emperial,",
+            "Sautra vetz non lo y vezia."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "VI"
+    ],
+    "Source": "UNK"
+}

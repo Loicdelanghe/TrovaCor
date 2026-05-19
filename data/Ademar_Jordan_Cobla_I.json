@@ -1,0 +1,38 @@
+{
+    "Author": [
+        "Ademar_Jordan"
+    ],
+    "Genre": "Cobla",
+    "Title": "Pons, viscoms, lezir e sojor ",
+    "FullText": [
+        "Pons, viscoms, lezir e sojor",
+        "vos al reis dat a Monpeslier",
+        "e bon vin e pigment e cor.",
+        "Greu segrez mais autre mestier,",
+        "qe trop vos lauzei de primier.",
+        "E senqeras no vos abriu",
+        "tart prendretz al poing lesparvier.",
+        "Mas be par qe sobraiga escriu,",
+        "caitan ne faretz oi cum ier."
+    ],
+    "Stanzas": [
+        [
+            "Pons, viscoms, lezir e sojor",
+            "vos al reis dat a Monpeslier",
+            "e bon vin e pigment e cor.",
+            "Greu segrez mais autre mestier,",
+            "qe trop vos lauzei de primier.",
+            "E senqeras no vos abriu",
+            "tart prendretz al poing lesparvier."
+        ],
+        [
+            "Mas be par qe sobraiga escriu,",
+            "caitan ne faretz oi cum ier."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Edizione critica: Saverio Guida, Trovatori minori, Modena 2002"
+}

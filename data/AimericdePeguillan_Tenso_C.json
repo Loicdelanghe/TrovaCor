@@ -1,0 +1,55 @@
+{
+    "Author": [
+        "AimericdePeguillan",
+        "GuillemFigueira"
+    ],
+    "Genre": "Tenso",
+    "Title": "NAimeric, qeus par del pro Bertram dAurel? ",
+    "FullText": [
+        "NAimeric, qeus par del pro Bertram dAurel?",
+        "ca Breissa joget lautrer dun joc novel",
+        "e dis doas vez eschah ab un coltel",
+        "an Guillelm del Dui Fraire, qe volc leschah desfaire",
+        "Mas Bertramz levet del joc can Guillelms cuidet traire.",
+        "Figera, Bertramz fetz be, car ses apel",
+        "laisel joc sobrel maiestre den Sordel;",
+        "qe can trop monton revit, non es ges bel;",
+        "el seus contrajogaire fora tost revidaire.",
+        "Doncs fetz qe savis Bertramz, car ses dan sen saup raire.",
+        "NAimeric, bos jogaire fon Bertramz lenvidaire;",
+        "mas trop tost laisset lenvit qe Guillelms li volc faire.",
+        "Figera anc per lo fraire no fon del joc laissaire",
+        "Bertramz, enans per desdeing qe tan pugnav a traire."
+    ],
+    "Stanzas": [
+        [
+            "NAimeric, qeus par del pro Bertram dAurel?",
+            "ca Breissa joget lautrer dun joc novel",
+            "e dis doas vez eschah ab un coltel",
+            "an Guillelm del Dui Fraire, qe volc leschah desfaire",
+            "Mas Bertramz levet del joc can Guillelms cuidet traire."
+        ],
+        [
+            "Figera, Bertramz fetz be, car ses apel",
+            "laisel joc sobrel maiestre den Sordel;",
+            "qe can trop monton revit, non es ges bel;",
+            "el seus contrajogaire fora tost revidaire.",
+            "Doncs fetz qe savis Bertramz, car ses dan sen saup raire."
+        ],
+        [
+            "NAimeric, bos jogaire fon Bertramz lenvidaire;",
+            "mas trop tost laisset lenvit qe Guillelms li volc faire."
+        ],
+        [
+            "Figera anc per lo fraire no fon del joc laissaire",
+            "Bertramz, enans per desdeing qe tan pugnav a traire."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " William P. Shepard and Frank M. Chambers, The Poems of Aimeric de Peguilhan, Evanston (Illinois) 1950"
+}

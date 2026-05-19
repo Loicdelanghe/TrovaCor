@@ -1,0 +1,78 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Canso",
+    "Title": "La beutat nominativa",
+    "FullText": [
+        "La beutat nominativa",
+        "che avetz, el gran valor,",
+        "ona de pretz genetiva,",
+        "m'aleuia de ma dolor",
+        "crezen chem seretz dativa,",
+        "bella, de vostre ricor,",
+        "pois no m'es acusativa",
+        "per conseil d'acuzador.",
+        "E s'ieu ia, bella, tan vail",
+        "ch'amdui siam coniuntiu,",
+        "nostre ferm cor optatiu,",
+        "pois non prezerai un aill",
+        "cels c'ab voluntat ativa",
+        "pauzan contra mi eror",
+        "e pugnon che disiuntiva",
+        "sia nostra fin'amor.",
+        "Fama es indichativa",
+        "che ven gaug apres dolor,",
+        "an qe n'ai mon mal menor.",
+        "Quan sera copulativa",
+        "car tenguda nostr'amor,",
+        "ia non er de mal passiva.",
+        "Ieu dich ver, per ch'ai paor.",
+        "E car es nominativa,",
+        "volgr'aver un genetiu",
+        "e vos, chi es enperativa."
+    ],
+    "Stanzas": [
+        [
+            "La beutat nominativa",
+            "che avetz, el gran valor,",
+            "ona de pretz genetiva,",
+            "m'aleuia de ma dolor",
+            "crezen chem seretz dativa,",
+            "bella, de vostre ricor,",
+            "pois no m'es acusativa",
+            "per conseil d'acuzador."
+        ],
+        [
+            "E s'ieu ia, bella, tan vail",
+            "ch'amdui siam coniuntiu,",
+            "nostre ferm cor optatiu,",
+            "pois non prezerai un aill",
+            "cels c'ab voluntat ativa",
+            "pauzan contra mi eror",
+            "e pugnon che disiuntiva",
+            "sia nostra fin'amor."
+        ],
+        [
+            "Fama es indichativa",
+            "che ven gaug apres dolor,",
+            "an qe n'ai mon mal menor.",
+            "Quan sera copulativa",
+            "car tenguda nostr'amor,",
+            "ia non er de mal passiva.",
+            "Ieu dich ver, per ch'ai paor."
+        ],
+        [
+            "E car es nominativa,",
+            "volgr'aver un genetiu",
+            "e vos, chi es enperativa."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": "UNK"
+}

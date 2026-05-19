@@ -1,0 +1,68 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Canso",
+    "Title": "Ensement com la panthere",
+    "FullText": [
+        "Ensement com la panthere",
+        "qui porte tan boneodor",
+        "et a si bele color",
+        "que non es beste salvage",
+        "qui par force et par outrage",
+        "sie tan male ni fere",
+        "que, si loing com puet choisir,",
+        "non auges pres lou murir,",
+        "et en altretal semblance",
+        "mi ten amor en balance,",
+        "quem fassegre cheque non pos aber,",
+        "et sec mon dan per far lou sen plaser.",
+        "Ne ia por ce non planhere",
+        "[de] negun tor[men] d'amor,",
+        "ainz prendraien ioi dolor",
+        "[de] son gent cors de parage;",
+        "mes, s'el' abes en corage",
+        "merce, que noi es enqere,",
+        "ensinc non pogr'esgarir",
+        "e mon maltrait et merir",
+        "[fors qu'] a sa simple semblance",
+        "et a sa douce acointance,",
+        "ou a tan gran beltat en son poder,",
+        "per que non pos laissar de leis veder."
+    ],
+    "Stanzas": [
+        [
+            "Ensement com la panthere",
+            "qui porte tan boneodor",
+            "et a si bele color",
+            "que non es beste salvage",
+            "qui par force et par outrage",
+            "sie tan male ni fere",
+            "que, si loing com puet choisir,",
+            "non auges pres lou murir,",
+            "et en altretal semblance",
+            "mi ten amor en balance,",
+            "quem fassegre cheque non pos aber,",
+            "et sec mon dan per far lou sen plaser."
+        ],
+        [
+            "Ne ia por ce non planhere",
+            "[de] negun tor[men] d'amor,",
+            "ainz prendraien ioi dolor",
+            "[de] son gent cors de parage;",
+            "mes, s'el' abes en corage",
+            "merce, que noi es enqere,",
+            "ensinc non pogr'esgarir",
+            "e mon maltrait et merir",
+            "[fors qu'] a sa simple semblance",
+            "et a sa douce acointance,",
+            "ou a tan gran beltat en son poder,",
+            "per que non pos laissar de leis veder."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": "UNK"
+}

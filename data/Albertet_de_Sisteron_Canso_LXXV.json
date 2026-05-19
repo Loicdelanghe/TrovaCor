@@ -1,0 +1,51 @@
+{
+    "Author": [
+        "Albertet_de_Sisteron"
+    ],
+    "Genre": "Canso",
+    "Title": "Mout es greus mais don hom nos ausa plaigner ",
+    "FullText": [
+        "Mout es greus mais don hom nos ausa plaigner,",
+        "Car negus mais tant fort non fai doler;",
+        "Las, qieu non aus mon greu mal far saber",
+        "A la bella qieu am tant finamen",
+        "Qieu muor per lieis e non lo faz parven!",
+        "Ben volgra aver un pauc mais dardimen",
+        "Qieu li mostres mon mal e mo martire",
+        "Anz qem laisses a la dolor aucire.",
+        "A vos, Amors, vuoill ma dolor complaigner,",
+        "Car me podetz a ma dompna valer,",
+        "Quieu sai qen lieis avetz tant gran poder",
+        "Que ben fara lo vostre mandamen . . .",
+        "Seign En Colrat, Malaspina desire",
+        "Tot jorn vezer, car naug gran ben dire."
+    ],
+    "Stanzas": [
+        [
+            "Mout es greus mais don hom nos ausa plaigner,",
+            "Car negus mais tant fort non fai doler;",
+            "Las, qieu non aus mon greu mal far saber",
+            "A la bella qieu am tant finamen",
+            "Qieu muor per lieis e non lo faz parven!",
+            "Ben volgra aver un pauc mais dardimen",
+            "Qieu li mostres mon mal e mo martire",
+            "Anz qem laisses a la dolor aucire."
+        ],
+        [
+            "A vos, Amors, vuoill ma dolor complaigner,",
+            "Car me podetz a ma dompna valer,",
+            "Quieu sai qen lieis avetz tant gran poder",
+            "Que ben fara lo vostre mandamen . . ."
+        ],
+        [
+            "Seign En Colrat, Malaspina desire",
+            "Tot jorn vezer, car naug gran ben dire."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "VI"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}
