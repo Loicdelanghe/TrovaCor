@@ -1,0 +1,78 @@
+{
+    "Author": [
+        "Ebled'Uisel",
+        "GuidUssel"
+    ],
+    "Genre": "Tenso",
+    "Title": "Gui, eus part mon essienz ",
+    "FullText": [
+        "Gui, eus part mon essienz",
+        "Un joc dun serez conquis:",
+        "En qal cuidaz qom moris",
+        "Ennanz daqes dos tormenz,",
+        "Qe tota una nuoit davenz",
+        "Jacsez ab lei don es gais,",
+        "Ous tengues us dels Algais",
+        "En lega, lo terz dun dia:",
+        "Chausez qal volriaz mais.",
+        "NEble, com hom recrezenz,",
+        "Cui amors non abelis,",
+        "Partez, e sieu non chausis,",
+        "Petit majuda mos senz;",
+        "Qe sitot nom sui jausenz",
+        "De lei qe aman me trais,",
+        "Mais men val uns petitz jais",
+        "Qen legal bascles maucia;",
+        "Mas a vos, qen sabez, lais.",
+        "En Gui, plus flaira qausenz,",
+        "Per qeu li fui eill gandis,",
+        "E a avuz set campis",
+        "Qe de toz a faiz sirvenz;",
+        "Mais am estar en pendenz,",
+        "Cum fai Judas qe Dieu trais,",
+        "Qil jamais mabraz nim bais!",
+        "Pro al Diables qes ria",
+        "Daizo qil a faitz eimais."
+    ],
+    "Stanzas": [
+        [
+            "Gui, eus part mon essienz",
+            "Un joc dun serez conquis:",
+            "En qal cuidaz qom moris",
+            "Ennanz daqes dos tormenz,",
+            "Qe tota una nuoit davenz",
+            "Jacsez ab lei don es gais,",
+            "Ous tengues us dels Algais",
+            "En lega, lo terz dun dia:",
+            "Chausez qal volriaz mais."
+        ],
+        [
+            "NEble, com hom recrezenz,",
+            "Cui amors non abelis,",
+            "Partez, e sieu non chausis,",
+            "Petit majuda mos senz;",
+            "Qe sitot nom sui jausenz",
+            "De lei qe aman me trais,",
+            "Mais men val uns petitz jais",
+            "Qen legal bascles maucia;",
+            "Mas a vos, qen sabez, lais."
+        ],
+        [
+            "En Gui, plus flaira qausenz,",
+            "Per qeu li fui eill gandis,",
+            "E a avuz set campis",
+            "Qe de toz a faiz sirvenz;",
+            "Mais am estar en pendenz,",
+            "Cum fai Judas qe Dieu trais,",
+            "Qil jamais mabraz nim bais!",
+            "Pro al Diables qes ria",
+            "Daizo qil a faitz eimais."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Audiau, Jean. Les posies des quatre troubadours d'Ussel, publies d'aprs les manuscrits. Paris: Librarie Delagrave, 1922."
+}

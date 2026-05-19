@@ -1,0 +1,101 @@
+{
+    "Author": [
+        "Comtessade_Dia"
+    ],
+    "Genre": "Canso",
+    "Title": "Ab ioi et ab ioven mapais ",
+    "FullText": [
+        "Ab ioi et ab ioven mapais",
+        "e iois e iovens mapaia,",
+        "que mos amics es lo plus gais",
+        "per queu sui coindeta e gaia,",
+        "e pois eu li sui veraia be.",
+        "is taing qel me sia verais,",
+        "canc de lui amar no mestrais",
+        "ni ai cor que men estraia.",
+        "Mout mi plai car sai que val",
+        "mais cel qieu plus desir que maia,",
+        "e cel que primiers lo matrais",
+        "Dieu prec que gran ioi latraia,",
+        "e qui que mal len retraia,",
+        "non creza, fors quie.l retrais,",
+        "com cuoill maintas vetz los balais",
+        "ab qel mezeis se balaia.",
+        "Dompna que en bon pretz senten",
+        "deu ben pausar sentendenssa",
+        "en un pro cavallier valen",
+        "pos ill conois sa valenssa",
+        "que laus amar a presenssa,",
+        "e dompna, pois ama a presen,",
+        "ia pois li pro ni.llavinen",
+        "no.n diran mas avinenssa.",
+        "Qieu nai chausit un pro e gen",
+        "per cui pretz meillura e genssa,",
+        "larc et adreig e conoissen,",
+        "on es sens e conoissenssa;",
+        "prec li non aia crezenssa,",
+        "ni hom no.il puosca far crezen",
+        "qieu fassa vas lui faillimen,",
+        "sol non trob en lui faillensa",
+        "Amics, la vostra valenssa",
+        "sabon li pro e li valen,",
+        "per qieu vos qier de mantenen",
+        "si.us plai vostra mantenenssa."
+    ],
+    "Stanzas": [
+        [
+            "Ab ioi et ab ioven mapais",
+            "e iois e iovens mapaia,",
+            "que mos amics es lo plus gais",
+            "per queu sui coindeta e gaia,",
+            "e pois eu li sui veraia be.",
+            "is taing qel me sia verais,",
+            "canc de lui amar no mestrais",
+            "ni ai cor que men estraia."
+        ],
+        [
+            "Mout mi plai car sai que val",
+            "mais cel qieu plus desir que maia,",
+            "e cel que primiers lo matrais",
+            "Dieu prec que gran ioi latraia,",
+            "e qui que mal len retraia,",
+            "non creza, fors quie.l retrais,",
+            "com cuoill maintas vetz los balais",
+            "ab qel mezeis se balaia."
+        ],
+        [
+            "Dompna que en bon pretz senten",
+            "deu ben pausar sentendenssa",
+            "en un pro cavallier valen",
+            "pos ill conois sa valenssa",
+            "que laus amar a presenssa,",
+            "e dompna, pois ama a presen,",
+            "ia pois li pro ni.llavinen",
+            "no.n diran mas avinenssa."
+        ],
+        [
+            "Qieu nai chausit un pro e gen",
+            "per cui pretz meillura e genssa,",
+            "larc et adreig e conoissen,",
+            "on es sens e conoissenssa;",
+            "prec li non aia crezenssa,",
+            "ni hom no.il puosca far crezen",
+            "qieu fassa vas lui faillimen,",
+            "sol non trob en lui faillensa"
+        ],
+        [
+            "Amics, la vostra valenssa",
+            "sabon li pro e li valen,",
+            "per qieu vos qier de mantenen",
+            "si.us plai vostra mantenenssa."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Serra-Bald, Alfons. Els trobadors. Barcelona: Barcino, 1934"
+}

@@ -1,0 +1,82 @@
+{
+    "Author": [
+        "Clara_dAnduza"
+    ],
+    "Genre": "Canso",
+    "Title": "En gru esmai et en gru pessamen ",
+    "FullText": [
+        "En gru esmai et en gru pessamen",
+        "An mes mon cr et en granda error",
+        "Li lauzengier e'l fals devinador,",
+        "Abaissador de ji e de joven,",
+        "Car vos qu'ieu am mais que res qu'el mon sia",
+        "An fait de me departir e lonhar,",
+        "Si qu'ieu no'us puesc vezer ni remirar,",
+        "Don muer de dl, d'ira e de feunia.",
+        "Cel que'm blasma vstr' amor ni'm defen",
+        "Non pt en far en ren mon cr melhor,",
+        "Ni'l dou desir qu'ieu ai de vos major",
+        "Ni l'enveja ni'l desir ni'l talen ;",
+        "E non es m, tan mos enemics sia,",
+        "Si l'aug dir ben, que non lo tenh' en car,",
+        "E, si'n ditz mal, mais no'm pt dir ni far",
+        "Neguna ren que a plazer me sia.",
+        "Ja no'us donetz, bls amics, espaven",
+        "Que ja vs vos aja cr trichador,",
+        "Ni qu'ie'us camge per nul autr' amador,",
+        "Si'm pregavon d'autras dnas un cen ;",
+        "Qu'Amors que'm ten per vos en sa bailia",
+        "Vl que mon cr vos estui e vos gar,",
+        "E farai o ; e, s'ieu pogus emblar",
+        "Mon cr, tals l'a que jamais non l'auria.",
+        "Amics, tant ai d'ira e de feunia",
+        "Quar non vos vei, que quant ieu cug chantar,",
+        "Planh e sospir, per qu'ieu non puesc  far",
+        "Ab mas coblas que'l crs complir volria."
+    ],
+    "Stanzas": [
+        [
+            "En gru esmai et en gru pessamen",
+            "An mes mon cr et en granda error",
+            "Li lauzengier e'l fals devinador,",
+            "Abaissador de ji e de joven,",
+            "Car vos qu'ieu am mais que res qu'el mon sia",
+            "An fait de me departir e lonhar,",
+            "Si qu'ieu no'us puesc vezer ni remirar,",
+            "Don muer de dl, d'ira e de feunia."
+        ],
+        [
+            "Cel que'm blasma vstr' amor ni'm defen",
+            "Non pt en far en ren mon cr melhor,",
+            "Ni'l dou desir qu'ieu ai de vos major",
+            "Ni l'enveja ni'l desir ni'l talen ;",
+            "E non es m, tan mos enemics sia,",
+            "Si l'aug dir ben, que non lo tenh' en car,",
+            "E, si'n ditz mal, mais no'm pt dir ni far",
+            "Neguna ren que a plazer me sia."
+        ],
+        [
+            "Ja no'us donetz, bls amics, espaven",
+            "Que ja vs vos aja cr trichador,",
+            "Ni qu'ie'us camge per nul autr' amador,",
+            "Si'm pregavon d'autras dnas un cen ;",
+            "Qu'Amors que'm ten per vos en sa bailia",
+            "Vl que mon cr vos estui e vos gar,",
+            "E farai o ; e, s'ieu pogus emblar",
+            "Mon cr, tals l'a que jamais non l'auria."
+        ],
+        [
+            "Amics, tant ai d'ira e de feunia",
+            "Quar non vos vei, que quant ieu cug chantar,",
+            "Planh e sospir, per qu'ieu non puesc  far",
+            "Ab mas coblas que'l crs complir volria."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Bec, Pierre. Burlesque et obscnit chez les troubadours. Pour une approche du contre-texte mdival. Paris: Stock, 1984."
+}

@@ -1,0 +1,109 @@
+{
+    "Author": [
+        "Elias_de_Barjols"
+    ],
+    "Genre": "Canso",
+    "Title": "Belhs-Guazanhs, s'a vos plazia ",
+    "FullText": [
+        " Belhs-Guazanhs, sa vos plazia,",
+        "    ben fora sazos",
+        " quel vostre cors belhs e bos,",
+        " humils, de doussa paria,",
+        " fos damor tan cobeitos ! :",
+        " pus negus non es tan pros",
+        "queus o digua ni que ia sapchai tan",
+        "que vos o aus dir ni que vos o man.",
+        " Quieu sai qua vos tanheria",
+        "    amics cabalos,",
+        " tals don res a dir no fos,",
+        " aitals cum ieu chauziria ;",
+        " farai nun tot nou quer bos :",
+        " e penrai de las faissos",
+        "e quadaun, de las melhors quauran,",
+        "ro vos aiatz cavalier benestan.",
+        " NAymars me don sa coindia,",
+        "    En Trencaleos",
+        " sa gensozi, En Randos",
+        " donar, ques la senhoria,",
+        " el Dalfis sos belhs respos ;",
+        " En Peyr cui es Monleos",
+        "om son guabar, e volrai dEn Brian",
+        "cavallairi, el sen vuelh dEn Bertran.",
+        " Bels Castellas, cortezia",
+        "    vuelh aver de vos",
+        " e volrai quem do NEblos",
+        " covit, que plus non penria ;",
+        " En Miravalh sas chansos,",
+        " En Pons de Capduelh do nos",
+        "sa guaieza ; En Bertran La Tor man",
+        "sa drecheza mi do e nom soan.",
+        " Aital lauretz, ses fadia,",
+        "    guai et amoros,",
+        " belh e ben fait e ioyos",
+        " e ple de cavallairia ;",
+        " et es ben dreytz e razos",
+        " que vos lametz et elh vos,",
+        "quassatz seretz ambeduy dun semblan,",
+        "sol no crezatz fals lauzengiers truan."
+    ],
+    "Stanzas": [
+        [
+            " Belhs-Guazanhs, sa vos plazia,",
+            "    ben fora sazos",
+            " quel vostre cors belhs e bos,",
+            " humils, de doussa paria,",
+            " fos damor tan cobeitos ! :",
+            " pus negus non es tan pros",
+            "queus o digua ni que ia sapchai tan",
+            "que vos o aus dir ni que vos o man."
+        ],
+        [
+            " Quieu sai qua vos tanheria",
+            "    amics cabalos,",
+            " tals don res a dir no fos,",
+            " aitals cum ieu chauziria ;",
+            " farai nun tot nou quer bos :",
+            " e penrai de las faissos",
+            "e quadaun, de las melhors quauran,",
+            "ro vos aiatz cavalier benestan."
+        ],
+        [
+            " NAymars me don sa coindia,",
+            "    En Trencaleos",
+            " sa gensozi, En Randos",
+            " donar, ques la senhoria,",
+            " el Dalfis sos belhs respos ;",
+            " En Peyr cui es Monleos",
+            "om son guabar, e volrai dEn Brian",
+            "cavallairi, el sen vuelh dEn Bertran."
+        ],
+        [
+            " Bels Castellas, cortezia",
+            "    vuelh aver de vos",
+            " e volrai quem do NEblos",
+            " covit, que plus non penria ;",
+            " En Miravalh sas chansos,",
+            " En Pons de Capduelh do nos",
+            "sa guaieza ; En Bertran La Tor man",
+            "sa drecheza mi do e nom soan."
+        ],
+        [
+            " Aital lauretz, ses fadia,",
+            "    guai et amoros,",
+            " belh e ben fait e ioyos",
+            " e ple de cavallairia ;",
+            " et es ben dreytz e razos",
+            " que vos lametz et elh vos,",
+            "quassatz seretz ambeduy dun semblan,",
+            "sol no crezatz fals lauzengiers truan."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Stroski, Stanislas. Le troubadour Elias de Barjols. Toulouse: Imprimerie et librairie douard Privat, 1906"
+}

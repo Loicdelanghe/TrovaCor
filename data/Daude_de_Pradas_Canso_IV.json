@@ -1,0 +1,99 @@
+{
+    "Author": [
+        "Daude_de_Pradas"
+    ],
+    "Genre": "Canso",
+    "Title": "De lai on son tug miei desir ",
+    "FullText": [
+        "De lai on son tug miei desir,",
+        "car sai que cill nom desira,",
+        "per qieu soven plaing e sospir ;",
+        "mas ill non plaing ni sospira.",
+        "Per so de lieis fort mi rancur,",
+        "et es dreita ma rancura,",
+        "qieu non pens dautra ren ni cur,",
+        "En mi son tuich aquil conssir",
+        "don nuils fis amans cossira ;",
+        "e si bem vau nim volv nim vir,",
+        "mos cors nois volv ni nois vira",
+        "de lieis que aten quem meillur,",
+        "que tot so qeis vol meillura,",
+        "e sol caillors no se pejur",
+        "Totz los afans qem fai sofrir,",
+        "mout voluntiers los sofrira,",
+        "selam deignes sol acuillir",
+        "tan gen cum ieu lacuilira.",
+        "Ja noill agra cor flac ni dur,",
+        "Doncs per que mes ill tant dura?",
+        "Qe on plus ieu vas lieis matur,",
+        "Si sagrades de mon servir,",
+        "de tot mon sen la servira,",
+        "car daquest mal qem fai languir,",
+        "sai ben que puois non languira ;",
+        "mas ill non vol precs ni conjur,",
+        "e si Merces non conjura",
+        "tant cun pauc vas me sadreitur,",
+        "Non puosc mudar cades non tir",
+        "lai on mos mals aips me tira,",
+        "car tot mon cor ma faich partir",
+        "de lai, don ja nois partira,",
+        "sil sieu esgart dousset e pur,",
+        "qem fan cuidar quil es pura,",
+        "mi dissessen qem fes segur"
+    ],
+    "Stanzas": [
+        [
+            "De lai on son tug miei desir,",
+            "car sai que cill nom desira,",
+            "per qieu soven plaing e sospir ;",
+            "mas ill non plaing ni sospira.",
+            "Per so de lieis fort mi rancur,",
+            "et es dreita ma rancura,",
+            "qieu non pens dautra ren ni cur,"
+        ],
+        [
+            "En mi son tuich aquil conssir",
+            "don nuils fis amans cossira ;",
+            "e si bem vau nim volv nim vir,",
+            "mos cors nois volv ni nois vira",
+            "de lieis que aten quem meillur,",
+            "que tot so qeis vol meillura,",
+            "e sol caillors no se pejur"
+        ],
+        [
+            "Totz los afans qem fai sofrir,",
+            "mout voluntiers los sofrira,",
+            "selam deignes sol acuillir",
+            "tan gen cum ieu lacuilira.",
+            "Ja noill agra cor flac ni dur,",
+            "Doncs per que mes ill tant dura?",
+            "Qe on plus ieu vas lieis matur,"
+        ],
+        [
+            "Si sagrades de mon servir,",
+            "de tot mon sen la servira,",
+            "car daquest mal qem fai languir,",
+            "sai ben que puois non languira ;",
+            "mas ill non vol precs ni conjur,",
+            "e si Merces non conjura",
+            "tant cun pauc vas me sadreitur,"
+        ],
+        [
+            "Non puosc mudar cades non tir",
+            "lai on mos mals aips me tira,",
+            "car tot mon cor ma faich partir",
+            "de lai, don ja nois partira,",
+            "sil sieu esgart dousset e pur,",
+            "qem fan cuidar quil es pura,",
+            "mi dissessen qem fes segur"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Schutz, Alexander H. Posies de Daude de Pradas. Toulouse - Paris: douard Privat - Henri Didier, 1933"
+}

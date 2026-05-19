@@ -1,0 +1,63 @@
+{
+    "Author": [
+        "Comtessade_Dia"
+    ],
+    "Genre": "Canso",
+    "Title": "Estat ai en greu cossirier ",
+    "FullText": [
+        "Estat ai en greu cossirier",
+        "per un cavallier quai agut,",
+        "e vuoil sia totz temps saubut",
+        "cum ieu lai amat a sobrier:",
+        "ara vei quieu sui trahida",
+        "car ieu non li donei mamor,",
+        "don ai estat en gran error",
+        "Ben volria mon cavallier",
+        "tener un ser en mos bratz nut,",
+        "quel sen tengra per ereubut",
+        "sol qua lui fezes cosseillier;",
+        "car plus men sui abellida",
+        "ieu lautrei mon cor e mamor,",
+        "Bels amics avinens e bos,",
+        "coraus tenrai en mos poder?",
+        "e que jagues ab vos un ser",
+        "e quieus des un bais amoros!",
+        "Sapchatz, gran talan nauria",
+        "quieus tengues en luoc del marit,",
+        "ab so que maguessetz ple vit"
+    ],
+    "Stanzas": [
+        [
+            "Estat ai en greu cossirier",
+            "per un cavallier quai agut,",
+            "e vuoil sia totz temps saubut",
+            "cum ieu lai amat a sobrier:",
+            "ara vei quieu sui trahida",
+            "car ieu non li donei mamor,",
+            "don ai estat en gran error"
+        ],
+        [
+            "Ben volria mon cavallier",
+            "tener un ser en mos bratz nut,",
+            "quel sen tengra per ereubut",
+            "sol qua lui fezes cosseillier;",
+            "car plus men sui abellida",
+            "ieu lautrei mon cor e mamor,"
+        ],
+        [
+            "Bels amics avinens e bos,",
+            "coraus tenrai en mos poder?",
+            "e que jagues ab vos un ser",
+            "e quieus des un bais amoros!",
+            "Sapchatz, gran talan nauria",
+            "quieus tengues en luoc del marit,",
+            "ab so que maguessetz ple vit"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Serra-Bald, Alfons. Els trobadors. Barcelona: Barcino, 1934"
+}

@@ -1,0 +1,87 @@
+{
+    "Author": [
+        "Engels"
+    ],
+    "Genre": "Tenso",
+    "Title": "A la cort fuy l'autrier del rey Navar ",
+    "FullText": [
+        "A la cort fuy lautrier del rey Navar",
+        "Ques cort corta de tota cortesia.",
+        "Corta de pres e corta de donar",
+        "E mais corta quieu dire non sabria ;",
+        "Et es tan cort com ren no y pot corchar.",
+        "De sa cort corta prec Dieus que menpar,",
+        "Quen sa cort a de totz bens carestia,",
+        "Per quieu lapel cort corta totavia.",
+        " NEngles, a tort vos aug del rey blasmar",
+        "De Navarra, de que faig gran follia;",
+        "E blasmas lo car el non vos vol dar",
+        "Plus honrat don ca vos non tanheria,",
+        "Mas, ses blasme, non fai so que deuria ?",
+        "Quel es fransces e vos engles, som par.",
+        "El rey franses non deu als Engles dar,",
+        "Car Fransa tol als Engles cascun dia;",
+        "Doncs com dara sel que toure deuria?",
+        " Rey dAraguon, corona de pres quar,",
+        "Ves vos men vauc per mon dan restaurar.",
+        "Car en vos es solas e cortezia",
+        "Ves vos men vauc, senher, ma dreita via.",
+        " Sieus acordas que la vulhas tornar,",
+        "NEngles, al rey queus donet lautre dya,",
+        "Tot vostre don cre queus faray doblar,",
+        "E nom menes en vostra compainhia",
+        "Cal rey a far e non lay vos segria.",
+        "E sops vos es, pensas leu de lannar,",
+        "E prenetz so que pel rey dat vos sia;",
+        "Non men des part, quieu non lan vos querria."
+    ],
+    "Stanzas": [
+        [
+            "A la cort fuy lautrier del rey Navar",
+            "Ques cort corta de tota cortesia.",
+            "Corta de pres e corta de donar",
+            "E mais corta quieu dire non sabria ;",
+            "Et es tan cort com ren no y pot corchar.",
+            "De sa cort corta prec Dieus que menpar,",
+            "Quen sa cort a de totz bens carestia,",
+            "Per quieu lapel cort corta totavia."
+        ],
+        [
+            " NEngles, a tort vos aug del rey blasmar",
+            "De Navarra, de que faig gran follia;",
+            "E blasmas lo car el non vos vol dar",
+            "Plus honrat don ca vos non tanheria,",
+            "Mas, ses blasme, non fai so que deuria ?",
+            "Quel es fransces e vos engles, som par.",
+            "El rey franses non deu als Engles dar,",
+            "Car Fransa tol als Engles cascun dia;",
+            "Doncs com dara sel que toure deuria?"
+        ],
+        [
+            " Rey dAraguon, corona de pres quar,",
+            "Ves vos men vauc per mon dan restaurar.",
+            "Car en vos es solas e cortezia",
+            "Ves vos men vauc, senher, ma dreita via."
+        ],
+        [
+            " Sieus acordas que la vulhas tornar,",
+            "NEngles, al rey queus donet lautre dya,",
+            "Tot vostre don cre queus faray doblar,",
+            "E nom menes en vostra compainhia",
+            "Cal rey a far e non lay vos segria."
+        ],
+        [
+            "E sops vos es, pensas leu de lannar,",
+            "E prenetz so que pel rey dat vos sia;",
+            "Non men des part, quieu non lan vos querria."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "VI",
+        "V"
+    ],
+    "Source": " Meyer, Paul. Les derniers troubadours de la Provence d'aprs le chansonnier donn  la Bibliothque Impriale par M. Ch. Giraud. Paris: Librairie A. Franck, 1871"
+}

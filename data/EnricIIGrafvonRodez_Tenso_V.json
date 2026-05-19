@@ -1,0 +1,91 @@
+{
+    "Author": [
+        "EnricIIGrafvonRodez",
+        "GuillemdeMur"
+    ],
+    "Genre": "Tenso",
+    "Title": "Guillem de Murs, .I. enujos",
+    "FullText": [
+        " Guilhem de Murs, .I. enujos (f. 16 v).",
+        " Novel partiment vos vuell far :",
+        " Cal amas mais, tostems [e]star",
+        " Que sias tan formentz gilos",
+        "Quen perdas joy e bel captenement,",
+        "Ho que sia giloza tan forment",
+        "Vostra moilher de vos quen planc en plor",
+        "E non ges vos? Non prendas la piior.",
+        "  Seinher, sel que fai dun dan dos",
+        " Non fai ben ni gent son afar,",
+        " Per quieu vuell un dan esquivar",
+        " E vuell esser so sospichos,",
+        "Quel gilos vei hom es a tort sovent ;",
+        "E sill era giloza et entent",
+        "Quen fezes tant quez acsem dezonor,",
+        "Amduy ensems quen mescles mal follor.",
+        "  Dieus e dretz e razos",
+        " Sacordan com deu mais amar",
+        " Si mezeis cautre, perquem par",
+        " Que pegua es vostra tensos,",
+        "Car vos sabes, e trobas ho legent,",
+        "Que fort gilos es fora de son sent.",
+        "Trop en portas a la moiller damor",
+        "Que lames mais que vos ex ni honor.",
+        "  Siben mest trop contrarios",
+        " Ni sabes pron de predicar,",
+        " Non comandet Dieus cam sa par",
+        " Deu esser tot un a lespos?",
+        "Aissi con sell que son castell defent",
+        "Deves la part hon plus a despavent,",
+        "Deu [el] guardar la freoleza lor;",
+        "Cant pros domna faill non tornem color."
+    ],
+    "Stanzas": [
+        [
+            " Guilhem de Murs, .I. enujos (f. 16 v).",
+            " Novel partiment vos vuell far :",
+            " Cal amas mais, tostems [e]star",
+            " Que sias tan formentz gilos",
+            "Quen perdas joy e bel captenement,",
+            "Ho que sia giloza tan forment",
+            "Vostra moilher de vos quen planc en plor",
+            "E non ges vos? Non prendas la piior."
+        ],
+        [
+            "  Seinher, sel que fai dun dan dos",
+            " Non fai ben ni gent son afar,",
+            " Per quieu vuell un dan esquivar",
+            " E vuell esser so sospichos,",
+            "Quel gilos vei hom es a tort sovent ;",
+            "E sill era giloza et entent",
+            "Quen fezes tant quez acsem dezonor,",
+            "Amduy ensems quen mescles mal follor."
+        ],
+        [
+            "  Dieus e dretz e razos",
+            " Sacordan com deu mais amar",
+            " Si mezeis cautre, perquem par",
+            " Que pegua es vostra tensos,",
+            "Car vos sabes, e trobas ho legent,",
+            "Que fort gilos es fora de son sent.",
+            "Trop en portas a la moiller damor",
+            "Que lames mais que vos ex ni honor."
+        ],
+        [
+            "  Siben mest trop contrarios",
+            " Ni sabes pron de predicar,",
+            " Non comandet Dieus cam sa par",
+            " Deu esser tot un a lespos?",
+            "Aissi con sell que son castell defent",
+            "Deves la part hon plus a despavent,",
+            "Deu [el] guardar la freoleza lor;",
+            "Cant pros domna faill non tornem color."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": "UNK"
+}

@@ -1,0 +1,63 @@
+{
+    "Author": [
+        "Comtessade_Dia"
+    ],
+    "Genre": "Canso",
+    "Title": "Fin ioi me don alegranssa ",
+    "FullText": [
+        "Fin ioi me don alegranssa",
+        "Per queu chan plus gaiamen,",
+        "E no mo teing a pensanssa,",
+        "Ni a negun penssamen,",
+        "Car sai que son a mon dan",
+        "Fals lausengier e truan,",
+        "E lor mals diz non mesglaia:",
+        "Anz en son dos tanz plus gaia.",
+        "En mi non an ges fianssa",
+        "Li lauzengier mal dizen,",
+        "Com non pot aver honranssa",
+        "Qua ab els acordamen;",
+        "Quist son daltrestal semblan",
+        "Com la niouls que sespan",
+        "Qe.l solels en pert sa raia,",
+        "Per queu non am gent savaia",
+        "E vos, gelos mal parlan,",
+        "No.s cuges que man tarzan,",
+        "Que iois e iovenz no.m plaia,",
+        "Per tal que dols vos deschaia."
+    ],
+    "Stanzas": [
+        [
+            "Fin ioi me don alegranssa",
+            "Per queu chan plus gaiamen,",
+            "E no mo teing a pensanssa,",
+            "Ni a negun penssamen,",
+            "Car sai que son a mon dan",
+            "Fals lausengier e truan,",
+            "E lor mals diz non mesglaia:",
+            "Anz en son dos tanz plus gaia."
+        ],
+        [
+            "En mi non an ges fianssa",
+            "Li lauzengier mal dizen,",
+            "Com non pot aver honranssa",
+            "Qua ab els acordamen;",
+            "Quist son daltrestal semblan",
+            "Com la niouls que sespan",
+            "Qe.l solels en pert sa raia,",
+            "Per queu non am gent savaia"
+        ],
+        [
+            "E vos, gelos mal parlan,",
+            "No.s cuges que man tarzan,",
+            "Que iois e iovenz no.m plaia,",
+            "Per tal que dols vos deschaia."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Serra-Bald, Alfons. Els trobadors. Barcelona: Barcino, 1934"
+}

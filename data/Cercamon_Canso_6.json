@@ -1,0 +1,104 @@
+{
+    "Author": [
+        "Cercamon"
+    ],
+    "Genre": "Canso",
+    "Title": "Assatz es ora oimai qeu chant ",
+    "FullText": [
+        "Assatz es ora oimai qeu chan",
+        "ant ai estat acondurmitz",
+        "canc mos chanz non fon lueing auzitz;",
+        "mas eram vau ja reveilhant,",
+        "et irei mon joi recobran",
+        "contre livern el freig aurei.",
+        "De joi nom cal [fugir] enan,",
+        "canc un sol jorn non fui garnitz;",
+        "et es mal cor prion sorzitz,",
+        "si qentre gens vau sospiran",
+        "lo dezirier cai damor gran;",
+        "ni dorm ni veil, ni aug ni vei.",
+        "Sanc per amor anei veilhan,",
+        "nin fui anc fols ni trassailitz,",
+        "ni cambatz per chamjaritz,",
+        "eran lau Dieu e Saint Joan,",
+        "cab tal amor vau amoran",
+        "canc non chamjec per autre mei.",
+        "Cesta non cug qe ja m [engan],",
+        "sieu ja de leis no soi garnitz;",
+        "ni non soi tant afolatitz",
+        "qe ja reil qeira nil deman,",
+        "petit ni pro, ni tan ni qant,",
+        "ni mal ni be, ni re ni qei.",
+        "Tant la sei coinda e prezan,",
+        "el faigz de leis es tant eslitz,",
+        "qe sai me tenc per enreqitz,",
+        "e lai [serai en] son coman",
+        "la nueg el jorn el mes e lan,",
+        "caissi soi sieus con esser dei.",
+        "Plas es lo vers, vauc lafinan",
+        "ses mot vila, fals, apostitz;",
+        "et es totz enaissi noiritz",
+        "cap motz politz lo vau uzan;",
+        "e tot ades vas meilluran",
+        "ses qi bel chant ni bel desplei."
+    ],
+    "Stanzas": [
+        [
+            "Assatz es ora oimai qeu chan",
+            "ant ai estat acondurmitz",
+            "canc mos chanz non fon lueing auzitz;",
+            "mas eram vau ja reveilhant,",
+            "et irei mon joi recobran",
+            "contre livern el freig aurei."
+        ],
+        [
+            "De joi nom cal [fugir] enan,",
+            "canc un sol jorn non fui garnitz;",
+            "et es mal cor prion sorzitz,",
+            "si qentre gens vau sospiran",
+            "lo dezirier cai damor gran;",
+            "ni dorm ni veil, ni aug ni vei."
+        ],
+        [
+            "Sanc per amor anei veilhan,",
+            "nin fui anc fols ni trassailitz,",
+            "ni cambatz per chamjaritz,",
+            "eran lau Dieu e Saint Joan,",
+            "cab tal amor vau amoran",
+            "canc non chamjec per autre mei."
+        ],
+        [
+            "Cesta non cug qe ja m [engan],",
+            "sieu ja de leis no soi garnitz;",
+            "ni non soi tant afolatitz",
+            "qe ja reil qeira nil deman,",
+            "petit ni pro, ni tan ni qant,",
+            "ni mal ni be, ni re ni qei."
+        ],
+        [
+            "Tant la sei coinda e prezan,",
+            "el faigz de leis es tant eslitz,",
+            "qe sai me tenc per enreqitz,",
+            "e lai [serai en] son coman",
+            "la nueg el jorn el mes e lan,",
+            "caissi soi sieus con esser dei."
+        ],
+        [
+            "Plas es lo vers, vauc lafinan",
+            "ses mot vila, fals, apostitz;",
+            "et es totz enaissi noiritz",
+            "cap motz politz lo vau uzan;",
+            "e tot ades vas meilluran",
+            "ses qi bel chant ni bel desplei."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Wolf, George; Rosenstein, Roy. The Poetry of Cercamon and Jaufre Rudel. New York & London: Garland Publishing, Inc, 1983"
+}

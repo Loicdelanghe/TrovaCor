@@ -1,0 +1,131 @@
+{
+    "Author": [
+        "Elias_de_Barjols"
+    ],
+    "Genre": "Canso",
+    "Title": "Ben deu hom son bon senhor ",
+    "FullText": [
+        " Ben deu hom son bon senhor",
+        "    amar e servir",
+        " et honrar, et obezir",
+        "    a tota sonor,",
+        "e de mal senhor ses merce,",
+        " quant ponhals sieus en desfaire,",
+        " se deu hom qui pot estraire,",
+        "quant sos servizis pro nolh te.",
+        " Atressis deu hom damor",
+        "    per bon dreg partir,",
+        " quant ve que non pot iauzir",
+        "    nil val nil acor ;",
+        "per quiem part forsatz em recre",
+        " damor cuy suy merceyaire,",
+        " car anc iorn nom volc ben faire",
+        "ni non ac chauzimen de me.",
+        " Partitz me suy de lerror,",
+        "    en quem sol tenir",
+        " amors, e del lonc dezir,",
+        "    don non sen dolor ;",
+        "e seu anc dels mals trais granre",
+        " e dels bes nom lausei guaire,",
+        " sos dans mes greus a retraire",
+        "aitan li port de bona fe.",
+        " Ia mais semblant trichador",
+        "    nom poiran ausir",
+        " nill meu nom faran languir",
+        "    huelh gualiador,",
+        "quar folhs es qui sos folhs huelhs cre,",
+        " mayntas vetz, so mes veiaire,",
+        " e fols qui trop es guardaire",
+        "aisso que nol tanh nil cove.",
+        " Al valent emperador",
+        "    vuelh mostrar e dir",
+        " que totz met Dieus en azir",
+        "    mas son servidor ;",
+        "e pus Dieus la donat de que,",
+        " serval a dreg lemperaire",
+        " quom del mon no pot plus traire",
+        "mas tant quant aura fach de be.",
+        " Comtessa Beatris, gran be",
+        "    aug de vos dir e retraire,",
+        "    quar del mon etz la belaire",
+        " de las autras dompnas quom ve.",
+        " En Blacas ies no se recre",
+        "    de son fin pretz enan-traire",
+        "    ans val mais que no sol faire",
+        " e melhur e creys so que te."
+    ],
+    "Stanzas": [
+        [
+            " Ben deu hom son bon senhor",
+            "    amar e servir",
+            " et honrar, et obezir",
+            "    a tota sonor,",
+            "e de mal senhor ses merce,",
+            " quant ponhals sieus en desfaire,",
+            " se deu hom qui pot estraire,",
+            "quant sos servizis pro nolh te."
+        ],
+        [
+            " Atressis deu hom damor",
+            "    per bon dreg partir,",
+            " quant ve que non pot iauzir",
+            "    nil val nil acor ;",
+            "per quiem part forsatz em recre",
+            " damor cuy suy merceyaire,",
+            " car anc iorn nom volc ben faire",
+            "ni non ac chauzimen de me."
+        ],
+        [
+            " Partitz me suy de lerror,",
+            "    en quem sol tenir",
+            " amors, e del lonc dezir,",
+            "    don non sen dolor ;",
+            "e seu anc dels mals trais granre",
+            " e dels bes nom lausei guaire,",
+            " sos dans mes greus a retraire",
+            "aitan li port de bona fe."
+        ],
+        [
+            " Ia mais semblant trichador",
+            "    nom poiran ausir",
+            " nill meu nom faran languir",
+            "    huelh gualiador,",
+            "quar folhs es qui sos folhs huelhs cre,",
+            " mayntas vetz, so mes veiaire,",
+            " e fols qui trop es guardaire",
+            "aisso que nol tanh nil cove."
+        ],
+        [
+            " Al valent emperador",
+            "    vuelh mostrar e dir",
+            " que totz met Dieus en azir",
+            "    mas son servidor ;",
+            "e pus Dieus la donat de que,",
+            " serval a dreg lemperaire",
+            " quom del mon no pot plus traire",
+            "mas tant quant aura fach de be."
+        ],
+        [
+            " Comtessa Beatris, gran be",
+            "    aug de vos dir e retraire,",
+            "    quar del mon etz la belaire",
+            " de las autras dompnas quom ve."
+        ],
+        [
+            " En Blacas ies no se recre",
+            "    de son fin pretz enan-traire",
+            "    ans val mais que no sol faire",
+            " e melhur e creys so que te."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Stroski, Stanislas. Le troubadour Elias de Barjols. Toulouse: Imprimerie et librairie douard Privat, 1906"
+}

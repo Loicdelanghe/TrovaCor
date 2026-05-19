@@ -1,0 +1,131 @@
+{
+    "Author": [
+        "Folquet_de_Lunel"
+    ],
+    "Genre": "Canso",
+    "Title": "Per amor e per solatz ",
+    "FullText": [
+        "Per amor e per solatz,",
+        "e per fin joy mantener,",
+        "e per far lieys plazer,",
+        "si puesc, de cuy soi denatz,",
+        "fas chansoneta leugeira,",
+        "e quar suy de tal maneira,",
+        "que nuech ni jorn la fin amors nom gic,",
+        "quieu port a lieys, que damar mafortic.",
+        "E sitot ses brugz levatz,",
+        "quem ditz, quers non pot valer",
+        "chanso quom fassa, ges per",
+        "aquo fis enamoratz,",
+        "pus es ben en la carreyra",
+        "damor, non tanh que sofeyra",
+        "de far chanso, si sap; sitot lantic,",
+        "doctor feyron chans, quom mais lor grazic.",
+        "Mas ja per otracujatz",
+        "reprendedors retener",
+        "no volrai mon car saber,",
+        "que no sia prezentatz,",
+        "quan levaran en cadeyra,",
+        "per fina valor enteira,",
+        "lo pro comte de Rodes, en Enric,",
+        "per cuy anc hom luy lauzan no mentic.",
+        "Mas er es us temps, quassatz",
+        "trob om, qui ditz mal saber,",
+        "e enueg e non dever",
+        "a quascus de so quel platz;",
+        "e qui chanso vertadeira,",
+        "fai de razon drechureira,",
+        "non les grazit tan cum son crit mendic,",
+        "don joys e chans e pretz prendon destric.",
+        "E non deu esser blasmatz,",
+        "qui lauza so don ditz ver,",
+        "ans lin deu hom grat saber,",
+        "quan lauza so ques vertatz;",
+        "mas qui lauzor ufaneira",
+        "fai de razon messongeira,",
+        "be lon deu hom blasmar e far enic,",
+        "non per mi dons lauzar, quanc no falhic.",
+        "Si de la vilhassa neyra,",
+        "quespaventalh de faveyra",
+        "semblas layssa nostre coms, tug em ric,",
+        "e de maldir de ma gensor se gic",
+        "Na Biatritz a maneira",
+        "de Lunelh tan plazenteira,",
+        "que tug aquilh son siey coral amic,",
+        "que la vezon, tan gen dieus lacomplic."
+    ],
+    "Stanzas": [
+        [
+            "Per amor e per solatz,",
+            "e per fin joy mantener,",
+            "e per far lieys plazer,",
+            "si puesc, de cuy soi denatz,",
+            "fas chansoneta leugeira,",
+            "e quar suy de tal maneira,",
+            "que nuech ni jorn la fin amors nom gic,",
+            "quieu port a lieys, que damar mafortic."
+        ],
+        [
+            "E sitot ses brugz levatz,",
+            "quem ditz, quers non pot valer",
+            "chanso quom fassa, ges per",
+            "aquo fis enamoratz,",
+            "pus es ben en la carreyra",
+            "damor, non tanh que sofeyra",
+            "de far chanso, si sap; sitot lantic,",
+            "doctor feyron chans, quom mais lor grazic."
+        ],
+        [
+            "Mas ja per otracujatz",
+            "reprendedors retener",
+            "no volrai mon car saber,",
+            "que no sia prezentatz,",
+            "quan levaran en cadeyra,",
+            "per fina valor enteira,",
+            "lo pro comte de Rodes, en Enric,",
+            "per cuy anc hom luy lauzan no mentic."
+        ],
+        [
+            "Mas er es us temps, quassatz",
+            "trob om, qui ditz mal saber,",
+            "e enueg e non dever",
+            "a quascus de so quel platz;",
+            "e qui chanso vertadeira,",
+            "fai de razon drechureira,",
+            "non les grazit tan cum son crit mendic,",
+            "don joys e chans e pretz prendon destric."
+        ],
+        [
+            "E non deu esser blasmatz,",
+            "qui lauza so don ditz ver,",
+            "ans lin deu hom grat saber,",
+            "quan lauza so ques vertatz;",
+            "mas qui lauzor ufaneira",
+            "fai de razon messongeira,",
+            "be lon deu hom blasmar e far enic,",
+            "non per mi dons lauzar, quanc no falhic."
+        ],
+        [
+            "Si de la vilhassa neyra,",
+            "quespaventalh de faveyra",
+            "semblas layssa nostre coms, tug em ric,",
+            "e de maldir de ma gensor se gic"
+        ],
+        [
+            "Na Biatritz a maneira",
+            "de Lunelh tan plazenteira,",
+            "que tug aquilh son siey coral amic,",
+            "que la vezon, tan gen dieus lacomplic."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Eichelkraut, Franz. Der Troubadour Folquet de Lunel. Berlin: W. Weber, 1872"
+}

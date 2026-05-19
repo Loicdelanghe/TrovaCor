@@ -1,0 +1,45 @@
+{
+    "Author": [
+        "Folco",
+        "Cavaire"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "Cavaire, pos bos joglars est ",
+    "FullText": [
+        "Cavaire, pos bos joglars est,",
+        "Digatz lo pe perqe perdest;",
+        "Aviatz trobat lo reves",
+        "O mort romeu el cami?",
+        "Qe totz vos fan detras boci,",
+        "Mas eu per me be vos nafi.",
+        "Cavaliers cui joglars ves",
+        "De cavalarias devest;",
+        "Cus joglaretz del Marques dEst,",
+        "Folco, vos a vesti ab si;",
+        "E, sem demandatz qim feri,",
+        "Eus demandrai qius vesti."
+    ],
+    "Stanzas": [
+        [
+            "Cavaire, pos bos joglars est,",
+            "Digatz lo pe perqe perdest;",
+            "Aviatz trobat lo reves",
+            "O mort romeu el cami?",
+            "Qe totz vos fan detras boci,",
+            "Mas eu per me be vos nafi."
+        ],
+        [
+            "Cavaliers cui joglars ves",
+            "De cavalarias devest;",
+            "Cus joglaretz del Marques dEst,",
+            "Folco, vos a vesti ab si;",
+            "E, sem demandatz qim feri,",
+            "Eus demandrai qius vesti."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}

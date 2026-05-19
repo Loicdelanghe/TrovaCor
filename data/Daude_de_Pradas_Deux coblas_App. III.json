@@ -1,0 +1,52 @@
+{
+    "Author": [
+        "Daude_de_Pradas"
+    ],
+    "Genre": "Coblas",
+    "Title": "D'ome fol ni desconoisen ",
+    "FullText": [
+        "Dome fol ni desconoisen",
+        "non deu ja hom voler samor ;",
+        "que fols fa plus de dezonor",
+        "a seluy que plus lo consen ;",
+        "car sos blasmamens es lauzar",
+        "e sa lauzor grant blasme par,",
+        "e qui fa fol privat de se,",
+        "mais ama penre mal que be.",
+        "Mas qui vol aver prez valen",
+        "ni ama veraia lauzor,",
+        "non pot ges faire trop donor",
+        "a home savi, conoisen ;",
+        "quel savis conois ques lauzar ;",
+        "per que deu esser tenguz quar",
+        "qui sap triar lo mal del be",
+        "e conois aco ques conve."
+    ],
+    "Stanzas": [
+        [
+            "Dome fol ni desconoisen",
+            "non deu ja hom voler samor ;",
+            "que fols fa plus de dezonor",
+            "a seluy que plus lo consen ;",
+            "car sos blasmamens es lauzar",
+            "e sa lauzor grant blasme par,",
+            "e qui fa fol privat de se,",
+            "mais ama penre mal que be."
+        ],
+        [
+            "Mas qui vol aver prez valen",
+            "ni ama veraia lauzor,",
+            "non pot ges faire trop donor",
+            "a home savi, conoisen ;",
+            "quel savis conois ques lauzar ;",
+            "per que deu esser tenguz quar",
+            "qui sap triar lo mal del be",
+            "e conois aco ques conve."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Schutz, Alexander H. Posies de Daude de Pradas. Toulouse - Paris: douard Privat - Henri Didier, 1933"
+}

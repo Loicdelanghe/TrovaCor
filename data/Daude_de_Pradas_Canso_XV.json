@@ -1,0 +1,118 @@
+{
+    "Author": [
+        "Daude_de_Pradas"
+    ],
+    "Genre": "Canso",
+    "Title": "Nom puesc mudar que nom ressit ",
+    "FullText": [
+        "Nom puesc mudar que nom ressit,",
+        "pus laura freida venta e corr,",
+        "alques de joy, e per amor,",
+        "e pel temps que vey amarzit,",
+        "quauzelhs non chanta em plaissat,",
+        "nil boscs non retin doussamen ;",
+        "mas ieu ai tan lo cor jauzen,",
+        "E pus liverns nos tol lestat,",
+        "el freg encaussa lo temps gen,",
+        "ben dey aver esbaudimen",
+        "ab lo gen chan quai comensat.",
+        "Quatretan val, cuy es aizit,",
+        "un petit de joy ab freydor,",
+        "cum longu amistatz em pascor,",
+        "Totz temps viuran li acropit",
+        "el fals becut lauzenjador",
+        "ques fan de domnas guardador,",
+        "per quel effan son abordit.",
+        "Aquist an paratge baissat",
+        "ab aquel lur dompneyamen ;",
+        "mas quin pendia mil o cen,",
+        "Ben sai qual son li enjanat,",
+        "qua per pauc non dic mon talen ;",
+        "qua dreg son coguos e sufren",
+        "silh qui plus sen fan veziat ;",
+        "que donas e drut e marit,",
+        "tug volon esser amador.",
+        "Si per aquo son peccador,",
+        "Ia non creirai que Dieus oblit",
+        "bon drut ni belh dompneyador,",
+        "si per autre peccat major",
+        "per colpable non la cauzit.",
+        "Quel mal el bo son tug jutgat",
+        "e quasqus ha son jutgamen.",
+        "Per tal seran al guerimen",
+        "li fals perdut el fin trobat.",
+        "Al cor e a la voluntat",
+        "conoys Dieus home finamen,",
+        "e sil volers nos si cossen,",
+        "totas e tug em encolpat ;",
+        "quar so que Dieus vol es gequit,",
+        "el sobreplus reten paor,",
+        "sil mals talans no vai alhor,"
+    ],
+    "Stanzas": [
+        [
+            "Nom puesc mudar que nom ressit,",
+            "pus laura freida venta e corr,",
+            "alques de joy, e per amor,",
+            "e pel temps que vey amarzit,",
+            "quauzelhs non chanta em plaissat,",
+            "nil boscs non retin doussamen ;",
+            "mas ieu ai tan lo cor jauzen,",
+            "E pus liverns nos tol lestat,"
+        ],
+        [
+            "el freg encaussa lo temps gen,",
+            "ben dey aver esbaudimen",
+            "ab lo gen chan quai comensat.",
+            "Quatretan val, cuy es aizit,",
+            "un petit de joy ab freydor,",
+            "cum longu amistatz em pascor,"
+        ],
+        [
+            "Totz temps viuran li acropit",
+            "el fals becut lauzenjador",
+            "ques fan de domnas guardador,",
+            "per quel effan son abordit.",
+            "Aquist an paratge baissat",
+            "ab aquel lur dompneyamen ;",
+            "mas quin pendia mil o cen,"
+        ],
+        [
+            "Ben sai qual son li enjanat,",
+            "qua per pauc non dic mon talen ;",
+            "qua dreg son coguos e sufren",
+            "silh qui plus sen fan veziat ;",
+            "que donas e drut e marit,",
+            "tug volon esser amador.",
+            "Si per aquo son peccador,"
+        ],
+        [
+            "Ia non creirai que Dieus oblit",
+            "bon drut ni belh dompneyador,",
+            "si per autre peccat major",
+            "per colpable non la cauzit.",
+            "Quel mal el bo son tug jutgat",
+            "e quasqus ha son jutgamen.",
+            "Per tal seran al guerimen",
+            "li fals perdut el fin trobat."
+        ],
+        [
+            "Al cor e a la voluntat",
+            "conoys Dieus home finamen,",
+            "e sil volers nos si cossen,",
+            "totas e tug em encolpat ;",
+            "quar so que Dieus vol es gequit,",
+            "el sobreplus reten paor,",
+            "sil mals talans no vai alhor,"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Schutz, Alexander H. Posies de Daude de Pradas. Toulouse - Paris: douard Privat - Henri Didier, 1933"
+}

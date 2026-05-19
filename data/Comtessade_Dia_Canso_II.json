@@ -1,0 +1,72 @@
+{
+    "Author": [
+        "Comtessade_Dia"
+    ],
+    "Genre": "Canso",
+    "Title": "A chantar mer de so quieu non volria ",
+    "FullText": [
+        "A chantar mer de so quieu non volria",
+        "Tant me rancur de lui cui sui amia,",
+        "Car ieu lam mais que nuilla ren que sia;",
+        "Vas lui no.m val merces ni cortesia",
+        "Ni ma beltatz ni mos pretz ni mos sens,",
+        "Catressi.m sui enganade traha",
+        "Com degresser, sieu fos desavinens.",
+        "Meravill me com vostre cors sorguoilla",
+        "Amics, vas me, per quai razon quieu.m duoilla",
+        "Non es ges dreitz cautramors vos mi tuoilla",
+        "Per nuilla ren qe.us diga ni acuoilla;",
+        "E membre vos cals fo.l comenssamens",
+        "De nostramor! ja Dompnedieus non vuoilla",
+        "Quen ma colpa sia.l departimens.",
+        "Valer mi deu mos pretz e mos paratges",
+        "E ma beltatz e plus mos fis coratges,",
+        "Per quieu vos man lai on es vostrestatges",
+        "Esta chansson que me sia messatges:",
+        "Ieu vuoill saber, lo mieus bels amics gens,",
+        "Per que vos metz tant fers ni tant salvatges,",
+        "Non sai, si ses orguoills o maltalens.",
+        "Mas aitan plus voill qe.us diga.l messatges",
+        "Quen trop dorguoill ant gran dan maintas gens"
+    ],
+    "Stanzas": [
+        [
+            "A chantar mer de so quieu non volria",
+            "Tant me rancur de lui cui sui amia,",
+            "Car ieu lam mais que nuilla ren que sia;",
+            "Vas lui no.m val merces ni cortesia",
+            "Ni ma beltatz ni mos pretz ni mos sens,",
+            "Catressi.m sui enganade traha",
+            "Com degresser, sieu fos desavinens."
+        ],
+        [
+            "Meravill me com vostre cors sorguoilla",
+            "Amics, vas me, per quai razon quieu.m duoilla",
+            "Non es ges dreitz cautramors vos mi tuoilla",
+            "Per nuilla ren qe.us diga ni acuoilla;",
+            "E membre vos cals fo.l comenssamens",
+            "De nostramor! ja Dompnedieus non vuoilla",
+            "Quen ma colpa sia.l departimens."
+        ],
+        [
+            "Valer mi deu mos pretz e mos paratges",
+            "E ma beltatz e plus mos fis coratges,",
+            "Per quieu vos man lai on es vostrestatges",
+            "Esta chansson que me sia messatges:",
+            "Ieu vuoill saber, lo mieus bels amics gens,",
+            "Per que vos metz tant fers ni tant salvatges,",
+            "Non sai, si ses orguoills o maltalens."
+        ],
+        [
+            "Mas aitan plus voill qe.us diga.l messatges",
+            "Quen trop dorguoill ant gran dan maintas gens"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Serra-Bald, Alfons. Els trobadors. Barcelona: Barcino, 1934"
+}

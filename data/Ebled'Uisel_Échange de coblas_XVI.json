@@ -1,0 +1,53 @@
+{
+    "Author": [
+        "Ebled'Uisel",
+        "GuidUssel"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "En Gui, digaz la qal penriaz vos ",
+    "FullText": [
+        "En Gui, digaz la qal penriaz vos,",
+        "E non mentaz, sitot vos faiz feignenz:",
+        "Capa de pers un mes denant Avenz",
+        "E grans osas afaitadas ab ros",
+        "Tro a kalenda maia,",
+        "O tot lestiu dona cortesa e gaia,",
+        "Bella, de cors humil, de bona fe",
+        "E tot aital cum a fin drut cove?",
+        "NEbles, ges eu no son aissi cum vos,",
+        "Qem teigna dan freichs ni ploja ni venz;",
+        "Qe fin amors men deffent e jovenz",
+        "Que mart lo cor aissi totas sazos",
+        "Qa pauc no vau ses braia;",
+        "E de domna no cuidez qeu mestraia,",
+        "E la capa lais a vos, cui cove,",
+        "Eil domna sai que nous faria re."
+    ],
+    "Stanzas": [
+        [
+            "En Gui, digaz la qal penriaz vos,",
+            "E non mentaz, sitot vos faiz feignenz:",
+            "Capa de pers un mes denant Avenz",
+            "E grans osas afaitadas ab ros",
+            "Tro a kalenda maia,",
+            "O tot lestiu dona cortesa e gaia,",
+            "Bella, de cors humil, de bona fe",
+            "E tot aital cum a fin drut cove?"
+        ],
+        [
+            "NEbles, ges eu no son aissi cum vos,",
+            "Qem teigna dan freichs ni ploja ni venz;",
+            "Qe fin amors men deffent e jovenz",
+            "Que mart lo cor aissi totas sazos",
+            "Qa pauc no vau ses braia;",
+            "E de domna no cuidez qeu mestraia,",
+            "E la capa lais a vos, cui cove,",
+            "Eil domna sai que nous faria re."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Audiau, Jean. Les posies des quatre troubadours d'Ussel, publies d'aprs les manuscrits. Paris: Librarie Delagrave, 1922."
+}
