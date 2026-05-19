@@ -1,0 +1,71 @@
+{
+    "Author": [
+        "Garin_dApchier"
+    ],
+    "Genre": "Sirventes",
+    "Title": "L'autrier trobei lonc un fogier ",
+    "FullText": [
+        "L'autrier trobei lonc un fogier",
+        "un crol', onn era us efas mes",
+        "e la olet' e dos conres",
+        "e la noirissa en un gat nier.",
+        "aquest ostals fon d'un parier,",
+        "Comunal, qu'i veich dechaier;",
+        "e qant lui vi, cuidei vezer",
+        "Ruqet, un viel ioglar lanier.",
+        "Cel, s'es paubres, mal no l'en mier,",
+        "q'ieu noill tulc ren mas las pares",
+        "el moli don rendia ses",
+        "al paire d'en Poisson Gaifier;",
+        "qen dis un tal enuich l'autrier,",
+        "don men, qe nom dis point de ver;",
+        "mas no s po de mal dir tener.",
+        "an vos los maiors colps q'el fier!",
+        "Eu no m'apel ges Olivier",
+        "ni Rothlan, qe q'el sen dises;",
+        "mas valer los cre maintas ves,",
+        "quant cossir de leis q'eu enquer;",
+        "e non sai el mon cavalier",
+        "q'eu adoncs nol crezes valer;",
+        "e volria tal fieu aver",
+        "a partir regisme o enpier."
+    ],
+    "Stanzas": [
+        [
+            "L'autrier trobei lonc un fogier",
+            "un crol', onn era us efas mes",
+            "e la olet' e dos conres",
+            "e la noirissa en un gat nier.",
+            "aquest ostals fon d'un parier,",
+            "Comunal, qu'i veich dechaier;",
+            "e qant lui vi, cuidei vezer",
+            "Ruqet, un viel ioglar lanier."
+        ],
+        [
+            "Cel, s'es paubres, mal no l'en mier,",
+            "q'ieu noill tulc ren mas las pares",
+            "el moli don rendia ses",
+            "al paire d'en Poisson Gaifier;",
+            "qen dis un tal enuich l'autrier,",
+            "don men, qe nom dis point de ver;",
+            "mas no s po de mal dir tener.",
+            "an vos los maiors colps q'el fier!"
+        ],
+        [
+            "Eu no m'apel ges Olivier",
+            "ni Rothlan, qe q'el sen dises;",
+            "mas valer los cre maintas ves,",
+            "quant cossir de leis q'eu enquer;",
+            "e non sai el mon cavalier",
+            "q'eu adoncs nol crezes valer;",
+            "e volria tal fieu aver",
+            "a partir regisme o enpier."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Appel, Carl. Posies provenales indites tires des manuscrits dItalie. \"Revue des langues romanes\", 34 (1890)"
+}

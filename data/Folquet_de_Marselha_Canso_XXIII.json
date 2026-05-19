@@ -1,0 +1,103 @@
+{
+    "Author": [
+        "Folquet_de_Marselha"
+    ],
+    "Genre": "Canso",
+    "Title": "Ja non volgra qhom auzis ",
+    "FullText": [
+        "Ja non volgra qhom auzis",
+        "los dousz chan[s] de[l]s aucellos",
+        "mas cill qi son amoros,",
+        "qe res tan no mesbaudis",
+        "coill aucellet per la plaigna",
+        "eill bella cui soi aclis:",
+        "cellam plasz mais qe chancos,",
+        "volta ne lais de Bretaigna.",
+        "Be magrada e mabellis,",
+        "mais no soi aventuros,",
+        "qades es hom cobeitos",
+        "e cho qes plus grieu conqis;",
+        "onch qem val ni qem gazaigna",
+        "sieu lam e ill nom grazis!",
+        "Amarai donch en-perdos?",
+        "oc ieu, anceis qe remaigna.",
+        "Be mestera sades vis",
+        "lo sieu bel cors, gai, joios;",
+        "e qan no vei sas faichos",
+        "si bem soi en mon pais,",
+        "cuig esser loing en Espaigna",
+        "preon entre Sarrazis;",
+        "sol lo veszer men es bos",
+        "qals no aus dir qe rem taigna.",
+        "Ferms soi eu be qar soi fis;",
+        "qe sieu foss fals ne gignos",
+        "ieu nhagra pro compaignos,",
+        "mais sa beltatz el dolz ris",
+        "mi tolon de lor bargaigna;",
+        "qar ill val tan, chous plevis,",
+        "qe si sol merces i fos",
+        "ren als no es qim soffraigna.",
+        "Be volgra qe Limozis",
+        "fos plus prop de Mauretaigna,",
+        "per cho qe plus sove vis",
+        "lo seinhor qes larcs e pros",
+        "e tan de bona compaigna."
+    ],
+    "Stanzas": [
+        [
+            "Ja non volgra qhom auzis",
+            "los dousz chan[s] de[l]s aucellos",
+            "mas cill qi son amoros,",
+            "qe res tan no mesbaudis",
+            "coill aucellet per la plaigna",
+            "eill bella cui soi aclis:",
+            "cellam plasz mais qe chancos,",
+            "volta ne lais de Bretaigna."
+        ],
+        [
+            "Be magrada e mabellis,",
+            "mais no soi aventuros,",
+            "qades es hom cobeitos",
+            "e cho qes plus grieu conqis;",
+            "onch qem val ni qem gazaigna",
+            "sieu lam e ill nom grazis!",
+            "Amarai donch en-perdos?",
+            "oc ieu, anceis qe remaigna."
+        ],
+        [
+            "Be mestera sades vis",
+            "lo sieu bel cors, gai, joios;",
+            "e qan no vei sas faichos",
+            "si bem soi en mon pais,",
+            "cuig esser loing en Espaigna",
+            "preon entre Sarrazis;",
+            "sol lo veszer men es bos",
+            "qals no aus dir qe rem taigna."
+        ],
+        [
+            "Ferms soi eu be qar soi fis;",
+            "qe sieu foss fals ne gignos",
+            "ieu nhagra pro compaignos,",
+            "mais sa beltatz el dolz ris",
+            "mi tolon de lor bargaigna;",
+            "qar ill val tan, chous plevis,",
+            "qe si sol merces i fos",
+            "ren als no es qim soffraigna."
+        ],
+        [
+            "Be volgra qe Limozis",
+            "fos plus prop de Mauretaigna,",
+            "per cho qe plus sove vis",
+            "lo seinhor qes larcs e pros",
+            "e tan de bona compaigna."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Squillacioti, Paolo. Le poesie di Folchetto di Marsiglia. Pisa: Pacini, 1999"
+}

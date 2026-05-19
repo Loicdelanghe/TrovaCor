@@ -1,0 +1,90 @@
+{
+    "Author": [
+        "Formit_de_Perpinya"
+    ],
+    "Genre": "Canso",
+    "Title": "Un dolz deszirs amoros ",
+    "FullText": [
+        "Un dolz deszirs amoros",
+        "s'es e mon fin cor assis,",
+        "dompna, qem ven devers vos,",
+        "a cui sui del tot aclis,",
+        "q'en pensan vei noich e dia",
+        "lo vostre cors car e gen",
+        "el bel dolz esgard plazen",
+        "e vostr'avinen coindia.",
+        "Anc pos vi vostra faissos",
+        "non aic poder qe partis",
+        "mon cor ni mos pens de vos",
+        "per engun'autr q'eu vis.",
+        "Doncs, dompna, per merce us sia",
+        "qeus plassa, qar mon enten",
+        "hai en vos tan fermamen",
+        "qe partir no m'en poria.",
+        "Anz vos voil mais en perdos",
+        "amar q'autra dos jauzis,",
+        "pos Amors me diz qe vos",
+        "conqerra, pos m'a conquis,",
+        "em diz qez ha seignoria",
+        "qe m'en pot dar jauzimen,",
+        "pero cella e suffren",
+        "vos amarai tota via.",
+        "E si eus ausav'a rescos",
+        "dir com vos sui del tot fis,",
+        "assatz auria de vos,",
+        "dompna; mas aisso m'es vis,",
+        "qe s'ieu ren vos en disia",
+        "qel vostre cors car e gen",
+        "m'en fos loignatz, per q'aten",
+        "qe merces tot vos lo dia."
+    ],
+    "Stanzas": [
+        [
+            "Un dolz deszirs amoros",
+            "s'es e mon fin cor assis,",
+            "dompna, qem ven devers vos,",
+            "a cui sui del tot aclis,",
+            "q'en pensan vei noich e dia",
+            "lo vostre cors car e gen",
+            "el bel dolz esgard plazen",
+            "e vostr'avinen coindia."
+        ],
+        [
+            "Anc pos vi vostra faissos",
+            "non aic poder qe partis",
+            "mon cor ni mos pens de vos",
+            "per engun'autr q'eu vis.",
+            "Doncs, dompna, per merce us sia",
+            "qeus plassa, qar mon enten",
+            "hai en vos tan fermamen",
+            "qe partir no m'en poria."
+        ],
+        [
+            "Anz vos voil mais en perdos",
+            "amar q'autra dos jauzis,",
+            "pos Amors me diz qe vos",
+            "conqerra, pos m'a conquis,",
+            "em diz qez ha seignoria",
+            "qe m'en pot dar jauzimen,",
+            "pero cella e suffren",
+            "vos amarai tota via."
+        ],
+        [
+            "E si eus ausav'a rescos",
+            "dir com vos sui del tot fis,",
+            "assatz auria de vos,",
+            "dompna; mas aisso m'es vis,",
+            "qe s'ieu ren vos en disia",
+            "qel vostre cors car e gen",
+            "m'en fos loignatz, per q'aten",
+            "qe merces tot vos lo dia."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " RIQUER, M. DE, Los trovadores: historia literaria y textos, Barcelone, 1975"
+}

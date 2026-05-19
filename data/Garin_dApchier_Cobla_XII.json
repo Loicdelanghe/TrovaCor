@@ -1,0 +1,52 @@
+{
+    "Author": [
+        "Garin_dApchier"
+    ],
+    "Genre": "Cobla",
+    "Title": "Aissi con hom tra l'estam ",
+    "FullText": [
+        "Aissi con hom tra l'estam",
+        "as envers, q'era adreich,",
+        "e si cum menol carreich",
+        "li bou, qant traol legnam,",
+        "un nou sirventes ailluc",
+        "de mon Comunal astruc,",
+        "qui chaschus torna en desdeing",
+        "e destorz son entresseing.",
+        "Ia noill cal gardar cho clam",
+        "per si ni per son arneich,",
+        "ni per bon astre qeil veich",
+        "ni pel sieu corren volam,",
+        "pel ioglareiar faduc,",
+        "ni per las canas del suc,",
+        "ni per las cordas del seing",
+        "qui son el sieu col susteing."
+    ],
+    "Stanzas": [
+        [
+            "Aissi con hom tra l'estam",
+            "as envers, q'era adreich,",
+            "e si cum menol carreich",
+            "li bou, qant traol legnam,",
+            "un nou sirventes ailluc",
+            "de mon Comunal astruc,",
+            "qui chaschus torna en desdeing",
+            "e destorz son entresseing."
+        ],
+        [
+            "Ia noill cal gardar cho clam",
+            "per si ni per son arneich,",
+            "ni per bon astre qeil veich",
+            "ni pel sieu corren volam,",
+            "pel ioglareiar faduc,",
+            "ni per las canas del suc,",
+            "ni per las cordas del seing",
+            "qui son el sieu col susteing."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Appel, Carl. Posies provenales indites tires des manuscrits dItalie. \"Revue des langues romanes\", 34 (1890)"
+}

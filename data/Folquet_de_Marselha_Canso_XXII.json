@@ -1,0 +1,64 @@
+{
+    "Author": [
+        "Folquet_de_Marselha"
+    ],
+    "Genre": "Canso",
+    "Title": "A vos, midont, voill rettrair en cantan ",
+    "FullText": [
+        "A vos, midont, voill rettrair en cantan",
+        "cosim destreign Amors e mena fre",
+        "vas larguogll gran, e nom aguda re,",
+        "qem mostras on plu merce vos deman,",
+        "mas tan mi son li consir e lafan",
+        "que viu quant muer per amor finamen.",
+        "Donc muer e viu ? Non, mas mos cors cocios",
+        "mor e reviu de cosir amoros",
+        "a vos, dompna, cieu am tan coralmen ;",
+        "sufret ab gioi sa vid al mort cuisen,",
+        "per qe mal vi la gran beutat de vos.",
+        "Parer non pot per dig ni per semblan",
+        "lo bens ce vos vogll ab . . . . . . . fe",
+        "mas niens es so ce vos dic : sim te",
+        "al cor us fiocs que nos . . . . . . . . . .",
+        "Per cals raisons nom ausi consuman ?",
+        "Savi dion el autor veramen",
+        "qe longincs us, segon drec e raisos",
+        "si convertis e natura, don vos",
+        "deves saber car eu nai eissamen",
+        "per longinc us en fioc damor plaisen",
+        ". . . . . . . . . . . . . . . . . . . . . . . . . ."
+    ],
+    "Stanzas": [
+        [
+            "A vos, midont, voill rettrair en cantan",
+            "cosim destreign Amors e mena fre",
+            "vas larguogll gran, e nom aguda re,",
+            "qem mostras on plu merce vos deman,",
+            "mas tan mi son li consir e lafan",
+            "que viu quant muer per amor finamen.",
+            "Donc muer e viu ? Non, mas mos cors cocios",
+            "mor e reviu de cosir amoros",
+            "a vos, dompna, cieu am tan coralmen ;",
+            "sufret ab gioi sa vid al mort cuisen,",
+            "per qe mal vi la gran beutat de vos."
+        ],
+        [
+            "Parer non pot per dig ni per semblan",
+            "lo bens ce vos vogll ab . . . . . . . fe",
+            "mas niens es so ce vos dic : sim te",
+            "al cor us fiocs que nos . . . . . . . . . .",
+            "Per cals raisons nom ausi consuman ?",
+            "Savi dion el autor veramen",
+            "qe longincs us, segon drec e raisos",
+            "si convertis e natura, don vos",
+            "deves saber car eu nai eissamen",
+            "per longinc us en fioc damor plaisen",
+            ". . . . . . . . . . . . . . . . . . . . . . . . . ."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Stronski, Stanislaw. Le troubadour Folquet de Marseille. Genve: Slatkine Reprints, 1968"
+}

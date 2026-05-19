@@ -1,0 +1,82 @@
+{
+    "Author": [
+        "Folquet_de_Marselha"
+    ],
+    "Genre": "Canso",
+    "Title": "Fin amors a cui me soi datz ",
+    "FullText": [
+        "Fin amors a cui me soi datz",
+        "el gens terminis amoros,",
+        "cascuns daquetz mes ochaizos",
+        "on dei esser enamoratz;",
+        "per ques dreitz cab lo lur aon",
+        "fassa conoiser en chantan",
+        "com ieu soi faitz ab lur coman.",
+        "Quar meils sai sufertar em patz",
+        "si que mos volers nos descos;",
+        "e par be ja per als non fos",
+        "mas quar am e non soi amatz;",
+        "e ja sill don chan no maon",
+        "sa totz jorns nom vau meilluran",
+        "e leis ben amar ses enguan.",
+        "Per queus prec que merce naiatz",
+        "ses tort quieu anc non aic vas vos;",
+        "e sil dreiz, ques tan cabalos,",
+        "nom pot valer, humelitatz",
+        "mi vaill ab vos, don, e maon,",
+        "quar nuills dreitz non a valor gran",
+        "lai on forsa fai son talan.",
+        "Caisi mes el cor sagelatz",
+        "vostre rics pretz verais e bos",
+        "per quieu non soi ges poderos",
+        "quem biaise vas autre latz,",
+        "ni no vueill ja cautra maon",
+        "mas vos, dona, per cui ieu chan",
+        "et am e dezir e reblan."
+    ],
+    "Stanzas": [
+        [
+            "Fin amors a cui me soi datz",
+            "el gens terminis amoros,",
+            "cascuns daquetz mes ochaizos",
+            "on dei esser enamoratz;",
+            "per ques dreitz cab lo lur aon",
+            "fassa conoiser en chantan",
+            "com ieu soi faitz ab lur coman."
+        ],
+        [
+            "Quar meils sai sufertar em patz",
+            "si que mos volers nos descos;",
+            "e par be ja per als non fos",
+            "mas quar am e non soi amatz;",
+            "e ja sill don chan no maon",
+            "sa totz jorns nom vau meilluran",
+            "e leis ben amar ses enguan."
+        ],
+        [
+            "Per queus prec que merce naiatz",
+            "ses tort quieu anc non aic vas vos;",
+            "e sil dreiz, ques tan cabalos,",
+            "nom pot valer, humelitatz",
+            "mi vaill ab vos, don, e maon,",
+            "quar nuills dreitz non a valor gran",
+            "lai on forsa fai son talan."
+        ],
+        [
+            "Caisi mes el cor sagelatz",
+            "vostre rics pretz verais e bos",
+            "per quieu non soi ges poderos",
+            "quem biaise vas autre latz,",
+            "ni no vueill ja cautra maon",
+            "mas vos, dona, per cui ieu chan",
+            "et am e dezir e reblan."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Squillacioti, Paolo. Le poesie di Folchetto di Marsiglia. Pisa: Pacini, 1999"
+}

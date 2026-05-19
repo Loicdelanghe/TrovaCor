@@ -1,0 +1,131 @@
+{
+    "Author": [
+        "Folquet_de_Lunel"
+    ],
+    "Genre": "Canso",
+    "Title": "No pot aver sen natura ",
+    "FullText": [
+        "No pot aver sen natural",
+        "selh que non a retenensa,",
+        "sobre sa ira de far mal,",
+        "quel savis fai per sufrensa",
+        "semblar de son gran tort gran dreg",
+        "el fols de son bon dreg naleg,",
+        "quan malamens outra mezura",
+        "vol trop demandar sa drechura.",
+        "Per nieus o dic, quamor lial",
+        "port a mi dons ses fallensa,",
+        "sitot a lieys de mi non cal,",
+        "nim mostren ren bevolensa,",
+        "ges per tan yraisser nom deg,",
+        "e pus amors lim a eleg,",
+        "merces, en cuy mos cors satura,",
+        "es metran lieys per aventura.",
+        "Res no monta ni res no val,",
+        "pus hom a lay, on lagensa,",
+        "meza sa fin amor coral,",
+        "sitot fay long atendensa,",
+        "ques nirasca nis ne maleg,",
+        "ni quel ne trop hom desadreg,",
+        "que ben leu, sitot les escura,",
+        "si dons li port amor segura.",
+        "Donas hi a quab venassal",
+        "semblan porton bevolensa,",
+        "que non auzan traire venal",
+        "lor amor ni lor parvensa,",
+        "tro quan proat si de bon dreg",
+        "son be damor e el destreg",
+        "selhs, en cuy volon ses falsura",
+        "metre lur amor e lur cura.",
+        "Qui vol amar dona cabal,",
+        "pus a bona captenensa,",
+        "ges non la deu gardar engal",
+        "si meteys de far fallensa;",
+        "mas dus folhs fenhedors hi veg,",
+        "quamor non an ni fe ni leg,",
+        "que manta dona caste pura",
+        "fan encolpar ses forfachura.",
+        "Del pro comte de Rodes deg",
+        "ben dir e vuelh e ay ne dreg,",
+        "quar valors e pretz e drechura",
+        "son en luy e sens e mezura.",
+        "A Lunelh remanc e mespleg",
+        "ab senhor lial e adreg,",
+        "e quar ma gensers a segura",
+        "valor, mos chans des vers melhura"
+    ],
+    "Stanzas": [
+        [
+            "No pot aver sen natural",
+            "selh que non a retenensa,",
+            "sobre sa ira de far mal,",
+            "quel savis fai per sufrensa",
+            "semblar de son gran tort gran dreg",
+            "el fols de son bon dreg naleg,",
+            "quan malamens outra mezura",
+            "vol trop demandar sa drechura."
+        ],
+        [
+            "Per nieus o dic, quamor lial",
+            "port a mi dons ses fallensa,",
+            "sitot a lieys de mi non cal,",
+            "nim mostren ren bevolensa,",
+            "ges per tan yraisser nom deg,",
+            "e pus amors lim a eleg,",
+            "merces, en cuy mos cors satura,",
+            "es metran lieys per aventura."
+        ],
+        [
+            "Res no monta ni res no val,",
+            "pus hom a lay, on lagensa,",
+            "meza sa fin amor coral,",
+            "sitot fay long atendensa,",
+            "ques nirasca nis ne maleg,",
+            "ni quel ne trop hom desadreg,",
+            "que ben leu, sitot les escura,",
+            "si dons li port amor segura."
+        ],
+        [
+            "Donas hi a quab venassal",
+            "semblan porton bevolensa,",
+            "que non auzan traire venal",
+            "lor amor ni lor parvensa,",
+            "tro quan proat si de bon dreg",
+            "son be damor e el destreg",
+            "selhs, en cuy volon ses falsura",
+            "metre lur amor e lur cura."
+        ],
+        [
+            "Qui vol amar dona cabal,",
+            "pus a bona captenensa,",
+            "ges non la deu gardar engal",
+            "si meteys de far fallensa;",
+            "mas dus folhs fenhedors hi veg,",
+            "quamor non an ni fe ni leg,",
+            "que manta dona caste pura",
+            "fan encolpar ses forfachura."
+        ],
+        [
+            "Del pro comte de Rodes deg",
+            "ben dir e vuelh e ay ne dreg,",
+            "quar valors e pretz e drechura",
+            "son en luy e sens e mezura."
+        ],
+        [
+            "A Lunelh remanc e mespleg",
+            "ab senhor lial e adreg,",
+            "e quar ma gensers a segura",
+            "valor, mos chans des vers melhura"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Eichelkraut, Franz. Der Troubadour Folquet de Lunel. Berlin: W. Weber, 1872"
+}
