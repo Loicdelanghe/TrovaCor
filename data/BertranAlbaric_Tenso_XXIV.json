@@ -1,0 +1,72 @@
+{
+    "Author": [
+        "BertranAlbaric",
+        "Guibert"
+    ],
+    "Genre": "Tenso",
+    "Title": "Amic Guibert, ben a .vij. ans pasatz ",
+    "FullText": [
+        "Amic Guibert, ben a .vij. ans pasatz",
+        "Quieu ai amat et ame coralmen",
+        "Bella dona jove et avinen,",
+        "E pregue la con fins enamoratz",
+        "De respondre, mes tojorn plus [s]estranha ;",
+        "Per quieu vos prec que vos men conselhes",
+        "Ci lamarai ueimais, pos tantas ves",
+        "Lai requista per aver sa conpanha.",
+        " Amic Bertran, mans bos ditz e mas fatz",
+        "Maves apres damor veraiamen,",
+        "Don, pos amatz tal ques proz e valen,",
+        "Prec vo[s], sieus plai, que non vos en gicatz,",
+        "Quel mon non a dona ques om non franha",
+        "Am bell parlar et amb eser cortes,",
+        "E mais pot far .j. jorn ques ans guanres ;",
+        "Per quieu vos prec mais sufras lamguanha.",
+        " Ausit ai dir, da Guibert, so sapchatz,",
+        "De lonc servir tanh gran melhuramen",
+        "E tems perdut non ci cobra leumens ;",
+        "Per quieu huemais en sui desesperatz",
+        "E cigrai tal que vol can lui remanha",
+        "Ques aura guautz car li serai sosmes,",
+        "E farai li honor, que deutes es,",
+        "Plus que sera rena dAlamanha."
+    ],
+    "Stanzas": [
+        [
+            "Amic Guibert, ben a .vij. ans pasatz",
+            "Quieu ai amat et ame coralmen",
+            "Bella dona jove et avinen,",
+            "E pregue la con fins enamoratz",
+            "De respondre, mes tojorn plus [s]estranha ;",
+            "Per quieu vos prec que vos men conselhes",
+            "Ci lamarai ueimais, pos tantas ves",
+            "Lai requista per aver sa conpanha."
+        ],
+        [
+            " Amic Bertran, mans bos ditz e mas fatz",
+            "Maves apres damor veraiamen,",
+            "Don, pos amatz tal ques proz e valen,",
+            "Prec vo[s], sieus plai, que non vos en gicatz,",
+            "Quel mon non a dona ques om non franha",
+            "Am bell parlar et amb eser cortes,",
+            "E mais pot far .j. jorn ques ans guanres ;",
+            "Per quieu vos prec mais sufras lamguanha."
+        ],
+        [
+            " Ausit ai dir, da Guibert, so sapchatz,",
+            "De lonc servir tanh gran melhuramen",
+            "E tems perdut non ci cobra leumens ;",
+            "Per quieu huemais en sui desesperatz",
+            "E cigrai tal que vol can lui remanha",
+            "Ques aura guautz car li serai sosmes,",
+            "E farai li honor, que deutes es,",
+            "Plus que sera rena dAlamanha."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Meyer, Paul. Les derniers troubadours de la Provence d'aprs le chansonnier donn  la Bibliothque Impriale par M. Ch. Giraud. Paris: Librairie A. Franck, 1871"
+}

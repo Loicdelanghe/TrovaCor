@@ -1,0 +1,48 @@
+{
+    "Author": [
+        "Bertran_de_Born"
+    ],
+    "Genre": "Canso",
+    "Title": "A ! Lemozin, francha terra cortesa ",
+    "FullText": [
+        "A ! Lemozin, francha terra cortesa,",
+        "Molt me sap bo qar tals honors vos creis,",
+        "Qe jois e prez e deportz e gaiesa,",
+        "Cortesia e solatz e dompneis",
+        "Sen ven a nos ; el cor estei anceis !",
+        "Bes deu gardar qui a druz se depeis",
+        "Per qals obras deu esser dompna qesa.",
+        "Dos e servirs e garnirs e largesa",
+        "Noiris amors com fai laiga los peis,",
+        "Enseignamenz e valors e proesa,",
+        "Armas e cortz e guerras e torneis.",
+        "E qui pros es ni de proesas feis,",
+        "Mal estara, saoras non pareis,",
+        ""
+    ],
+    "Stanzas": [
+        [
+            "A ! Lemozin, francha terra cortesa,",
+            "Molt me sap bo qar tals honors vos creis,",
+            "Qe jois e prez e deportz e gaiesa,",
+            "Cortesia e solatz e dompneis",
+            "Sen ven a nos ; el cor estei anceis !",
+            "Bes deu gardar qui a druz se depeis",
+            "Per qals obras deu esser dompna qesa."
+        ],
+        [
+            "Dos e servirs e garnirs e largesa",
+            "Noiris amors com fai laiga los peis,",
+            "Enseignamenz e valors e proesa,",
+            "Armas e cortz e guerras e torneis.",
+            "E qui pros es ni de proesas feis,",
+            "Mal estara, saoras non pareis,",
+            ""
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Gouiran, Grard. L'amour et la guerre. L'uvre de Bertran de Born. Aix-en-Provence: Universit de Provence, 1985."
+}

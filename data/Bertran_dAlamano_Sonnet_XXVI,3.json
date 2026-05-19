@@ -1,0 +1,54 @@
+{
+    "Author": [
+        "Bertran_dAlamano"
+    ],
+    "Genre": "Sonnet",
+    "Title": "Segnor, lo rey s'alegra en ton divin secors ",
+    "FullText": [
+        "Segnor, lo rey salegra en ton divin secors,",
+        "Tu as mes sur sa testa excelenta corona,",
+        "Tu fas que ta vertu divina lenvirona.",
+        "Tu fas que lo desir de son cor a son cors.",
+        "Tu lo nos as donat, rey, per nostre recors,",
+        "Tu lo faras florir, si ti plas, sel sadona",
+        "A son pople regir sens volontat felona ;",
+        "Tufaras que sos jors jamais non seran cors.",
+        "Tu faras que sa man sera tant poderoza",
+        "Dessus sos enemics que per tot lunivers",
+        "Temeran sa furor e non ho poyran creire.",
+        "Tu faras quel fara cantar tos divins vers,",
+        "Tu faras quel fara la vostra vida uroza,",
+        "Car lesperansa es bona ; e Dieus, fai nos ho veire !"
+    ],
+    "Stanzas": [
+        [
+            "Segnor, lo rey salegra en ton divin secors,",
+            "Tu as mes sur sa testa excelenta corona,",
+            "Tu fas que ta vertu divina lenvirona.",
+            "Tu fas que lo desir de son cor a son cors."
+        ],
+        [
+            "Tu lo nos as donat, rey, per nostre recors,",
+            "Tu lo faras florir, si ti plas, sel sadona",
+            "A son pople regir sens volontat felona ;",
+            "Tufaras que sos jors jamais non seran cors."
+        ],
+        [
+            "Tu faras que sa man sera tant poderoza",
+            "Dessus sos enemics que per tot lunivers",
+            "Temeran sa furor e non ho poyran creire."
+        ],
+        [
+            "Tu faras quel fara cantar tos divins vers,",
+            "Tu faras quel fara la vostra vida uroza,",
+            "Car lesperansa es bona ; e Dieus, fai nos ho veire !"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Salverda de Grave, Jean-Jacques. Le troubadour Bertran d'Alamanon. Toulouse: Imprimerie et librarie douard Privat, 1902."
+}

@@ -1,0 +1,83 @@
+{
+    "Author": [
+        "Bernart_de_Ventadorn"
+    ],
+    "Genre": "Canso",
+    "Title": "Can la verz folha s'espan   ",
+    "FullText": [
+        "Can la verz folha sespan",
+        "e par flors blanch el ramel,",
+        "per lo douz chan del auzel",
+        "se vai mos cors alegran.",
+        "lancan vels arbres florir",
+        "et aul rossinhol chantar,",
+        "adonc deus ben alegrar",
+        "qui bon amor saup chauzir.",
+        "mas eu nai una chauzida",
+        "per queu sui coindes e gais.",
+        "E se tuih el mon garan",
+        "desoz la chapa del cel",
+        "eron en un sol tropel,",
+        "for duna non ai talan.",
+        "mai daquesta nom cossir,",
+        "quel jorn me fai sospirar",
+        "e la noih no posc pauzar",
+        "nim pren talans de dormir :",
+        "tan es grail et eschafida,",
+        "ab cor franc e dihz verais.",
+        "Seu fos a lei destinan,",
+        "e foreu dinz dun chastel,",
+        "quel jorn manges un morsel,",
+        "lai viuria sens afan,",
+        "sem don aisso queu dezir !",
+        "de be far se deu penar,",
+        "car sem ten en lonc pensar,",
+        "no posc viure ni morir.",
+        "ar eslonh en breu ma vida,",
+        "si com ja de mort me trais !"
+    ],
+    "Stanzas": [
+        [
+            "Can la verz folha sespan",
+            "e par flors blanch el ramel,",
+            "per lo douz chan del auzel",
+            "se vai mos cors alegran.",
+            "lancan vels arbres florir",
+            "et aul rossinhol chantar,",
+            "adonc deus ben alegrar",
+            "qui bon amor saup chauzir.",
+            "mas eu nai una chauzida",
+            "per queu sui coindes e gais."
+        ],
+        [
+            "E se tuih el mon garan",
+            "desoz la chapa del cel",
+            "eron en un sol tropel,",
+            "for duna non ai talan.",
+            "mai daquesta nom cossir,",
+            "quel jorn me fai sospirar",
+            "e la noih no posc pauzar",
+            "nim pren talans de dormir :",
+            "tan es grail et eschafida,",
+            "ab cor franc e dihz verais."
+        ],
+        [
+            "Seu fos a lei destinan,",
+            "e foreu dinz dun chastel,",
+            "quel jorn manges un morsel,",
+            "lai viuria sens afan,",
+            "sem don aisso queu dezir !",
+            "de be far se deu penar,",
+            "car sem ten en lonc pensar,",
+            "no posc viure ni morir.",
+            "ar eslonh en breu ma vida,",
+            "si com ja de mort me trais !"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Appel, Carl. Bernart von Ventadorn, seine Lieder, mit Einleitung und Glossar. Halle a. S.: Verlag von Max Niemeyer, 1915.                     "
+}

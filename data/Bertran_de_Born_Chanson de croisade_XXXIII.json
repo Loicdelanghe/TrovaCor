@@ -1,0 +1,56 @@
+{
+    "Author": [
+        "Bertran_de_Born"
+    ],
+    "Genre": "Chanson de croisade",
+    "Title": "Nostre Seigner somonis el meteis ",
+    "FullText": [
+        "Nostre Seigner somonis el meteis",
+        "Totz los arditz els valenz els prezatz,",
+        "Qanc mais guerra ni cocha nol destreis,",
+        "Mas daqesta si ten fort per grevatz ;",
+        "Qar presa es la vera crotz el reis,",
+        "El sepolcres ha de socors fraichura,",
+        "Don tuit crezem ab lial fe segura",
+        "Qe lo saintz focs i deissen, qom o ve,",
+        "Per qe no fai nul esfortz qui so cre.",
+        "Cel qui es coms e ducs et sera reis",
+        "Ses mes enan, per qes ses prez doblatz,",
+        "Qel vol mais prez qom de las doas leis :",
+        "Dels cristians e dels non-bateiatz.",
+        "E sel vol prez, a las obras pareis,",
+        "Qel vol tan prez e tan bonaventura",
+        " Per qe sos prez creis ades et meillura ,",
+        "Qel vol lo prez del mal el prez del be ;",
+        "Tant ama prez qambedos los rete."
+    ],
+    "Stanzas": [
+        [
+            "Nostre Seigner somonis el meteis",
+            "Totz los arditz els valenz els prezatz,",
+            "Qanc mais guerra ni cocha nol destreis,",
+            "Mas daqesta si ten fort per grevatz ;",
+            "Qar presa es la vera crotz el reis,",
+            "El sepolcres ha de socors fraichura,",
+            "Don tuit crezem ab lial fe segura",
+            "Qe lo saintz focs i deissen, qom o ve,",
+            "Per qe no fai nul esfortz qui so cre."
+        ],
+        [
+            "Cel qui es coms e ducs et sera reis",
+            "Ses mes enan, per qes ses prez doblatz,",
+            "Qel vol mais prez qom de las doas leis :",
+            "Dels cristians e dels non-bateiatz.",
+            "E sel vol prez, a las obras pareis,",
+            "Qel vol tan prez e tan bonaventura",
+            " Per qe sos prez creis ades et meillura ,",
+            "Qel vol lo prez del mal el prez del be ;",
+            "Tant ama prez qambedos los rete."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Gouiran, Grard. L'amour et la guerre. L'uvre de Bertran de Born. Aix-en-Provence: Universit de Provence, 1985."
+}
