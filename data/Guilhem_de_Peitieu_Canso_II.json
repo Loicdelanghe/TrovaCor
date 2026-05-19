@@ -1,0 +1,89 @@
+{
+    "Author": [
+        "Guilhem_de_Peitieu"
+    ],
+    "Genre": "Canso",
+    "Title": "Ab la dolchor del temps novel ",
+    "FullText": [
+        "Ab la dolchor del temps novel",
+        "Foillo li bosc, e li aucel",
+        "Chanton chascus en lor lati",
+        "Segon lo vers del novel chan ;",
+        "Adonc esta ben c'om s'aisi",
+        "D'acho don hom a plus talan.",
+        "De lai don plus m'es bon e bel",
+        "Non vei mesager ni sagel,",
+        "Per que mos cors non dorm ni ri,",
+        "Ni no m'aus traire adenan,",
+        "Tro qe sacha ben de la fi",
+        "S'el' es aissi com eu deman.",
+        "La nostr' amor vai enaissi",
+        "Com la branca de l'albespi",
+        "Qu'esta sobre l'arbre en treman,",
+        "La nuoit, a la ploja ez al gel,",
+        "Tro l'endeman, quel sols s'espan",
+        "Pel las fueillas verz el ramel.",
+        "Enquer me menbra d'un mati",
+        "Que nos fezem de guerra fi,",
+        "E quem donet un don tan gran,",
+        "Sa drudari' e son anel :",
+        "Enquer me lais Dieus viure tan",
+        "C'aja mas manz soz so mantel !",
+        "Qu'eu non ai soing d'estraing lati",
+        "Quem parta de mon Bon Vezi,",
+        "Qu'eu sai de paraulas com van",
+        "Ab un breu sermon que s'espel,",
+        "Que tal se van d'amor gaban,",
+        "Nos n'avem la pessa el coutel."
+    ],
+    "Stanzas": [
+        [
+            "Ab la dolchor del temps novel",
+            "Foillo li bosc, e li aucel",
+            "Chanton chascus en lor lati",
+            "Segon lo vers del novel chan ;",
+            "Adonc esta ben c'om s'aisi",
+            "D'acho don hom a plus talan."
+        ],
+        [
+            "De lai don plus m'es bon e bel",
+            "Non vei mesager ni sagel,",
+            "Per que mos cors non dorm ni ri,",
+            "Ni no m'aus traire adenan,",
+            "Tro qe sacha ben de la fi",
+            "S'el' es aissi com eu deman."
+        ],
+        [
+            "La nostr' amor vai enaissi",
+            "Com la branca de l'albespi",
+            "Qu'esta sobre l'arbre en treman,",
+            "La nuoit, a la ploja ez al gel,",
+            "Tro l'endeman, quel sols s'espan",
+            "Pel las fueillas verz el ramel."
+        ],
+        [
+            "Enquer me menbra d'un mati",
+            "Que nos fezem de guerra fi,",
+            "E quem donet un don tan gran,",
+            "Sa drudari' e son anel :",
+            "Enquer me lais Dieus viure tan",
+            "C'aja mas manz soz so mantel !"
+        ],
+        [
+            "Qu'eu non ai soing d'estraing lati",
+            "Quem parta de mon Bon Vezi,",
+            "Qu'eu sai de paraulas com van",
+            "Ab un breu sermon que s'espel,",
+            "Que tal se van d'amor gaban,",
+            "Nos n'avem la pessa el coutel."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Bec, Pierre. Burlesque et obscnit chez les troubadours. Pour une approche du contre-texte mdival. Paris: Stock, 1984"
+}

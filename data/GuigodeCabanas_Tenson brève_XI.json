@@ -1,0 +1,75 @@
+{
+    "Author": [
+        "GuigodeCabanas",
+        "Bertrand'Alamanon"
+    ],
+    "Genre": "Tenso",
+    "Title": "Vist hai, Bertran, pos nous uiron mei oill ",
+    "FullText": [
+        "Vist hai, Bertran, pos nous uiron mei oill,",
+        "En Gauaudan, na Saura en Aurien,",
+        "E Raimonda, cella de Rocafoill,",
+        "E la comtessa, demanderon men,",
+        "Ez eu lor dis quen la guera sobreira",
+        "Dels dos comtes laissei certanamen",
+        "Vostr escut San e uostra lanz entieira",
+        "El uostre cors flacat e nonchalen.",
+        "Guigo, mil tanz uos am mais qeu non soill,",
+        "Qar uos denan tanta dompna ualen",
+        "Mauez dit mal, per qem plaz e zo uoill ;",
+        "Qar us malditz dun croi desconoissen",
+        "Val entre gen de conoissen maneira",
+        "Aitan con fai bendiz dome ualen.",
+        "En uilans, loncsagronatzderibeira.",
+        "Vos etz daqels qelauzanmaldizen.",
+        "En Bertram, etz gauas sas de mosneira :",
+        "Eu non uos lau, anz dic uer maldizen ;",
+        "E qius conois ni sap uostra maneira,",
+        "Eus eu fatz fin, si ia pots men desmen,",
+        "Guigo, mendics ab lenga mal parleira,",
+        "Mi faitz estar alegre e iauzen ;",
+        "Sim dizetz mal, ben es dretz qeussuffeira,",
+        "Qonors men creis entre la bona gen."
+    ],
+    "Stanzas": [
+        [
+            "Vist hai, Bertran, pos nous uiron mei oill,",
+            "En Gauaudan, na Saura en Aurien,",
+            "E Raimonda, cella de Rocafoill,",
+            "E la comtessa, demanderon men,",
+            "Ez eu lor dis quen la guera sobreira",
+            "Dels dos comtes laissei certanamen",
+            "Vostr escut San e uostra lanz entieira",
+            "El uostre cors flacat e nonchalen."
+        ],
+        [
+            "Guigo, mil tanz uos am mais qeu non soill,",
+            "Qar uos denan tanta dompna ualen",
+            "Mauez dit mal, per qem plaz e zo uoill ;",
+            "Qar us malditz dun croi desconoissen",
+            "Val entre gen de conoissen maneira",
+            "Aitan con fai bendiz dome ualen.",
+            "En uilans, loncsagronatzderibeira.",
+            "Vos etz daqels qelauzanmaldizen."
+        ],
+        [
+            "En Bertram, etz gauas sas de mosneira :",
+            "Eu non uos lau, anz dic uer maldizen ;",
+            "E qius conois ni sap uostra maneira,",
+            "Eus eu fatz fin, si ia pots men desmen,"
+        ],
+        [
+            "Guigo, mendics ab lenga mal parleira,",
+            "Mi faitz estar alegre e iauzen ;",
+            "Sim dizetz mal, ben es dretz qeussuffeira,",
+            "Qonors men creis entre la bona gen."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Salverda de Grave, Jean-Jacques. Le troubadour Bertran d'Alamanon. Toulouse: Imprimerie et librarie douard Privat, 1902"
+}

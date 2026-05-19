@@ -1,0 +1,102 @@
+{
+    "Author": [
+        "Guilhem_de_Peitieu"
+    ],
+    "Genre": "Canso",
+    "Title": "Farai chansoneta nueva ",
+    "FullText": [
+        "Farai chansoneta nueva",
+        "ans que vent ni gel ni plueva.",
+        "Ma dona massaiem prueva",
+        "quossi del qual guiza lam;",
+        "e ja per plag que men mueva,",
+        "om solvera de son liam;",
+        "quans mi rent a lieys em liure,",
+        "quen sa cartam pot escriure;",
+        "e no men tengatz per yure",
+        "ieu ma bona dompna am,",
+        "quar senes lieys non puesc viure,",
+        "pres de samor gran fam.",
+        "Que plus etz blanca quevori,",
+        "per quieu autra non azori.",
+        "Sim breu non ai ajutori,",
+        "cum ma bona dompna mam,",
+        "morrai, pel cap sanh Gregori,",
+        "om bayzen cambro sotz ram.",
+        "Qual pro y auretz, dompna conja,",
+        "si vostramors mi deslonja?",
+        "Par queusvulhatz metre monja.",
+        "E sapchatz, quar tan vos am,",
+        "tem que la dolors me ponja,",
+        "om faitz dreg dels tortz quieus clam.",
+        "Qual pro y auretz sieu menclostre",
+        "e nom retenetz per vostre?",
+        "Totz lo joys del mon es nostre,",
+        "ompna, samduy nos amam.",
+        "Lay al mieu amic Daurostre",
+        "man que chan e [no] bram.",
+        "Per aquesta fri e tremble,",
+        "quar de tan bonamor lam;",
+        "quanc no cug quen nasques semble",
+        "mblan del gran linh NAdam.",
+        "style=\"text-align: right;\">(Text de Jeanroy)"
+    ],
+    "Stanzas": [
+        [
+            "Farai chansoneta nueva",
+            "ans que vent ni gel ni plueva.",
+            "Ma dona massaiem prueva",
+            "quossi del qual guiza lam;",
+            "e ja per plag que men mueva,",
+            "om solvera de son liam;"
+        ],
+        [
+            "quans mi rent a lieys em liure,",
+            "quen sa cartam pot escriure;",
+            "e no men tengatz per yure",
+            "ieu ma bona dompna am,",
+            "quar senes lieys non puesc viure,",
+            "pres de samor gran fam."
+        ],
+        [
+            "Que plus etz blanca quevori,",
+            "per quieu autra non azori.",
+            "Sim breu non ai ajutori,",
+            "cum ma bona dompna mam,",
+            "morrai, pel cap sanh Gregori,",
+            "om bayzen cambro sotz ram."
+        ],
+        [
+            "Qual pro y auretz, dompna conja,",
+            "si vostramors mi deslonja?",
+            "Par queusvulhatz metre monja.",
+            "E sapchatz, quar tan vos am,",
+            "tem que la dolors me ponja,",
+            "om faitz dreg dels tortz quieus clam."
+        ],
+        [
+            "Qual pro y auretz sieu menclostre",
+            "e nom retenetz per vostre?",
+            "Totz lo joys del mon es nostre,",
+            "ompna, samduy nos amam.",
+            "Lay al mieu amic Daurostre",
+            "man que chan e [no] bram."
+        ],
+        [
+            "Per aquesta fri e tremble,",
+            "quar de tan bonamor lam;",
+            "quanc no cug quen nasques semble",
+            "mblan del gran linh NAdam.",
+            "style=\"text-align: right;\">(Text de Jeanroy)"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Serra-Bald, Alfons. Els trobadors. Barcelona: Barcino, 1934"
+}

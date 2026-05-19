@@ -1,0 +1,115 @@
+{
+    "Author": [
+        "Guilhem_de_Montanhagol"
+    ],
+    "Genre": "Canso",
+    "Title": "Leu chansoneta m'er a far ",
+    "FullText": [
+        "Leu chansoneta m'er a far,",
+        "pus n'ay man de ma douss'amia,",
+        "qu'estiers non la vuelh ia chantar,",
+        "quar no plai ioys ni cortezia",
+        "als ricx, tan son tornat avar;",
+        "mas per elhs no men dey laissar,",
+        "qu'ieu n'ai pro, s'a midons plazia.",
+        "Pro n'ai ieu, sol midons m'ampar,",
+        "per qu'avols ricx no blandiria,",
+        "pus que nos volon esmendar",
+        "els croys faitz que fan quascun dia,",
+        "e nos ne podon castiar,",
+        "e pueys pesson de dompneyar,",
+        "per quen pren a mon cor feunia.",
+        "D'aisso fan dompnas a blasmar",
+        "quar ioys se pert e pretz ten via,",
+        "que si'lhas volguesson amar,",
+        "lo mons fora guays cum solia,",
+        "el cavayer tengran se car",
+        "e volgra quecx son benestar;",
+        "mas tot torna en trichairia.",
+        "D'elhs nom cal, sol que dieus me gar",
+        "midons em do so quen volria;",
+        "mas elha nom pot res donar,",
+        "tan suy sieus quel dos remanria",
+        "sieus cum seria enans del dar,",
+        "qu'ieu non ai cor ni ren tan car",
+        "urai que tot sieu no sia.",
+        "Al valen rey, ques fa lauzar,",
+        "'Arago, chanso, te y ta via,",
+        "qu'elh es reys que sap ben regnar",
+        "as dieu, vas pretz, si nos cambia;",
+        "mas d'ayssos sapchal reys gardar,",
+        "que dieus e pretz son d'aitan par",
+        "qu'ades los pert quis ne desvia.",
+        "N'Esclarmonda sal dieus e grar,",
+        "qu'es de fina beutat ses par",
+        "uaya plazen conhdia.",
+        "Le noms ditz, quil sap declarar,",
+        "qu'es clara e munda de folhia."
+    ],
+    "Stanzas": [
+        [
+            "Leu chansoneta m'er a far,",
+            "pus n'ay man de ma douss'amia,",
+            "qu'estiers non la vuelh ia chantar,",
+            "quar no plai ioys ni cortezia",
+            "als ricx, tan son tornat avar;",
+            "mas per elhs no men dey laissar,",
+            "qu'ieu n'ai pro, s'a midons plazia."
+        ],
+        [
+            "Pro n'ai ieu, sol midons m'ampar,",
+            "per qu'avols ricx no blandiria,",
+            "pus que nos volon esmendar",
+            "els croys faitz que fan quascun dia,",
+            "e nos ne podon castiar,",
+            "e pueys pesson de dompneyar,",
+            "per quen pren a mon cor feunia."
+        ],
+        [
+            "D'aisso fan dompnas a blasmar",
+            "quar ioys se pert e pretz ten via,",
+            "que si'lhas volguesson amar,",
+            "lo mons fora guays cum solia,",
+            "el cavayer tengran se car",
+            "e volgra quecx son benestar;",
+            "mas tot torna en trichairia."
+        ],
+        [
+            "D'elhs nom cal, sol que dieus me gar",
+            "midons em do so quen volria;",
+            "mas elha nom pot res donar,",
+            "tan suy sieus quel dos remanria",
+            "sieus cum seria enans del dar,",
+            "qu'ieu non ai cor ni ren tan car",
+            "urai que tot sieu no sia."
+        ],
+        [
+            "Al valen rey, ques fa lauzar,",
+            "'Arago, chanso, te y ta via,",
+            "qu'elh es reys que sap ben regnar",
+            "as dieu, vas pretz, si nos cambia;",
+            "mas d'ayssos sapchal reys gardar,",
+            "que dieus e pretz son d'aitan par",
+            "qu'ades los pert quis ne desvia."
+        ],
+        [
+            "N'Esclarmonda sal dieus e grar,",
+            "qu'es de fina beutat ses par",
+            "uaya plazen conhdia."
+        ],
+        [
+            "Le noms ditz, quil sap declarar,",
+            "qu'es clara e munda de folhia."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Ricketts, Peter T. Les posies de Guilhem de Montanhagol, troubadour provenal du XIIIe sicle. Toronto: Pontifical Institute of Mediaeval Studies, 1964"
+}

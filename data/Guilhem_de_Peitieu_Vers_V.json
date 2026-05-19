@@ -1,0 +1,73 @@
+{
+    "Author": [
+        "Guilhem_de_Peitieu"
+    ],
+    "Genre": "Vers",
+    "Title": "Companho, tant ai agutz d'avols conres ",
+    "FullText": [
+        "Companho, tant ai agutz d'avols conres",
+        "Qu'ieu non puesc mudar no-n chan e que no-m pes;",
+        "Enpero no vueill c'om sapcha mon afar de maintas res.",
+        "E dirai vos m'entendensa, de que es:",
+        "No m'azauta cons gardatz ni gorcs ses peis,",
+        "Ni gabars de malvatz homes com de lor faitz non agues.",
+        "Senher Dieus, quez es del mon capdels e reis,",
+        "Qui anc premier gardet con, com non esteis",
+        "C'anc no fo mestiers ni garda c'a sidons estes sordeis.",
+        "Pero dirai vos de con, cals es sa leis,",
+        "Com sel hom que mal n'a fait e peitz n'a pres:",
+        "Si queg'autra res en merma, qui-n pana, e cons en creis.",
+        "E sel qui no volra-n creire mos casteis,",
+        "An ho vezer pres lo bosc, en un deveis:",
+        "Per un albre c'om hi tailla n'i naison ho dos ho treis.",
+        "E quan lo bocx es taillatz, nais plus espes",
+        "E-l senher no-n pert son comte ni sos ses:",
+        "A revers planh hom la tala, si-l dampnatges no-i es ges.",
+        "Tortz es c'om planha la tala si negun dan no-i a ges."
+    ],
+    "Stanzas": [
+        [
+            "Companho, tant ai agutz d'avols conres",
+            "Qu'ieu non puesc mudar no-n chan e que no-m pes;",
+            "Enpero no vueill c'om sapcha mon afar de maintas res."
+        ],
+        [
+            "E dirai vos m'entendensa, de que es:",
+            "No m'azauta cons gardatz ni gorcs ses peis,",
+            "Ni gabars de malvatz homes com de lor faitz non agues."
+        ],
+        [
+            "Senher Dieus, quez es del mon capdels e reis,",
+            "Qui anc premier gardet con, com non esteis",
+            "C'anc no fo mestiers ni garda c'a sidons estes sordeis."
+        ],
+        [
+            "Pero dirai vos de con, cals es sa leis,",
+            "Com sel hom que mal n'a fait e peitz n'a pres:",
+            "Si queg'autra res en merma, qui-n pana, e cons en creis."
+        ],
+        [
+            "E sel qui no volra-n creire mos casteis,",
+            "An ho vezer pres lo bosc, en un deveis:",
+            "Per un albre c'om hi tailla n'i naison ho dos ho treis."
+        ],
+        [
+            "E quan lo bocx es taillatz, nais plus espes",
+            "E-l senher no-n pert son comte ni sos ses:",
+            "A revers planh hom la tala, si-l dampnatges no-i es ges."
+        ],
+        [
+            "Tortz es c'om planha la tala si negun dan no-i a ges."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Jeanroy, Alfred. Les chansons de Guillaume IX duc d'Aquitaine (1071-1127). Paris: Champion, 1913"
+}

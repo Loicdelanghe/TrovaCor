@@ -1,0 +1,89 @@
+{
+    "Author": [
+        "Guilhem_Magret"
+    ],
+    "Genre": "Canso",
+    "Title": "Aissi quon hom que senher ochaizona ",
+    "FullText": [
+        "Aissi quon hom que senher ochaizona",
+        "ses tort, dompna, quan la en son poder,",
+        "el quer merce e no lan vol aver,",
+        "ans lo ten tan tro que del sieu li dona,",
+        " mochaizonatz, quar vos platz eus sap bo,",
+        "e mavetz mes, dompn, en vostra preizo ;",
+        "mais ia de me non auretz rezemso ;",
+        "    quenans vuelh que pres mi tenguatz,",
+        "    dompna, que sim desliuravatz ;",
+        "    e non cug quom anc mais vis pres",
+        "    quesser desliuratz no volges.",
+        "Mas saber vuelh, dompna mieiller de bona",
+        "e la genser quom anc pogues vezer,",
+        "si mauciretz, que nous puesc mal voler,",
+        "queu non o cre nim semblatz tan fellona,",
+        "e vos gardatz vos en de falizo,",
+        "quatressi falh senher vas son baro",
+        "quol bars vas lui, sil men outra razo ;",
+        "    e per so que vos no fallatz,",
+        "    pus pres mavetz, no mauciatz ;",
+        "    valham ab vos ma bona fes,",
+        "    e humilitatz e merces !",
+        "Que sieu fos reys, vos agratz daur corona.",
+        "Tan vos mi fai abelir e temer",
+        "ostra beutatz, on ai mes mon esper",
+        "si quaz autra mos cors no sabandona ;",
+        "e membre vos, dompna, del guizardo,",
+        "que loniamen ai servit em perdo !",
+        "Mas fe que deg a mon ,Belh Companho,",
+        "    duna re mi suy acordatz :",
+        "    cossi que vos en captenhatz,",
+        "    vos amaray, ous plass ous pes ;",
+        "    mas mot volgra mais queus plagues !"
+    ],
+    "Stanzas": [
+        [
+            "Aissi quon hom que senher ochaizona",
+            "ses tort, dompna, quan la en son poder,",
+            "el quer merce e no lan vol aver,",
+            "ans lo ten tan tro que del sieu li dona,",
+            " mochaizonatz, quar vos platz eus sap bo,",
+            "e mavetz mes, dompn, en vostra preizo ;",
+            "mais ia de me non auretz rezemso ;",
+            "    quenans vuelh que pres mi tenguatz,",
+            "    dompna, que sim desliuravatz ;",
+            "    e non cug quom anc mais vis pres",
+            "    quesser desliuratz no volges."
+        ],
+        [
+            "Mas saber vuelh, dompna mieiller de bona",
+            "e la genser quom anc pogues vezer,",
+            "si mauciretz, que nous puesc mal voler,",
+            "queu non o cre nim semblatz tan fellona,",
+            "e vos gardatz vos en de falizo,",
+            "quatressi falh senher vas son baro",
+            "quol bars vas lui, sil men outra razo ;",
+            "    e per so que vos no fallatz,",
+            "    pus pres mavetz, no mauciatz ;",
+            "    valham ab vos ma bona fes,",
+            "    e humilitatz e merces !"
+        ],
+        [
+            "Que sieu fos reys, vos agratz daur corona.",
+            "Tan vos mi fai abelir e temer",
+            "ostra beutatz, on ai mes mon esper",
+            "si quaz autra mos cors no sabandona ;",
+            "e membre vos, dompna, del guizardo,",
+            "que loniamen ai servit em perdo !",
+            "Mas fe que deg a mon ,Belh Companho,",
+            "    duna re mi suy acordatz :",
+            "    cossi que vos en captenhatz,",
+            "    vos amaray, ous plass ous pes ;",
+            "    mas mot volgra mais queus plagues !"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Naudieth, Fritz. Der Trobador Guillem Magret. Halle a. S.: Verlag von Max Niemeyer, 1914."
+}

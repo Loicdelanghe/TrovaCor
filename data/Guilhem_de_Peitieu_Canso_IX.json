@@ -1,0 +1,141 @@
+{
+    "Author": [
+        "Guilhem_de_Peitieu"
+    ],
+    "Genre": "Canso",
+    "Title": "Pos vezem de novel florir ",
+    "FullText": [
+        "Pos vezem de novel florir",
+        "Pratz, e vergiers reverdezir,",
+        "Rius e fontanas esclarzir,",
+        "Auras e vens,",
+        "Ben deu chascus lo joi jauzir",
+        "Don es jauzens.",
+        "D'amor non dei dire mas be.",
+        "Quar no-n ai ni petit ni re?",
+        "Quar ben leu plus no m'en cove!",
+        "Pero leumens",
+        "Dona gran joi qui be-n mante",
+        "Los aizimens.",
+        "A totz jorns m'es pres enaisi",
+        "C'anc d'aquo c'amei no-m jauzi;",
+        "Ni o farai, ni anc non ho fi;",
+        "C'az essiens",
+        "Fauc maintas ves que-l cor me di:",
+        "Tot es niens.",
+        "Per tal n'ai meins de bon saber",
+        "Quar vueill so que non puesc aver;",
+        "E si-l reprovers me ditz ver,",
+        "Sertanamens",
+        "A bon coratge bon poder,",
+        "Qui-s ben sufrens.",
+        "Ja no sera nuils hom ben fis",
+        "Contr'amor, si non l'es aclis,",
+        "Et als estranhs et als vezis",
+        "Non es consens,",
+        "Et a totz sels d'aicels aizis",
+        "Obediens.",
+        "Obediensa deu portar",
+        "A motas gens qui vol amar,",
+        "E cove li que sapcha far",
+        "Faitz avinens",
+        "E que-s gart en cort de parlar",
+        "Vilanamens.",
+        "Del vers vos dic que mais ne vau",
+        "Qui be l'enten, e n'a plus lau:",
+        "Que-ls motz son faitz tug per egau",
+        "Comunalmens,",
+        "E-l sonetz, ieu meteus m'en lau,",
+        "Bos e valens.",
+        "A Narbona, mas ieu no-i vau,",
+        "Sia-l prezens",
+        "Mos vers, e vueill que d'aquest lau",
+        "Sia guirens.",
+        "Mon Esteve, mas ieu no-i vau,",
+        "Sia-l prezens",
+        "Mos vers, e vueill que d'aquest lau",
+        "Sia guirens."
+    ],
+    "Stanzas": [
+        [
+            "Pos vezem de novel florir",
+            "Pratz, e vergiers reverdezir,",
+            "Rius e fontanas esclarzir,",
+            "Auras e vens,",
+            "Ben deu chascus lo joi jauzir",
+            "Don es jauzens."
+        ],
+        [
+            "D'amor non dei dire mas be.",
+            "Quar no-n ai ni petit ni re?",
+            "Quar ben leu plus no m'en cove!",
+            "Pero leumens",
+            "Dona gran joi qui be-n mante",
+            "Los aizimens."
+        ],
+        [
+            "A totz jorns m'es pres enaisi",
+            "C'anc d'aquo c'amei no-m jauzi;",
+            "Ni o farai, ni anc non ho fi;",
+            "C'az essiens",
+            "Fauc maintas ves que-l cor me di:",
+            "Tot es niens."
+        ],
+        [
+            "Per tal n'ai meins de bon saber",
+            "Quar vueill so que non puesc aver;",
+            "E si-l reprovers me ditz ver,",
+            "Sertanamens",
+            "A bon coratge bon poder,",
+            "Qui-s ben sufrens."
+        ],
+        [
+            "Ja no sera nuils hom ben fis",
+            "Contr'amor, si non l'es aclis,",
+            "Et als estranhs et als vezis",
+            "Non es consens,",
+            "Et a totz sels d'aicels aizis",
+            "Obediens."
+        ],
+        [
+            "Obediensa deu portar",
+            "A motas gens qui vol amar,",
+            "E cove li que sapcha far",
+            "Faitz avinens",
+            "E que-s gart en cort de parlar",
+            "Vilanamens."
+        ],
+        [
+            "Del vers vos dic que mais ne vau",
+            "Qui be l'enten, e n'a plus lau:",
+            "Que-ls motz son faitz tug per egau",
+            "Comunalmens,",
+            "E-l sonetz, ieu meteus m'en lau,",
+            "Bos e valens."
+        ],
+        [
+            "A Narbona, mas ieu no-i vau,",
+            "Sia-l prezens",
+            "Mos vers, e vueill que d'aquest lau",
+            "Sia guirens."
+        ],
+        [
+            "Mon Esteve, mas ieu no-i vau,",
+            "Sia-l prezens",
+            "Mos vers, e vueill que d'aquest lau",
+            "Sia guirens."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX"
+    ],
+    "Source": " Jeanroy, Alfred. Les chansons de Guillaume IX duc d'Aquitaine (1071-1127). Paris: Champion, 1913"
+}

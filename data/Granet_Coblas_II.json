@@ -1,0 +1,74 @@
+{
+    "Author": [
+        "Granet"
+    ],
+    "Genre": "Coblas",
+    "Title": "Pos al Comte es vengut en corage ",
+    "FullText": [
+        "Pos al Comte es vengut en corage",
+        "seigner Sordel, qe per mi retrait sia",
+        "so qe vos dos avez dit de follage,",
+        "vos em Bertrans, en la tenzon partia,",
+        "en dirai ver: chascus pres follamen.",
+        "Vos q'az amor non valguest anc nien;",
+        "en Bertrans pres prez d'armas q'en batailla",
+        "non perdet anc per colps sos ausbercs mailla.",
+        "Ben sabon tut d'en Sordel son usage",
+        "qe ben ama, ses iauzimen, samia,",
+        "ni ia non voill qeil vegna dagradage",
+        "qelcolg ab se, qar vergonal penria.",
+        "E s'anc nuls hom ab gran cors recrezen,",
+        "flac, ni volpill, plen de nonchalemen",
+        "pot aver prez d'armas, ben l'a, ses failla,",
+        "mos compaire Bertranz ples de nuailla.",
+        "Per la Comtessa de Rodes valen",
+        "an ras lor cap cavalier mais de cen;",
+        "e s'en Sordels se vol gardar de failla,",
+        "son cap raira, o ia Deus non li vailla.",
+        "An Johan prec de Valleri breumen",
+        "qe non creia en Bertran d'ardimen",
+        "tro en tornei lo veia o en batailla,",
+        "qadoncs sabra de son bran si ben tailla."
+    ],
+    "Stanzas": [
+        [
+            "Pos al Comte es vengut en corage",
+            "seigner Sordel, qe per mi retrait sia",
+            "so qe vos dos avez dit de follage,",
+            "vos em Bertrans, en la tenzon partia,",
+            "en dirai ver: chascus pres follamen.",
+            "Vos q'az amor non valguest anc nien;",
+            "en Bertrans pres prez d'armas q'en batailla",
+            "non perdet anc per colps sos ausbercs mailla."
+        ],
+        [
+            "Ben sabon tut d'en Sordel son usage",
+            "qe ben ama, ses iauzimen, samia,",
+            "ni ia non voill qeil vegna dagradage",
+            "qelcolg ab se, qar vergonal penria.",
+            "E s'anc nuls hom ab gran cors recrezen,",
+            "flac, ni volpill, plen de nonchalemen",
+            "pot aver prez d'armas, ben l'a, ses failla,",
+            "mos compaire Bertranz ples de nuailla."
+        ],
+        [
+            "Per la Comtessa de Rodes valen",
+            "an ras lor cap cavalier mais de cen;",
+            "e s'en Sordels se vol gardar de failla,",
+            "son cap raira, o ia Deus non li vailla."
+        ],
+        [
+            "An Johan prec de Valleri breumen",
+            "qe non creia en Bertran d'ardimen",
+            "tro en tornei lo veia o en batailla,",
+            "qadoncs sabra de son bran si ben tailla."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Parducci, Amos. Miscellanea di letteratura del Medio Evo. IV. Granet, trovatore provenzale. Roma: Presso la Societ, 1929"
+}

@@ -1,0 +1,71 @@
+{
+    "Author": [
+        "GuilhemFigueira",
+        "AimericdePeguilhan"
+    ],
+    "Genre": "Tenso",
+    "Title": "N'Aimeric, queus par del pro Bertram d'Aurel ",
+    "FullText": [
+        "NAimeric, queus par del pro Bertram dAurel,",
+        "Ca Breissa joget lautrer dun joc novel",
+        "E dis doas vez eschah ab un coltel",
+        "AN Guilhem del dui fraire,",
+        "Que volc leschah desfaire.",
+        "Mas Bertramz levet del joc,",
+        "Can Guilhems cuidet traire.",
+        "Figueira, Bertramz fetz be, car ses apel",
+        "Laises joc sobrel majestre dEn Sordel,",
+        "Que can trop monton revit, non es ges bel,",
+        "El seus contrajogaire",
+        "Fora tost revidaire.",
+        "Doncs fetz que savis Bertrams,",
+        "Car ses dan sen saup traire .",
+        "NArmeric, bos jogaire",
+        "Fon Bertramz lenvidaire,",
+        "Mas trop tost laisset lenvit",
+        "Que Guilhems li volc faire.",
+        "Figueir, anc per lo fraire",
+        "No fon del joc laissaire",
+        "Bertrams,enans per desdenh",
+        "Que tan punha ven traire."
+    ],
+    "Stanzas": [
+        [
+            "NAimeric, queus par del pro Bertram dAurel,",
+            "Ca Breissa joget lautrer dun joc novel",
+            "E dis doas vez eschah ab un coltel",
+            "AN Guilhem del dui fraire,",
+            "Que volc leschah desfaire.",
+            "Mas Bertramz levet del joc,",
+            "Can Guilhems cuidet traire."
+        ],
+        [
+            "Figueira, Bertramz fetz be, car ses apel",
+            "Laises joc sobrel majestre dEn Sordel,",
+            "Que can trop monton revit, non es ges bel,",
+            "El seus contrajogaire",
+            "Fora tost revidaire.",
+            "Doncs fetz que savis Bertrams,",
+            "Car ses dan sen saup traire ."
+        ],
+        [
+            "NArmeric, bos jogaire",
+            "Fon Bertramz lenvidaire,",
+            "Mas trop tost laisset lenvit",
+            "Que Guilhems li volc faire."
+        ],
+        [
+            "Figueir, anc per lo fraire",
+            "No fon del joc laissaire",
+            "Bertrams,enans per desdenh",
+            "Que tan punha ven traire."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Levy, Emil. Guilhem Figueira, ein provenzalischer Troubadour. Berlin: Buchdruckerei von S. Liebrecht, 1880"
+}

@@ -1,0 +1,82 @@
+{
+    "Author": [
+        "Guilhem_de_Peitieu"
+    ],
+    "Genre": "Vers",
+    "Title": "Compagno, non puesc mudar qu'eo no m'effrei ",
+    "FullText": [
+        "Compagno, non puesc mudar qu'eo no m'effrei",
+        "De novellas qu'ai auzidas et que vei:",
+        "Qu'una domna s'es clamada de sos gardadors a mei.",
+        "E diz que non volo prendre dreit ni lei,",
+        "Ans la teno esserrada quada trei:",
+        "Tant l'us no-ill larga l'estaca que l'altre plus no la-ill plei.",
+        "Et aquill fan entre lor aital agrei:",
+        "L'us es compains gens a foc mandacarrei,",
+        "E meno trop major nausa que la mainada del rei.",
+        "Et eu dic vos, gardador, e vos castei:",
+        "e sera ben grans folia qui no-m crei:",
+        "Greu verretz neguna garda que ad oras non sonei.",
+        "Qu'eu anc non vi nulla domn'ab tan gran fei,",
+        "Qui non vol prendre son plait o sa mercei,",
+        "S'om l'aloigna de proessa, que ab malvestatz non plaidei.",
+        "E si-l tenez a cartat lo bon conrei,",
+        "Adoba-s d'aquel que troba viron sei:",
+        "Si non pot aver caval, ela compra palafrei.",
+        "Non i a negu de vos ia-m desautrei,",
+        "S'om li vedava vi fort per malavei,",
+        "Non begues enanz de l'aiga que-s laissez morir de sei.",
+        "Chascus beuri'ans de l'aiga que-s laises morir dessei"
+    ],
+    "Stanzas": [
+        [
+            "Compagno, non puesc mudar qu'eo no m'effrei",
+            "De novellas qu'ai auzidas et que vei:",
+            "Qu'una domna s'es clamada de sos gardadors a mei."
+        ],
+        [
+            "E diz que non volo prendre dreit ni lei,",
+            "Ans la teno esserrada quada trei:",
+            "Tant l'us no-ill larga l'estaca que l'altre plus no la-ill plei."
+        ],
+        [
+            "Et aquill fan entre lor aital agrei:",
+            "L'us es compains gens a foc mandacarrei,",
+            "E meno trop major nausa que la mainada del rei."
+        ],
+        [
+            "Et eu dic vos, gardador, e vos castei:",
+            "e sera ben grans folia qui no-m crei:",
+            "Greu verretz neguna garda que ad oras non sonei."
+        ],
+        [
+            "Qu'eu anc non vi nulla domn'ab tan gran fei,",
+            "Qui non vol prendre son plait o sa mercei,",
+            "S'om l'aloigna de proessa, que ab malvestatz non plaidei."
+        ],
+        [
+            "E si-l tenez a cartat lo bon conrei,",
+            "Adoba-s d'aquel que troba viron sei:",
+            "Si non pot aver caval, ela compra palafrei."
+        ],
+        [
+            "Non i a negu de vos ia-m desautrei,",
+            "S'om li vedava vi fort per malavei,",
+            "Non begues enanz de l'aiga que-s laissez morir de sei."
+        ],
+        [
+            "Chascus beuri'ans de l'aiga que-s laises morir dessei"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII"
+    ],
+    "Source": " Jeanroy, Alfred. Les chansons de Guillaume IX duc d'Aquitaine (1071-1127). Paris: Champion, 1913"
+}
