@@ -1,0 +1,109 @@
+{
+    "Author": [
+        "Guilhem_de_SaintLeidier"
+    ],
+    "Genre": "Canso",
+    "Title": "S'eu tot me soi un petit malananz ",
+    "FullText": [
+        "S'eu tot me soi un petit malananz,",
+        "Ges peraitant non pejura mos chanz,",
+        "Anz voil meillur a totz jornz [e s']enanz,",
+        "Qe m'amia s'enanza de tot be.",
+        "E dizon tuit qe drutz a no sai qanz,",
+        "Perq'ai tal gaug qe d'ira nom sove,",
+        "E jur vos Dieu, s'il n'avi' autretanz,",
+        "Non cuidera qe ames mas sol me.",
+        "Enanz li prec c'am los petitz els granz",
+        "C'ades perd en lo[s] jornz els mes els anz;",
+        "Si m'am' il ren,euleisammil aitanz",
+        "Q'enapres sai c'aura de me merce.",
+        "Am [j]a totz cels cui en penra talanz,",
+        "Quel temps s'en vai e non enanzam re,",
+        "E can sera veilla testa-crotlanz,",
+        "m>Vostrobaretz qenonames mas me.",
+        "Eu no soi ges d'aqels nescis amanz",
+        "Qe juron Dieu nonamon [ab] aitanz",
+        "Qi pot sufrir los venenz els ananz!",
+        "Zo di aqel c'a son drut noncove.",
+        "Quen'ai sofertz maintas vetz perd' e danz",
+        "Mas nonsoi sols, q'a maint o s'esdeve;",
+        "Anz volria c'ames sincenz Braimanz,",
+        "Sol q'enapres saubes queames me.",
+        "Bell' amia, coind[a] e benistanz,",
+        "Si trobavas d'aqels arlotz truanz!",
+        "Il porton pro esterlinz e besanz ",
+        "E peraver fai hom de mainta re!",
+        "Nous sia greu s'en consir mainz afanz,",
+        "Qel paupres vol molt [be] d'aizo qe ve.",
+        ". . . . . . . . . . . . . . . . . . . . . . .",
+        ". . . . . . . . . . . . . . . . . . . . . . .",
+        "Zai en pascor, seretz coind' e prezanz",
+        "E trobares los Engles els Normanz,",
+        "E vostr' ostals es amples e vojanz:",
+        "Metetz lan tanz entro qe l'aiatz ple.",
+        "Eja pois plus qe roncis d'Alamanz",
+        "Vostre cavals non estei senz lo fre!",
+        "E qant aures plena la borz' els ganz,",
+        "Pois poires far vostres rigueultz de me."
+    ],
+    "Stanzas": [
+        [
+            "S'eu tot me soi un petit malananz,",
+            "Ges peraitant non pejura mos chanz,",
+            "Anz voil meillur a totz jornz [e s']enanz,",
+            "Qe m'amia s'enanza de tot be.",
+            "E dizon tuit qe drutz a no sai qanz,",
+            "Perq'ai tal gaug qe d'ira nom sove,",
+            "E jur vos Dieu, s'il n'avi' autretanz,",
+            "Non cuidera qe ames mas sol me."
+        ],
+        [
+            "Enanz li prec c'am los petitz els granz",
+            "C'ades perd en lo[s] jornz els mes els anz;",
+            "Si m'am' il ren,euleisammil aitanz",
+            "Q'enapres sai c'aura de me merce.",
+            "Am [j]a totz cels cui en penra talanz,",
+            "Quel temps s'en vai e non enanzam re,",
+            "E can sera veilla testa-crotlanz,",
+            "m>Vostrobaretz qenonames mas me."
+        ],
+        [
+            "Eu no soi ges d'aqels nescis amanz",
+            "Qe juron Dieu nonamon [ab] aitanz",
+            "Qi pot sufrir los venenz els ananz!",
+            "Zo di aqel c'a son drut noncove.",
+            "Quen'ai sofertz maintas vetz perd' e danz",
+            "Mas nonsoi sols, q'a maint o s'esdeve;",
+            "Anz volria c'ames sincenz Braimanz,",
+            "Sol q'enapres saubes queames me."
+        ],
+        [
+            "Bell' amia, coind[a] e benistanz,",
+            "Si trobavas d'aqels arlotz truanz!",
+            "Il porton pro esterlinz e besanz ",
+            "E peraver fai hom de mainta re!",
+            "Nous sia greu s'en consir mainz afanz,",
+            "Qel paupres vol molt [be] d'aizo qe ve.",
+            ". . . . . . . . . . . . . . . . . . . . . . .",
+            ". . . . . . . . . . . . . . . . . . . . . . ."
+        ],
+        [
+            "Zai en pascor, seretz coind' e prezanz",
+            "E trobares los Engles els Normanz,",
+            "E vostr' ostals es amples e vojanz:",
+            "Metetz lan tanz entro qe l'aiatz ple.",
+            "Eja pois plus qe roncis d'Alamanz",
+            "Vostre cavals non estei senz lo fre!",
+            "E qant aures plena la borz' els ganz,",
+            "Pois poires far vostres rigueultz de me."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Sakari, Aimo. Posies du troubadour Guillem de Saint-Didier. Helsinki: Socit Nophilologique, 1956."
+}

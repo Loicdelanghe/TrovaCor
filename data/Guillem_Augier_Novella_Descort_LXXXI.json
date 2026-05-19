@@ -1,0 +1,83 @@
+{
+    "Author": [
+        "Guillem_Augier_Novella"
+    ],
+    "Genre": "Descort",
+    "Title": "Ses alegrage ",
+    "FullText": [
+        "Ses alegrage",
+        "Chant per agradage;",
+        "Follage",
+        "Fatz, quar mon corage",
+        "Ses lai on ses mes;",
+        "Quanc plus salvage",
+        "Reclus dermitage",
+        "Del mieu senhoratge",
+        "Non fo nulls hom pres.",
+        "Quaissi fos presa",
+        "Del mal que madea,",
+        "Malmea",
+        "Cella, cui pauc peza",
+        "Car mi fai languir!",
+        "Mas on er queza",
+        "Merces ni franquea,",
+        "Pos la plus corteza",
+        "m vol ses tort auir? . . .",
+        "Gent gasainha,",
+        "Qui ques plainha,",
+        "Madon Imilen Romainha",
+        "Valor mainha,",
+        "En ques bainha",
+        "Son gai cors plazen",
+        "Gen.",
+        "XI",
+        "Bella e genta",
+        "Matalenta",
+        "Plus qual mege fals",
+        "Mals."
+    ],
+    "Stanzas": [
+        [
+            "Ses alegrage",
+            "Chant per agradage;",
+            "Follage",
+            "Fatz, quar mon corage",
+            "Ses lai on ses mes;",
+            "Quanc plus salvage",
+            "Reclus dermitage",
+            "Del mieu senhoratge",
+            "Non fo nulls hom pres."
+        ],
+        [
+            "Quaissi fos presa",
+            "Del mal que madea,",
+            "Malmea",
+            "Cella, cui pauc peza",
+            "Car mi fai languir!",
+            "Mas on er queza",
+            "Merces ni franquea,",
+            "Pos la plus corteza",
+            "m vol ses tort auir? . . ."
+        ],
+        [
+            "Gent gasainha,",
+            "Qui ques plainha,",
+            "Madon Imilen Romainha",
+            "Valor mainha,",
+            "En ques bainha",
+            "Son gai cors plazen",
+            "Gen.",
+            "XI",
+            "Bella e genta",
+            "Matalenta",
+            "Plus qual mege fals",
+            "Mals."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "X"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}

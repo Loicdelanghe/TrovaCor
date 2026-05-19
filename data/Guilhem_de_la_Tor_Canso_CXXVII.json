@@ -1,0 +1,71 @@
+{
+    "Author": [
+        "Guilhem_de_la_Tor"
+    ],
+    "Genre": "Canso",
+    "Title": "Canson ab gais motz plazens ",
+    "FullText": [
+        "Canson ab gais motz plazens",
+        "Avinens",
+        "Entendens",
+        "Vol quen retraia mos sens;",
+        "En quem plaingnals fins amans",
+        "Dels affans",
+        "E dels dans",
+        "Quem donAmors trop pesans;",
+        "Don mi fai aissi languir",
+        "E delir",
+        "Que garir",
+        "Nom vol ni laissar morir;",
+        "Doncs, sieu men part, aissi fatz",
+        "Com senatz,",
+        "Mas sapchatz",
+        "Non si com enamoratz . . .",
+        "Sos gens cors gais, amoros",
+        "Volgram fos",
+        "Atan bos",
+        "Quen breu en fos sai joios.",
+        "Na Joana, l rics ressos",
+        "El pretz bos",
+        "Ques en vos",
+        "Fai lo nom dEst cabalos."
+    ],
+    "Stanzas": [
+        [
+            "Canson ab gais motz plazens",
+            "Avinens",
+            "Entendens",
+            "Vol quen retraia mos sens;",
+            "En quem plaingnals fins amans",
+            "Dels affans",
+            "E dels dans",
+            "Quem donAmors trop pesans;",
+            "Don mi fai aissi languir",
+            "E delir",
+            "Que garir",
+            "Nom vol ni laissar morir;",
+            "Doncs, sieu men part, aissi fatz",
+            "Com senatz,",
+            "Mas sapchatz",
+            "Non si com enamoratz . . ."
+        ],
+        [
+            "Sos gens cors gais, amoros",
+            "Volgram fos",
+            "Atan bos",
+            "Quen breu en fos sai joios."
+        ],
+        [
+            "Na Joana, l rics ressos",
+            "El pretz bos",
+            "Ques en vos",
+            "Fai lo nom dEst cabalos."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "VII",
+        "VIII"
+    ],
+    "Source": " Blasi, Ferruccio. Le poesie di Guilhem de la Tor. Genve - Firenze: Leo S. Olschki S. A. - Leo S. Olschki, 1934"
+}

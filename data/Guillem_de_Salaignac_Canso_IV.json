@@ -1,0 +1,131 @@
+{
+    "Author": [
+        "Guillem_de_Salaignac"
+    ],
+    "Genre": "Canso",
+    "Title": "A vos cuy tenc per dompne per senhor ",
+    "FullText": [
+        "A vos cuy tenc per dompne per senhor,",
+        "Bona dompna, volgra clamar merce",
+        "Per unamor que devas vos mi ve,",
+        "Quem destrenh tan que sin breu nom secor",
+        "Vostre gens cors, non puesc vius remaner.",
+        "Et anc no vos o auzei far parer,",
+        "E sius en suy cent vetz vengutz denan,",
+        "Pueys, quan vos vey, nous aus dir mon talan.",
+        "Ans quieu vos vis, vos ayc tan fin amor",
+        "Quieu non amava tant autruy ni me;",
+        "Quant vos vi pueys, doblet lamors desse,",
+        "E trobiey vos a mos huelhs trop gensor",
+        "Quins e mon cor no sabia voler,",
+        "Tant cautramor mi fetz del cor mover;",
+        "Mas la vostra no sen part tant ni quan,",
+        "Et empero anc non hi ac tan gran.",
+        "Non esgardetz ves mi vostra ricor!",
+        "Humilitat esgardar hi cove",
+        "Per amor Dieu! E sautre pro nom te,",
+        "Nom tengua dan, sieu vos dic ma clamor;",
+        "Quar ges, dompna, no men puesc estener,",
+        "Sim fors amors quem ten en son poder,",
+        "E de senhor deu hom far son coman,",
+        "Pus que partir no sen pot tan ni quan.",
+        "Nom tenguan dan ab vos devinador",
+        "Ni lauzengier, cuy Dieus de malastre!",
+        "Sitot ab lieys quenguanet me et se",
+        "Mi tengron dan, pero non fatz clamor;",
+        "Quar anc en re no lan vim mais valer,",
+        "Ni anc despueys no fetz mas decazer,",
+        "Per quieu lamiey per tostemps a mon dan;",
+        "E do ma vos lials e ses enjan.",
+        "El mon non a rey ni emperador",
+        "Que puesc aver mais de fin pretz ab se",
+        "Que yeu, dompna, si vos mi voletz be,",
+        "Nim retenetz per vostre servidor;",
+        "En vos podo complir tug mey voler;",
+        "Mas yeu men prenc so que non aus querer,",
+        "A quascun iorn cinc cens bays en pessan,",
+        "De que non tem gelos ni mal parlan.",
+        "Pros Comtessa, sobrenom avetz ver,",
+        "Car gen burlatz e metetz vostr aver,",
+        "E faitz tezaur de fin pretz benestan,",
+        "Cautra dompna del mon non val aitan.",
+        "BellAmia, de vos puesc dir el ver",
+        "Que de fin pretz, damics e de poder",
+        "Creisetz totz iorns eus anatz meilluran.",
+        "Car hom non pot far meills son benestan."
+    ],
+    "Stanzas": [
+        [
+            "A vos cuy tenc per dompne per senhor,",
+            "Bona dompna, volgra clamar merce",
+            "Per unamor que devas vos mi ve,",
+            "Quem destrenh tan que sin breu nom secor",
+            "Vostre gens cors, non puesc vius remaner.",
+            "Et anc no vos o auzei far parer,",
+            "E sius en suy cent vetz vengutz denan,",
+            "Pueys, quan vos vey, nous aus dir mon talan."
+        ],
+        [
+            "Ans quieu vos vis, vos ayc tan fin amor",
+            "Quieu non amava tant autruy ni me;",
+            "Quant vos vi pueys, doblet lamors desse,",
+            "E trobiey vos a mos huelhs trop gensor",
+            "Quins e mon cor no sabia voler,",
+            "Tant cautramor mi fetz del cor mover;",
+            "Mas la vostra no sen part tant ni quan,",
+            "Et empero anc non hi ac tan gran."
+        ],
+        [
+            "Non esgardetz ves mi vostra ricor!",
+            "Humilitat esgardar hi cove",
+            "Per amor Dieu! E sautre pro nom te,",
+            "Nom tengua dan, sieu vos dic ma clamor;",
+            "Quar ges, dompna, no men puesc estener,",
+            "Sim fors amors quem ten en son poder,",
+            "E de senhor deu hom far son coman,",
+            "Pus que partir no sen pot tan ni quan."
+        ],
+        [
+            "Nom tenguan dan ab vos devinador",
+            "Ni lauzengier, cuy Dieus de malastre!",
+            "Sitot ab lieys quenguanet me et se",
+            "Mi tengron dan, pero non fatz clamor;",
+            "Quar anc en re no lan vim mais valer,",
+            "Ni anc despueys no fetz mas decazer,",
+            "Per quieu lamiey per tostemps a mon dan;",
+            "E do ma vos lials e ses enjan."
+        ],
+        [
+            "El mon non a rey ni emperador",
+            "Que puesc aver mais de fin pretz ab se",
+            "Que yeu, dompna, si vos mi voletz be,",
+            "Nim retenetz per vostre servidor;",
+            "En vos podo complir tug mey voler;",
+            "Mas yeu men prenc so que non aus querer,",
+            "A quascun iorn cinc cens bays en pessan,",
+            "De que non tem gelos ni mal parlan."
+        ],
+        [
+            "Pros Comtessa, sobrenom avetz ver,",
+            "Car gen burlatz e metetz vostr aver,",
+            "E faitz tezaur de fin pretz benestan,",
+            "Cautra dompna del mon non val aitan."
+        ],
+        [
+            "BellAmia, de vos puesc dir el ver",
+            "Que de fin pretz, damics e de poder",
+            "Creisetz totz iorns eus anatz meilluran.",
+            "Car hom non pot far meills son benestan."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Strempel, Alexander. Giraut de Salignac, ein provenzalischer Trobador. India: Pravana Books, 1916"
+}

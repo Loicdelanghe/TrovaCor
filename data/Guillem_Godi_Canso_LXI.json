@@ -1,0 +1,126 @@
+{
+    "Author": [
+        "Guillem_Godi"
+    ],
+    "Genre": "Canso",
+    "Title": "Sil gens cors d'estiu es remas ",
+    "FullText": [
+        "Sil gens cors d'estiu es remas",
+        "per freg e per neus e per glas,",
+        "ges per so nom deu oblidar",
+        "la fin'amors don soi iausitz;",
+        "pero sim suy alques marritz",
+        "m fay mantas vetz sospirar.",
+        "Li ric savai tornon atras",
+        "joven el fan estar d'aut bas,",
+        "e son engres per castiar;",
+        "tan lur es gazanhs abellitz",
+        "qu'aissel se ten per pus gueritz",
+        "que mais pot aver amassar.",
+        "Silh son de cortezia ras",
+        "e tug l'autre manen escas;",
+        "e domna deuria sordeiar,",
+        "quan d'aitals drutz assay maritz;",
+        "el frugz que d'aisselhs es yssiz,",
+        "os deu ab los pros engualar.",
+        "E quils pendia ab un las",
+        "per la gola cuma Judas,",
+        "assatz poiria dieu venjar",
+        "'aquels fellos soiornaditz",
+        "cors fals e de falsa razitz,",
+        "que tollon condug e donar.",
+        "Lauzenjadors non oblit pas",
+        "quan es, peiors que Cayfas;",
+        "totz tems fan bon'amor torbar;",
+        "mas ia non sera lai auzitz",
+        "per ma domna ni obezitz,",
+        "qu'anc nom i poc hom acuzar.",
+        "Car'a e fron et huelhs e nas",
+        "ab fresc cors blanc grayle e gras",
+        "que anc dieus gensor non volc far;",
+        "sobre totas es yssernitz",
+        "sos pretz, et yeu suy enriquitz,",
+        "fai qu'elham vuelh'amar.",
+        "Bo messatgier, tu ten iras",
+        "as ma dona e li diras",
+        "las penas en quem fai estar,",
+        "quar de lieys no suy plus aizitz;",
+        "e si respon ab cortes ditz,",
+        "prec te quels me vengas comptar;",
+        "E si nostre ioys es oblitz,",
+        "mais nom venguas, dieus men guar!"
+    ],
+    "Stanzas": [
+        [
+            "Sil gens cors d'estiu es remas",
+            "per freg e per neus e per glas,",
+            "ges per so nom deu oblidar",
+            "la fin'amors don soi iausitz;",
+            "pero sim suy alques marritz",
+            "m fay mantas vetz sospirar."
+        ],
+        [
+            "Li ric savai tornon atras",
+            "joven el fan estar d'aut bas,",
+            "e son engres per castiar;",
+            "tan lur es gazanhs abellitz",
+            "qu'aissel se ten per pus gueritz",
+            "que mais pot aver amassar."
+        ],
+        [
+            "Silh son de cortezia ras",
+            "e tug l'autre manen escas;",
+            "e domna deuria sordeiar,",
+            "quan d'aitals drutz assay maritz;",
+            "el frugz que d'aisselhs es yssiz,",
+            "os deu ab los pros engualar."
+        ],
+        [
+            "E quils pendia ab un las",
+            "per la gola cuma Judas,",
+            "assatz poiria dieu venjar",
+            "'aquels fellos soiornaditz",
+            "cors fals e de falsa razitz,",
+            "que tollon condug e donar."
+        ],
+        [
+            "Lauzenjadors non oblit pas",
+            "quan es, peiors que Cayfas;",
+            "totz tems fan bon'amor torbar;",
+            "mas ia non sera lai auzitz",
+            "per ma domna ni obezitz,",
+            "qu'anc nom i poc hom acuzar."
+        ],
+        [
+            "Car'a e fron et huelhs e nas",
+            "ab fresc cors blanc grayle e gras",
+            "que anc dieus gensor non volc far;",
+            "sobre totas es yssernitz",
+            "sos pretz, et yeu suy enriquitz,",
+            "fai qu'elham vuelh'amar."
+        ],
+        [
+            "Bo messatgier, tu ten iras",
+            "as ma dona e li diras",
+            "las penas en quem fai estar,",
+            "quar de lieys no suy plus aizitz;",
+            "e si respon ab cortes ditz,",
+            "prec te quels me vengas comptar;"
+        ],
+        [
+            "E si nostre ioys es oblitz,",
+            "mais nom venguas, dieus men guar!"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII"
+    ],
+    "Source": " Appel, Carl. Provenzalische Inedita aus pariser Handschriften. Leipzig: Fuess Verlag, 1890"
+}

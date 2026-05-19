@@ -1,0 +1,108 @@
+{
+    "Author": [
+        "Guillem_de_Cabestaing"
+    ],
+    "Genre": "Canso",
+    "Title": "Lo jorn, qeus vi domna, premieramen, ",
+    "FullText": [
+        "Lo jorn, qeus vi domna, premieramen,",
+        "Qant a vos plac, qeus mi laissez vezer,",
+        "parti mon cor tot dautre pensamen,",
+        "e foron ferm en vos tut mei voler;",
+        "qaissim pausez, domna, el cor lenveja",
+        "ab un douz ris et ab un simplesgar,",
+        "mi e qant es mi fezez oblidar.",
+        "Qel granz beutaz el solaz davinen",
+        "eil cortes dit eil amoros plazer",
+        "qem saubez far, membleron si mon sen,",
+        "qanc pois hora domna nol poc aver;",
+        "a vos lautrei cui mos fis cors merceja,",
+        "per enantir vostre prez et onrar;",
+        "a vos mi ren, qom miels non pot amar.",
+        "E car vos am domna, tan finamen,",
+        "qe dautramar nom don amors poder,",
+        "mas aizem da, qab autras cortei gen,",
+        "don cug de mi la greu dolor mover;",
+        "pois quant cossir de vos cui jois sopleja,",
+        "tot autramor oblit e desampar,",
+        "ab vos remanh cui tenc al cor plus car.",
+        "E membre vos, sius plaz, del bon coven",
+        "qe mi fezez al departir saber,",
+        "don aic mon cor adonc guai e jauzen",
+        "pel bon respeit en qem mandez tener;",
+        "mout naic gran joi, sera lo mals sim greja,",
+        "et aurai lo, qan vos plaira encar,",
+        "bona domna, qeu sui en lesperar.",
+        "E ges mals trags no men fai espaven,",
+        "sol qeu en cuit en ma vida aver",
+        "de vos domna, qalaqom jauzimen,",
+        "anz li mal trag mi son joi e plazer",
+        "sol per aiso, car sai qamors autreja,",
+        "qe fis amans deu granz torz perdonar",
+        "e gen soffrir mals trags, per gazanhs far.",
+        "Aissi er ja domna, lora qeu veja,",
+        "qe per merce mi volhaz tan onrar,",
+        "qe sol amic me denhez appellar."
+    ],
+    "Stanzas": [
+        [
+            "Lo jorn, qeus vi domna, premieramen,",
+            "Qant a vos plac, qeus mi laissez vezer,",
+            "parti mon cor tot dautre pensamen,",
+            "e foron ferm en vos tut mei voler;",
+            "qaissim pausez, domna, el cor lenveja",
+            "ab un douz ris et ab un simplesgar,",
+            "mi e qant es mi fezez oblidar."
+        ],
+        [
+            "Qel granz beutaz el solaz davinen",
+            "eil cortes dit eil amoros plazer",
+            "qem saubez far, membleron si mon sen,",
+            "qanc pois hora domna nol poc aver;",
+            "a vos lautrei cui mos fis cors merceja,",
+            "per enantir vostre prez et onrar;",
+            "a vos mi ren, qom miels non pot amar."
+        ],
+        [
+            "E car vos am domna, tan finamen,",
+            "qe dautramar nom don amors poder,",
+            "mas aizem da, qab autras cortei gen,",
+            "don cug de mi la greu dolor mover;",
+            "pois quant cossir de vos cui jois sopleja,",
+            "tot autramor oblit e desampar,",
+            "ab vos remanh cui tenc al cor plus car."
+        ],
+        [
+            "E membre vos, sius plaz, del bon coven",
+            "qe mi fezez al departir saber,",
+            "don aic mon cor adonc guai e jauzen",
+            "pel bon respeit en qem mandez tener;",
+            "mout naic gran joi, sera lo mals sim greja,",
+            "et aurai lo, qan vos plaira encar,",
+            "bona domna, qeu sui en lesperar."
+        ],
+        [
+            "E ges mals trags no men fai espaven,",
+            "sol qeu en cuit en ma vida aver",
+            "de vos domna, qalaqom jauzimen,",
+            "anz li mal trag mi son joi e plazer",
+            "sol per aiso, car sai qamors autreja,",
+            "qe fis amans deu granz torz perdonar",
+            "e gen soffrir mals trags, per gazanhs far."
+        ],
+        [
+            "Aissi er ja domna, lora qeu veja,",
+            "qe per merce mi volhaz tan onrar,",
+            "qe sol amic me denhez appellar."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Hffer, Franz. Der Trobador Guillem de Cabestanh. Sein Leben und seine Werke . Berlin: L. Heimann, 1869"
+}

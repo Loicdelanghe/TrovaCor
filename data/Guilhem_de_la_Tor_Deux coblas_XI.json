@@ -1,0 +1,48 @@
+{
+    "Author": [
+        "Guilhem_de_la_Tor"
+    ],
+    "Genre": "Coblas",
+    "Title": "De saint Martin me clam a saint Andreu ",
+    "FullText": [
+        "De saint Martin me clam a saint Andreu",
+        "e prec li fort qe m'en faza dreichura,",
+        "car non auz a Corat, vis-de-Judeu,",
+        "e Faciol, qe chascus fai rancura",
+        "qar no foron a trahir Damedeu;",
+        "e, pois negus nom vol donar del seu,",
+        "or enemics serai oltra mesura.",
+        "Al marques d'Est m'en clam qem det per feu",
+        "q'eu dixes mal de l'avol gent tafura;",
+        "cuiaz vos donc qals pros non sia, qal greu",
+        "els rics malvaz qui gaston la pastura!",
+        "non volria qe mil marc fosson meu,",
+        "per q'en fezes l'usage al Fariseu,",
+        "paubre de cor, ric de mala ventura."
+    ],
+    "Stanzas": [
+        [
+            "De saint Martin me clam a saint Andreu",
+            "e prec li fort qe m'en faza dreichura,",
+            "car non auz a Corat, vis-de-Judeu,",
+            "e Faciol, qe chascus fai rancura",
+            "qar no foron a trahir Damedeu;",
+            "e, pois negus nom vol donar del seu,",
+            "or enemics serai oltra mesura."
+        ],
+        [
+            "Al marques d'Est m'en clam qem det per feu",
+            "q'eu dixes mal de l'avol gent tafura;",
+            "cuiaz vos donc qals pros non sia, qal greu",
+            "els rics malvaz qui gaston la pastura!",
+            "non volria qe mil marc fosson meu,",
+            "per q'en fezes l'usage al Fariseu,",
+            "paubre de cor, ric de mala ventura."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Blasi, Ferruccio. Le poesie di Guilhem de la Tor. Genve - Firenze: Leo S. Olschki S. A. - Leo S. Olschki, 1934"
+}

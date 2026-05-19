@@ -1,0 +1,89 @@
+{
+    "Author": [
+        "Guillem_de_Berguedan"
+    ],
+    "Genre": "Sirventes",
+    "Title": "Bernartz diz de Baseill ",
+    "FullText": [
+        "Bernartz diz de Baseill",
+        "Ques fara trobaire",
+        "E no s'en meraveill",
+        "Hom de son repaire ;",
+        "Car ben e gen sap trobar",
+        "E moz e coblas laar,",
+        "Per qem par",
+        "Que de totz penra venjanssa",
+        "De paraulas e de lanssa",
+        "E non er per lui celat",
+        "De laic ni de coronat.",
+        "Ges no s'en engrondeill",
+        "Ni nebotz ni fraire",
+        "De Salsas tro Areill ;",
+        "C'us no s'en poc raire.",
+        "Que mal se saubron venjar",
+        "D'en Berengier de Monclar",
+        "Que nafrar",
+        "Lo cuidet per mi la panssa.",
+        "Nol sabrez, qui nol romanssa,",
+        "Que de premiers fo abat,",
+        "Mas pois a apostatat.",
+        "Ab peiras et anels",
+        "Et deniers de borsa",
+        "Com conquerretz castels",
+        "E prenez per corsa",
+        "Ses ausberc e ses escut ?",
+        "Per qe tot me par perdut !",
+        "Tal sai drut",
+        "Que porta cofa cornuda",
+        "E sai be cals es sa druda ;",
+        "Mas no l'en voill descobrir,",
+        "C'oms son qem tem de maldir."
+    ],
+    "Stanzas": [
+        [
+            "Bernartz diz de Baseill",
+            "Ques fara trobaire",
+            "E no s'en meraveill",
+            "Hom de son repaire ;",
+            "Car ben e gen sap trobar",
+            "E moz e coblas laar,",
+            "Per qem par",
+            "Que de totz penra venjanssa",
+            "De paraulas e de lanssa",
+            "E non er per lui celat",
+            "De laic ni de coronat."
+        ],
+        [
+            "Ges no s'en engrondeill",
+            "Ni nebotz ni fraire",
+            "De Salsas tro Areill ;",
+            "C'us no s'en poc raire.",
+            "Que mal se saubron venjar",
+            "D'en Berengier de Monclar",
+            "Que nafrar",
+            "Lo cuidet per mi la panssa.",
+            "Nol sabrez, qui nol romanssa,",
+            "Que de premiers fo abat,",
+            "Mas pois a apostatat."
+        ],
+        [
+            "Ab peiras et anels",
+            "Et deniers de borsa",
+            "Com conquerretz castels",
+            "E prenez per corsa",
+            "Ses ausberc e ses escut ?",
+            "Per qe tot me par perdut !",
+            "Tal sai drut",
+            "Que porta cofa cornuda",
+            "E sai be cals es sa druda ;",
+            "Mas no l'en voill descobrir,",
+            "C'oms son qem tem de maldir."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Kolsen, Adolf. Trobadorgedichte: Dreissig Stcke altprovenzalischer Lyrik. Halle: Max Niemeyer Verlag, 1925"
+}

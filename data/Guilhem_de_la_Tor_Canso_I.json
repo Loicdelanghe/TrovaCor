@@ -1,0 +1,77 @@
+{
+    "Author": [
+        "Guilhem_de_la_Tor"
+    ],
+    "Genre": "Canso",
+    "Title": "Bon'aventura mi veigna ",
+    "FullText": [
+        " Bon'aventura mi veigna,",
+        " q'en mon cor tan grant ioi a",
+        " q'eu no sai vers on me teigna.",
+        "Dunt m'es venguz aqest iois, no sai,",
+        " q'amors nuill ben no m'atrai;",
+        " mas [eu] cuit senes doptanza",
+        "    qel iois me ven de lai,",
+        " o la dolza res estai,",
+        "    en cui ai m'esperanza.",
+        " Fin'amors soven m'enseigna",
+        " que ves [l]ei d'anar m'essai;",
+        " qant sui lai, faz m'entreseigna",
+        "e semblam qe m'amors li desplai.",
+        " Ensi ven amors e vai :",
+        " ar ai ioi, ar ai pesanza ;",
+        "    greu cuit que proi aurai.",
+        " Me q'en cal, si pro no n'ai,",
+        "    q'ades i ai honranza?",
+        " Honor voill, honors mi veigna:",
+        " c'ab honor pro conqerrai.",
+        " Bem sembla q'onor reteigna,",
+        "se m'entent en lei, q'a prez verai.",
+        " Entendre lai on volra",
+        " puosc assaz; mas qe m'enanza,",
+        "    pois q'il s'amor m'estrai?",
+        " Ensi puosc amar, sim plai,",
+        "    la rena de Frana."
+    ],
+    "Stanzas": [
+        [
+            " Bon'aventura mi veigna,",
+            " q'en mon cor tan grant ioi a",
+            " q'eu no sai vers on me teigna.",
+            "Dunt m'es venguz aqest iois, no sai,",
+            " q'amors nuill ben no m'atrai;",
+            " mas [eu] cuit senes doptanza",
+            "    qel iois me ven de lai,",
+            " o la dolza res estai,",
+            "    en cui ai m'esperanza."
+        ],
+        [
+            " Fin'amors soven m'enseigna",
+            " que ves [l]ei d'anar m'essai;",
+            " qant sui lai, faz m'entreseigna",
+            "e semblam qe m'amors li desplai.",
+            " Ensi ven amors e vai :",
+            " ar ai ioi, ar ai pesanza ;",
+            "    greu cuit que proi aurai.",
+            " Me q'en cal, si pro no n'ai,",
+            "    q'ades i ai honranza?"
+        ],
+        [
+            " Honor voill, honors mi veigna:",
+            " c'ab honor pro conqerrai.",
+            " Bem sembla q'onor reteigna,",
+            "se m'entent en lei, q'a prez verai.",
+            " Entendre lai on volra",
+            " puosc assaz; mas qe m'enanza,",
+            "    pois q'il s'amor m'estrai?",
+            " Ensi puosc amar, sim plai,",
+            "    la rena de Frana."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Blasi, Ferruccio. Le poesie di Guilhem de la Tor. Genve - Firenze: Leo S. Olschki S. A. - Leo S. Olschki, 1934"
+}

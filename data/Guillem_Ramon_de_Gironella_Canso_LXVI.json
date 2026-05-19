@@ -1,0 +1,118 @@
+{
+    "Author": [
+        "Guillem_Ramon_de_Gironella"
+    ],
+    "Genre": "Canso",
+    "Title": "La clara lutz del bel iorn ",
+    "FullText": [
+        "La clara lutz del bel iorn",
+        "e l'aura del franc termen",
+        "m'amenon gaug e seiorn",
+        "per que d'un gai vers m'estreni,",
+        "quel fis iois es tals, qu'ieu meni,",
+        "que cascuns men vai de torn.",
+        "Tals qu'es de covinen dorn,",
+        "per cui pensan m'encadeni,",
+        "tz que non vol trist ni morn,",
+        "per que de chant nom refreni,",
+        "qu'els sieus plazers pens', e pen",
+        "quar soven lai no torn.",
+        "Can vei son gen cors autiu,",
+        "on pretz fluris et afrucha,",
+        "tan son sei fait agradiu",
+        "quel dezirs me creis em cucha;",
+        "es ai ma lengua paurucha,",
+        "m que de mi s'esquiu.",
+        "Be tenc per pauc essagiu,",
+        "pos l'amors, qu'ieu l'ai, s'entrucha,",
+        "si noill dic mon cor pensiu",
+        "e com malmen' em trabucha;",
+        "er leu matresducha,",
+        "b c'un bel semblan m'aiziu.",
+        "Huei mais be<sup>.</sup>s cove e<sup>.</sup>s tanh",
+        "c'un pauc, sill platz, m'enardischa;",
+        "e sol de mi nos estranh,",
+        "nos cug qu'ieu tant m'afolisca",
+        "que de ma boca fors isca,",
+        "que ab mis n'acompanh.",
+        "Prims es lo fils de l'aranlh;",
+        "no tanh c'om prim no chauzisca,",
+        "quan estes lai on sofranh,",
+        "on cre qu'ieu gen men gandisca;",
+        "e ia dieus nol esbaudisca",
+        "que fin ioi d'amor franh;",
+        "Sobre-luenh encabalisca,",
+        "ui iois e pretz no sofranh,",
+        "El pro vescomt' enantisca,",
+        "'ill m'entenda, cui meils tanh."
+    ],
+    "Stanzas": [
+        [
+            "La clara lutz del bel iorn",
+            "e l'aura del franc termen",
+            "m'amenon gaug e seiorn",
+            "per que d'un gai vers m'estreni,",
+            "quel fis iois es tals, qu'ieu meni,",
+            "que cascuns men vai de torn."
+        ],
+        [
+            "Tals qu'es de covinen dorn,",
+            "per cui pensan m'encadeni,",
+            "tz que non vol trist ni morn,",
+            "per que de chant nom refreni,",
+            "qu'els sieus plazers pens', e pen",
+            "quar soven lai no torn."
+        ],
+        [
+            "Can vei son gen cors autiu,",
+            "on pretz fluris et afrucha,",
+            "tan son sei fait agradiu",
+            "quel dezirs me creis em cucha;",
+            "es ai ma lengua paurucha,",
+            "m que de mi s'esquiu."
+        ],
+        [
+            "Be tenc per pauc essagiu,",
+            "pos l'amors, qu'ieu l'ai, s'entrucha,",
+            "si noill dic mon cor pensiu",
+            "e com malmen' em trabucha;",
+            "er leu matresducha,",
+            "b c'un bel semblan m'aiziu."
+        ],
+        [
+            "Huei mais be<sup>.</sup>s cove e<sup>.</sup>s tanh",
+            "c'un pauc, sill platz, m'enardischa;",
+            "e sol de mi nos estranh,",
+            "nos cug qu'ieu tant m'afolisca",
+            "que de ma boca fors isca,",
+            "que ab mis n'acompanh."
+        ],
+        [
+            "Prims es lo fils de l'aranlh;",
+            "no tanh c'om prim no chauzisca,",
+            "quan estes lai on sofranh,",
+            "on cre qu'ieu gen men gandisca;",
+            "e ia dieus nol esbaudisca",
+            "que fin ioi d'amor franh;"
+        ],
+        [
+            "Sobre-luenh encabalisca,",
+            "ui iois e pretz no sofranh,"
+        ],
+        [
+            "El pro vescomt' enantisca,",
+            "'ill m'entenda, cui meils tanh."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VI",
+        "VII"
+    ],
+    "Source": " Appel, Carl. Provenzalische Inedita aus pariser Handschriften. Leipzig: Fuess Verlag, 1890"
+}

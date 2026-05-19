@@ -1,0 +1,108 @@
+{
+    "Author": [
+        "Guilhem_de_SaintLeidier"
+    ],
+    "Genre": "Canso",
+    "Title": "Malvaza m'es la moguda ",
+    "FullText": [
+        " Malvaza m'es la moguda",
+        " D'estiu, don val meins mos chans,",
+        " Que gaieza m'a tolguda,",
+        " No fes e trics e soans,",
+        "E suin alqes envilanitz:",
+        "S'ab mi donz nom val faitz ni digz",
+        "Non sai perqem chantes ja mais.",
+        " Amada l'ai e volguda",
+        " Totz temps perfar sos comans",
+        " Deis lo temps q'ieu l'aic vehuda,",
+        " C'anc vas lieis non fui camjans;",
+        "Non dic ges q'ieu sia trazitz,",
+        "Mas ben puosc entrels escarnitz",
+        "Sezer entro l'ira m'abais.",
+        " Aissim vens e m'esvertuda",
+        " L'amors qem forss' el talans",
+        " Q'ieu non pretz, silam refuda,",
+        " Ses lieis tot lo mon dos gans.",
+        "Del sieu gran tort  sin er' auzitz ",
+        "Li clam merce qem fos fenitz",
+        "E penda me s'ieu mais m'irais.",
+        " Verais Dieus, don m'es venguda",
+        " Esta voluntatz tant grans",
+        " Que tant ni qant nois remuda?",
+        " E pois alres noi enans",
+        "Ben gran mestier m'en agr' oblitz",
+        "O qu'estes totz temps endormitz,",
+        "Que sivals en sompjan n'ai mais.",
+        " Aqesta mi' atenduda",
+        " Q'ieu fatz, c'aillor nom balans,",
+        " Cre q'er a la remasuda",
+        " Del puoig que brugic set ans,",
+        "Puois non issic mas la soritz;",
+        "Tant m'es mos afars perfaillitz",
+        "C'ab promessas ses faitz mi pais.",
+        "De cortes luoc mou la razitz",
+        "El jois q'es dinz mon cor floritz,",
+        "Don ma bon' esperanssa nais."
+    ],
+    "Stanzas": [
+        [
+            " Malvaza m'es la moguda",
+            " D'estiu, don val meins mos chans,",
+            " Que gaieza m'a tolguda,",
+            " No fes e trics e soans,",
+            "E suin alqes envilanitz:",
+            "S'ab mi donz nom val faitz ni digz",
+            "Non sai perqem chantes ja mais."
+        ],
+        [
+            " Amada l'ai e volguda",
+            " Totz temps perfar sos comans",
+            " Deis lo temps q'ieu l'aic vehuda,",
+            " C'anc vas lieis non fui camjans;",
+            "Non dic ges q'ieu sia trazitz,",
+            "Mas ben puosc entrels escarnitz",
+            "Sezer entro l'ira m'abais."
+        ],
+        [
+            " Aissim vens e m'esvertuda",
+            " L'amors qem forss' el talans",
+            " Q'ieu non pretz, silam refuda,",
+            " Ses lieis tot lo mon dos gans.",
+            "Del sieu gran tort  sin er' auzitz ",
+            "Li clam merce qem fos fenitz",
+            "E penda me s'ieu mais m'irais."
+        ],
+        [
+            " Verais Dieus, don m'es venguda",
+            " Esta voluntatz tant grans",
+            " Que tant ni qant nois remuda?",
+            " E pois alres noi enans",
+            "Ben gran mestier m'en agr' oblitz",
+            "O qu'estes totz temps endormitz,",
+            "Que sivals en sompjan n'ai mais."
+        ],
+        [
+            " Aqesta mi' atenduda",
+            " Q'ieu fatz, c'aillor nom balans,",
+            " Cre q'er a la remasuda",
+            " Del puoig que brugic set ans,",
+            "Puois non issic mas la soritz;",
+            "Tant m'es mos afars perfaillitz",
+            "C'ab promessas ses faitz mi pais."
+        ],
+        [
+            "De cortes luoc mou la razitz",
+            "El jois q'es dinz mon cor floritz,",
+            "Don ma bon' esperanssa nais."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Sakari, Aimo. Posies du troubadour Guillem de Saint-Didier. Helsinki: Socit Nophilologique, 1956."
+}

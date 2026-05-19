@@ -1,0 +1,57 @@
+{
+    "Author": [
+        "GuirautRiquier",
+        "PauletdeMarselha"
+    ],
+    "Genre": "Tenso (Partimen)",
+    "Title": "Senhen Jorda, sius manda Livernos ",
+    "FullText": [
+        "Senhen Jorda, sius manda Livernos",
+        "A si venir, e Lautresc en un dia,",
+        "Sol per vezer, a cal atendretz vos,",
+        "E que sapchan dambas partz vostra via?",
+        "Et a N R. Izarn en eissa guia",
+        "Na Marqueza e Na Saissa la pros?",
+        "Et a N Paulet lo valens reis NAnfos",
+        "E sel que ten Polha en sa bailia,",
+        "Per cor de dar; e quecx prena la tria . . .",
+        "Guiraut Riquier, ges no soi cossiros",
+        "De penre tost en aquesta partia:",
+        "E vuelh vezer lonrat Rei cabalos",
+        "De Polha, que met jos falsa Clersia;",
+        "Cauzit ai dir quel val ses maistria;",
+        "Cautra vetz ai vist selh que bonanc fos,",
+        "Lo valen Rei a cui sapen Leos;",
+        "Et autra vetz partetz me joc que sia",
+        "De fag damor, non jes de joglaria."
+    ],
+    "Stanzas": [
+        [
+            "Senhen Jorda, sius manda Livernos",
+            "A si venir, e Lautresc en un dia,",
+            "Sol per vezer, a cal atendretz vos,",
+            "E que sapchan dambas partz vostra via?",
+            "Et a N R. Izarn en eissa guia",
+            "Na Marqueza e Na Saissa la pros?",
+            "Et a N Paulet lo valens reis NAnfos",
+            "E sel que ten Polha en sa bailia,",
+            "Per cor de dar; e quecx prena la tria . . ."
+        ],
+        [
+            "Guiraut Riquier, ges no soi cossiros",
+            "De penre tost en aquesta partia:",
+            "E vuelh vezer lonrat Rei cabalos",
+            "De Polha, que met jos falsa Clersia;",
+            "Cauzit ai dir quel val ses maistria;",
+            "Cautra vetz ai vist selh que bonanc fos,",
+            "Lo valen Rei a cui sapen Leos;",
+            "Et autra vetz partetz me joc que sia",
+            "De fag damor, non jes de joglaria."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "IV"
+    ],
+    "Source": " Betti, Maria Pia. Le Tenzoni del Trovatore Guiraut Riquier. \"Studi Mediolatini e Volgare\", 44 (1998)"
+}

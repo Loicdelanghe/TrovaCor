@@ -1,0 +1,116 @@
+{
+    "Author": [
+        "Guilhem_de_SaintLeidier"
+    ],
+    "Genre": "Canso",
+    "Title": "El mon non a neguna creatura ",
+    "FullText": [
+        "El mon non a neguna creatura",
+        "Non truep sa par, mas yeu non truep la mia",
+        "Ni ges no sai on ja trobada sia",
+        "Qu'aissi ames per lial fe segura;",
+        "Qu'ieu am pus fort selieys quemi guerreya",
+        "No fai nulh drutz lieys qu'enbaizan s'autreya;",
+        "Pus mal grat sieu l'am e quem fai maltraire",
+        "S'ilh m'ames re, pensatz s'ieu l'ames guaire!",
+        "Ho ieu, sapchatz que no fora mezura,",
+        "Pus er l'am tan que m'es mal' enemia;",
+        "E s'ieu l'am sols, est' amorsquem'embria?",
+        "Si fai, sivals tan cum bos respiegz dura,",
+        "Aquest respiegzon hom res non espleya",
+        "Non es cauza quehom persegre deya,",
+        "Ben o conosc. Si m'enpogues estraire!",
+        "Mas no puesc ges, tan suy lials amaire.",
+        "Bem volgra mal sil fezes forfaitura",
+        "Nil agues dig nul erguelh ni falsia,",
+        "Mas quar enans son ric pretz quascun dia",
+        "De mon poder em platz quan se melhura",
+        "E fas saber qu'a totas senhoreya,",
+        "Quant ieu l'esguar, no fai semblan quemveya.",
+        "A totz autres es franqu' e de bon aire",
+        "Mas a mi sol no vol belh semblan faire.",
+        "Quar costum' es que domna sia dura",
+        "E port erguelh selhuy ques'umilia?",
+        "Belha res mal', e cous falh cortezia",
+        "Ves mi tot sol, qu'autre no s'en rancura!",
+        "Voletz mi mal sol quar mi faitz enveya",
+        "E quar vos am mais d'autra res que seya?",
+        "Per aquest tort mi podetz los huelhs traire,",
+        "Que ieu ni vos non o podem desfaire.",
+        "A totz jorns creys e dobl' e s'asegura",
+        "L'amors qu'iel port, mas bos fagz desembria,",
+        "E meynhs n'aurai, so cug, a la partia",
+        "Qu'al comensar; vey, qu'ades se pejura,",
+        "Que, s'ieu m'irays, de tot en tot sordeya;",
+        "Doncx no sai ieu de qual guiza m'esteya:",
+        "S'ira mi notz e patz no mi val gaire,",
+        "Si naissim vay be suy doncx encantaire.",
+        "Amicx Bertrans, vos que es gualiaire",
+        "Es mays amatz qu'ieu que suy fis amaire."
+    ],
+    "Stanzas": [
+        [
+            "El mon non a neguna creatura",
+            "Non truep sa par, mas yeu non truep la mia",
+            "Ni ges no sai on ja trobada sia",
+            "Qu'aissi ames per lial fe segura;",
+            "Qu'ieu am pus fort selieys quemi guerreya",
+            "No fai nulh drutz lieys qu'enbaizan s'autreya;",
+            "Pus mal grat sieu l'am e quem fai maltraire",
+            "S'ilh m'ames re, pensatz s'ieu l'ames guaire!"
+        ],
+        [
+            "Ho ieu, sapchatz que no fora mezura,",
+            "Pus er l'am tan que m'es mal' enemia;",
+            "E s'ieu l'am sols, est' amorsquem'embria?",
+            "Si fai, sivals tan cum bos respiegz dura,",
+            "Aquest respiegzon hom res non espleya",
+            "Non es cauza quehom persegre deya,",
+            "Ben o conosc. Si m'enpogues estraire!",
+            "Mas no puesc ges, tan suy lials amaire."
+        ],
+        [
+            "Bem volgra mal sil fezes forfaitura",
+            "Nil agues dig nul erguelh ni falsia,",
+            "Mas quar enans son ric pretz quascun dia",
+            "De mon poder em platz quan se melhura",
+            "E fas saber qu'a totas senhoreya,",
+            "Quant ieu l'esguar, no fai semblan quemveya.",
+            "A totz autres es franqu' e de bon aire",
+            "Mas a mi sol no vol belh semblan faire."
+        ],
+        [
+            "Quar costum' es que domna sia dura",
+            "E port erguelh selhuy ques'umilia?",
+            "Belha res mal', e cous falh cortezia",
+            "Ves mi tot sol, qu'autre no s'en rancura!",
+            "Voletz mi mal sol quar mi faitz enveya",
+            "E quar vos am mais d'autra res que seya?",
+            "Per aquest tort mi podetz los huelhs traire,",
+            "Que ieu ni vos non o podem desfaire."
+        ],
+        [
+            "A totz jorns creys e dobl' e s'asegura",
+            "L'amors qu'iel port, mas bos fagz desembria,",
+            "E meynhs n'aurai, so cug, a la partia",
+            "Qu'al comensar; vey, qu'ades se pejura,",
+            "Que, s'ieu m'irays, de tot en tot sordeya;",
+            "Doncx no sai ieu de qual guiza m'esteya:",
+            "S'ira mi notz e patz no mi val gaire,",
+            "Si naissim vay be suy doncx encantaire."
+        ],
+        [
+            "Amicx Bertrans, vos que es gualiaire",
+            "Es mays amatz qu'ieu que suy fis amaire."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Sakari, Aimo. Posies du troubadour Guillem de Saint-Didier. Helsinki: Socit Nophilologique, 1956."
+}

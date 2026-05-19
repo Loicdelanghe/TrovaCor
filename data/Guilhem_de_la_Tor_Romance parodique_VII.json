@@ -1,0 +1,71 @@
+{
+    "Author": [
+        "Guilhem_de_la_Tor"
+    ],
+    "Genre": "Sirventes",
+    "Title": "Una, doas, tres e quatre ",
+    "FullText": [
+        " Una, doas, tres e quatre,",
+        " cinc e seis e set e ueich",
+        " m'avenc l'autrer a combatre",
+        " ab m'osta tota una nueich;",
+        "e sim trobes fol ni mal dueich,",
+        " fe que dei a Deu, bel fratre,",
+        " ben fora toz mos pans cueich,",
+        "    si me volgues esbatre.",
+        " E non vos cuides, bel'osta,",
+        " qet eu mais ogan chai torn,",
+        " cant per la vostra somosta",
+        " non puoc meilz estar un iorn;",
+        "q'anz m'anes l'autrer tant entorn,",
+        " tant que me chalfes la costa:",
+        " anc non cugei vezer iorn,",
+        "    tant me fo mal en posta.",
+        " N'osta, vos non es ges lota,",
+        " ben o conoc al montar:",
+        " si nom tengues a la cota,",
+        " ja non pogra sus estar;",
+        "tant haut me fazias levar",
+        " con s'eu fos una pelota.",
+        " Toz tems fai mal cavalcar",
+        " . . . . . . . . . . . . ."
+    ],
+    "Stanzas": [
+        [
+            " Una, doas, tres e quatre,",
+            " cinc e seis e set e ueich",
+            " m'avenc l'autrer a combatre",
+            " ab m'osta tota una nueich;",
+            "e sim trobes fol ni mal dueich,",
+            " fe que dei a Deu, bel fratre,",
+            " ben fora toz mos pans cueich,",
+            "    si me volgues esbatre."
+        ],
+        [
+            " E non vos cuides, bel'osta,",
+            " qet eu mais ogan chai torn,",
+            " cant per la vostra somosta",
+            " non puoc meilz estar un iorn;",
+            "q'anz m'anes l'autrer tant entorn,",
+            " tant que me chalfes la costa:",
+            " anc non cugei vezer iorn,",
+            "    tant me fo mal en posta."
+        ],
+        [
+            " N'osta, vos non es ges lota,",
+            " ben o conoc al montar:",
+            " si nom tengues a la cota,",
+            " ja non pogra sus estar;",
+            "tant haut me fazias levar",
+            " con s'eu fos una pelota.",
+            " Toz tems fai mal cavalcar",
+            " . . . . . . . . . . . . ."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Blasi, Ferruccio. Le poesie di Guilhem de la Tor. Genve - Firenze: Leo S. Olschki S. A. - Leo S. Olschki, 1934"
+}

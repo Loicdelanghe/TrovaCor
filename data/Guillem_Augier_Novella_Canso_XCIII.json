@@ -1,0 +1,46 @@
+{
+    "Author": [
+        "Guillem_Augier_Novella"
+    ],
+    "Genre": "Canso",
+    "Title": "Per vos, bella, dousamia ",
+    "FullText": [
+        "Per vos, bella, dousamia,",
+        "Trac nueg e jorn greu martire,",
+        "Que dals no pens ni cossire,",
+        "Ans vai doblan totavia",
+        "Lamors e la bevolensa;",
+        "Per quieu ai gran temensa",
+        "Quel dezirs no maucia;",
+        "On mais vos bays, doussa res, e vos toc",
+        "Yeu men vauc plus prion en aisselh foc . . .",
+        "A lEmperaire agensa,",
+        "E ten a cortezia,",
+        "Quant hom li quer autreyar, e ditz doc,",
+        "Mas ja, als faitz, nos pren ren qui nol loc."
+    ],
+    "Stanzas": [
+        [
+            "Per vos, bella, dousamia,",
+            "Trac nueg e jorn greu martire,",
+            "Que dals no pens ni cossire,",
+            "Ans vai doblan totavia",
+            "Lamors e la bevolensa;",
+            "Per quieu ai gran temensa",
+            "Quel dezirs no maucia;",
+            "On mais vos bays, doussa res, e vos toc",
+            "Yeu men vauc plus prion en aisselh foc . . ."
+        ],
+        [
+            "A lEmperaire agensa,",
+            "E ten a cortezia,",
+            "Quant hom li quer autreyar, e ditz doc,",
+            "Mas ja, als faitz, nos pren ren qui nol loc."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "VI"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}
