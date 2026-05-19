@@ -1,0 +1,44 @@
+{
+    "Author": [
+        "Peire_duisel"
+    ],
+    "Genre": "Cobla avec tornada",
+    "Title": "En Gui d'Uisel, bem plai vostra canos ",
+    "FullText": [
+        "En Gui dUisel, bem plai vostra canos,",
+        "Car disetz mal lei qe lauzes antan;",
+        "Sell dizetz mal, ella noi a null dan,",
+        "Qe cavalier deu meill amar qe vos;",
+        "Qe selaus det samor nesciamen,",
+        "Pois laus estrais aconsillaidamen,",
+        "Ges per aicho noill deu esser blasmat,",
+        "Deis qel eissa se conoc sa foudat.",
+        "En Gui dUisel, un cavalier valen",
+        "Valetz vos be en maint fait avinen;",
+        "Mas de clerge no es acostumat",
+        "Qe dompna lam, anz lles totz temps blasmat."
+    ],
+    "Stanzas": [
+        [
+            "En Gui dUisel, bem plai vostra canos,",
+            "Car disetz mal lei qe lauzes antan;",
+            "Sell dizetz mal, ella noi a null dan,",
+            "Qe cavalier deu meill amar qe vos;",
+            "Qe selaus det samor nesciamen,",
+            "Pois laus estrais aconsillaidamen,",
+            "Ges per aicho noill deu esser blasmat,",
+            "Deis qel eissa se conoc sa foudat."
+        ],
+        [
+            "En Gui dUisel, un cavalier valen",
+            "Valetz vos be en maint fait avinen;",
+            "Mas de clerge no es acostumat",
+            "Qe dompna lam, anz lles totz temps blasmat."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Audiau, Jean. Les posies des quatre troubadours d'Ussel, publies d'aprs les manuscrits. Paris: Librarie Delagrave, 1922"
+}

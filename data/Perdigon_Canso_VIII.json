@@ -1,0 +1,52 @@
+{
+    "Author": [
+        "Perdigon"
+    ],
+    "Genre": "Canso",
+    "Title": "Anc non cujei quem pogues far Amors ",
+    "FullText": [
+        "Anc non cujei quem pogues far Amors",
+        "tan de plaser qu'eu fos al sieu coman ;",
+        "mas ara vec qu'eu nom posc tan ni can",
+        "partir de lui, tan es grans sa valors ;",
+        "qu'il m'a conques em ten en sa bailia,",
+        "si que mon grat partir no m'en volria,",
+        "qu'en tal dopna m'a fait Amors chausir",
+        "que val mil tans qu'eu non sabria dir.",
+        "Mais que d'autra del mon quem des Amors",
+        "ai alegrier em conort del senblan",
+        "quem fai em diz can eu li sui denan,",
+        "per qu'eu tuz temps li serai servidors",
+        "e farai tut zo qu'a plaiser li sia,",
+        "s'eu n'ai poder, qu'esters far nol poria,",
+        "qu'eu no sai dopn' el mond al meu albir",
+        "que tan se fass' al conosenz grasir."
+    ],
+    "Stanzas": [
+        [
+            "Anc non cujei quem pogues far Amors",
+            "tan de plaser qu'eu fos al sieu coman ;",
+            "mas ara vec qu'eu nom posc tan ni can",
+            "partir de lui, tan es grans sa valors ;",
+            "qu'il m'a conques em ten en sa bailia,",
+            "si que mon grat partir no m'en volria,",
+            "qu'en tal dopna m'a fait Amors chausir",
+            "que val mil tans qu'eu non sabria dir."
+        ],
+        [
+            "Mais que d'autra del mon quem des Amors",
+            "ai alegrier em conort del senblan",
+            "quem fai em diz can eu li sui denan,",
+            "per qu'eu tuz temps li serai servidors",
+            "e farai tut zo qu'a plaiser li sia,",
+            "s'eu n'ai poder, qu'esters far nol poria,",
+            "qu'eu no sai dopn' el mond al meu albir",
+            "que tan se fass' al conosenz grasir."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": " Chaytor, H. J.. Posies du troubadour Perdigon. \"Annales du Midi\", 21 (1909)"
+}

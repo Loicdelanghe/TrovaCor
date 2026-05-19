@@ -1,0 +1,101 @@
+{
+    "Author": [
+        "Pistoleta"
+    ],
+    "Genre": "Canso",
+    "Title": "Sens e sabers, auzirs e fin' amors ",
+    "FullText": [
+        "Sens e sabers, auzirs e fin amors",
+        "mi fan amar leialmen ses falsura",
+        "midonz on ai mes de bon cor ma cura,",
+        "cum posca far e dir queill sia honors ;",
+        "car sens lam mostra per la plus valen",
+        "omna del mon, vezers ab cors plus gen,",
+        "auzirs mi fai auzir son pretz prezat,",
+        "mors mal cor plen et enamorat.",
+        "Tot quant eu dic entrels fins amadors",
+        "posc ben proar ques vertatz e mesura,",
+        "car sos bels cors, on bes non fai fraichura,",
+        "e siei beill oill e sa fresca colors",
+        "e tuit bon aip men son daisso guiren ;",
+        "et ai proat per pres e per ioven",
+        "quel meiller es et ab mais de beutat",
+        "autra domna, et es a dreit iuiat.",
+        "Per queu quant venc vas vos, eu vau de cors",
+        "tost e viatz, e no fatz desmesura ;",
+        "e quant men part, vau meins que dambladura,",
+        "pensan de vos cals es vostra valors ;",
+        "pois regart me lai on vos es, soven,",
+        "e dic vos mais en ver per sagramen",
+        "que quant ab vos ai tot un iorn estat,",
+        "o premiers motz mes pres del comiat.",
+        "Bona dompna, meiller de las meillors",
+        "e la genser, quals sera maventura,",
+        "pois de totz bes mos cors ses vos endura ;",
+        "que res ses vos no mes gaugs ni sabors,",
+        "pois sui vostres aissi tot leialmen",
+        "que mais mi platz far vostre mandamen",
+        "qu autra fezes del tot ma voluntat,",
+        "mavez conquist e gazaingnat.",
+        "Domna, miei oill, queus vezon tan soven,",
+        "mostran al cor la beutat el ioven,",
+        "el cor fai dir a la lenga de grat",
+        "o que mei oill el cors san acordat."
+    ],
+    "Stanzas": [
+        [
+            "Sens e sabers, auzirs e fin amors",
+            "mi fan amar leialmen ses falsura",
+            "midonz on ai mes de bon cor ma cura,",
+            "cum posca far e dir queill sia honors ;",
+            "car sens lam mostra per la plus valen",
+            "omna del mon, vezers ab cors plus gen,",
+            "auzirs mi fai auzir son pretz prezat,",
+            "mors mal cor plen et enamorat."
+        ],
+        [
+            "Tot quant eu dic entrels fins amadors",
+            "posc ben proar ques vertatz e mesura,",
+            "car sos bels cors, on bes non fai fraichura,",
+            "e siei beill oill e sa fresca colors",
+            "e tuit bon aip men son daisso guiren ;",
+            "et ai proat per pres e per ioven",
+            "quel meiller es et ab mais de beutat",
+            "autra domna, et es a dreit iuiat."
+        ],
+        [
+            "Per queu quant venc vas vos, eu vau de cors",
+            "tost e viatz, e no fatz desmesura ;",
+            "e quant men part, vau meins que dambladura,",
+            "pensan de vos cals es vostra valors ;",
+            "pois regart me lai on vos es, soven,",
+            "e dic vos mais en ver per sagramen",
+            "que quant ab vos ai tot un iorn estat,",
+            "o premiers motz mes pres del comiat."
+        ],
+        [
+            "Bona dompna, meiller de las meillors",
+            "e la genser, quals sera maventura,",
+            "pois de totz bes mos cors ses vos endura ;",
+            "que res ses vos no mes gaugs ni sabors,",
+            "pois sui vostres aissi tot leialmen",
+            "que mais mi platz far vostre mandamen",
+            "qu autra fezes del tot ma voluntat,",
+            "mavez conquist e gazaingnat."
+        ],
+        [
+            "Domna, miei oill, queus vezon tan soven,",
+            "mostran al cor la beutat el ioven,",
+            "el cor fai dir a la lenga de grat",
+            "o que mei oill el cors san acordat."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Niestroy, Erich. Der Trobador Pistoleta. Halle a. S.: Verlag von Max Niemeyer, 1914"
+}

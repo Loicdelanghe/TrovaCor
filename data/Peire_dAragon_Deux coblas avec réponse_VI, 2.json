@@ -1,0 +1,65 @@
+{
+    "Author": [
+        "Peire_dAragon"
+    ],
+    "Genre": "Coblas",
+    "Title": "Vetlan el lit, suy'n un penser casut ",
+    "FullText": [
+        "Vetlan el lit, suy'n un penser casut",
+        "e dar consell als cavaliers quis fan",
+        "e quis faran cavallers deravan,",
+        "es en qual loch los sera pus legut;",
+        "e dic primer que la cavallaria",
+        "rebre deu hom de son senyor, siy es,",
+        "o de valent cavaller en apres,",
+        "o de qui cap de son linatge sia.",
+        "Lo loch me par que sia pus degut",
+        "noble ciutat, o vila grosse gran,",
+        "ols enamics valentmen garreian,",
+        "tenent al puny lana e'l bras escut,",
+        "o'n esglesia, on devota[men] sia,",
+        "e siu fa'xi, no sera ja repres",
+        "per cavallers ne per null hom entes",
+        "qui'n nobles fayts met se pensa tot dia.",
+        "Tornada",
+        "D'Amor no ant, axi com far solia,",
+        "car me vey trop en anys anant enpes,",
+        "ubtant quem fos en mal per alcuns pres,",
+        "per qu'eu m'en call, [que] pus non cantaria."
+    ],
+    "Stanzas": [
+        [
+            "Vetlan el lit, suy'n un penser casut",
+            "e dar consell als cavaliers quis fan",
+            "e quis faran cavallers deravan,",
+            "es en qual loch los sera pus legut;",
+            "e dic primer que la cavallaria",
+            "rebre deu hom de son senyor, siy es,",
+            "o de valent cavaller en apres,",
+            "o de qui cap de son linatge sia."
+        ],
+        [
+            "Lo loch me par que sia pus degut",
+            "noble ciutat, o vila grosse gran,",
+            "ols enamics valentmen garreian,",
+            "tenent al puny lana e'l bras escut,",
+            "o'n esglesia, on devota[men] sia,",
+            "e siu fa'xi, no sera ja repres",
+            "per cavallers ne per null hom entes",
+            "qui'n nobles fayts met se pensa tot dia.",
+            "Tornada"
+        ],
+        [
+            "D'Amor no ant, axi com far solia,",
+            "car me vey trop en anys anant enpes,",
+            "ubtant quem fos en mal per alcuns pres,",
+            "per qu'eu m'en call, [que] pus non cantaria."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Cluzel, Irne. Princes et troubadours de la maison royale de Barcelone-Aragon. \"Boletn de la Real Academia de Buenas Letras de Barcelona\", 27 (1957-1958)"
+}

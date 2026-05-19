@@ -1,0 +1,59 @@
+{
+    "Author": [
+        "Peire_dAragon"
+    ],
+    "Genre": "Coblas",
+    "Title": "Mon char fill, per Sanct Antoni ",
+    "FullText": [
+        "Mon char fill, per Sanct Antoni,",
+        "os juram qu'ets mal consellat",
+        "com laxats tal matrimon",
+        "en queus davan un bon regnat,",
+        "e qu'en haiats altre format ;",
+        "en infern, ab lo dimoni,",
+        "'en breu quius n'a'nganat !",
+        "Qui ben creix son patrimon",
+        "es, en est mon, per tuyt presat ;",
+        "axi ho dits Apolloni:",
+        "largament en ha dictat,",
+        "hon ho ha ben declarat ;",
+        "e li fa gran testimon",
+        "Alexandre en veritat.",
+        "Tornada",
+        "No volgre esser mullerat,",
+        "per valent de Sanct Celoni!",
+        "qu'en perdes tan gran heredat."
+    ],
+    "Stanzas": [
+        [
+            "Mon char fill, per Sanct Antoni,",
+            "os juram qu'ets mal consellat",
+            "com laxats tal matrimon",
+            "en queus davan un bon regnat,",
+            "e qu'en haiats altre format ;",
+            "en infern, ab lo dimoni,",
+            "'en breu quius n'a'nganat !"
+        ],
+        [
+            "Qui ben creix son patrimon",
+            "es, en est mon, per tuyt presat ;",
+            "axi ho dits Apolloni:",
+            "largament en ha dictat,",
+            "hon ho ha ben declarat ;",
+            "e li fa gran testimon",
+            "Alexandre en veritat.",
+            "Tornada"
+        ],
+        [
+            "No volgre esser mullerat,",
+            "per valent de Sanct Celoni!",
+            "qu'en perdes tan gran heredat."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Cluzel, Irne. Princes et troubadours de la maison royale de Barcelone-Aragon. \"Boletn de la Real Academia de Buenas Letras de Barcelona\", 27 (1957-1958)"
+}

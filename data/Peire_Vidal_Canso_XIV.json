@@ -1,0 +1,82 @@
+{
+    "Author": [
+        "Peire_Vidal"
+    ],
+    "Genre": "Canso",
+    "Title": "Ab l'alen tir vas me l'aire",
+    "FullText": [
+        "Ab l'alen tir vas me l'aire",
+        "Qu'eu sen venir de Proensa :",
+        "Tot quant es de lai m'agensa,",
+        "Si que, quan n'aug ben retraire,",
+        "Eu m'o escout en rizen",
+        "En deman per un mot cen :",
+        "Tan m'es bel quan n'aug ben dire.",
+        "Qu'om no sap tan dous repaire",
+        "Com de Rozer tro qu'a Vensa,",
+        "Si com clau mars e Durensa,",
+        "Ni on tan fis jois s'esclaire.",
+        "Per qu'entre la franca gen",
+        "Ai laissat mon cor jauzen",
+        "Ab leis que fals iratz rire.",
+        "Qu'om no pot lo jorn mal traire",
+        "Qu'aja de leis sovinensa,",
+        "Qu'en leis nais jois e comensa.",
+        "E qui qu'en sia lauzaire,",
+        "De ben qu'en diga noi men ;",
+        "Quel melher es ses conten",
+        "El genser qu'el mon se mire.",
+        "E s'eu sai ren dir ni faire,",
+        "Ilh n'ajal grat, que sciensa",
+        "M'a donat e conoissensa,",
+        "Per qu'eu sui gais e chantaire.",
+        "E tot quan fauc davinen",
+        "Ai del seu bel cors plazen,",
+        "  Neis quan de bon cor consire."
+    ],
+    "Stanzas": [
+        [
+            "Ab l'alen tir vas me l'aire",
+            "Qu'eu sen venir de Proensa :",
+            "Tot quant es de lai m'agensa,",
+            "Si que, quan n'aug ben retraire,",
+            "Eu m'o escout en rizen",
+            "En deman per un mot cen :",
+            "Tan m'es bel quan n'aug ben dire."
+        ],
+        [
+            "Qu'om no sap tan dous repaire",
+            "Com de Rozer tro qu'a Vensa,",
+            "Si com clau mars e Durensa,",
+            "Ni on tan fis jois s'esclaire.",
+            "Per qu'entre la franca gen",
+            "Ai laissat mon cor jauzen",
+            "Ab leis que fals iratz rire."
+        ],
+        [
+            "Qu'om no pot lo jorn mal traire",
+            "Qu'aja de leis sovinensa,",
+            "Qu'en leis nais jois e comensa.",
+            "E qui qu'en sia lauzaire,",
+            "De ben qu'en diga noi men ;",
+            "Quel melher es ses conten",
+            "El genser qu'el mon se mire."
+        ],
+        [
+            "E s'eu sai ren dir ni faire,",
+            "Ilh n'ajal grat, que sciensa",
+            "M'a donat e conoissensa,",
+            "Per qu'eu sui gais e chantaire.",
+            "E tot quan fauc davinen",
+            "Ai del seu bel cors plazen,",
+            "  Neis quan de bon cor consire."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": "UNK"
+}
