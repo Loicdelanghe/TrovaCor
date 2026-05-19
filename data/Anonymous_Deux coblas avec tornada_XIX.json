@@ -1,0 +1,63 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Coblas avec tornada",
+    "Title": "Tan es tricer e deslials, Amor",
+    "FullText": [
+        "Tan es tricer e deslials, Amor,",
+        "e tan es fals e tan es truduan,",
+        "plein de dolor, de suspir e d'afan,",
+        "per c'om vos de ben apellar traizor;",
+        "ch'in vos non es mais enian e bausia",
+        "en fausitat, e mensons'e feunia,",
+        "per ch'es raisons c'om vos deia maldir,",
+        "ch'in vos non es mais enveia e desir.",
+        "Cel c'al prim[er] vos apella \"Amor\"",
+        "non dis lo ver, segon lo meu senblan;",
+        "anz fora meillz q'el agues diz enan",
+        "lo nom verai, q'el augues diz \"Dolor\".",
+        "Dolor siaz: qe Deu dolor vos dia",
+        "e senz dolor non siaz mais un dia,",
+        "e de dolor poscaz ab dol morir,",
+        "char de dolor nascon nostre consir!",
+        "Ben es tra sel qi en vos se fia,",
+        "e fas qe fol, se tost non s'en chastia;",
+        "qe toz aman faiz enaisi languir:",
+        "al foc arden devez per dreiz fenir."
+    ],
+    "Stanzas": [
+        [
+            "Tan es tricer e deslials, Amor,",
+            "e tan es fals e tan es truduan,",
+            "plein de dolor, de suspir e d'afan,",
+            "per c'om vos de ben apellar traizor;",
+            "ch'in vos non es mais enian e bausia",
+            "en fausitat, e mensons'e feunia,",
+            "per ch'es raisons c'om vos deia maldir,",
+            "ch'in vos non es mais enveia e desir."
+        ],
+        [
+            "Cel c'al prim[er] vos apella \"Amor\"",
+            "non dis lo ver, segon lo meu senblan;",
+            "anz fora meillz q'el agues diz enan",
+            "lo nom verai, q'el augues diz \"Dolor\".",
+            "Dolor siaz: qe Deu dolor vos dia",
+            "e senz dolor non siaz mais un dia,",
+            "e de dolor poscaz ab dol morir,",
+            "char de dolor nascon nostre consir!"
+        ],
+        [
+            "Ben es tra sel qi en vos se fia,",
+            "e fas qe fol, se tost non s'en chastia;",
+            "qe toz aman faiz enaisi languir:",
+            "al foc arden devez per dreiz fenir."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": "UNK"
+}

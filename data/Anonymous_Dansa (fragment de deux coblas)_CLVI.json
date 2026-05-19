@@ -1,0 +1,44 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Dansa",
+    "Title": "Tant es gay' es avinentz",
+    "FullText": [
+        " Tant es gay' es avinentz",
+        "midonz, que fin pres ampara,",
+        " es a beutatz si plasens",
+        "per qu'ieu l'am e la tenc cara.",
+        "Tant la say de ioy cumplida",
+        "que non a par, ses mentire,",
+        "gaya, proz es exernida,",
+        "per qu'ieu l'am ses comtradire;",
+        " e par eslumenamentz,",
+        "tant a fresca color cara,",
+        " e a tots bons compliments",
+        "e valor qu'en re nos vara."
+    ],
+    "Stanzas": [
+        [
+            " Tant es gay' es avinentz",
+            "midonz, que fin pres ampara,",
+            " es a beutatz si plasens",
+            "per qu'ieu l'am e la tenc cara."
+        ],
+        [
+            "Tant la say de ioy cumplida",
+            "que non a par, ses mentire,",
+            "gaya, proz es exernida,",
+            "per qu'ieu l'am ses comtradire;",
+            " e par eslumenamentz,",
+            "tant a fresca color cara,",
+            " e a tots bons compliments",
+            "e valor qu'en re nos vara."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": "UNK"
+}

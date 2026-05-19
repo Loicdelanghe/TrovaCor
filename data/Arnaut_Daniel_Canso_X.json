@@ -1,0 +1,125 @@
+{
+    "Author": [
+        "Arnaut_Daniel"
+    ],
+    "Genre": "Canso",
+    "Title": "Lancan vei fueill'e flor e frug ",
+    "FullText": [
+        "Lancan vei fueill'e flor e frug",
+        "parer des arbres el ramel",
+        "e aug lo chan que fan e'l brug",
+        "ranas el riu, el bosc l'auzel,",
+        "adonc mi fueill'e'm flor'e'm fruch'Amors",
+        "el cor tan gen qe la nueg mi ressida",
+        "can autra gen dorm e pauz'e sojorna.",
+        "Er sai eu c'Amors m'a condug",
+        "el sieus plus seguran castel",
+        "don non dei renda ni trahug,",
+        "anz men fag don e chapdel;",
+        "non ai poder ni cor qe'm vir aillors,",
+        "q'enseniamenz e feeutatz plevida",
+        "lai pren estar, car bon pretz s'i adorna.",
+        "Amors de vos ai fag estug",
+        "lonjamen verai e fizel,",
+        "c'anc non fiz ganda no esdug",
+        "d'amar anz m'era bon e bel:",
+        "e vos faitz me dels gran afans secors,",
+        "Merces d'aitan qe'l miels aia eslida",
+        "don par soleils jusqu'al ser que s'ajorna.",
+        "D'enjan mi tuel e d'enuech fug",
+        "per Amor ab que m'atropel,",
+        "don ai un tal ver dir adug",
+        "re no sai qe mentirs espel:",
+        "oimais pres eu ben pauc lauzenjadors",
+        "per so q'eu voil m'en vol sil c'ai cobida",
+        "e eu sol soi qe'ls sieus ditz non trastorna.",
+        "Si l'auzes dir ben saubron tug",
+        "qe Jois mi monta'l cor en cel,",
+        "car deport mi creis e desdug",
+        "la bela qe d'amor apel:",
+        "mon bon esper mi dobla sa valors",
+        "car qi mais val mais dopta far faillida,",
+        "ez il non es de re trista ne morna.",
+        "D'aqest amor so loin fordug",
+        "domneador feinen fradel;",
+        "pero si's n'an main pretz destrug",
+        "tal qe's fan coinde ez isnel;",
+        "et eu qe soi dels leials amadors",
+        "estau jauzens, c'Amors e Jois mi guida",
+        "lo cor en joi, qe aillors no's trastorna.",
+        "Vai t'en chanzos, a la bela de cors",
+        "e dijas li c'Arnautz met en oblida",
+        "tot'autr'amor per leis vas cui s'atorna."
+    ],
+    "Stanzas": [
+        [
+            "Lancan vei fueill'e flor e frug",
+            "parer des arbres el ramel",
+            "e aug lo chan que fan e'l brug",
+            "ranas el riu, el bosc l'auzel,",
+            "adonc mi fueill'e'm flor'e'm fruch'Amors",
+            "el cor tan gen qe la nueg mi ressida",
+            "can autra gen dorm e pauz'e sojorna."
+        ],
+        [
+            "Er sai eu c'Amors m'a condug",
+            "el sieus plus seguran castel",
+            "don non dei renda ni trahug,",
+            "anz men fag don e chapdel;",
+            "non ai poder ni cor qe'm vir aillors,",
+            "q'enseniamenz e feeutatz plevida",
+            "lai pren estar, car bon pretz s'i adorna."
+        ],
+        [
+            "Amors de vos ai fag estug",
+            "lonjamen verai e fizel,",
+            "c'anc non fiz ganda no esdug",
+            "d'amar anz m'era bon e bel:",
+            "e vos faitz me dels gran afans secors,",
+            "Merces d'aitan qe'l miels aia eslida",
+            "don par soleils jusqu'al ser que s'ajorna."
+        ],
+        [
+            "D'enjan mi tuel e d'enuech fug",
+            "per Amor ab que m'atropel,",
+            "don ai un tal ver dir adug",
+            "re no sai qe mentirs espel:",
+            "oimais pres eu ben pauc lauzenjadors",
+            "per so q'eu voil m'en vol sil c'ai cobida",
+            "e eu sol soi qe'ls sieus ditz non trastorna."
+        ],
+        [
+            "Si l'auzes dir ben saubron tug",
+            "qe Jois mi monta'l cor en cel,",
+            "car deport mi creis e desdug",
+            "la bela qe d'amor apel:",
+            "mon bon esper mi dobla sa valors",
+            "car qi mais val mais dopta far faillida,",
+            "ez il non es de re trista ne morna."
+        ],
+        [
+            "D'aqest amor so loin fordug",
+            "domneador feinen fradel;",
+            "pero si's n'an main pretz destrug",
+            "tal qe's fan coinde ez isnel;",
+            "et eu qe soi dels leials amadors",
+            "estau jauzens, c'Amors e Jois mi guida",
+            "lo cor en joi, qe aillors no's trastorna."
+        ],
+        [
+            "Vai t'en chanzos, a la bela de cors",
+            "e dijas li c'Arnautz met en oblida",
+            "tot'autr'amor per leis vas cui s'atorna."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Ugo Angelo Canello, La vita e le opere del trovatore Arnaldo Daniello, Halle 1883"
+}

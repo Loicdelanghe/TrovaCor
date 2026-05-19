@@ -1,0 +1,82 @@
+{
+    "Author": [
+        "Arnaut_Daniel"
+    ],
+    "Genre": "Canso",
+    "Title": "Ab gai so cundet e leri ",
+    "FullText": [
+        "Ab gai so cundet e leri",
+        "fas motz e capus e doli,",
+        "que seran verai e sert",
+        "quan n'aurai passat la lima,",
+        "qu'Amor marves plan e daura",
+        "mon chantar que de lieis mueu",
+        "cui Pretz manten e governa.",
+        "Tot jorn melhur e esmeri",
+        "quar la gensor am e coli",
+        "del mon, so'us dic en apert:",
+        "sieu so del pe tro qu'al cima",
+        "e si tot venta'ill freg'aura,",
+        "l'amor qu'ins el cor mi pleu",
+        "mi ten caut on plus iverna.",
+        "Mil messas n'aug en proferi",
+        "e'n art lum de cer'e d'oli",
+        "que Dieu m'en don bon acert",
+        "de lieis on no'm val escrima;",
+        "e quan remir sa crin saura",
+        "e'l cors qu'a graile e nueu",
+        "mais l'am que qui'm des Luzerna.",
+        "Tan l'am de cor e la queri",
+        "qu'ab trop voler cug l'am toli,",
+        "s'om ren per trop amar pert,",
+        "que'l sieu cors sobretrasima",
+        "lo mieu tot e non s'aisaura:",
+        "tan n'a de ver fag renueu",
+        "q'obrador n'ai'e taverna."
+    ],
+    "Stanzas": [
+        [
+            "Ab gai so cundet e leri",
+            "fas motz e capus e doli,",
+            "que seran verai e sert",
+            "quan n'aurai passat la lima,",
+            "qu'Amor marves plan e daura",
+            "mon chantar que de lieis mueu",
+            "cui Pretz manten e governa."
+        ],
+        [
+            "Tot jorn melhur e esmeri",
+            "quar la gensor am e coli",
+            "del mon, so'us dic en apert:",
+            "sieu so del pe tro qu'al cima",
+            "e si tot venta'ill freg'aura,",
+            "l'amor qu'ins el cor mi pleu",
+            "mi ten caut on plus iverna."
+        ],
+        [
+            "Mil messas n'aug en proferi",
+            "e'n art lum de cer'e d'oli",
+            "que Dieu m'en don bon acert",
+            "de lieis on no'm val escrima;",
+            "e quan remir sa crin saura",
+            "e'l cors qu'a graile e nueu",
+            "mais l'am que qui'm des Luzerna."
+        ],
+        [
+            "Tan l'am de cor e la queri",
+            "qu'ab trop voler cug l'am toli,",
+            "s'om ren per trop amar pert,",
+            "que'l sieu cors sobretrasima",
+            "lo mieu tot e non s'aisaura:",
+            "tan n'a de ver fag renueu",
+            "q'obrador n'ai'e taverna."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Ugo Angelo Canello, La vita e le opere del trovatore Arnaldo Daniello, Halle 1883"
+}

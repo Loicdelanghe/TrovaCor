@@ -1,0 +1,109 @@
+{
+    "Author": [
+        "Arnaut_Catalan"
+    ],
+    "Genre": "Canso",
+    "Title": "Als entendens de chantar ",
+    "FullText": [
+        "Als entendens de chantar",
+        "Ai fach un novlh chantar ;",
+        "E sapchatz qu'ieu non chantra ;",
+        "Mas Midns vl qu'ieu chant ra",
+        "E, pus que mon chantar a",
+        "Fach, ieu eis lo'm chantarai,",
+        "E vos, chantador, chantatz",
+        "Qu'ieu chant, qui sui enchantatz.",
+        "Dreitz fora, qui ben chants,",
+        "Qu'autrui chant non deschants.",
+        "Mas lo meu non tem deschant,",
+        "S'm no'i met dels motz del chant,",
+        "E nulhs m ben non deschanta,",
+        "S'en la rima, en qu'm chanta,",
+        "Non ra faitz lo deschans,",
+        "Per qu'es ben segurs mos chans.",
+        "E sol Midns, qu'ieu tant am",
+        "Et amarai, no'm desam,",
+        "Pauc tem autre desamor ;",
+        "Qu'ieu l'am tan de fin' amor",
+        "Que, quan me desamaria,",
+        "Ieu ab tot si l'amaria.",
+        "Mais l'amaria amatz,",
+        "Cent aitans que desamatz.",
+        "E s'ieu sui amatz amans,",
+        "Rics soi, qu'ieu pusc dir a mans",
+        "Qu'ilh sap los crois desamar",
+        "E'ls pros ad onor amar ;",
+        "E s'ilh per merc m'amava,",
+        "Si ja pueis mi desamava,",
+        "Al mieu trt mais non m'ams",
+        "Nulh temps, ans mi desams !",
+        "Mielhs sap dir e far plazer",
+        "Que rics malvais desplazer ;",
+        "Qu'ilh es als adreitz plazens",
+        "Et als malvais desplazens.",
+        "Et a cui que prtz desplaia,",
+        "A lieis platz e tanh que'l plaia ;",
+        "Tant platz qu'uns deis sieus plazers",
+        "Tolria mil desplazers."
+    ],
+    "Stanzas": [
+        [
+            "Als entendens de chantar",
+            "Ai fach un novlh chantar ;",
+            "E sapchatz qu'ieu non chantra ;",
+            "Mas Midns vl qu'ieu chant ra",
+            "E, pus que mon chantar a",
+            "Fach, ieu eis lo'm chantarai,",
+            "E vos, chantador, chantatz",
+            "Qu'ieu chant, qui sui enchantatz."
+        ],
+        [
+            "Dreitz fora, qui ben chants,",
+            "Qu'autrui chant non deschants.",
+            "Mas lo meu non tem deschant,",
+            "S'm no'i met dels motz del chant,",
+            "E nulhs m ben non deschanta,",
+            "S'en la rima, en qu'm chanta,",
+            "Non ra faitz lo deschans,",
+            "Per qu'es ben segurs mos chans."
+        ],
+        [
+            "E sol Midns, qu'ieu tant am",
+            "Et amarai, no'm desam,",
+            "Pauc tem autre desamor ;",
+            "Qu'ieu l'am tan de fin' amor",
+            "Que, quan me desamaria,",
+            "Ieu ab tot si l'amaria.",
+            "Mais l'amaria amatz,",
+            "Cent aitans que desamatz."
+        ],
+        [
+            "E s'ieu sui amatz amans,",
+            "Rics soi, qu'ieu pusc dir a mans",
+            "Qu'ilh sap los crois desamar",
+            "E'ls pros ad onor amar ;",
+            "E s'ilh per merc m'amava,",
+            "Si ja pueis mi desamava,",
+            "Al mieu trt mais non m'ams",
+            "Nulh temps, ans mi desams !"
+        ],
+        [
+            "Mielhs sap dir e far plazer",
+            "Que rics malvais desplazer ;",
+            "Qu'ilh es als adreitz plazens",
+            "Et als malvais desplazens.",
+            "Et a cui que prtz desplaia,",
+            "A lieis platz e tanh que'l plaia ;",
+            "Tant platz qu'uns deis sieus plazers",
+            "Tolria mil desplazers."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Bec, Pierre. Burlesque et obscnit chez les troubadours. Pour une approche du contre-texte mdival. Paris: Stock, 1984."
+}

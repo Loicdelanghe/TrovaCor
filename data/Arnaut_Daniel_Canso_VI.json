@@ -1,0 +1,125 @@
+{
+    "Author": [
+        "Arnaut_Daniel"
+    ],
+    "Genre": "Canso",
+    "Title": "Er vei vermeills, vertz, blaus, blancs, gruocs, ",
+    "FullText": [
+        "Er vei vermeills, vertz, blaus, blancs, gruocs,",
+        "vergiers, plais, plans, tertres e vaus;",
+        "e'il votz dels auzels son'e tint",
+        "ab doutz acort maitin e tart:",
+        "so'm met en cor q'ieu colore mon chan",
+        "d'un'aital flor don lo fruitz si'amors",
+        "e jois lo grans e l'olors d'enuo gandres.",
+        "D'Amor mi pren penssan lo fuocs",
+        "e'l desiriers doutz e coraus,",
+        "e'l mals es saboros q'ieu sint,",
+        "e'il flama soaus on plus m'art,",
+        "c'Amors enquier los sieus d'aital semblan,",
+        "verais, francs, fis merceians, parcedors,",
+        "car a sa cort notz orguoills e val blandres.",
+        "Mas mi no camja temps ni luocs,",
+        "cosseils, aizina, bes ni maus;",
+        "e s'ieu al meu enten vos mint,",
+        "ja mais la bella no'm regart,",
+        "q'el cor e'l sen tenc dormen e veillan,",
+        "qu'eu non vuoill ies, mas per gein treu aillors,",
+        "esser ses lieis on plus valc Alixandres.",
+        "Maintas vetz m'es solatz enuocs",
+        "ses lieis, car de liei vuoill sivaus",
+        "ades dir lo carton o'l qint",
+        "qe'l cor non vir vaus autra part;",
+        "per so n'ai d'als pensamen ni talan,",
+        "qu'il m'es de totz los bos sabers sabors",
+        "e vei l'el cor ser'en Poll'o en Flandres.",
+        "Mout desir qu'eu si'enqer sos cuocs",
+        "on m'escaia aitals jornaus",
+        "qu'ien vuria be d'anz plus vint,",
+        "tan me te'l cor baut e gaillart:",
+        "ben son donc fols! que vau aillors cercan?",
+        "que eu non vuoil, lai on son las ricors,",
+        "baillir que clauon Tigris e Meandres.",
+        "Entr'autres fatz soven feinz juocs,",
+        "e'l jorns sembla'm us anoaus,",
+        "e pesa'm, car Dieus no'm cossint",
+        "com pogues temps breujar ab art,",
+        "que loncs respiegs fai languir fin aman:",
+        "lun'e soleills, trop faitz lonc vostre cors!",
+        "Pesa'm car plus sovens no'us faill resplandres.",
+        "A lieis cui son vai chanssons, derenan,",
+        "c'Arnautz non sap comtar sas grans ricors",
+        "que d'aussor sen li auria ops espandres."
+    ],
+    "Stanzas": [
+        [
+            "Er vei vermeills, vertz, blaus, blancs, gruocs,",
+            "vergiers, plais, plans, tertres e vaus;",
+            "e'il votz dels auzels son'e tint",
+            "ab doutz acort maitin e tart:",
+            "so'm met en cor q'ieu colore mon chan",
+            "d'un'aital flor don lo fruitz si'amors",
+            "e jois lo grans e l'olors d'enuo gandres."
+        ],
+        [
+            "D'Amor mi pren penssan lo fuocs",
+            "e'l desiriers doutz e coraus,",
+            "e'l mals es saboros q'ieu sint,",
+            "e'il flama soaus on plus m'art,",
+            "c'Amors enquier los sieus d'aital semblan,",
+            "verais, francs, fis merceians, parcedors,",
+            "car a sa cort notz orguoills e val blandres."
+        ],
+        [
+            "Mas mi no camja temps ni luocs,",
+            "cosseils, aizina, bes ni maus;",
+            "e s'ieu al meu enten vos mint,",
+            "ja mais la bella no'm regart,",
+            "q'el cor e'l sen tenc dormen e veillan,",
+            "qu'eu non vuoill ies, mas per gein treu aillors,",
+            "esser ses lieis on plus valc Alixandres."
+        ],
+        [
+            "Maintas vetz m'es solatz enuocs",
+            "ses lieis, car de liei vuoill sivaus",
+            "ades dir lo carton o'l qint",
+            "qe'l cor non vir vaus autra part;",
+            "per so n'ai d'als pensamen ni talan,",
+            "qu'il m'es de totz los bos sabers sabors",
+            "e vei l'el cor ser'en Poll'o en Flandres."
+        ],
+        [
+            "Mout desir qu'eu si'enqer sos cuocs",
+            "on m'escaia aitals jornaus",
+            "qu'ien vuria be d'anz plus vint,",
+            "tan me te'l cor baut e gaillart:",
+            "ben son donc fols! que vau aillors cercan?",
+            "que eu non vuoil, lai on son las ricors,",
+            "baillir que clauon Tigris e Meandres."
+        ],
+        [
+            "Entr'autres fatz soven feinz juocs,",
+            "e'l jorns sembla'm us anoaus,",
+            "e pesa'm, car Dieus no'm cossint",
+            "com pogues temps breujar ab art,",
+            "que loncs respiegs fai languir fin aman:",
+            "lun'e soleills, trop faitz lonc vostre cors!",
+            "Pesa'm car plus sovens no'us faill resplandres."
+        ],
+        [
+            "A lieis cui son vai chanssons, derenan,",
+            "c'Arnautz non sap comtar sas grans ricors",
+            "que d'aussor sen li auria ops espandres."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VIII"
+    ],
+    "Source": " Ugo Angelo Canello, La vita e le opere del trovatore Arnaldo Daniello, Halle 1883"
+}

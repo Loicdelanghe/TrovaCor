@@ -1,0 +1,89 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Chanson religieuse",
+    "Title": "Par vous m'esjau, done del firmament",
+    "FullText": [
+        "Par vous mesjau, done del firmament,",
+        "tres coralment;",
+        "car humils et engres",
+        "de[u] vostre pres",
+        "lauzar tant com podrie:",
+        "sagrad a vous et De, mes non voldrie.",
+        "Quant Gabrel fist vous lanonalment,",
+        "tout eisament",
+        "se fu Diex en vous mes:",
+        "cor a con gres",
+        "qui ben ne le credrie,",
+        "et sap que Diex en sarma part naurie.",
+        "Done de qui tout paravis resplent,",
+        "per vous se sent",
+        "aliurat de greu fes",
+        "et regen pes",
+        "toute humaine lignie:",
+        "vide per mort vostre fius nous rendrie.",
+        "Douce done, de vous mot et descent",
+        "lou jauziment",
+        "per que de vos chantes.",
+        "Done, marces!",
+        "Prejas De que non vie",
+        "[sot le] poder de quel que dampnas sie.",
+        "Mare, au signar qui na comenalment",
+        "ni finament",
+        "non avra il james,",
+        "grans nous pres",
+        "en iste mortal vie,",
+        "et o ton fil en son regne nous guie."
+    ],
+    "Stanzas": [
+        [
+            "Par vous mesjau, done del firmament,",
+            "tres coralment;",
+            "car humils et engres",
+            "de[u] vostre pres",
+            "lauzar tant com podrie:",
+            "sagrad a vous et De, mes non voldrie."
+        ],
+        [
+            "Quant Gabrel fist vous lanonalment,",
+            "tout eisament",
+            "se fu Diex en vous mes:",
+            "cor a con gres",
+            "qui ben ne le credrie,",
+            "et sap que Diex en sarma part naurie."
+        ],
+        [
+            "Done de qui tout paravis resplent,",
+            "per vous se sent",
+            "aliurat de greu fes",
+            "et regen pes",
+            "toute humaine lignie:",
+            "vide per mort vostre fius nous rendrie."
+        ],
+        [
+            "Douce done, de vous mot et descent",
+            "lou jauziment",
+            "per que de vos chantes.",
+            "Done, marces!",
+            "Prejas De que non vie",
+            "[sot le] poder de quel que dampnas sie."
+        ],
+        [
+            "Mare, au signar qui na comenalment",
+            "ni finament",
+            "non avra il james,",
+            "grans nous pres",
+            "en iste mortal vie,",
+            "et o ton fil en son regne nous guie."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": "UNK"
+}

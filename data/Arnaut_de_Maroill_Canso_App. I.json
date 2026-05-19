@@ -1,0 +1,82 @@
+{
+    "Author": [
+        "Arnaut_de_Maroill"
+    ],
+    "Genre": "Canso",
+    "Title": "Hom ditz que gaugz non es senes amor ",
+    "FullText": [
+        "Hom ditz que gaugz non es senes amor,",
+        "mas hieu noi truep mas enueg e pezansa,",
+        "qu'anc no n'aic joi que nom costes un plor,",
+        "et enaissi dobla ma malanansa",
+        ". . . . . . . . . . . . . . .",
+        "qu'al prim qu'eu vi ma domna et ilh me,",
+        "m'agra ben ops qu'adoncs no vis ieu re.",
+        "Anc mai mei huelh nom foron trador,",
+        "mas eras m'an trat ses desfiansa ;",
+        "quar m'an trahit, assatz ai trahit lor,",
+        "qu'ilh en ploran quascun jorn ses duptansa",
+        "en pren lo cors en eus lo jorn venjansa,",
+        "lo cor del sieu sospir que va ab se,",
+        "et ieu del dan e del mal que m'en ve.",
+        "A lor ops an chauzit en la gensor",
+        "mei huelh e pres segon la lur esmansa,",
+        "mas a mos ops cauziron la peior,",
+        "pus descobrir non l'aus ma fin' amansa ;",
+        "qu'atressim puesc la rena de Fransa",
+        "amar, aisso nom pot vedar, so cre,",
+        "pus non l'enquier ni l'aus clamar merce.",
+        "E non guardetz paratge ni ricor,",
+        "ona, vas mi, mas vostra benestansa,",
+        "quar ben podetz de bon faire melhor,",
+        "et er lo pro mieus e vostra l'onransa,",
+        "quar no fai trop quils enansatz enansa,",
+        "mas quils humils enansa e soste,",
+        "Dieu et amics e bon pretz en rete."
+    ],
+    "Stanzas": [
+        [
+            "Hom ditz que gaugz non es senes amor,",
+            "mas hieu noi truep mas enueg e pezansa,",
+            "qu'anc no n'aic joi que nom costes un plor,",
+            "et enaissi dobla ma malanansa",
+            ". . . . . . . . . . . . . . .",
+            "qu'al prim qu'eu vi ma domna et ilh me,",
+            "m'agra ben ops qu'adoncs no vis ieu re."
+        ],
+        [
+            "Anc mai mei huelh nom foron trador,",
+            "mas eras m'an trat ses desfiansa ;",
+            "quar m'an trahit, assatz ai trahit lor,",
+            "qu'ilh en ploran quascun jorn ses duptansa",
+            "en pren lo cors en eus lo jorn venjansa,",
+            "lo cor del sieu sospir que va ab se,",
+            "et ieu del dan e del mal que m'en ve."
+        ],
+        [
+            "A lor ops an chauzit en la gensor",
+            "mei huelh e pres segon la lur esmansa,",
+            "mas a mos ops cauziron la peior,",
+            "pus descobrir non l'aus ma fin' amansa ;",
+            "qu'atressim puesc la rena de Fransa",
+            "amar, aisso nom pot vedar, so cre,",
+            "pus non l'enquier ni l'aus clamar merce."
+        ],
+        [
+            "E non guardetz paratge ni ricor,",
+            "ona, vas mi, mas vostra benestansa,",
+            "quar ben podetz de bon faire melhor,",
+            "et er lo pro mieus e vostra l'onransa,",
+            "quar no fai trop quils enansatz enansa,",
+            "mas quils humils enansa e soste,",
+            "Dieu et amics e bon pretz en rete."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Johnston, Ronald C. Les posies lyriques du troubadour Arnaut de Mareuil. Paris: Droz, 1935"
+}

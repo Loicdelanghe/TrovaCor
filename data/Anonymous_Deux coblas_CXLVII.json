@@ -1,0 +1,46 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Coblas",
+    "Title": "Entrels disleals barons mi plas rabasta",
+    "FullText": [
+        "Entrels disleals barons mi plas rabasta,",
+        "e c'om no i fassa pas ni acordanssa,",
+        "e can l'us aura enuh, l'autre pezanssa,",
+        "e can l'uns aura bastit, l'autre debasta,",
+        " e can l'uns er mal empres,",
+        " l'autre ssia mors o pres.",
+        "E plas me d'avol baron, can met e guasta",
+        "tan tro sia . . . . . . . . . . . . .",
+        ". . . . . . . . . . . sus en balansa,",
+        "qe non aia blat ni vi ni pan ni pasta",
+        "ni bacon ni carn salada,",
+        "mas qe manges en quec an la renda deII  ans",
+        "e pueis an la l (?) as fes."
+    ],
+    "Stanzas": [
+        [
+            "Entrels disleals barons mi plas rabasta,",
+            "e c'om no i fassa pas ni acordanssa,",
+            "e can l'us aura enuh, l'autre pezanssa,",
+            "e can l'uns aura bastit, l'autre debasta,",
+            " e can l'uns er mal empres,",
+            " l'autre ssia mors o pres."
+        ],
+        [
+            "E plas me d'avol baron, can met e guasta",
+            "tan tro sia . . . . . . . . . . . . .",
+            ". . . . . . . . . . . sus en balansa,",
+            "qe non aia blat ni vi ni pan ni pasta",
+            "ni bacon ni carn salada,",
+            "mas qe manges en quec an la renda deII  ans",
+            "e pueis an la l (?) as fes."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": "UNK"
+}

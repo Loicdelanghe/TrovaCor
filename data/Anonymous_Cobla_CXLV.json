@@ -1,0 +1,46 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Cobla",
+    "Title": "Donna, pos vos ay chausida",
+    "FullText": [
+        "Donna, pos vos ay chausida,",
+        "    faz me bel semblan,",
+        "qu'ieu suy a tota ma vida",
+        "    a vostre coman.",
+        " A vostre coman seray",
+        "a totz los iors de ma via,",
+        " e ia de vos non partray",
+        "per degun' autra que sia,",
+        "que Erex non amet Henida",
+        "    tan ni Yseutz Tristan",
+        "con yeu vos, donna grasida,",
+        "    qu'ieu am sens engan.",
+        "      Donna!"
+    ],
+    "Stanzas": [
+        [
+            "Donna, pos vos ay chausida,",
+            "    faz me bel semblan,",
+            "qu'ieu suy a tota ma vida",
+            "    a vostre coman."
+        ],
+        [
+            " A vostre coman seray",
+            "a totz los iors de ma via,",
+            " e ia de vos non partray",
+            "per degun' autra que sia,",
+            "que Erex non amet Henida",
+            "    tan ni Yseutz Tristan",
+            "con yeu vos, donna grasida,",
+            "    qu'ieu am sens engan.",
+            "      Donna!"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": "UNK"
+}

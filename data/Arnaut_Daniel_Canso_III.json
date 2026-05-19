@@ -1,0 +1,93 @@
+{
+    "Author": [
+        "Arnaut_Daniel"
+    ],
+    "Genre": "Canso",
+    "Title": "Can chai la fueilla ",
+    "FullText": [
+        "Can chai la fueilla",
+        "Dels ausors entresims,",
+        "El freitz sergueilla",
+        "Don sechal vais el vims,",
+        "Dels dous refrims",
+        "Au sordezir la brueilla;",
+        "Mas ieu soi prims",
+        "Damor, qui que sen tueilla.",
+        "ot quant es gela,",
+        "Mas ieu non puesc frezir,",
+        "Camors novela",
+        "Mi fal cor reverdir;",
+        "Non dei fremir,",
+        "CAmors mi cuebr em cela",
+        "Em fai tenir",
+        "Ma valor em cabdela...",
+        "No vueil sasemble",
+        "Mos cors ab autr amor,",
+        "Si que jail memble",
+        "Ni volval cap aillor;",
+        "Non ai paor",
+        "Que ja cel de Pontremble",
+        "Naja gensor",
+        "De lieis ni que la semble.",
+        "Ges non es croia",
+        "Cella cui soi amis;",
+        "De sai Savoia",
+        "Plus bella nos noiris...",
+        "Vai ten, chansos;",
+        "Denan lieis ti prezenta;",
+        "Que, sill no fos,",
+        "No i metr Arnautz sententa."
+    ],
+    "Stanzas": [
+        [
+            "Can chai la fueilla",
+            "Dels ausors entresims,",
+            "El freitz sergueilla",
+            "Don sechal vais el vims,",
+            "Dels dous refrims",
+            "Au sordezir la brueilla;",
+            "Mas ieu soi prims",
+            "Damor, qui que sen tueilla."
+        ],
+        [
+            "ot quant es gela,",
+            "Mas ieu non puesc frezir,",
+            "Camors novela",
+            "Mi fal cor reverdir;",
+            "Non dei fremir,",
+            "CAmors mi cuebr em cela",
+            "Em fai tenir",
+            "Ma valor em cabdela..."
+        ],
+        [
+            "No vueil sasemble",
+            "Mos cors ab autr amor,",
+            "Si que jail memble",
+            "Ni volval cap aillor;",
+            "Non ai paor",
+            "Que ja cel de Pontremble",
+            "Naja gensor",
+            "De lieis ni que la semble."
+        ],
+        [
+            "Ges non es croia",
+            "Cella cui soi amis;",
+            "De sai Savoia",
+            "Plus bella nos noiris..."
+        ],
+        [
+            "Vai ten, chansos;",
+            "Denan lieis ti prezenta;",
+            "Que, sill no fos,",
+            "No i metr Arnautz sententa."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "V",
+        "VI",
+        "VIII"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}

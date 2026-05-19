@@ -1,0 +1,48 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Coblas",
+    "Title": "Una ren ai conoguda",
+    "FullText": [
+        "Una ren ai conoguda",
+        "de trassions e d'enguans:",
+        "cals que sial guaps nil bruda,",
+        "piegers es colpa que dans,",
+        "que del dan guaris le traitz,",
+        "el tracier non es ia guaritz",
+        "e la colpa a nuil temps mais.",
+        "Tan es malvestaz creguda,",
+        "e creis ades a totz antz,",
+        "que cascuns malvais hom cuda",
+        "eser valentz e prezantz,",
+        "sol sia bel e ben vestiz,",
+        "el tortz qu'es fatz . . . . . . :",
+        "garda sil semblanz es verais!"
+    ],
+    "Stanzas": [
+        [
+            "Una ren ai conoguda",
+            "de trassions e d'enguans:",
+            "cals que sial guaps nil bruda,",
+            "piegers es colpa que dans,",
+            "que del dan guaris le traitz,",
+            "el tracier non es ia guaritz",
+            "e la colpa a nuil temps mais."
+        ],
+        [
+            "Tan es malvestaz creguda,",
+            "e creis ades a totz antz,",
+            "que cascuns malvais hom cuda",
+            "eser valentz e prezantz,",
+            "sol sia bel e ben vestiz,",
+            "el tortz qu'es fatz . . . . . . :",
+            "garda sil semblanz es verais!"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": "UNK"
+}

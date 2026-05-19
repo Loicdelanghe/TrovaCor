@@ -1,0 +1,46 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Dansa",
+    "Title": "Amors m'art con fuoc am flama",
+    "FullText": [
+        "Amors m'art con fuoc am flama",
+        "e nueg e jorn plus m'apren ;",
+        "per qu'ieu sai ben, veramen,",
+        "que de lhueng conois qui ama.",
+        "E lueng vos sui, douss' amia,",
+        "so creson nostre guerrier.",
+        "mas nonsabon jes con fier",
+        "le cairells c'Amors m'envia.",
+        "C'a totz jorns plus m'enlliama,",
+        "consius vesia presen,",
+        "e ja nom trobi dormen</em",
+        "c'am vos nonsis jos la rama",
+        "...................................."
+    ],
+    "Stanzas": [
+        [
+            "Amors m'art con fuoc am flama",
+            "e nueg e jorn plus m'apren ;",
+            "per qu'ieu sai ben, veramen,",
+            "que de lhueng conois qui ama.",
+            "E lueng vos sui, douss' amia,",
+            "so creson nostre guerrier.",
+            "mas nonsabon jes con fier",
+            "le cairells c'Amors m'envia."
+        ],
+        [
+            "C'a totz jorns plus m'enlliama,",
+            "consius vesia presen,",
+            "e ja nom trobi dormen</em",
+            "c'am vos nonsis jos la rama",
+            "...................................."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": "UNK"
+}

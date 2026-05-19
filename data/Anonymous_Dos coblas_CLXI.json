@@ -1,0 +1,52 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Coblas",
+    "Title": "Quor quom trobes Florentis orgulhos",
+    "FullText": [
+        "Quor quom trobes Florentis orgulhos,",
+        "Er los trobom cortes et avinens,",
+        "De gen parlar e de plazens respos;",
+        "Ben ajal reys Matfre quel noiremens",
+        "Lor a fait dar et aver dol e lanha,",
+        "Quel cap en son remas mains en despuelh;",
+        "Ai, Florentis, mortz etz per vostrerguelh,",
+        "Querguels non es si non obra daranha!",
+        "Oi, rei Matfre, vos es tan poderos",
+        "Quieu tenc per fol selh quab vos pren contens,",
+        "Quieu vey que sol un dels vostres baros",
+        "Als Florentis destruitz els fai dolens!",
+        "Si quieu non cre quen plan ni en montanha",
+        "Trobes hueimais quius sia de mal acuelh;",
+        "Ni no conselh a cels del Canpiduelh",
+        "Quencontral Rey passon tost en Campagna."
+    ],
+    "Stanzas": [
+        [
+            "Quor quom trobes Florentis orgulhos,",
+            "Er los trobom cortes et avinens,",
+            "De gen parlar e de plazens respos;",
+            "Ben ajal reys Matfre quel noiremens",
+            "Lor a fait dar et aver dol e lanha,",
+            "Quel cap en son remas mains en despuelh;",
+            "Ai, Florentis, mortz etz per vostrerguelh,",
+            "Querguels non es si non obra daranha!"
+        ],
+        [
+            "Oi, rei Matfre, vos es tan poderos",
+            "Quieu tenc per fol selh quab vos pren contens,",
+            "Quieu vey que sol un dels vostres baros",
+            "Als Florentis destruitz els fai dolens!",
+            "Si quieu non cre quen plan ni en montanha",
+            "Trobes hueimais quius sia de mal acuelh;",
+            "Ni no conselh a cels del Canpiduelh",
+            "Quencontral Rey passon tost en Campagna."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": "UNK"
+}

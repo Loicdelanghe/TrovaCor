@@ -1,0 +1,44 @@
+{
+    "Author": [
+        "Anonymous"
+    ],
+    "Genre": "Dansa",
+    "Title": "Pos qu'ieu vey la fualla",
+    "FullText": [
+        "    Pos qu'ieu vey la fualla",
+        " verdear entre la flor,",
+        " chantar vual per fin' amor;",
+        " Quar fin' amors mi ten gay",
+        "      e mi fay",
+        "ure tot iorn sens consire,",
+        " per qu'ieu d'amar non partray",
+        "      leys quem play",
+        "tant qu'ieu mays ren non desire",
+        "     mas sol qu'ella vualla",
+        " que de sa valent valor",
+        " puascha chantar a ss'onor."
+    ],
+    "Stanzas": [
+        [
+            "    Pos qu'ieu vey la fualla",
+            " verdear entre la flor,",
+            " chantar vual per fin' amor;"
+        ],
+        [
+            " Quar fin' amors mi ten gay",
+            "      e mi fay",
+            "ure tot iorn sens consire,",
+            " per qu'ieu d'amar non partray",
+            "      leys quem play",
+            "tant qu'ieu mays ren non desire",
+            "     mas sol qu'ella vualla",
+            " que de sa valent valor",
+            " puascha chantar a ss'onor."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II"
+    ],
+    "Source": "UNK"
+}

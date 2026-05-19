@@ -1,0 +1,99 @@
+{
+    "Author": [
+        "Arnaut_Daniel"
+    ],
+    "Genre": "Canso",
+    "Title": "D'autra guiz e d'autra razo ",
+    "FullText": [
+        "D'autra guiz e d'autra razo",
+        "m'aven a chantar que no sol,",
+        "e no'us cugetz que de mon dol",
+        "esper a far bona chanso,",
+        "mas mestier m'es qu'ieu fassa merceiar",
+        "a mans, chantan lieis qui m'encolp a tort,",
+        "qu'ieu n'ai lezer qu'estiers non parl'ab tres.",
+        "Merce dei trobar e perdo",
+        "si'l dreitz uzatges no'm destol",
+        "tal que de merceiar no'm tol;",
+        "ja salvet Merces lo lairo",
+        "que autre be no'l podia salvar;",
+        "ieu non ai plus ves ma vida cofort",
+        "que, si'l dreitz qu'ai no'm val, valha'm Merces.",
+        "Donc a hom dreg en Amor? No,",
+        "mas cujarion-s'o li fol",
+        "qu'ela'us encolpara, si's vol,",
+        "quar li Frances no son Guasco",
+        "e quar la naus frai ans que fos a Bar:",
+        "las! per aital colpa sui pres de mort,",
+        "que d'als, per Crist, no sai qu'ieu tort l'agues.",
+        "Ar conosc ieu e sap mi bo",
+        "qu'om nos part leu de so que vol,",
+        "ans n'a cor plus humil e mol",
+        "si tot l'estrai un temps son do:",
+        "per mi'us o dic qu'anc non puec dezamar",
+        "selha que'm tolh del tot joy e deport,",
+        "ans m'afortis ades on pieger m'es.",
+        "Hueimais, senhor e compagno,",
+        "per Dieu, ans quei del tot m'afol",
+        "preiatz lieis don m'amor no's tol",
+        "que n'aia merce cum del so,",
+        "e diguas tug, pus non l'aus nominar:",
+        "bela, prendetz per nos n'Arnaut en cort",
+        "e no metatz son chantar en deves."
+    ],
+    "Stanzas": [
+        [
+            "D'autra guiz e d'autra razo",
+            "m'aven a chantar que no sol,",
+            "e no'us cugetz que de mon dol",
+            "esper a far bona chanso,",
+            "mas mestier m'es qu'ieu fassa merceiar",
+            "a mans, chantan lieis qui m'encolp a tort,",
+            "qu'ieu n'ai lezer qu'estiers non parl'ab tres."
+        ],
+        [
+            "Merce dei trobar e perdo",
+            "si'l dreitz uzatges no'm destol",
+            "tal que de merceiar no'm tol;",
+            "ja salvet Merces lo lairo",
+            "que autre be no'l podia salvar;",
+            "ieu non ai plus ves ma vida cofort",
+            "que, si'l dreitz qu'ai no'm val, valha'm Merces."
+        ],
+        [
+            "Donc a hom dreg en Amor? No,",
+            "mas cujarion-s'o li fol",
+            "qu'ela'us encolpara, si's vol,",
+            "quar li Frances no son Guasco",
+            "e quar la naus frai ans que fos a Bar:",
+            "las! per aital colpa sui pres de mort,",
+            "que d'als, per Crist, no sai qu'ieu tort l'agues."
+        ],
+        [
+            "Ar conosc ieu e sap mi bo",
+            "qu'om nos part leu de so que vol,",
+            "ans n'a cor plus humil e mol",
+            "si tot l'estrai un temps son do:",
+            "per mi'us o dic qu'anc non puec dezamar",
+            "selha que'm tolh del tot joy e deport,",
+            "ans m'afortis ades on pieger m'es."
+        ],
+        [
+            "Hueimais, senhor e compagno,",
+            "per Dieu, ans quei del tot m'afol",
+            "preiatz lieis don m'amor no's tol",
+            "que n'aia merce cum del so,",
+            "e diguas tug, pus non l'aus nominar:",
+            "bela, prendetz per nos n'Arnaut en cort",
+            "e no metatz son chantar en deves."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Ugo Angelo Canello, La vita e le opere del trovatore Arnaldo Daniello, Halle 1883"
+}

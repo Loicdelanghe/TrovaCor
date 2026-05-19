@@ -1,0 +1,73 @@
+{
+    "Author": [
+        "ArnautCatalan",
+        "RaimonBerenger"
+    ],
+    "Genre": "Tenso",
+    "Title": "Amics N'Arnautz, cent dmnas d'aut paratge... ",
+    "FullText": [
+        "Amics NAmautz, cent dmnas daut paratge",
+        "E non pdon lai complir lor vatge,",
+        "Ni ai tornar per nulha ren que sia,",
+        "Si non o fan per aital covinen",
+        "Qu'un pet faatz que mva un tal ven",
+        "Que las dmnas vadan a salvamen.",
+        "Fr-l'etz o non? que saber o volria.",
+        "Snher En Coms, eu ai un tal usatge",
+        "Qu'ads mantenh dmnas e drudaria ;",
+        "E si be'l petz no'm vengus d'agradatge,",
+        "Faria lo, car si eu no'l fazia,",
+        "Falhiria vas dmnas malamen.",
+        "E dic vos ben que s'ilh per altramen",
+        "Non podion anar a salvamen",
+        "Aprs lo pet, totz me concagaria.",
+        "Amics N'Arnautz, trp parlatz malamen",
+        "Et auretz ne gran blasme de la gen,",
+        "(Que) passar voletz tan bl crs avinen",
+        "Ab vent de cul en trra de Suria.",
+        "Snher En Coms, mout es mielhs per un cen",
+        "Qu'ieu faa'l pet, que tan gai crs plazen",
+        "Se perdesson per fl ensenhamen,",
+        "Qu'ieu'm pusc lavar quan concagatz seria."
+    ],
+    "Stanzas": [
+        [
+            "Amics NAmautz, cent dmnas daut paratge",
+            "E non pdon lai complir lor vatge,",
+            "Ni ai tornar per nulha ren que sia,",
+            "Si non o fan per aital covinen",
+            "Qu'un pet faatz que mva un tal ven",
+            "Que las dmnas vadan a salvamen.",
+            "Fr-l'etz o non? que saber o volria."
+        ],
+        [
+            "Snher En Coms, eu ai un tal usatge",
+            "Qu'ads mantenh dmnas e drudaria ;",
+            "E si be'l petz no'm vengus d'agradatge,",
+            "Faria lo, car si eu no'l fazia,",
+            "Falhiria vas dmnas malamen.",
+            "E dic vos ben que s'ilh per altramen",
+            "Non podion anar a salvamen",
+            "Aprs lo pet, totz me concagaria."
+        ],
+        [
+            "Amics N'Arnautz, trp parlatz malamen",
+            "Et auretz ne gran blasme de la gen,",
+            "(Que) passar voletz tan bl crs avinen",
+            "Ab vent de cul en trra de Suria."
+        ],
+        [
+            "Snher En Coms, mout es mielhs per un cen",
+            "Qu'ieu faa'l pet, que tan gai crs plazen",
+            "Se perdesson per fl ensenhamen,",
+            "Qu'ieu'm pusc lavar quan concagatz seria."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Bec, Pierre. Burlesque et obscnit chez les troubadours. Pour une approche du contre-texte mdival. Paris: Stock, 1984"
+}
