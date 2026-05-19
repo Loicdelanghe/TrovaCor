@@ -1,0 +1,91 @@
+{
+    "Author": [
+        "GauclemFaidit",
+        "Eliasd'Uisell"
+    ],
+    "Genre": "échange de coblas",
+    "Title": "Manens fora-l francs pelegris ",
+    "FullText": [
+        "Manens fora-l francs pelegris,",
+        "mas son aver mes al sanctor !",
+        "Molt lai estet a grant honor",
+        " per so, si ac dan Saladis ",
+        "o fos lo granz ventres que-ill pen,",
+        "ompreron li Turc son hardimen !",
+        "Ancaras dis el qe lai vol tornar,",
+        "mas laissa sen pel bel fill er retrar.",
+        " Ben auria ops pas e vis",
+        "Chaslu, tant es ses umor",
+        "merce del paubre pechador",
+        "ques manenz de gabs e de ris !",
+        "qe sei solatz son granz copas dargen,",
+        "hansos segalas e frumen,",
+        "ventes son vestir vert e var",
+        "A lui sen an cel que vol sojornar !",
+        " Gauselm, eu mezeis garantis",
+        "que non ai daver grant largor,",
+        "vos, avez tant de valor",
+        "qe no-s taing qom vos desmentis !",
+        "Sieu sui paubres, vos avez pro argen",
+        "Guillelma, la pro e la valen",
+        "Gensor pareill non a dechai la mar",
+        "oudadeir e de joglar !",
+        " A jujamen de sos vezis",
+        "men a garant de sa honor",
+        "NElias sa meja seror",
+        "o diz NEbles qes lei cosis",
+        "Non . . . . . . . . . . . . . . . . . . . . . .",
+        ". . . . qar parlet de graissa, fez no-sen :",
+        "qamdui em gros, mas el o es, cho-m par,",
+        "fam, et eu per pro manjar."
+    ],
+    "Stanzas": [
+        [
+            "Manens fora-l francs pelegris,",
+            "mas son aver mes al sanctor !",
+            "Molt lai estet a grant honor",
+            " per so, si ac dan Saladis ",
+            "o fos lo granz ventres que-ill pen,",
+            "ompreron li Turc son hardimen !",
+            "Ancaras dis el qe lai vol tornar,",
+            "mas laissa sen pel bel fill er retrar."
+        ],
+        [
+            " Ben auria ops pas e vis",
+            "Chaslu, tant es ses umor",
+            "merce del paubre pechador",
+            "ques manenz de gabs e de ris !",
+            "qe sei solatz son granz copas dargen,",
+            "hansos segalas e frumen,",
+            "ventes son vestir vert e var",
+            "A lui sen an cel que vol sojornar !"
+        ],
+        [
+            " Gauselm, eu mezeis garantis",
+            "que non ai daver grant largor,",
+            "vos, avez tant de valor",
+            "qe no-s taing qom vos desmentis !",
+            "Sieu sui paubres, vos avez pro argen",
+            "Guillelma, la pro e la valen",
+            "Gensor pareill non a dechai la mar",
+            "oudadeir e de joglar !"
+        ],
+        [
+            " A jujamen de sos vezis",
+            "men a garant de sa honor",
+            "NElias sa meja seror",
+            "o diz NEbles qes lei cosis",
+            "Non . . . . . . . . . . . . . . . . . . . . . .",
+            ". . . . qar parlet de graissa, fez no-sen :",
+            "qamdui em gros, mas el o es, cho-m par,",
+            "fam, et eu per pro manjar."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Mouzat, Jean. Les pomes de Gaucelm Faidit. Troubadour du XIIe Sicle. Paris: A. G. Nizet, 1965"
+}

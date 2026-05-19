@@ -1,0 +1,92 @@
+{
+    "Author": [
+        "Giraut_de_Bornelh"
+    ],
+    "Genre": "Alba",
+    "Title": "Reis glorios, verais lums e clartatz",
+    "FullText": [
+        "Reis glorios, verais lums e clartatz,",
+        "Deus poderos, Senher, si a vos platz,",
+        "Al meu companh siatz fizels aiuda;",
+        "Queu no lo vi, pos la nochs fo venguda,",
+        "   Et ades sera lalba!",
+        "Bel companho, si dormetz o velhatz,",
+        "No dormatz plus, suau vos ressidatz;",
+        "Quen orien vei lestela creguda",
+        "Camenal jorn, queu lai be conoguda,",
+        "   Et ades sera lalba!",
+        "Bel companho, en chantan vos apel;",
+        "No dormatz plus, queu auch chantar lauzel",
+        "Que vai queren lo jorn per lo boschatge",
+        "Et ai paor quel gilos vos assatge",
+        "   Et ades sera lalba!",
+        "Bel companho, issetz al fenestrel",
+        "E regardatz las estelas del cel!",
+        "Conoisseretz sius sui fizels messatge;",
+        "Si non faitz, vostres ner lo damnatge",
+        "   Et ades sera lalba!",
+        "Bel companho, pos me parti de vos,",
+        "Eu nom dormi nim moc de genolhos,",
+        "Ans preiei Deu, lo filh Santa Maria,",
+        "Queus me rendes per leial companhia,",
+        "   Et ades sera lalba!",
+        "Bel companho, la foras als peiros",
+        "Me preiavatz queu no fos dormilhos,",
+        "Enans velhes tota noch tro al dia.",
+        "Era nous platz mos chans ni ma paria",
+        "   Et ades sera lalba!"
+    ],
+    "Stanzas": [
+        [
+            "Reis glorios, verais lums e clartatz,",
+            "Deus poderos, Senher, si a vos platz,",
+            "Al meu companh siatz fizels aiuda;",
+            "Queu no lo vi, pos la nochs fo venguda,",
+            "   Et ades sera lalba!"
+        ],
+        [
+            "Bel companho, si dormetz o velhatz,",
+            "No dormatz plus, suau vos ressidatz;",
+            "Quen orien vei lestela creguda",
+            "Camenal jorn, queu lai be conoguda,",
+            "   Et ades sera lalba!"
+        ],
+        [
+            "Bel companho, en chantan vos apel;",
+            "No dormatz plus, queu auch chantar lauzel",
+            "Que vai queren lo jorn per lo boschatge",
+            "Et ai paor quel gilos vos assatge",
+            "   Et ades sera lalba!"
+        ],
+        [
+            "Bel companho, issetz al fenestrel",
+            "E regardatz las estelas del cel!",
+            "Conoisseretz sius sui fizels messatge;",
+            "Si non faitz, vostres ner lo damnatge",
+            "   Et ades sera lalba!"
+        ],
+        [
+            "Bel companho, pos me parti de vos,",
+            "Eu nom dormi nim moc de genolhos,",
+            "Ans preiei Deu, lo filh Santa Maria,",
+            "Queus me rendes per leial companhia,",
+            "   Et ades sera lalba!"
+        ],
+        [
+            "Bel companho, la foras als peiros",
+            "Me preiavatz queu no fos dormilhos,",
+            "Enans velhes tota noch tro al dia.",
+            "Era nous platz mos chans ni ma paria",
+            "   Et ades sera lalba!"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": "UNK"
+}

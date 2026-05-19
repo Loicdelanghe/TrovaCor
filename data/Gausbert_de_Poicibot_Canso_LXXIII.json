@@ -1,0 +1,79 @@
+{
+    "Author": [
+        "Gausbert_de_Poicibot"
+    ],
+    "Genre": "Canso",
+    "Title": "Sieu anc jorn dis clamans ",
+    "FullText": [
+        "Sieu anc jorn dis clamans",
+        "Encontra vos, Amors,",
+        "Orguoill ni desonors,",
+        "Aram dei e mos chans",
+        "Humiliar dos tans",
+        "E laissar mas clamors,",
+        "Pos madompn Elionors,",
+        "La pros comtessa prezans,",
+        "O degn enaissi voler;",
+        "E, si tot ieu de vos grat non esper,",
+        "Beus dei grazir lo dan el mal",
+        "Pos ill mo manda que tant val . . .",
+        "Al Rei dels Alamans,",
+        "Cap dels emperadors,",
+        "Vai, chansos, cui Valors",
+        "Dona sobrels prezans",
+        "Tant de pretz, cum es grans",
+        "Sobre totz sa ricors ;",
+        "[Que] dei sieu pretz es autors",
+        "Lo sieus noms benestans",
+        "Qel a Frederic, per ver:",
+        "Per refrenar vils faitz, e retener",
+        "Qus non toc a son pretz cabal,",
+        "Fre de ric e man port aital.",
+        "Del Rei dAragon esper",
+        "Qades meillur e sapcha mais valer,",
+        "Qand el aura sen natural,",
+        "Pois joves sap tant e tant val."
+    ],
+    "Stanzas": [
+        [
+            "Sieu anc jorn dis clamans",
+            "Encontra vos, Amors,",
+            "Orguoill ni desonors,",
+            "Aram dei e mos chans",
+            "Humiliar dos tans",
+            "E laissar mas clamors,",
+            "Pos madompn Elionors,",
+            "La pros comtessa prezans,",
+            "O degn enaissi voler;",
+            "E, si tot ieu de vos grat non esper,",
+            "Beus dei grazir lo dan el mal",
+            "Pos ill mo manda que tant val . . ."
+        ],
+        [
+            "Al Rei dels Alamans,",
+            "Cap dels emperadors,",
+            "Vai, chansos, cui Valors",
+            "Dona sobrels prezans",
+            "Tant de pretz, cum es grans",
+            "Sobre totz sa ricors ;",
+            "[Que] dei sieu pretz es autors",
+            "Lo sieus noms benestans",
+            "Qel a Frederic, per ver:",
+            "Per refrenar vils faitz, e retener",
+            "Qus non toc a son pretz cabal,",
+            "Fre de ric e man port aital."
+        ],
+        [
+            "Del Rei dAragon esper",
+            "Qades meillur e sapcha mais valer,",
+            "Qand el aura sen natural,",
+            "Pois joves sap tant e tant val."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "V",
+        "VI"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}
