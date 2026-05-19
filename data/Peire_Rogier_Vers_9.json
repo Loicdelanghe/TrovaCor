@@ -1,0 +1,111 @@
+{
+    "Author": [
+        "Peire_Rogier"
+    ],
+    "Genre": "Canso",
+    "Title": "Dous' amiga non puesc mais ",
+    "FullText": [
+        " Dous amiga non puesc mais,",
+        " mout me pesa qar uos lais",
+        " e . . . . . . . . . . esmais ;",
+        " e teng mo a gran pantais,",
+        " qar nous abras e nous bais",
+        " e departen nostramor.",
+        " Daitant sabchasmon talan,",
+        " qe anc femna non amei tan,",
+        " e nousenaus far semblan",
+        " ni trob per cui uos o man ;",
+        " vau men ; a dieu uos coman,",
+        " al espirital seinhor.",
+        "Non puesc mudar qe nom plagna,",
+        "qar se part nostra compagna ;",
+        "eu men uauc en terra estragna ;",
+        "mais am freidura e montagna",
+        "no fas figa ni castagna",
+        " ni ribeira ni calor.",
+        " Lai sen uai mos cors marritz,",
+        " e ai reman lesperiz ;",
+        " et ai tant los uls fronitz",
+        " qe men dolon las ratz ;",
+        " mal o fai qins a partitz,",
+        " e non puesc auer baudor.",
+        " Sans e sals fora eu gueritz,",
+        " qant serai acondormiz,",
+        " si fos de leis tant aisiz,",
+        " qen semblant duna perniz",
+        " li baises sos oils uoltitz",
+        " e la fresqetta color.",
+        "Dous estars lai mes ardura,",
+        "e bons conortz desmesura,",
+        "e sazontas fraitura,",
+        "e das clars noitz oscura ;",
+        "per mon iouent qar peiura",
+        " ai marriment e dolor.",
+        " . . . . . . . . . . . . .",
+        " . . . . . . . . . . . . ."
+    ],
+    "Stanzas": [
+        [
+            " Dous amiga non puesc mais,",
+            " mout me pesa qar uos lais",
+            " e . . . . . . . . . . esmais ;",
+            " e teng mo a gran pantais,",
+            " qar nous abras e nous bais",
+            " e departen nostramor."
+        ],
+        [
+            " Daitant sabchasmon talan,",
+            " qe anc femna non amei tan,",
+            " e nousenaus far semblan",
+            " ni trob per cui uos o man ;",
+            " vau men ; a dieu uos coman,",
+            " al espirital seinhor."
+        ],
+        [
+            "Non puesc mudar qe nom plagna,",
+            "qar se part nostra compagna ;",
+            "eu men uauc en terra estragna ;",
+            "mais am freidura e montagna",
+            "no fas figa ni castagna",
+            " ni ribeira ni calor."
+        ],
+        [
+            " Lai sen uai mos cors marritz,",
+            " e ai reman lesperiz ;",
+            " et ai tant los uls fronitz",
+            " qe men dolon las ratz ;",
+            " mal o fai qins a partitz,",
+            " e non puesc auer baudor."
+        ],
+        [
+            " Sans e sals fora eu gueritz,",
+            " qant serai acondormiz,",
+            " si fos de leis tant aisiz,",
+            " qen semblant duna perniz",
+            " li baises sos oils uoltitz",
+            " e la fresqetta color."
+        ],
+        [
+            "Dous estars lai mes ardura,",
+            "e bons conortz desmesura,",
+            "e sazontas fraitura,",
+            "e das clars noitz oscura ;",
+            "per mon iouent qar peiura",
+            " ai marriment e dolor."
+        ],
+        [
+            " . . . . . . . . . . . . .",
+            " . . . . . . . . . . . . ."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Appel, Carl. Das Leben und die Lieder des trobadors Peire Rogier. Berlin: Druck und Verlag von G. Reimer, 1882"
+}

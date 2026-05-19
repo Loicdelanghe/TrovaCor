@@ -1,0 +1,120 @@
+{
+    "Author": [
+        "Peire_Milo"
+    ],
+    "Genre": "Canso",
+    "Title": "Pois qe dal cor m'aven, farai chanzos ",
+    "FullText": [
+        "Pois qe dal cor m'aven, farai chanzos,",
+        "e pois q'eu vei spandre flor de novel",
+        "e pois q'eu vei alegrar li auzel",
+        "qi van chantan sus l'arbre q'e follios;",
+        "e pois q'eu vei l'un del autres iauzir,",
+        "ben puesc aver pensament e consir,",
+        "car anc un iorn no fui ioios d'amar,",
+        "ni ia per mal d'amor non posc estrar.",
+        "Domna, en vos trobei tals guierdos",
+        "com fa al lop lo chabrols e l'agnel,",
+        "qant enver lui ill corren senz revel",
+        "e laissam star las fedas els moutos;",
+        "aissi, domna, al prim, al mieu albir,",
+        "per la meillor eu vos cudai chauzir,",
+        "mas iogador ai vist soven iogar",
+        "qe get'a fal'e si cuia entrar.",
+        "Hai, madona, l vostre cors orgoillos",
+        "tola d'aissi l'ira el capdel,",
+        "e fassa mi, sius plaz, un semblan bel,",
+        "e ia poissas non serai tan iros.",
+        "meravill me, car am tant ni dezir,",
+        "qe per merces no vol un prec auzir,",
+        "e ia ac merces lo segner Deus d'un lar",
+        "qi en la crois li saup merce clamar.",
+        "Las! qe farai? morrai tan cossiros?",
+        "oc, q'eu non puesc de leis aver apel,",
+        "e com li soi cascun iorn plus fizel,",
+        "eu mais la trop vas mi plus airos;",
+        "e cant la veg encontra mi venir,",
+        "eu vauc vas leis tan ioios per servir,",
+        "donc se capten escura del iogar;",
+        "mas ia vi far apres scur temps ben clar.",
+        "Ara soi eu en carcer tenebros,",
+        "sa par no vi en borg ni en castel,",
+        "qe eu non puesc trobar clau ni martel",
+        "qom puesca trar de leis mans del leos",
+        "e pois merces, q'era claus del ubrir,",
+        "eu non la trop, soi vencutz, sens mentir",
+        "ni ia per zo nom recreirai d'amar,",
+        "q'ieu vi ia hom q'era vencutz, sobrar.",
+        "Ai, mala res, Dieus vos lais repentir",
+        "del mal qem faitz, don m'aves fait soffrir,",
+        "c'aissi com pert tot'aiga douz'e mar",
+        "son nom, sil pert en vos amors, son par."
+    ],
+    "Stanzas": [
+        [
+            "Pois qe dal cor m'aven, farai chanzos,",
+            "e pois q'eu vei spandre flor de novel",
+            "e pois q'eu vei alegrar li auzel",
+            "qi van chantan sus l'arbre q'e follios;",
+            "e pois q'eu vei l'un del autres iauzir,",
+            "ben puesc aver pensament e consir,",
+            "car anc un iorn no fui ioios d'amar,",
+            "ni ia per mal d'amor non posc estrar."
+        ],
+        [
+            "Domna, en vos trobei tals guierdos",
+            "com fa al lop lo chabrols e l'agnel,",
+            "qant enver lui ill corren senz revel",
+            "e laissam star las fedas els moutos;",
+            "aissi, domna, al prim, al mieu albir,",
+            "per la meillor eu vos cudai chauzir,",
+            "mas iogador ai vist soven iogar",
+            "qe get'a fal'e si cuia entrar."
+        ],
+        [
+            "Hai, madona, l vostre cors orgoillos",
+            "tola d'aissi l'ira el capdel,",
+            "e fassa mi, sius plaz, un semblan bel,",
+            "e ia poissas non serai tan iros.",
+            "meravill me, car am tant ni dezir,",
+            "qe per merces no vol un prec auzir,",
+            "e ia ac merces lo segner Deus d'un lar",
+            "qi en la crois li saup merce clamar."
+        ],
+        [
+            "Las! qe farai? morrai tan cossiros?",
+            "oc, q'eu non puesc de leis aver apel,",
+            "e com li soi cascun iorn plus fizel,",
+            "eu mais la trop vas mi plus airos;",
+            "e cant la veg encontra mi venir,",
+            "eu vauc vas leis tan ioios per servir,",
+            "donc se capten escura del iogar;",
+            "mas ia vi far apres scur temps ben clar."
+        ],
+        [
+            "Ara soi eu en carcer tenebros,",
+            "sa par no vi en borg ni en castel,",
+            "qe eu non puesc trobar clau ni martel",
+            "qom puesca trar de leis mans del leos",
+            "e pois merces, q'era claus del ubrir,",
+            "eu non la trop, soi vencutz, sens mentir",
+            "ni ia per zo nom recreirai d'amar,",
+            "q'ieu vi ia hom q'era vencutz, sobrar."
+        ],
+        [
+            "Ai, mala res, Dieus vos lais repentir",
+            "del mal qem faitz, don m'aves fait soffrir,",
+            "c'aissi com pert tot'aiga douz'e mar",
+            "son nom, sil pert en vos amors, son par."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Appel, Carl. Posies provenales indites tires des manuscrits dItalie (Suite). \"Revue des langues romanes\", 39 (1896)"
+}

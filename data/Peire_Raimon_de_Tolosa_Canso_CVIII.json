@@ -1,0 +1,109 @@
+{
+    "Author": [
+        "Peire_Raimon_de_Tolosa"
+    ],
+    "Genre": "Canso",
+    "Title": "Si com l'enfans qu'es alevatz petitz ",
+    "FullText": [
+        "Si com l'enfans qu'es alevatz petitz",
+        "en cort valen et honratz del seingnor,",
+        "pois, quant es grantz, sen part e quer meillor,",
+        "nol pot trobar, ten se per escarnitz,",
+        "ol sen tornar, non a tant d'ardimen,",
+        "aitals son eu, quem parti follamen",
+        "a lleis, cui ren merces, sem vol sofrir",
+        "que veniament en prend'; al no desir.",
+        "Veniar sen pot de mi, qu'er' afollitz.",
+        "mais hom qu'es fols, cho dizon li autor,",
+        "non er iuiatz, tro que llo ten be iror;",
+        " del mal quil fai, n'es per raison punitz; ",
+        "mas quant n'es for, er iuiatz, s'il mespren,",
+        "o s'il avia enanz fait faillimen.",
+        "e sel fis anc, ben vos dic ses mentir,",
+        "up lo ver, fatz om totz temps languir.",
+        "Ben o pot far e totz sera grazitz",
+        "lo mals; l'afan, la pena e la dolor",
+        "suffr'eu en pais, e semblaram petitz;",
+        "mais il gart sei, qu'al seu bon pretz floritz",
+        "ges non eschai ni non es avinen",
+        "e totz mals faitz qu'il prenda veniamen;",
+        "mais val perdose mielz fai a grazir,",
+        "quil prent, en val mais per servir.",
+        "Eu valgra mais per servir; e garitz",
+        "m'agra merces, pietatz et amor,",
+        "s'omilies tant sa grant ricor",
+        "qu'il mandes chai saluz en breu escritz; ",
+        "e sui trop fols, quant aital pensamen",
+        "qu'ill mandes chai man, sofran solamen;",
+        ". . . . . . ver leis mains ionchas obezir",
+        "ot son coman, sil platz viure o morir.",
+        "Per son coman no fo mortz ni traitz",
+        ". . . . . . . . . . . . . . . . . . . . .",
+        ". . . . . . . quem parti de la flor",
+        "e tot lo mon, que m'avia noiritz.",
+        "puois men parti, fui en tal marimen",
+        "on fora mortz, si no fos iauzimen",
+        "q'atent merce, per cho qu'al departir",
+        "me dis ploran: deus te lais revenir."
+    ],
+    "Stanzas": [
+        [
+            "Si com l'enfans qu'es alevatz petitz",
+            "en cort valen et honratz del seingnor,",
+            "pois, quant es grantz, sen part e quer meillor,",
+            "nol pot trobar, ten se per escarnitz,",
+            "ol sen tornar, non a tant d'ardimen,",
+            "aitals son eu, quem parti follamen",
+            "a lleis, cui ren merces, sem vol sofrir",
+            "que veniament en prend'; al no desir."
+        ],
+        [
+            "Veniar sen pot de mi, qu'er' afollitz.",
+            "mais hom qu'es fols, cho dizon li autor,",
+            "non er iuiatz, tro que llo ten be iror;",
+            " del mal quil fai, n'es per raison punitz; ",
+            "mas quant n'es for, er iuiatz, s'il mespren,",
+            "o s'il avia enanz fait faillimen.",
+            "e sel fis anc, ben vos dic ses mentir,",
+            "up lo ver, fatz om totz temps languir."
+        ],
+        [
+            "Ben o pot far e totz sera grazitz",
+            "lo mals; l'afan, la pena e la dolor",
+            "suffr'eu en pais, e semblaram petitz;",
+            "mais il gart sei, qu'al seu bon pretz floritz",
+            "ges non eschai ni non es avinen",
+            "e totz mals faitz qu'il prenda veniamen;",
+            "mais val perdose mielz fai a grazir,",
+            "quil prent, en val mais per servir."
+        ],
+        [
+            "Eu valgra mais per servir; e garitz",
+            "m'agra merces, pietatz et amor,",
+            "s'omilies tant sa grant ricor",
+            "qu'il mandes chai saluz en breu escritz; ",
+            "e sui trop fols, quant aital pensamen",
+            "qu'ill mandes chai man, sofran solamen;",
+            ". . . . . . ver leis mains ionchas obezir",
+            "ot son coman, sil platz viure o morir."
+        ],
+        [
+            "Per son coman no fo mortz ni traitz",
+            ". . . . . . . . . . . . . . . . . . . . .",
+            ". . . . . . . quem parti de la flor",
+            "e tot lo mon, que m'avia noiritz.",
+            "puois men parti, fui en tal marimen",
+            "on fora mortz, si no fos iauzimen",
+            "q'atent merce, per cho qu'al departir",
+            "me dis ploran: deus te lais revenir."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Appel, Carl. Provenzalische Inedita aus pariser Handschriften. Leipzig: Fuess Verlag, 1890"
+}

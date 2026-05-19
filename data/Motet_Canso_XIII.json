@@ -1,0 +1,86 @@
+{
+    "Author": [
+        "Motet"
+    ],
+    "Genre": "Canso",
+    "Title": "Sitot d'amors suy destretz nueh e dia ",
+    "FullText": [
+        "Sitot damors suy destretz nueh e dia",
+        "Tot chantarai, pos nai bona razon,",
+        "Canc non trobiei anc par ni compainhon",
+        "Tant jent com ieu saupes amar samia,",
+        "Car sel quieu am de bon cor et dezir",
+        "Nom vol amar, ans cre quem vol ausir ;",
+        "Per ho sieu muer per leis quem dezenansa",
+        "Tener mo dei a mot gran ben[est]ansa.",
+        "Per ho sieu soy, mas ill non es jes mia,",
+        "Ez an gran tort, mas Dieus li o perdon,",
+        "Camar la vuell trop mais ses guizardon",
+        "Que dautraver tot cant dar mi poiria ;",
+        "E pot mi far en brieu dora morir,",
+        "En pot, sill plai, de mon grieu mal guarir,",
+        "Mas plus jent ler, pos quen leis ay fizansa.",
+        "Si mi gueris de ma greu malanensa.",
+        "A vos mautrei ez a vostra condia,",
+        "Plazen donna, de bon cor, eus mi don ;",
+        "Pero vers es quez anc nul temps non fon",
+        "Quez ieu non fos sotz vostra seinhoria,",
+        "Ez am vos tant quen ren als non consir,",
+        "Perquem degras dostramor far jhauzir",
+        "Sivals daitant macses en remenbransa",
+        "Quieus ams sitot ren plus non men avansa.",
+        "Valent donna, per vos planc e sospir",
+        "Tant quen serai fort leu pres del fenir,",
+        "Si nom secors vostra guaya condansa,",
+        "Quieu plus nous quier mas la bella semblansa.",
+        "Gentil donna, en vos ay mesperansa",
+        "Queser non vuell ses vos seinher de Fransa."
+    ],
+    "Stanzas": [
+        [
+            "Sitot damors suy destretz nueh e dia",
+            "Tot chantarai, pos nai bona razon,",
+            "Canc non trobiei anc par ni compainhon",
+            "Tant jent com ieu saupes amar samia,",
+            "Car sel quieu am de bon cor et dezir",
+            "Nom vol amar, ans cre quem vol ausir ;",
+            "Per ho sieu muer per leis quem dezenansa",
+            "Tener mo dei a mot gran ben[est]ansa."
+        ],
+        [
+            "Per ho sieu soy, mas ill non es jes mia,",
+            "Ez an gran tort, mas Dieus li o perdon,",
+            "Camar la vuell trop mais ses guizardon",
+            "Que dautraver tot cant dar mi poiria ;",
+            "E pot mi far en brieu dora morir,",
+            "En pot, sill plai, de mon grieu mal guarir,",
+            "Mas plus jent ler, pos quen leis ay fizansa.",
+            "Si mi gueris de ma greu malanensa."
+        ],
+        [
+            "A vos mautrei ez a vostra condia,",
+            "Plazen donna, de bon cor, eus mi don ;",
+            "Pero vers es quez anc nul temps non fon",
+            "Quez ieu non fos sotz vostra seinhoria,",
+            "Ez am vos tant quen ren als non consir,",
+            "Perquem degras dostramor far jhauzir",
+            "Sivals daitant macses en remenbransa",
+            "Quieus ams sitot ren plus non men avansa."
+        ],
+        [
+            "Valent donna, per vos planc e sospir",
+            "Tant quen serai fort leu pres del fenir,",
+            "Si nom secors vostra guaya condansa,",
+            "Quieu plus nous quier mas la bella semblansa.",
+            "Gentil donna, en vos ay mesperansa",
+            "Queser non vuell ses vos seinher de Fransa."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Meyer, Paul. Les derniers troubadours de la Provence d'aprs le chansonnier donn  la Bibliothque Impriale par M. Ch. Giraud. Paris: Librairie A. Franck, 1871"
+}

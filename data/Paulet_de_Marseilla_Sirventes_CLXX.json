@@ -1,0 +1,115 @@
+{
+    "Author": [
+        "Paulet_de_Marseilla"
+    ],
+    "Genre": "Sirventes",
+    "Title": "Ab marrimen et ab mala sabensa ",
+    "FullText": [
+        "Ab marrimen et ab mala sabensa",
+        "Vuelh er chantar, si tot chans no magensa,",
+        "Quar valors a preza gran dechazensa",
+        "E paratges es mermatz en Proensa,",
+        "Et ai enic",
+        "Mon cor per la preizo del pros NEnric.",
+        "Ben deu esser marrida tota Espanha,",
+        "E Roma tanh e cove be que planha",
+        "Lo Senador franc e de bella companha,",
+        "Lo plus ardit de Burc tro en Alamanha.",
+        "A, trop falhic",
+        "Quascus quel camp laisset lo pros NEnric!",
+        "Tug lEspanhol, del Gronh tro Compostelha,",
+        "Devon planher la preizo, que ges belha",
+        "Non fo ni es, dEn Enric de Castelha;",
+        "El reis NAnfos, que tant gent se capdelha",
+        "Ab sen antic,",
+        "Deu demandar tost son fraire NEnric.",
+        "Alaman flac, volpilh, de frevol malha,",
+        "Ja lo vers Dieus nous ajut ni vos valha,",
+        "Quar a NEnric falhistz a la batalha;",
+        "Aunidavetz Alamanha ses falha,",
+        "Malvatz mendic,",
+        "Quar sol laissetz el camp lo pros NEnric!",
+        "Que per valor e per noble coratge",
+        "Mantenia NEnricx lonrat linhatge",
+        "De Colradi ab honrat vassalatge;",
+        "El reis NAnfos, ab son noble barnatge,",
+        "Quez al cor ric,",
+        "Deu demandar tost son fraire NEnric.",
+        "No tanh a rei, quez a tan ric coratge",
+        "Quoi reis NAnfos, e tan noble barnatge,",
+        "Lais estar pres home de son linhatge;",
+        "Doncs, elh nos tric",
+        "Que no deman tost son fraire NEnric.",
+        "Recrezensa faran e volpilhatge",
+        "Tug lEspanhol, silh que son de paratge,",
+        "Si n breu de temps no fan tal vassallatge",
+        "Don sion ric,",
+        "E paupre silh que tenon pres NEnric"
+    ],
+    "Stanzas": [
+        [
+            "Ab marrimen et ab mala sabensa",
+            "Vuelh er chantar, si tot chans no magensa,",
+            "Quar valors a preza gran dechazensa",
+            "E paratges es mermatz en Proensa,",
+            "Et ai enic",
+            "Mon cor per la preizo del pros NEnric."
+        ],
+        [
+            "Ben deu esser marrida tota Espanha,",
+            "E Roma tanh e cove be que planha",
+            "Lo Senador franc e de bella companha,",
+            "Lo plus ardit de Burc tro en Alamanha.",
+            "A, trop falhic",
+            "Quascus quel camp laisset lo pros NEnric!"
+        ],
+        [
+            "Tug lEspanhol, del Gronh tro Compostelha,",
+            "Devon planher la preizo, que ges belha",
+            "Non fo ni es, dEn Enric de Castelha;",
+            "El reis NAnfos, que tant gent se capdelha",
+            "Ab sen antic,",
+            "Deu demandar tost son fraire NEnric."
+        ],
+        [
+            "Alaman flac, volpilh, de frevol malha,",
+            "Ja lo vers Dieus nous ajut ni vos valha,",
+            "Quar a NEnric falhistz a la batalha;",
+            "Aunidavetz Alamanha ses falha,",
+            "Malvatz mendic,",
+            "Quar sol laissetz el camp lo pros NEnric!"
+        ],
+        [
+            "Que per valor e per noble coratge",
+            "Mantenia NEnricx lonrat linhatge",
+            "De Colradi ab honrat vassalatge;",
+            "El reis NAnfos, ab son noble barnatge,",
+            "Quez al cor ric,",
+            "Deu demandar tost son fraire NEnric."
+        ],
+        [
+            "No tanh a rei, quez a tan ric coratge",
+            "Quoi reis NAnfos, e tan noble barnatge,",
+            "Lais estar pres home de son linhatge;",
+            "Doncs, elh nos tric",
+            "Que no deman tost son fraire NEnric."
+        ],
+        [
+            "Recrezensa faran e volpilhatge",
+            "Tug lEspanhol, silh que son de paratge,",
+            "Si n breu de temps no fan tal vassallatge",
+            "Don sion ric,",
+            "E paupre silh que tenon pres NEnric"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}

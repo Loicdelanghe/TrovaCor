@@ -1,0 +1,109 @@
+{
+    "Author": [
+        "Peire_Milo"
+    ],
+    "Genre": "Canso",
+    "Title": "Pos l'uns auzels envas l'autre satura ",
+    "FullText": [
+        "Pos l'uns auzels envas l'autre satura",
+        "de lais, de critz, de voutas, de chantar,",
+        "e per amor de plaire s'esbaudeia",
+        "eil riu son clar qi corren per valeia,",
+        "ben son doncs fols, q'en amor nom atur,",
+        "e car no soi ara gai e chantaire,",
+        "pois c'aissi es, eu chant e m'esbaudei,",
+        "e pois q'eu vei reverdir bosc e prea.",
+        "Per vos, amors, chascuns hom se meillura.",
+        "car hom n'es larcs e cortes et sap far",
+        "tot chauzimen, e per vos si domneia",
+        "drutz en chambra ab sa domna privea.",
+        "ben soi iratz car. per vos non meillur",
+        "e car non saup ancar qe fos a faire;",
+        "non sap qe fos domneiar ni domnei,",
+        "qe ma domna del tot s'en es alea.",
+        "Qel iorn q'ela se mira, non a cura",
+        "de negun hom qe la pogues amar,",
+        "ni non auzira hom qi la veia,",
+        "per q'ieu volgra qel mirador fos spea.",
+        "iurar vos puesc, domna, qe d'als non cur",
+        "ester de vos, de cui sui fiz amaire.",
+        "cant vostre cors avinent gart e vei,",
+        "mi par qe Deu sia en la contrea.",
+        "Ai, franca res, non siatz tant endura,",
+        "pois qe sabez q'eu no m'en puesc strar;",
+        "cant penz de vos, e non sai con se seia,",
+        "tot m'art del dol lo ventre e la coreia;",
+        "e ia non vol razon qe l'om s'endur",
+        "enver celui qi no s'en pot estraire",
+        "de lei amar, de servir, on si sei;",
+        "mas tal razo a vos nes agrea.",
+        "De tolz bos aibs poia, e donc peiura,",
+        "car il merces a leis non vol atrar.",
+        "ar qe farai, pois merces non l'autreia?",
+        "eu atendrai, d'aitant l'ai afieia.",
+        "que meillurar vol avanz q'eu peiur,",
+        "e sil plagues q'elam degnes atraire,",
+        "pois qe sos om liges a li mautrei,",
+        "er ben sorgoil en li fos avalea."
+    ],
+    "Stanzas": [
+        [
+            "Pos l'uns auzels envas l'autre satura",
+            "de lais, de critz, de voutas, de chantar,",
+            "e per amor de plaire s'esbaudeia",
+            "eil riu son clar qi corren per valeia,",
+            "ben son doncs fols, q'en amor nom atur,",
+            "e car no soi ara gai e chantaire,",
+            "pois c'aissi es, eu chant e m'esbaudei,",
+            "e pois q'eu vei reverdir bosc e prea."
+        ],
+        [
+            "Per vos, amors, chascuns hom se meillura.",
+            "car hom n'es larcs e cortes et sap far",
+            "tot chauzimen, e per vos si domneia",
+            "drutz en chambra ab sa domna privea.",
+            "ben soi iratz car. per vos non meillur",
+            "e car non saup ancar qe fos a faire;",
+            "non sap qe fos domneiar ni domnei,",
+            "qe ma domna del tot s'en es alea."
+        ],
+        [
+            "Qel iorn q'ela se mira, non a cura",
+            "de negun hom qe la pogues amar,",
+            "ni non auzira hom qi la veia,",
+            "per q'ieu volgra qel mirador fos spea.",
+            "iurar vos puesc, domna, qe d'als non cur",
+            "ester de vos, de cui sui fiz amaire.",
+            "cant vostre cors avinent gart e vei,",
+            "mi par qe Deu sia en la contrea."
+        ],
+        [
+            "Ai, franca res, non siatz tant endura,",
+            "pois qe sabez q'eu no m'en puesc strar;",
+            "cant penz de vos, e non sai con se seia,",
+            "tot m'art del dol lo ventre e la coreia;",
+            "e ia non vol razon qe l'om s'endur",
+            "enver celui qi no s'en pot estraire",
+            "de lei amar, de servir, on si sei;",
+            "mas tal razo a vos nes agrea."
+        ],
+        [
+            "De tolz bos aibs poia, e donc peiura,",
+            "car il merces a leis non vol atrar.",
+            "ar qe farai, pois merces non l'autreia?",
+            "eu atendrai, d'aitant l'ai afieia.",
+            "que meillurar vol avanz q'eu peiur,",
+            "e sil plagues q'elam degnes atraire,",
+            "pois qe sos om liges a li mautrei,",
+            "er ben sorgoil en li fos avalea."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Appel, Carl. Posies provenales indites tires des manuscrits dItalie (Suite). \"Revue des langues romanes\", 39 (1896)"
+}

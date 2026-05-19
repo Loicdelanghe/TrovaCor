@@ -1,0 +1,99 @@
+{
+    "Author": [
+        "Peire_Duran"
+    ],
+    "Genre": "Canso",
+    "Title": "Com cel qu'es pres e sap, son essien ",
+    "FullText": [
+        "Com cel qu'es pres e sap, son essien,",
+        "que nulhs esfors nol pot de mort gandir,",
+        "e pel greu dan que l'es en devenir,",
+        "s'om li fai mal, nol cal ni n'es clamaire,",
+        "soi ieu, amors, vostra mala merce,",
+        "que, sim faitz mal, nom clam ni men sove,",
+        "uefri'n patz com sel c'als non pot faire.",
+        "Et es vos lag, car quils sieus vens ni pren",
+        "senes forfach, nos pot d'enian esdir;",
+        "mas vos, amors, non es mas per ausir",
+        "mi, per qu'ieu falh, car non cug merce traire;",
+        "e ia morrai; aram diatz: per que?",
+        "qu'ieus ai servit et encar, per ma fe,",
+        "on pieitz mi faitz, vos soj pus fis amaire?",
+        "Mas yeu m'o lais el vostre chauzimen;",
+        "e vos amors, sieus plazia,sofrir",
+        "volcses c'ap lieis pogues vieur' o morir,",
+        "qui tostemps vos soj avutz preyaire",
+        "quel sieu bel cors dos e plazen e le",
+        "tengues baizan, que'l mon non es may re",
+        "'un iorn ses lieis mi pogues ioi atraire;",
+        "C'anc pus la vi ni l'agui fag presen",
+        "de mi, nom puec de nulh' autr'abelir.",
+        "doss'amia, de qui nom puesc partir,",
+        "pus d'autre ioj no soi gais ni chantaire",
+        "mas del vostre, quem capdel' em mante,",
+        "sieus plai mos chanz nil denhatz voler be,",
+        "vostre ioi er lo mieus emperaire.",
+        "Et s'ab aitan mi fais ric e iauzen,",
+        "vostr' er l'onors, car, s'ieu sai far ni dir",
+        "ren d'avinen, a vos fai a grazir",
+        ". . . . . . . . . ., car quils sieus sap re faire,",
+        "si enantis,  veus lo pro quen ave! ",
+        "car de s'onor tanh ades el cove",
+        "qu'el crescals sieus els sia larcx donaire."
+    ],
+    "Stanzas": [
+        [
+            "Com cel qu'es pres e sap, son essien,",
+            "que nulhs esfors nol pot de mort gandir,",
+            "e pel greu dan que l'es en devenir,",
+            "s'om li fai mal, nol cal ni n'es clamaire,",
+            "soi ieu, amors, vostra mala merce,",
+            "que, sim faitz mal, nom clam ni men sove,",
+            "uefri'n patz com sel c'als non pot faire."
+        ],
+        [
+            "Et es vos lag, car quils sieus vens ni pren",
+            "senes forfach, nos pot d'enian esdir;",
+            "mas vos, amors, non es mas per ausir",
+            "mi, per qu'ieu falh, car non cug merce traire;",
+            "e ia morrai; aram diatz: per que?",
+            "qu'ieus ai servit et encar, per ma fe,",
+            "on pieitz mi faitz, vos soj pus fis amaire?"
+        ],
+        [
+            "Mas yeu m'o lais el vostre chauzimen;",
+            "e vos amors, sieus plazia,sofrir",
+            "volcses c'ap lieis pogues vieur' o morir,",
+            "qui tostemps vos soj avutz preyaire",
+            "quel sieu bel cors dos e plazen e le",
+            "tengues baizan, que'l mon non es may re",
+            "'un iorn ses lieis mi pogues ioi atraire;"
+        ],
+        [
+            "C'anc pus la vi ni l'agui fag presen",
+            "de mi, nom puec de nulh' autr'abelir.",
+            "doss'amia, de qui nom puesc partir,",
+            "pus d'autre ioj no soi gais ni chantaire",
+            "mas del vostre, quem capdel' em mante,",
+            "sieus plai mos chanz nil denhatz voler be,",
+            "vostre ioi er lo mieus emperaire."
+        ],
+        [
+            "Et s'ab aitan mi fais ric e iauzen,",
+            "vostr' er l'onors, car, s'ieu sai far ni dir",
+            "ren d'avinen, a vos fai a grazir",
+            ". . . . . . . . . ., car quils sieus sap re faire,",
+            "si enantis,  veus lo pro quen ave! ",
+            "car de s'onor tanh ades el cove",
+            "qu'el crescals sieus els sia larcx donaire."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Appel, Carl. Provenzalische Inedita aus pariser Handschriften. Leipzig: Fuess Verlag, 1890"
+}

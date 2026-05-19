@@ -1,0 +1,54 @@
+{
+    "Author": [
+        "Pau_Lanfranc_de_Pistoja"
+    ],
+    "Genre": "Sonnet",
+    "Title": "Valenz Senher, rei dels Aragones ",
+    "FullText": [
+        "Valenz Senher, rei dels Aragones,",
+        "A qi prez es honors tut iorn enansa,",
+        "Remenbre vus, Senher, del Rei franzes",
+        "Qe vus venc a vezer e laiset Fransa",
+        "Ab dos sos fillz es ab aqel d'Artes;",
+        "Hanc no fes colp d'espaza ni de lansa",
+        "E mainz baros menet de lur paes:",
+        "Jorn de lur vida sai n'auran menbransa.",
+        "Nostre Senhier faccia a vus compagna",
+        "Per qe en ren no vus qal[la] duptar;",
+        "Tals quida hom qe perda qe gazaingna.",
+        "Seigner es de la terra e de la mar,",
+        "Per qe lo Rei Engles e sel d'Espangna",
+        "Ne varran mais, sils vorres aiudar."
+    ],
+    "Stanzas": [
+        [
+            "Valenz Senher, rei dels Aragones,",
+            "A qi prez es honors tut iorn enansa,",
+            "Remenbre vus, Senher, del Rei franzes",
+            "Qe vus venc a vezer e laiset Fransa"
+        ],
+        [
+            "Ab dos sos fillz es ab aqel d'Artes;",
+            "Hanc no fes colp d'espaza ni de lansa",
+            "E mainz baros menet de lur paes:",
+            "Jorn de lur vida sai n'auran menbransa."
+        ],
+        [
+            "Nostre Senhier faccia a vus compagna",
+            "Per qe en ren no vus qal[la] duptar;",
+            "Tals quida hom qe perda qe gazaingna."
+        ],
+        [
+            "Seigner es de la terra e de la mar,",
+            "Per qe lo Rei Engles e sel d'Espangna",
+            "Ne varran mais, sils vorres aiudar."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Bertoni, Giulio. I trovatori d'Italia. Modena: Editore Cav. Umberto Orlandini, 1915"
+}

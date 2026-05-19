@@ -1,0 +1,85 @@
+{
+    "Author": [
+        "Monge_de_Montaudo"
+    ],
+    "Genre": "Sirventes",
+    "Title": "Pois Peire d'Alvernh' a chantat ",
+    "FullText": [
+        "Molt mi platz deportz e gaieza,",
+        "Condugz e donars e proeza,",
+        "E dona franca e corteza",
+        "E de respondre ben apreza;",
+        "E platz m'a rie home franqueza,",
+        "E vas son enemic maleza.",
+        "E platz me hom que gen me sona",
+        "E qui de bo talan me doua,",
+        "E ri ex hom quan no mi tensona,",
+        "Em platz quim ditz be nim razona;",
+        "E dormir quan venta ni trona,",
+        "E gras salmos az ora nona.",
+        "E platz mi be lai en estiu",
+        "Quem sojorn a font o a riu,",
+        "Eill prat son vert el flors reviu",
+        "E li auzelhet chanton piu,",
+        "E m'amigua ve a celiu",
+        "E lo-y fauc una vetz de briu.",
+        "E platz mi be qui m'aculhia,",
+        "E quan gaire non truep fadia;",
+        "E platz mi solatz de m'amia,",
+        "Baizars e mais, si loi fazia;",
+        "E si m os enemicx perdia,",
+        "Mi platz, e plus s'ieu loi tolhia.",
+        "E plazon mi be companho",
+        "Cant entre mos enemicx so,",
+        "Et auze ben dir ma razo,",
+        "Et ill l'escouton a bando."
+    ],
+    "Stanzas": [
+        [
+            "Molt mi platz deportz e gaieza,",
+            "Condugz e donars e proeza,",
+            "E dona franca e corteza",
+            "E de respondre ben apreza;",
+            "E platz m'a rie home franqueza,",
+            "E vas son enemic maleza."
+        ],
+        [
+            "E platz me hom que gen me sona",
+            "E qui de bo talan me doua,",
+            "E ri ex hom quan no mi tensona,",
+            "Em platz quim ditz be nim razona;",
+            "E dormir quan venta ni trona,",
+            "E gras salmos az ora nona."
+        ],
+        [
+            "E platz mi be lai en estiu",
+            "Quem sojorn a font o a riu,",
+            "Eill prat son vert el flors reviu",
+            "E li auzelhet chanton piu,",
+            "E m'amigua ve a celiu",
+            "E lo-y fauc una vetz de briu."
+        ],
+        [
+            "E platz mi be qui m'aculhia,",
+            "E quan gaire non truep fadia;",
+            "E platz mi solatz de m'amia,",
+            "Baizars e mais, si loi fazia;",
+            "E si m os enemicx perdia,",
+            "Mi platz, e plus s'ieu loi tolhia."
+        ],
+        [
+            "E plazon mi be companho",
+            "Cant entre mos enemicx so,",
+            "Et auze ben dir ma razo,",
+            "Et ill l'escouton a bando."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " RIQUER, M. DE, Los trovadores: historia literaria y textos, Barcelone, 1975"
+}

@@ -1,0 +1,111 @@
+{
+    "Author": [
+        "Peire_Bremon_RIcas_Novas"
+    ],
+    "Genre": "Canso",
+    "Title": "Iratz chant e chantant m'irais ",
+    "FullText": [
+        "Iratz chant e chantant mirais,",
+        "ca chantar maven, mas bem pes ;",
+        "et es meills queu chant que mo lais,",
+        "si tot ma dompnam trana.",
+        "Trana me il ?  Oc.  Per que ?",
+        " Non sai ; mais nuls jois no men ve.",
+        "Ges non sapcha lo ram quem nais",
+        "el mal que ma lassat e pres ;",
+        "non cugladolorgesmapais ;",
+        "mas il men pot far mezina.",
+        "E faral me il ?  Non.  Per que ?",
+        " Nol platz per als non laissa re.",
+        "Gran mal mi fes qui lam pertrais,",
+        "mas lo mals, si Dieu platz, mer bes :",
+        "com plus es desiratz granz jais",
+        "mais val, e quant plus trana.",
+        "Mout ai dig que fols.  E per que ?",
+        " Ben leu plus tart naura merce.",
+        "Dos ans ai atendut et mais",
+        "lo don quem covenc em promes ;",
+        "mas ara sai que mans fols pais,",
+        "so di lo reproviers, farina.",
+        "Mout ai atendut.  E per que?",
+        " Dieus donen pauc dora gran be.",
+        "Mi donz mautrei, si tot mi trais ;",
+        "elsmals que so non fai ilh jes ;",
+        "e sel menti que mo retrais ;",
+        "anz es vas mi pure fina.",
+        "Fols es qui mal men di.  Per que ?",
+        " Car se tot ses vers eu nol cre.",
+        "Era sui plus que non suoill gais,",
+        "car ai lai mandat, on il es,",
+        "capropce tarit vas mi quem bais,",
+        "ans sai si vieingna tapina.",
+        "Mout ai faig gran orgoill.  Per que ?",
+        " Car lai mandat quelhveina me.",
+        "Ergoill ai faig ; non ai per que",
+        "us ... miels venir vas me."
+    ],
+    "Stanzas": [
+        [
+            "Iratz chant e chantant mirais,",
+            "ca chantar maven, mas bem pes ;",
+            "et es meills queu chant que mo lais,",
+            "si tot ma dompnam trana.",
+            "Trana me il ?  Oc.  Per que ?",
+            " Non sai ; mais nuls jois no men ve."
+        ],
+        [
+            "Ges non sapcha lo ram quem nais",
+            "el mal que ma lassat e pres ;",
+            "non cugladolorgesmapais ;",
+            "mas il men pot far mezina.",
+            "E faral me il ?  Non.  Per que ?",
+            " Nol platz per als non laissa re."
+        ],
+        [
+            "Gran mal mi fes qui lam pertrais,",
+            "mas lo mals, si Dieu platz, mer bes :",
+            "com plus es desiratz granz jais",
+            "mais val, e quant plus trana.",
+            "Mout ai dig que fols.  E per que ?",
+            " Ben leu plus tart naura merce."
+        ],
+        [
+            "Dos ans ai atendut et mais",
+            "lo don quem covenc em promes ;",
+            "mas ara sai que mans fols pais,",
+            "so di lo reproviers, farina.",
+            "Mout ai atendut.  E per que?",
+            " Dieus donen pauc dora gran be."
+        ],
+        [
+            "Mi donz mautrei, si tot mi trais ;",
+            "elsmals que so non fai ilh jes ;",
+            "e sel menti que mo retrais ;",
+            "anz es vas mi pure fina.",
+            "Fols es qui mal men di.  Per que ?",
+            " Car se tot ses vers eu nol cre."
+        ],
+        [
+            "Era sui plus que non suoill gais,",
+            "car ai lai mandat, on il es,",
+            "capropce tarit vas mi quem bais,",
+            "ans sai si vieingna tapina.",
+            "Mout ai faig gran orgoill.  Per que ?",
+            " Car lai mandat quelhveina me."
+        ],
+        [
+            "Ergoill ai faig ; non ai per que",
+            "us ... miels venir vas me."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Boutire, Jean. Les posies du troubadour Peire Bremon Ricas Novas. Toulouse - Paris: douard Privat - Henri Didier, 1930"
+}
