@@ -1,0 +1,113 @@
+{
+    "Author": [
+        "Pons_de_la_Garda"
+    ],
+    "Genre": "Canso",
+    "Title": "Sitot nom ai al cor gran alegransa ",
+    "FullText": [
+        "Sitot nom ai al cor gran alegransa,",
+        "si dey chantar e far bella semblansa ;",
+        "e per som platz cobrir ma malanansa",
+        "qu'ieu no vuelh dar gaug a mos enemis.",
+        "E sin diray alques de mos talans,",
+        "per paor moutz a dire.",
+        "Era no sai deves qual part me vire,",
+        "pus mey amic ponhon en me aucire :",
+        "que tals m'a fach so don planc e sospire",
+        "qu'ieus pliu ma fe qu'ieu cugey esser fis",
+        "qu'el m'en serques mos pros e mos enans.",
+        "Mas aissi falh hom e manhta fazenda.",
+        "Non dirai tan que negus hom mentenda,",
+        "ni d'aquest tort no vuelh aver esmenda :",
+        "si mal m'es pres, no vuelh que piegz mi prenda.",
+        "Ai, cum fora gueritz s'ieu ja no vis",
+        "lo jorn qu'ieu vi ni conuc los enjans",
+        "quem fetz aisselh don no vuelh mantenensa !",
+        "Mas yeu sai ben qu'ilh a tal conoyssensa",
+        " may per si eys que per autra temensa ",
+        "ques laissara enves mi far falhensa",
+        "e quem sera leyals amicx e fis.",
+        "Mas ja nulh temps, si vivia mil ans,",
+        "o loy dirai s'ilh non o vol entendre.",
+        "Soen mi fai Amors ab se contendre :",
+        "quan cug pojar, lom cove a deissendre.",
+        "Mal ajal jorns qu'Amors mi fetz emprendre !",
+        "Quar s'ieu ames aisi com mos vezis,",
+        "non sofrira las penas nils afans",
+        "quem fai sufrir Amors la nueg el dia.",
+        "En aisso fai Amors gran vilania :",
+        "menhs fai de be a sselh qne mais s'i fia.",
+        "Qu'ieu mi rancur d'Amor e de m'amia",
+        "a cuy aurai loncx temps estat aclis ;",
+        "el guizardos no'm es res mas affans,",
+        "mas yeulh servi tostemps de bon coratge.",
+        "Dieus mi laisses vezer ans qu'ieu moris",
+        "cum fos mos pros, e ja no fos mos dans",
+        "vostr'amor, dompna de bon linhatge !"
+    ],
+    "Stanzas": [
+        [
+            "Sitot nom ai al cor gran alegransa,",
+            "si dey chantar e far bella semblansa ;",
+            "e per som platz cobrir ma malanansa",
+            "qu'ieu no vuelh dar gaug a mos enemis.",
+            "E sin diray alques de mos talans,",
+            "per paor moutz a dire."
+        ],
+        [
+            "Era no sai deves qual part me vire,",
+            "pus mey amic ponhon en me aucire :",
+            "que tals m'a fach so don planc e sospire",
+            "qu'ieus pliu ma fe qu'ieu cugey esser fis",
+            "qu'el m'en serques mos pros e mos enans.",
+            "Mas aissi falh hom e manhta fazenda."
+        ],
+        [
+            "Non dirai tan que negus hom mentenda,",
+            "ni d'aquest tort no vuelh aver esmenda :",
+            "si mal m'es pres, no vuelh que piegz mi prenda.",
+            "Ai, cum fora gueritz s'ieu ja no vis",
+            "lo jorn qu'ieu vi ni conuc los enjans",
+            "quem fetz aisselh don no vuelh mantenensa !"
+        ],
+        [
+            "Mas yeu sai ben qu'ilh a tal conoyssensa",
+            " may per si eys que per autra temensa ",
+            "ques laissara enves mi far falhensa",
+            "e quem sera leyals amicx e fis.",
+            "Mas ja nulh temps, si vivia mil ans,",
+            "o loy dirai s'ilh non o vol entendre."
+        ],
+        [
+            "Soen mi fai Amors ab se contendre :",
+            "quan cug pojar, lom cove a deissendre.",
+            "Mal ajal jorns qu'Amors mi fetz emprendre !",
+            "Quar s'ieu ames aisi com mos vezis,",
+            "non sofrira las penas nils afans",
+            "quem fai sufrir Amors la nueg el dia."
+        ],
+        [
+            "En aisso fai Amors gran vilania :",
+            "menhs fai de be a sselh qne mais s'i fia.",
+            "Qu'ieu mi rancur d'Amor e de m'amia",
+            "a cuy aurai loncx temps estat aclis ;",
+            "el guizardos no'm es res mas affans,",
+            "mas yeulh servi tostemps de bon coratge."
+        ],
+        [
+            "Dieus mi laisses vezer ans qu'ieu moris",
+            "cum fos mos pros, e ja no fos mos dans",
+            "vostr'amor, dompna de bon linhatge !"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Frank, Istvn. Pons de la Guardia, troubadour catalan du XIIe sicle. \"Boletn de la Real Academia de Buenas Letras de Barcelona\", 22 (1949)"
+}

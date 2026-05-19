@@ -1,0 +1,101 @@
+{
+    "Author": [
+        "Raimon_Jordan"
+    ],
+    "Genre": "Canso",
+    "Title": "Quan la neus chai e gibron li verjan ",
+    "FullText": [
+        "Quan la neus chai e gibron li verjan,",
+        "ey mielhs chantar que quan la flors s'espan,",
+        "qu'en tal amor ai virat mon demor",
+        "quem tolh esmay em te guay e prezan",
+        "per sol l'esper qu'ay d'un ioy, quem sofer.",
+        "Mas a per pauc nom suy laissatz de chan",
+        "per la falsa quem trazic ab enjan;",
+        "e mostret hi a las autras mal for;",
+        "mas a ssa part en retenc l'ant' el dan",
+        "blasme don ia ses lieys non er.",
+        "Per so la lays els covens li desman,",
+        "qu'en mi non a part ni dreit ni deman,",
+        "qu'a plus valen do et autrey mon cor,",
+        "e s'a lieys platz quel prend'en son coman,",
+        "bem fai amors l'esmenda quel cors quer.",
+        "Mas la belha non sap ges mon talan,",
+        "qu'ieu nol aus dir ni nol n'ai fag semblan;",
+        "mas be sapcha per ver quel sieus hom mor,",
+        "si nom acorr el dezir nom eschan;",
+        "quar dic tan, ia nol sia de fer.",
+        "Per aissom vauc de s'amor conortan",
+        "quar non a cor camjador ni truan;",
+        "e per so crey que n'issirai azor,",
+        "quar paupres hom se met tant en afan",
+        "qu'ab gent servir bon guizardo enquer;",
+        "Qu'ieulh serviray huey mais, cossi que m'an,",
+        "e serai li leyals e ses enjan",
+        "mielhs qu'Elena no fo al frair Ector;",
+        "e s'a lieys platz, mon servir nom soan,",
+        "qu'anc non amet Hero tant Leandier.",
+        "Guari, huey mais servirai de bon cor",
+        "a tal domna que no cug quem enjan,",
+        "uizardo quals er."
+    ],
+    "Stanzas": [
+        [
+            "Quan la neus chai e gibron li verjan,",
+            "ey mielhs chantar que quan la flors s'espan,",
+            "qu'en tal amor ai virat mon demor",
+            "quem tolh esmay em te guay e prezan",
+            "per sol l'esper qu'ay d'un ioy, quem sofer."
+        ],
+        [
+            "Mas a per pauc nom suy laissatz de chan",
+            "per la falsa quem trazic ab enjan;",
+            "e mostret hi a las autras mal for;",
+            "mas a ssa part en retenc l'ant' el dan",
+            "blasme don ia ses lieys non er."
+        ],
+        [
+            "Per so la lays els covens li desman,",
+            "qu'en mi non a part ni dreit ni deman,",
+            "qu'a plus valen do et autrey mon cor,",
+            "e s'a lieys platz quel prend'en son coman,",
+            "bem fai amors l'esmenda quel cors quer."
+        ],
+        [
+            "Mas la belha non sap ges mon talan,",
+            "qu'ieu nol aus dir ni nol n'ai fag semblan;",
+            "mas be sapcha per ver quel sieus hom mor,",
+            "si nom acorr el dezir nom eschan;",
+            "quar dic tan, ia nol sia de fer."
+        ],
+        [
+            "Per aissom vauc de s'amor conortan",
+            "quar non a cor camjador ni truan;",
+            "e per so crey que n'issirai azor,",
+            "quar paupres hom se met tant en afan",
+            "qu'ab gent servir bon guizardo enquer;"
+        ],
+        [
+            "Qu'ieulh serviray huey mais, cossi que m'an,",
+            "e serai li leyals e ses enjan",
+            "mielhs qu'Elena no fo al frair Ector;",
+            "e s'a lieys platz, mon servir nom soan,",
+            "qu'anc non amet Hero tant Leandier."
+        ],
+        [
+            "Guari, huey mais servirai de bon cor",
+            "a tal domna que no cug quem enjan,",
+            "uizardo quals er."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Appel, Carl. Provenzalische Inedita aus pariser Handschriften. Leipzig: Fuess Verlag, 1890"
+}

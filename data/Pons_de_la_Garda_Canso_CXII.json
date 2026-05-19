@@ -1,0 +1,116 @@
+{
+    "Author": [
+        "Pons_de_la_Garda"
+    ],
+    "Genre": "Canso",
+    "Title": "De chantar dei aver talan ",
+    "FullText": [
+        " De chantar dei aver talan",
+        "per ioi de lei, que vol ma conoisensa,",
+        " c'ades dei voler de mon chan,",
+        "sia volgutz et ausitz en Proensa,",
+        "que ben conosc c'a las donas agensa,",
+        "  et ain en mon cor ioi tan gran",
+        "per que iauzen chantarai darenan.",
+        " Per honor ai sufert afan;",
+        ". . . . . . . . . . . . . . . . . . . .",
+        "  c'om en re no pot aver dan,",
+        "pos gent onratz n'es, a ma conoisensa,",
+        "qu'ieu ai tan aut poiada m'entendensa",
+        "  que m'es grans honors, com quem n'an,",
+        "quar sol sufer qu'ieu s'amor li deman.",
+        " Per so l'am ieu per bona fe",
+        "e mon poder, si dieus me benezia;",
+        "  e l'amors duraram iase,",
+        "pos a vos platz queus am, ma bel'amia. ",
+        "amiguaus clam? dieus vueilla que vers sia.",
+        "  don', amigua m'es vos, so cre,",
+        "pos tot lo ioi me das qu'ieu ai ab me.",
+        " Qui lam mentau, tals iois me<sup>.</sup>n ve,",
+        "mos amicx es totz hom que re men dia,",
+        "  e vueill l'en ins en mon cor be;",
+        "mas nol aus mostrar meillor partia,",
+        "ans fauc semblan que d'autre ioc me ria.",
+        "  e s'ieu de parlar me refre,",
+        "lai tenc lo cor on n'aug retraire re,",
+        " Ab lei, que m'a fag tan d'onor",
+        "que bon men es lo parlars el dezire,",
+        "  e bon, quan pens de sa valor,",
+        "e quan la vei, meillor qu'ieu no sai dire,",
+        "qu'ieu soi plus bels, quan sa beutat remire;",
+        "  e car ia tenc mos hueils aillor,",
+        "per trop temer ho fauc e per paor.",
+        " Tostemps m'aun fait lauzeniador",
+        "mal et enuei, damidieus los azire!",
+        "  trops n'i a mals, mas un en sai peior,",
+        "c'aisel me vol de tot en tot ausire;",
+        "mas bon conort n'ai, quan ve mo consire,",
+        "  c'anc per lauzengiers bon'amor",
+        "no vim faillir; mas no rema en lor."
+    ],
+    "Stanzas": [
+        [
+            " De chantar dei aver talan",
+            "per ioi de lei, que vol ma conoisensa,",
+            " c'ades dei voler de mon chan,",
+            "sia volgutz et ausitz en Proensa,",
+            "que ben conosc c'a las donas agensa,",
+            "  et ain en mon cor ioi tan gran",
+            "per que iauzen chantarai darenan."
+        ],
+        [
+            " Per honor ai sufert afan;",
+            ". . . . . . . . . . . . . . . . . . . .",
+            "  c'om en re no pot aver dan,",
+            "pos gent onratz n'es, a ma conoisensa,",
+            "qu'ieu ai tan aut poiada m'entendensa",
+            "  que m'es grans honors, com quem n'an,",
+            "quar sol sufer qu'ieu s'amor li deman."
+        ],
+        [
+            " Per so l'am ieu per bona fe",
+            "e mon poder, si dieus me benezia;",
+            "  e l'amors duraram iase,",
+            "pos a vos platz queus am, ma bel'amia. ",
+            "amiguaus clam? dieus vueilla que vers sia.",
+            "  don', amigua m'es vos, so cre,",
+            "pos tot lo ioi me das qu'ieu ai ab me."
+        ],
+        [
+            " Qui lam mentau, tals iois me<sup>.</sup>n ve,",
+            "mos amicx es totz hom que re men dia,",
+            "  e vueill l'en ins en mon cor be;",
+            "mas nol aus mostrar meillor partia,",
+            "ans fauc semblan que d'autre ioc me ria.",
+            "  e s'ieu de parlar me refre,",
+            "lai tenc lo cor on n'aug retraire re,"
+        ],
+        [
+            " Ab lei, que m'a fag tan d'onor",
+            "que bon men es lo parlars el dezire,",
+            "  e bon, quan pens de sa valor,",
+            "e quan la vei, meillor qu'ieu no sai dire,",
+            "qu'ieu soi plus bels, quan sa beutat remire;",
+            "  e car ia tenc mos hueils aillor,",
+            "per trop temer ho fauc e per paor."
+        ],
+        [
+            " Tostemps m'aun fait lauzeniador",
+            "mal et enuei, damidieus los azire!",
+            "  trops n'i a mals, mas un en sai peior,",
+            "c'aisel me vol de tot en tot ausire;",
+            "mas bon conort n'ai, quan ve mo consire,",
+            "  c'anc per lauzengiers bon'amor",
+            "no vim faillir; mas no rema en lor."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Frank, Istvn. Pons de la Guardia, troubadour catalan du XIIe sicle. \"Boletn de la Real Academia de Buenas Letras de Barcelona\", 22 (1949)"
+}

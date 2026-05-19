@@ -1,0 +1,118 @@
+{
+    "Author": [
+        "Raimon_de_Castelnou"
+    ],
+    "Genre": "Canso",
+    "Title": "Aras, pus ai luec e sazo ",
+    "FullText": [
+        "Aras, pus ai luec e sazo,",
+        "m'esbelh qu'ieu chantd'unarazo",
+        "quelacoynda, gay'e plazens",
+        "m'amandat qu'ieuperlieys comens",
+        " . . . . . . . . . . . . . . .",
+        "et ieu vuelh estr' obediens",
+        "erenant als sieus mandamens,",
+        " si cum lieys plaira plaire.",
+        "Jeu no sai nulh tan aut baro,",
+        "sol qu'a lieys denhes saber bo",
+        "silh era francx e ben volens,",
+        "que non degues esser iauzens,",
+        " tant es de gentil aire,",
+        "qu'en lieys renha beutatz e sens,",
+        "laus e pretz et ensenhamens,",
+        " e ioys en son repaire.",
+        "E quant aitals domna<sup>.</sup>m somo",
+        "e chantar, ai ben ocayzo",
+        "on deu esser mos chans valens",
+        "entrels adreitz els conoyssens;",
+        " si s'er al mieu veiayre,",
+        "si doncx no mi notz espavens,",
+        "que non a par mos garnimens,",
+        " qui la ve ses dey traire.",
+        "E doncas, as tu sospeisso",
+        "quet vuella d'amor tener pro,",
+        "si tot t'acuelh ab huelhs rizens",
+        "ni l'es vengutz abelhimens",
+        " que sias sos chantaire? ",
+        "o ieu, qu'amors et astres vens",
+        "los pus fortz, et es men guirens",
+        " lo seynher de Belcaire.",
+        "E per so crey, s'ieu m'abando",
+        "'aver fin cor leyal e bo,",
+        "qu'en ben amar no sia lens,",
+        "e l'obra el captenemens",
+        " sia quol filhs el paire,",
+        "nobles er lo conqueremens,",
+        "e seram donatz iauzimens",
+        " de dompna ses cor vaire.",
+        "E na Jauzida ys iauzimens,",
+        "que ia d'aisso que ben comens,",
+        " nos volra pueys estraire."
+    ],
+    "Stanzas": [
+        [
+            "Aras, pus ai luec e sazo,",
+            "m'esbelh qu'ieu chantd'unarazo",
+            "quelacoynda, gay'e plazens",
+            "m'amandat qu'ieuperlieys comens",
+            " . . . . . . . . . . . . . . .",
+            "et ieu vuelh estr' obediens",
+            "erenant als sieus mandamens,",
+            " si cum lieys plaira plaire."
+        ],
+        [
+            "Jeu no sai nulh tan aut baro,",
+            "sol qu'a lieys denhes saber bo",
+            "silh era francx e ben volens,",
+            "que non degues esser iauzens,",
+            " tant es de gentil aire,",
+            "qu'en lieys renha beutatz e sens,",
+            "laus e pretz et ensenhamens,",
+            " e ioys en son repaire."
+        ],
+        [
+            "E quant aitals domna<sup>.</sup>m somo",
+            "e chantar, ai ben ocayzo",
+            "on deu esser mos chans valens",
+            "entrels adreitz els conoyssens;",
+            " si s'er al mieu veiayre,",
+            "si doncx no mi notz espavens,",
+            "que non a par mos garnimens,",
+            " qui la ve ses dey traire."
+        ],
+        [
+            "E doncas, as tu sospeisso",
+            "quet vuella d'amor tener pro,",
+            "si tot t'acuelh ab huelhs rizens",
+            "ni l'es vengutz abelhimens",
+            " que sias sos chantaire? ",
+            "o ieu, qu'amors et astres vens",
+            "los pus fortz, et es men guirens",
+            " lo seynher de Belcaire."
+        ],
+        [
+            "E per so crey, s'ieu m'abando",
+            "'aver fin cor leyal e bo,",
+            "qu'en ben amar no sia lens,",
+            "e l'obra el captenemens",
+            " sia quol filhs el paire,",
+            "nobles er lo conqueremens,",
+            "e seram donatz iauzimens",
+            " de dompna ses cor vaire."
+        ],
+        [
+            "E na Jauzida ys iauzimens,",
+            "que ia d'aisso que ben comens,",
+            " nos volra pueys estraire."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+    ],
+    "Source": " Appel, Carl. Provenzalische Inedita aus pariser Handschriften. Leipzig: Fuess Verlag, 1890"
+}

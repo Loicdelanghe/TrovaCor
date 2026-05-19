@@ -1,0 +1,82 @@
+{
+    "Author": [
+        "Raimbaut_de_Vaqueiras"
+    ],
+    "Genre": "Alba",
+    "Title": "Gaita be,     gaiteta del chastel, ",
+    "FullText": [
+        "Gaita be,     gaiteta del chastel,",
+        "quan la re     que plus mes bon e bel",
+        "ai a me      trosqu a lalba.",
+        "El jornz ve     e non lapel;",
+        "joc novel",
+        "mi tol lalba,",
+        "lalba, oi lalba!",
+        "Gait, amics,     e veilh e crid e bray,",
+        "queu sui ricx     e so queu plus voilh ai.",
+        "Mais enics     sui de lalba,",
+        "el destrics     quel jorn nos fai",
+        "mi desplai",
+        "plus que lalba,",
+        "lalba, oi lalba!",
+        "Gaitaz vos,     gaiteta de la tor,",
+        "del gelos,     vostre malvays seynor,",
+        "enujos     plus que lalba,",
+        "que za jos     parlam damor.",
+        "Mas paor",
+        "nos fai lalba,",
+        "lalba, oi lalba!",
+        "Domn, adeu!     que non puis mais estar;",
+        "malgrat meu     men coven ad annar.",
+        "Mais tan greu     mes de lalba,",
+        "que tan leu     la vei levar;",
+        "enganar",
+        "nos vol lalba,",
+        "lalba, oi lalba!"
+    ],
+    "Stanzas": [
+        [
+            "Gaita be,     gaiteta del chastel,",
+            "quan la re     que plus mes bon e bel",
+            "ai a me      trosqu a lalba.",
+            "El jornz ve     e non lapel;",
+            "joc novel",
+            "mi tol lalba,",
+            "lalba, oi lalba!"
+        ],
+        [
+            "Gait, amics,     e veilh e crid e bray,",
+            "queu sui ricx     e so queu plus voilh ai.",
+            "Mais enics     sui de lalba,",
+            "el destrics     quel jorn nos fai",
+            "mi desplai",
+            "plus que lalba,",
+            "lalba, oi lalba!"
+        ],
+        [
+            "Gaitaz vos,     gaiteta de la tor,",
+            "del gelos,     vostre malvays seynor,",
+            "enujos     plus que lalba,",
+            "que za jos     parlam damor.",
+            "Mas paor",
+            "nos fai lalba,",
+            "lalba, oi lalba!"
+        ],
+        [
+            "Domn, adeu!     que non puis mais estar;",
+            "malgrat meu     men coven ad annar.",
+            "Mais tan greu     mes de lalba,",
+            "que tan leu     la vei levar;",
+            "enganar",
+            "nos vol lalba,",
+            "lalba, oi lalba!"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Linskill, Joseph. The Poems of The Troubadour Raimbaut de Vaqueiras. The Hague: Mouton & Co"
+}

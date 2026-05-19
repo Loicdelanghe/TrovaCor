@@ -1,0 +1,89 @@
+{
+    "Author": [
+        "Raimon_de_Castelnou"
+    ],
+    "Genre": "Canso",
+    "Title": "Entr'ira et alegrier ",
+    "FullText": [
+        " Entr'ira et alegrier",
+        " m'estau rizen e ploran",
+        " si cum selh que mor aman,",
+        "quar un'amors, qu'en mi renha,",
+        " mi ten destreg iauzion,",
+        " que m'enriquis em cofon.",
+        " Mietz morts vau per un semdier,",
+        " mas mas iuntas e doblan,",
+        " ves lieys torsen e dressan;",
+        "e no sai qual part mi tenha,",
+        " qu'en quascuna si rescon",
+        " so quem te plus deziron.",
+        " Siey belh dig frag et entier",
+        " mi van prenden encaussan",
+        " si cum fals fi ses enjan.",
+        "ab mout subtil entresenha",
+        " mi vai ponhen prim preon;",
+        " e si tot ditz, non respon.",
+        " Al sieu gent cors ufanier",
+        " venc de ginolhos denan,",
+        " mas mas iuntas merceyan,",
+        "que, s'a lieys platz quem retenha,",
+        " no vuel plus en aquest mon,",
+        " sol dieus mi gart del segon;",
+        " Qu'ieu no y vuel ia parsonier,",
+        " ni dreit non a i pauc ni gran,",
+        " qu'ieu suy totz a son coman,",
+        "ben volens qu'autra non denha,",
+        " qu'ab sola lieys quem aon,",
+        " non dupti neys l'aurion."
+    ],
+    "Stanzas": [
+        [
+            " Entr'ira et alegrier",
+            " m'estau rizen e ploran",
+            " si cum selh que mor aman,",
+            "quar un'amors, qu'en mi renha,",
+            " mi ten destreg iauzion,",
+            " que m'enriquis em cofon."
+        ],
+        [
+            " Mietz morts vau per un semdier,",
+            " mas mas iuntas e doblan,",
+            " ves lieys torsen e dressan;",
+            "e no sai qual part mi tenha,",
+            " qu'en quascuna si rescon",
+            " so quem te plus deziron."
+        ],
+        [
+            " Siey belh dig frag et entier",
+            " mi van prenden encaussan",
+            " si cum fals fi ses enjan.",
+            "ab mout subtil entresenha",
+            " mi vai ponhen prim preon;",
+            " e si tot ditz, non respon."
+        ],
+        [
+            " Al sieu gent cors ufanier",
+            " venc de ginolhos denan,",
+            " mas mas iuntas merceyan,",
+            "que, s'a lieys platz quem retenha,",
+            " no vuel plus en aquest mon,",
+            " sol dieus mi gart del segon;"
+        ],
+        [
+            " Qu'ieu no y vuel ia parsonier,",
+            " ni dreit non a i pauc ni gran,",
+            " qu'ieu suy totz a son coman,",
+            "ben volens qu'autra non denha,",
+            " qu'ab sola lieys quem aon,",
+            " non dupti neys l'aurion."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Appel, Carl. Provenzalische Inedita aus pariser Handschriften. Leipzig: Fuess Verlag, 1890"
+}

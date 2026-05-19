@@ -1,0 +1,127 @@
+{
+    "Author": [
+        "Raimon_de_Castelnou"
+    ],
+    "Genre": "Canso",
+    "Title": "Ges,  si  tot  estan  suau  ",
+    "FullText": [
+        "Ges,  si  tot  estan  suau",
+        "Cels  qui  solion  cantar,",
+        "No  lais  qu'  ades  alegrar",
+        "No  m  volha  si  com  solia;",
+        "Qu'  aucse  m  platz  que  cant'  e  ria,",
+        "E  tenga  solatz  e  joia,",
+        "Si  tot  pez'  a  la  gen  croia.",
+        "De  dieu  e  d'  amor  me  lau,",
+        "Qu'  els  me  fan  jauzen  estar,",
+        "E  tot  cn  patz  suffertar.",
+        "So  don  autre  s  plangeria:",
+        "E  per  els  jau  tal  amia",
+        "Cui  platz  mos  bes  e  ma  joia,",
+        "Tan  qu'  ieu  pretz  mens  la  gen  croia.",
+        "E  si  Is  aug  ien  totz  a  frau",
+        "Pro  vetz  de  me  mal  parlar,",
+        "E  de  mon  joi  rancurar.",
+        "E  si  quascus  d'  els  sabia",
+        "Lo  be  que  m  creis  quascun  dia,",
+        "E  la  honor  e  la  joia,",
+        "Veiratz  mazan  de  gen  croia.",
+        "E ja  miei  enemic  brau",
+        "No  m  cujon  de  joi  ostar,",
+        "Qu'  enans  me  fan  esforsar;",
+        "Don  lor  creis  ir'  e  feunia,",
+        "E  vilana  gelozia,",
+        "A  mi  benanans'  e  joia:",
+        "Que  aissi  m  vengi  de  gen  croia,",
+        "Mas  cels  en  cui  pretz  s'  enclau",
+        "Am  ieu  e  dei  ben  amar,",
+        "Qu'  on  plus  me  veiran  montar",
+        "En  bes  c  mais  lor  plairia.",
+        "A  mi  platz  lor  cortezia,",
+        "Lor  creiesemens  e  lor  joia,",
+        "Don  fan  languir  la  gen  croia.",
+        "Domna,  cel  qui  vos  mentau",
+        "Volh  be  qu'  ieu  aia  '1  cor  clar,",
+        "Qu'  ades  quan  vos  aug  nomnar",
+        "M'  es  vejaire  qu'  ab  vos  sia.",
+        "E  si  m  soi  ieu  tota  via,",
+        "Qu'  el  cor  es  ab  vos  en  joia",
+        "Qu'  es  londana  de  gen  croia.",
+        "Mos  pas  ades  se  cambia",
+        "De  ben  en  miels  tota  via,",
+        "Qu'  ilh  es  fontana  de  joia",
+        "E  ditz  mat  a  la  gen  croia."
+    ],
+    "Stanzas": [
+        [
+            "Ges,  si  tot  estan  suau",
+            "Cels  qui  solion  cantar,",
+            "No  lais  qu'  ades  alegrar",
+            "No  m  volha  si  com  solia;",
+            "Qu'  aucse  m  platz  que  cant'  e  ria,",
+            "E  tenga  solatz  e  joia,",
+            "Si  tot  pez'  a  la  gen  croia."
+        ],
+        [
+            "De  dieu  e  d'  amor  me  lau,",
+            "Qu'  els  me  fan  jauzen  estar,",
+            "E  tot  cn  patz  suffertar.",
+            "So  don  autre  s  plangeria:",
+            "E  per  els  jau  tal  amia",
+            "Cui  platz  mos  bes  e  ma  joia,",
+            "Tan  qu'  ieu  pretz  mens  la  gen  croia."
+        ],
+        [
+            "E  si  Is  aug  ien  totz  a  frau",
+            "Pro  vetz  de  me  mal  parlar,",
+            "E  de  mon  joi  rancurar.",
+            "E  si  quascus  d'  els  sabia",
+            "Lo  be  que  m  creis  quascun  dia,",
+            "E  la  honor  e  la  joia,",
+            "Veiratz  mazan  de  gen  croia."
+        ],
+        [
+            "E ja  miei  enemic  brau",
+            "No  m  cujon  de  joi  ostar,",
+            "Qu'  enans  me  fan  esforsar;",
+            "Don  lor  creis  ir'  e  feunia,",
+            "E  vilana  gelozia,",
+            "A  mi  benanans'  e  joia:",
+            "Que  aissi  m  vengi  de  gen  croia,"
+        ],
+        [
+            "Mas  cels  en  cui  pretz  s'  enclau",
+            "Am  ieu  e  dei  ben  amar,",
+            "Qu'  on  plus  me  veiran  montar",
+            "En  bes  c  mais  lor  plairia.",
+            "A  mi  platz  lor  cortezia,",
+            "Lor  creiesemens  e  lor  joia,",
+            "Don  fan  languir  la  gen  croia."
+        ],
+        [
+            "Domna,  cel  qui  vos  mentau",
+            "Volh  be  qu'  ieu  aia  '1  cor  clar,",
+            "Qu'  ades  quan  vos  aug  nomnar",
+            "M'  es  vejaire  qu'  ab  vos  sia.",
+            "E  si  m  soi  ieu  tota  via,",
+            "Qu'  el  cor  es  ab  vos  en  joia",
+            "Qu'  es  londana  de  gen  croia."
+        ],
+        [
+            "Mos  pas  ades  se  cambia",
+            "De  ben  en  miels  tota  via,",
+            "Qu'  ilh  es  fontana  de  joia",
+            "E  ditz  mat  a  la  gen  croia."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " MAHN, C. A. F., Die Werke der Troubadours in provenzalischer Sprache, 4 tomes, Berlin, 1846-1853"
+}

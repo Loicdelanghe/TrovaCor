@@ -1,0 +1,59 @@
+{
+    "Author": [
+        "Raimbaut_de_Vaqueiras"
+    ],
+    "Genre": "Canso",
+    "Title": "Altas undas que venez suz la mar, ",
+    "FullText": [
+        "Altas undas que venez suz la mar,",
+        "que fay lo vent ay e lay demenar,",
+        "de mun amic sabez novas comtar,",
+        "qui lay passet? No lo vei retornar!",
+        "Et oy Deu, damor!",
+        "Ad horam dona joi et ad hora dolor!",
+        "Oy, aura dulza, qui vens dever lai",
+        "un mun amic dorm e sejorn e jai,",
+        "del dolz aleyn un beure maportay!",
+        "La bocha obre, per gran desir quen ai.",
+        "Et oy Deu, damor!",
+        "Ad horam dona joi e ad hora dolor!",
+        "Mal amar fai vassal destran pas,",
+        "car en plor tornan e sos jocs e sos ris.",
+        "Ja nun cudey mun amic me tras,",
+        "queu li doney o que damor me quis.",
+        "Et oy Deu, damor!",
+        "Ad horam dona joi et ad hora dolor!"
+    ],
+    "Stanzas": [
+        [
+            "Altas undas que venez suz la mar,",
+            "que fay lo vent ay e lay demenar,",
+            "de mun amic sabez novas comtar,",
+            "qui lay passet? No lo vei retornar!",
+            "Et oy Deu, damor!",
+            "Ad horam dona joi et ad hora dolor!"
+        ],
+        [
+            "Oy, aura dulza, qui vens dever lai",
+            "un mun amic dorm e sejorn e jai,",
+            "del dolz aleyn un beure maportay!",
+            "La bocha obre, per gran desir quen ai.",
+            "Et oy Deu, damor!",
+            "Ad horam dona joi e ad hora dolor!"
+        ],
+        [
+            "Mal amar fai vassal destran pas,",
+            "car en plor tornan e sos jocs e sos ris.",
+            "Ja nun cudey mun amic me tras,",
+            "queu li doney o que damor me quis.",
+            "Et oy Deu, damor!",
+            "Ad horam dona joi et ad hora dolor!"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Linskill, Joseph. The Poems of The Troubadour Raimbaut de Vaqueiras. The Hague: Mouton & Co"
+}

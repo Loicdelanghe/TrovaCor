@@ -1,0 +1,137 @@
+{
+    "Author": [
+        "Raimbaut_dAurainga"
+    ],
+    "Genre": "Canso",
+    "Title": "Ben s'eschai q'en bona cort ",
+    "FullText": [
+        "Ben s'eschai q'en bona cort",
+        "Chan qui chantar sap:",
+        "E ieu atendrai mon gap",
+        "Don mi tenrai plus per lort;",
+        "Car sabran li sec eil sort",
+        "Q'ieu n'aurai pretz, qui q'en jap,",
+        "Dels vint qe serem el trap.",
+        "Donc l'endeman del beort",
+        "Levarai el cap",
+        "La gran corona de drap.",
+        "An Mita ab lo nas cort,",
+        "E qui l'apella dreich bort",
+        "Lau que la lenga l'arap",
+        "Que mais fols motz noill escap!",
+        "Aissi ai bastit en gaug",
+        "Mon cor nou e fresc,",
+        "C'ades sort e saill e tresc",
+        "Si q'apenas veig ni aug;",
+        "E sapchal donz de Talaug",
+        "Q'ieu non sui cel que paresc:",
+        "Q'en autre sen m'entrebesc.",
+        "E quis vol, corn, crit e flaug",
+        "D'amor, pos ieu cresc",
+        "Sobre totz, c'als q'en fol pesc!",
+        "Q'eu am des Luc tro ad Aug",
+        "La genssor, e m'en pelaug",
+        "Tot hom c'autra per fadesc",
+        "Engal'ab lieis en paresc.",
+        "Per midonz ai cor estout",
+        "Et humil e baut;",
+        "Car s'a lieis non fos d'azaut",
+        "Ieu m'estera en luoc d'un vout:",
+        "Que d'als non pensera mout",
+        "Mas manjera e tengram chaut",
+        "Et agra nom Raembaut.",
+        "E qui vol aprenre, escout",
+        "D'amar ben cum saut!",
+        "Eu saill plus que nuills hom aut;",
+        "El janglos saill per so mout",
+        "Sol que s'apil e s'acout:",
+        "Cuig'ab lausenjar d'espaut",
+        "Dir so don ma dompna faut.",
+        "Ma chanssos non vuoill que saut",
+        "Mas per celz de cui m'azaut.",
+        "Per enseignamen m'azaut",
+        "De moutz qem fan de lur chaut.",
+        "Joglars, per qem desazaut",
+        "Ma dompna e vos mi faitz baut."
+    ],
+    "Stanzas": [
+        [
+            "Ben s'eschai q'en bona cort",
+            "Chan qui chantar sap:",
+            "E ieu atendrai mon gap",
+            "Don mi tenrai plus per lort;",
+            "Car sabran li sec eil sort",
+            "Q'ieu n'aurai pretz, qui q'en jap,",
+            "Dels vint qe serem el trap."
+        ],
+        [
+            "Donc l'endeman del beort",
+            "Levarai el cap",
+            "La gran corona de drap.",
+            "An Mita ab lo nas cort,",
+            "E qui l'apella dreich bort",
+            "Lau que la lenga l'arap",
+            "Que mais fols motz noill escap!"
+        ],
+        [
+            "Aissi ai bastit en gaug",
+            "Mon cor nou e fresc,",
+            "C'ades sort e saill e tresc",
+            "Si q'apenas veig ni aug;",
+            "E sapchal donz de Talaug",
+            "Q'ieu non sui cel que paresc:",
+            "Q'en autre sen m'entrebesc."
+        ],
+        [
+            "E quis vol, corn, crit e flaug",
+            "D'amor, pos ieu cresc",
+            "Sobre totz, c'als q'en fol pesc!",
+            "Q'eu am des Luc tro ad Aug",
+            "La genssor, e m'en pelaug",
+            "Tot hom c'autra per fadesc",
+            "Engal'ab lieis en paresc."
+        ],
+        [
+            "Per midonz ai cor estout",
+            "Et humil e baut;",
+            "Car s'a lieis non fos d'azaut",
+            "Ieu m'estera en luoc d'un vout:",
+            "Que d'als non pensera mout",
+            "Mas manjera e tengram chaut",
+            "Et agra nom Raembaut."
+        ],
+        [
+            "E qui vol aprenre, escout",
+            "D'amar ben cum saut!",
+            "Eu saill plus que nuills hom aut;",
+            "El janglos saill per so mout",
+            "Sol que s'apil e s'acout:",
+            "Cuig'ab lausenjar d'espaut",
+            "Dir so don ma dompna faut."
+        ],
+        [
+            "Ma chanssos non vuoill que saut",
+            "Mas per celz de cui m'azaut."
+        ],
+        [
+            "Per enseignamen m'azaut",
+            "De moutz qem fan de lur chaut."
+        ],
+        [
+            "Joglars, per qem desazaut",
+            "Ma dompna e vos mi faitz baut."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX"
+    ],
+    "Source": " MAHN, C. A. F., Gedichte der Troubadours in provenzalischer Sprache, 4 tomes, Berlin, 1856-1873"
+}

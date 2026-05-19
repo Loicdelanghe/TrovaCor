@@ -1,0 +1,150 @@
+{
+    "Author": [
+        "Raimbaut_dAurainga"
+    ],
+    "Genre": "Canso",
+    "Title": "Braiz, chans, quils, critz ",
+    "FullText": [
+        "Braiz, chans, quils, critz",
+        "Aug dels auzels pels plaissaditz. ",
+        "Oc! mas no los enten ni deinh;",
+        "C'un'iram cenh",
+        "Lo cor, on dols m'a pres razitz,",
+        "Per qen sofer.",
+        "Sim fos grazitz",
+        "Mos chantars, ni ben acuillitz",
+        "Per cella que m'a en desdeing,",
+        "D'aitan mi feing",
+        "Q'en mains bons luocs for'enbrugitz",
+        "Mais que non er.",
+        "Tristz e marritz",
+        "Es mos chantars aissi fenitz",
+        "Per totz temps mais tro q'elam deing",
+        "Pel sieu manteing;",
+        "Era mos bos, er es delitz!",
+        "Mas nol sofer!",
+        "Jois m'es fugitz!",
+        "Un pauc mas tost mi fon faillitz!",
+        "S'anc mi volc, er m'a en desdeing.",
+        "Com nom esteing",
+        "Can precs ni merces ni destritz",
+        "Re no i conquer?",
+        "Mos cors me ditz",
+        "\"Per qe soi per liei envilitz?\" ",
+        "\"Car sap que nuill'autra non deing,",
+        "Per som n'estreing\".",
+        "Morrai, car mos cors enfollitz",
+        "Mas ges non quer.",
+        "Cum sui trahitz!",
+        "Bona dompn'ab talan voutitz,",
+        "Ab cor dur, a! nuill'als non deing,",
+        "Mesclat ab geing.",
+        "Volretz que torn flacs-endurzitz,",
+        "O que demer!",
+        "Trop sui arditz!",
+        "Dompna, mos sens eissabozitz",
+        "M'a faitz dir fols motz q'ieu non deing:",
+        "Contra mi reing.",
+        "Tant sui fors de mon sen issitz",
+        "Non sent qim fer.",
+        "Mout es petitz,",
+        "Dompna,l tortz q'ieu vos ai servitz,",
+        "Per que vos m'avetz en desdeing.",
+        "Fatz n'esdeveing!",
+        "Pendutz fos aut per la cervitz",
+        "Qui a moiller!",
+        "Humils, ses geing,",
+        "Dompna,l vostre sers fals-faillitz",
+        "Merce vos quer.",
+        "Mas pretz, non Sobrans', es tequitz:",
+        "Don en vos er."
+    ],
+    "Stanzas": [
+        [
+            "Braiz, chans, quils, critz",
+            "Aug dels auzels pels plaissaditz. ",
+            "Oc! mas no los enten ni deinh;",
+            "C'un'iram cenh",
+            "Lo cor, on dols m'a pres razitz,",
+            "Per qen sofer."
+        ],
+        [
+            "Sim fos grazitz",
+            "Mos chantars, ni ben acuillitz",
+            "Per cella que m'a en desdeing,",
+            "D'aitan mi feing",
+            "Q'en mains bons luocs for'enbrugitz",
+            "Mais que non er."
+        ],
+        [
+            "Tristz e marritz",
+            "Es mos chantars aissi fenitz",
+            "Per totz temps mais tro q'elam deing",
+            "Pel sieu manteing;",
+            "Era mos bos, er es delitz!",
+            "Mas nol sofer!"
+        ],
+        [
+            "Jois m'es fugitz!",
+            "Un pauc mas tost mi fon faillitz!",
+            "S'anc mi volc, er m'a en desdeing.",
+            "Com nom esteing",
+            "Can precs ni merces ni destritz",
+            "Re no i conquer?"
+        ],
+        [
+            "Mos cors me ditz",
+            "\"Per qe soi per liei envilitz?\" ",
+            "\"Car sap que nuill'autra non deing,",
+            "Per som n'estreing\".",
+            "Morrai, car mos cors enfollitz",
+            "Mas ges non quer."
+        ],
+        [
+            "Cum sui trahitz!",
+            "Bona dompn'ab talan voutitz,",
+            "Ab cor dur, a! nuill'als non deing,",
+            "Mesclat ab geing.",
+            "Volretz que torn flacs-endurzitz,",
+            "O que demer!"
+        ],
+        [
+            "Trop sui arditz!",
+            "Dompna, mos sens eissabozitz",
+            "M'a faitz dir fols motz q'ieu non deing:",
+            "Contra mi reing.",
+            "Tant sui fors de mon sen issitz",
+            "Non sent qim fer."
+        ],
+        [
+            "Mout es petitz,",
+            "Dompna,l tortz q'ieu vos ai servitz,",
+            "Per que vos m'avetz en desdeing.",
+            "Fatz n'esdeveing!",
+            "Pendutz fos aut per la cervitz",
+            "Qui a moiller!"
+        ],
+        [
+            "Humils, ses geing,",
+            "Dompna,l vostre sers fals-faillitz",
+            "Merce vos quer."
+        ],
+        [
+            "Mas pretz, non Sobrans', es tequitz:",
+            "Don en vos er."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X"
+    ],
+    "Source": " MAHN, C. A. F., Gedichte der Troubadours in provenzalischer Sprache, 4 tomes, Berlin, 1856-1873"
+}

@@ -1,0 +1,148 @@
+{
+    "Author": [
+        "Raimbaut_dAurainga"
+    ],
+    "Genre": "Canso",
+    "Title": "Joglar, fe qed eu dei ",
+    "FullText": [
+        "Joglar, fe qed eu dei",
+        "A Dieu ni a ma donna ni a mei,",
+        "Qauzutz son en esfrei",
+        "Q'ar mais ancor non vei",
+        "Lieis a cui totz m'autrei",
+        "Per ar e per totz tems.",
+        "E serem mais ensems,",
+        "Eu sai, q'o tol ma domna. Qar trop tems?",
+        "L'un oil men fus redems",
+        "Q'eu non temes t'estrems;",
+        "Sol vos - sen era sems -",
+        "Meins no men presasetz.",
+        "C'anc fams, ni sons, ni setz",
+        "Nom destreis tan, uns ni tuig millia vetz,",
+        "Com fai sos talans fretz.",
+        "Q'en breu de vent m'abretz",
+        "Car vos non vei, cui letz",
+        "De sofrir mon perill.",
+        "A! Domn'ap cor volpill,",
+        "Gran paor ai qeil bocha me rovill",
+        "Q'ar del col tro al cill",
+        "Nous bais, qui qen grondill;",
+        "Q'eu n'iria en eissill",
+        "Enanz c'autram baizs.",
+        "E com morrai ads!",
+        "Sim cochal bes q'eu n'aic! q'el luec torns!",
+        "A, domnal plus confs",
+        "Ome qez anc ams",
+        "Acorres, si que prs",
+        "De vos sia mos crs!",
+        "Ai! Talens, car no mrs?",
+        "E Seignier Dieus, gitasses lo tost frs!",
+        "O q'il sembles ma srs",
+        "A cel qe sabol destrs,",
+        "Si qe nostre demrs",
+        "Fos per totz acuillitz!",
+        "Domna, nom faz marritz",
+        "Per qem tegna de vos per eschernitz;",
+        "Mas qar lur fals critz",
+        "Dels enojos tratz",
+        "Tem, e tant son eissitz",
+        "Del bon sen c'aver soill.",
+        "Per l'espavent mi doill",
+        "E pel gran be, qu'avant n'ai fait orgoill,",
+        "Si q'ieu non deing mon oill",
+        "Girar ves autre foill,",
+        "Qar mos cors no m'acoill",
+        "Q'ieu ves vos mi renei.",
+        "Domna, si lai on soill",
+        "Nous vei en breum renei.",
+        "Far men podes orgoill:",
+        "Q'ans morrai qem renei!"
+    ],
+    "Stanzas": [
+        [
+            "Joglar, fe qed eu dei",
+            "A Dieu ni a ma donna ni a mei,",
+            "Qauzutz son en esfrei",
+            "Q'ar mais ancor non vei",
+            "Lieis a cui totz m'autrei",
+            "Per ar e per totz tems."
+        ],
+        [
+            "E serem mais ensems,",
+            "Eu sai, q'o tol ma domna. Qar trop tems?",
+            "L'un oil men fus redems",
+            "Q'eu non temes t'estrems;",
+            "Sol vos - sen era sems -",
+            "Meins no men presasetz."
+        ],
+        [
+            "C'anc fams, ni sons, ni setz",
+            "Nom destreis tan, uns ni tuig millia vetz,",
+            "Com fai sos talans fretz.",
+            "Q'en breu de vent m'abretz",
+            "Car vos non vei, cui letz",
+            "De sofrir mon perill."
+        ],
+        [
+            "A! Domn'ap cor volpill,",
+            "Gran paor ai qeil bocha me rovill",
+            "Q'ar del col tro al cill",
+            "Nous bais, qui qen grondill;",
+            "Q'eu n'iria en eissill",
+            "Enanz c'autram baizs."
+        ],
+        [
+            "E com morrai ads!",
+            "Sim cochal bes q'eu n'aic! q'el luec torns!",
+            "A, domnal plus confs",
+            "Ome qez anc ams",
+            "Acorres, si que prs",
+            "De vos sia mos crs!"
+        ],
+        [
+            "Ai! Talens, car no mrs?",
+            "E Seignier Dieus, gitasses lo tost frs!",
+            "O q'il sembles ma srs",
+            "A cel qe sabol destrs,",
+            "Si qe nostre demrs",
+            "Fos per totz acuillitz!"
+        ],
+        [
+            "Domna, nom faz marritz",
+            "Per qem tegna de vos per eschernitz;",
+            "Mas qar lur fals critz",
+            "Dels enojos tratz",
+            "Tem, e tant son eissitz",
+            "Del bon sen c'aver soill."
+        ],
+        [
+            "Per l'espavent mi doill",
+            "E pel gran be, qu'avant n'ai fait orgoill,",
+            "Si q'ieu non deing mon oill",
+            "Girar ves autre foill,",
+            "Qar mos cors no m'acoill",
+            "Q'ieu ves vos mi renei."
+        ],
+        [
+            "Domna, si lai on soill",
+            "Nous vei en breum renei."
+        ],
+        [
+            "Far men podes orgoill:",
+            "Q'ans morrai qem renei!"
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X"
+    ],
+    "Source": " MAHN, C. A. F., Gedichte der Troubadours in provenzalischer Sprache, 4 tomes, Berlin, 1856-1873"
+}
