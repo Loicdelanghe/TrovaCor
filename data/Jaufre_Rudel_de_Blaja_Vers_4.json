@@ -1,0 +1,99 @@
+{
+    "Author": [
+        "Jaufre_Rudel_de_Blaja"
+    ],
+    "Genre": "Canso",
+    "Title": "Qan lo rius de la fontana ",
+    "FullText": [
+        "Qan lo rius de la fontana",
+        "esclarzis si cum far sol,",
+        "par la flors aiglentina,",
+        "l rossignoletz el ram",
+        "volv e refraing et aplana",
+        "on doutz chantar et afina,",
+        "z es qieu lo mieu refraigna.",
+        "Amors de terra loindana,",
+        "per vos totz lo cors mi dol;",
+        "on puosc trobar meizina",
+        "on vau al sieu reclam,",
+        "b atraich damor doussana,",
+        "z vergier o sotz cortina",
+        "b desirada compaigna.",
+        "Pois del tot men faill aizina,",
+        "om meravill sieu maflam,",
+        "Crestiana",
+        "on fo, que Dieus non la vol,",
+        "Juzeva ni Sarrazina;",
+        "ben paisutz de manna",
+        "qui ren de samor gazaigna.",
+        "De desir mos cors non fina",
+        "vas cella ren qieu plus am;",
+        "que volers mengana",
+        "obezeza lam tol;",
+        "que plus es pongens qespina",
+        "olors que ab joi sana,",
+        "on ja non vuoill com men plaigna.",
+        "Senes breu de pargamina",
+        "met lo vers que chantam",
+        "plan et en lenga romana",
+        "N Hugon Brun per Fillol;",
+        "bon mes car gens Peitavina,",
+        "Beiriu et de Guianna",
+        "esgau per lui, e Bretaigna."
+    ],
+    "Stanzas": [
+        [
+            "Qan lo rius de la fontana",
+            "esclarzis si cum far sol,",
+            "par la flors aiglentina,",
+            "l rossignoletz el ram",
+            "volv e refraing et aplana",
+            "on doutz chantar et afina,",
+            "z es qieu lo mieu refraigna."
+        ],
+        [
+            "Amors de terra loindana,",
+            "per vos totz lo cors mi dol;",
+            "on puosc trobar meizina",
+            "on vau al sieu reclam,",
+            "b atraich damor doussana,",
+            "z vergier o sotz cortina",
+            "b desirada compaigna."
+        ],
+        [
+            "Pois del tot men faill aizina,",
+            "om meravill sieu maflam,",
+            "Crestiana",
+            "on fo, que Dieus non la vol,",
+            "Juzeva ni Sarrazina;",
+            "ben paisutz de manna",
+            "qui ren de samor gazaigna."
+        ],
+        [
+            "De desir mos cors non fina",
+            "vas cella ren qieu plus am;",
+            "que volers mengana",
+            "obezeza lam tol;",
+            "que plus es pongens qespina",
+            "olors que ab joi sana,",
+            "on ja non vuoill com men plaigna."
+        ],
+        [
+            "Senes breu de pargamina",
+            "met lo vers que chantam",
+            "plan et en lenga romana",
+            "N Hugon Brun per Fillol;",
+            "bon mes car gens Peitavina,",
+            "Beiriu et de Guianna",
+            "esgau per lui, e Bretaigna."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Jeanroy, Alfred. Les chansons de Jaufr Rudel. Paris: Champion, 1915"
+}

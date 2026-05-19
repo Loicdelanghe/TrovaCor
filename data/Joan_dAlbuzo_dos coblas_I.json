@@ -1,0 +1,63 @@
+{
+    "Author": [
+        "Joan_dAlbuzo"
+    ],
+    "Genre": "Coblas",
+    "Title": "Vostra dompna, segon lo meu semblan, ",
+    "FullText": [
+        "Vostra dompna, segon lo meu semblan,",
+        "vos contrafaitz, bels amics En Sordel,",
+        "car vos annatz Proenza conqistan,",
+        "Engleterra e Franza e Lunel,",
+        "e Lemozi, Alvergna e Vianes,",
+        "e Borgoigna e totz los autres paes,",
+        "e dEspagna los plans els pois el mon;",
+        "de conqerre tut or vos er a ffron!",
+        "Vostra dompna fo al terre denan",
+        "per conqistar lemperi Manuel,",
+        "Ongaria e Cumania la gran,",
+        "e Russia conqistet ses revel,",
+        "et eissamen lai de mar anet, ges",
+        "per conqistar lenperi qe lai es,",
+        "et einassi conqerretz tot lo mon,",
+        "se conqerretz daval et il damon.",
+        "Amics Sordel, can Gasco e Frances",
+        "seran amic, adonc vos trobares",
+        "lei qi cerchas tot lo mon en reon,",
+        "qant om ve lun e lautre sen escon."
+    ],
+    "Stanzas": [
+        [
+            "Vostra dompna, segon lo meu semblan,",
+            "vos contrafaitz, bels amics En Sordel,",
+            "car vos annatz Proenza conqistan,",
+            "Engleterra e Franza e Lunel,",
+            "e Lemozi, Alvergna e Vianes,",
+            "e Borgoigna e totz los autres paes,",
+            "e dEspagna los plans els pois el mon;",
+            "de conqerre tut or vos er a ffron!"
+        ],
+        [
+            "Vostra dompna fo al terre denan",
+            "per conqistar lemperi Manuel,",
+            "Ongaria e Cumania la gran,",
+            "e Russia conqistet ses revel,",
+            "et eissamen lai de mar anet, ges",
+            "per conqistar lenperi qe lai es,",
+            "et einassi conqerretz tot lo mon,",
+            "se conqerretz daval et il damon."
+        ],
+        [
+            "Amics Sordel, can Gasco e Frances",
+            "seran amic, adonc vos trobares",
+            "lei qi cerchas tot lo mon en reon,",
+            "qant om ve lun e lautre sen escon."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Adolf Kolsen, Altprovenzalisches 18: Das Sirventes des Joan dAlbuzo gegen Sordel, Zeitschrift fr romanische Philologie, 58, 1938"
+}

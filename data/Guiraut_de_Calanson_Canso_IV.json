@@ -1,0 +1,142 @@
+{
+    "Author": [
+        "Guiraut_de_Calanson"
+    ],
+    "Genre": "Canso",
+    "Title": "Si tot l'aura s'es amara ",
+    "FullText": [
+        "Si tot laura ses amara,",
+        "Don sesclarzisson li branc,",
+        "Ges per aisso nom estanc",
+        "Dun vers far en bella rima,",
+        "Per que sapchon li pluzor",
+        "Quieu no vei bon trobador",
+        "Quab mi no pogues apendre.",
+        "E pois quascus dezampara",
+        "Vers per chanso, ieu nom planc",
+        "Lo dan quel corr sobr el flanc",
+        "El genh e lart e lescrima ;",
+        "Mas lus vol quom chant damor,",
+        "Lautre vol motz de folhor,",
+        "Lautre leu vers per entendre,",
+        "Per que belha razos cara",
+        "Se pert, quel clop e li ranc",
+        "El gartz questai sotz lo banc,",
+        "Quapres los autres razima,",
+        "Trobon e son chantador ;",
+        "Elh malvat entendedor",
+        "Lauzon so quom deu mespendre.",
+        "E quar om razo non gara,",
+        "Ab mains digz cars me remanc ;",
+        "Quar so vei chazer el fanc",
+        "Que degr aut estar el sima.",
+        "E calon sen li melhor ;",
+        "Tan son pauc li valedor,",
+        "Quom no pot ab totz contendre.",
+        "Mas una flors blanch e clara",
+        "Mi te alques mon cor franc,",
+        "E senas nom vol, tot blanc",
+        "Maura cum en lora prima ;",
+        "Mas sim breuges ma dolor,",
+        "Be tengral joi per melhor,",
+        "Quar mais val donar que vendre.",
+        "Mas sa belha francha cara",
+        "No vei, per que nom refranc",
+        "Del greu mal don me complanc",
+        "Quins el cor mintra em lima.",
+        "A lei de fin amador",
+        "Dezir so don soven plor,",
+        "Quen als no men puesc enpendre.",
+        "E pero si nom ampara",
+        "Non dei dals pensar, ni anc",
+        "Ni es ni er ni fo anc",
+        "Autra per que jas refrima",
+        "Mon cor quieu jal vir alhor,",
+        "Qua lei de bon jogador",
+        "Vuelh tot en un luec despendre.",
+        "Del bon rei fauc ma lauzor",
+        "DArago, quar ab onor",
+        "Sap tot, quant elh fai, despendre."
+    ],
+    "Stanzas": [
+        [
+            "Si tot laura ses amara,",
+            "Don sesclarzisson li branc,",
+            "Ges per aisso nom estanc",
+            "Dun vers far en bella rima,",
+            "Per que sapchon li pluzor",
+            "Quieu no vei bon trobador",
+            "Quab mi no pogues apendre."
+        ],
+        [
+            "E pois quascus dezampara",
+            "Vers per chanso, ieu nom planc",
+            "Lo dan quel corr sobr el flanc",
+            "El genh e lart e lescrima ;",
+            "Mas lus vol quom chant damor,",
+            "Lautre vol motz de folhor,",
+            "Lautre leu vers per entendre,"
+        ],
+        [
+            "Per que belha razos cara",
+            "Se pert, quel clop e li ranc",
+            "El gartz questai sotz lo banc,",
+            "Quapres los autres razima,",
+            "Trobon e son chantador ;",
+            "Elh malvat entendedor",
+            "Lauzon so quom deu mespendre."
+        ],
+        [
+            "E quar om razo non gara,",
+            "Ab mains digz cars me remanc ;",
+            "Quar so vei chazer el fanc",
+            "Que degr aut estar el sima.",
+            "E calon sen li melhor ;",
+            "Tan son pauc li valedor,",
+            "Quom no pot ab totz contendre."
+        ],
+        [
+            "Mas una flors blanch e clara",
+            "Mi te alques mon cor franc,",
+            "E senas nom vol, tot blanc",
+            "Maura cum en lora prima ;",
+            "Mas sim breuges ma dolor,",
+            "Be tengral joi per melhor,",
+            "Quar mais val donar que vendre."
+        ],
+        [
+            "Mas sa belha francha cara",
+            "No vei, per que nom refranc",
+            "Del greu mal don me complanc",
+            "Quins el cor mintra em lima.",
+            "A lei de fin amador",
+            "Dezir so don soven plor,",
+            "Quen als no men puesc enpendre."
+        ],
+        [
+            "E pero si nom ampara",
+            "Non dei dals pensar, ni anc",
+            "Ni es ni er ni fo anc",
+            "Autra per que jas refrima",
+            "Mon cor quieu jal vir alhor,",
+            "Qua lei de bon jogador",
+            "Vuelh tot en un luec despendre."
+        ],
+        [
+            "Del bon rei fauc ma lauzor",
+            "DArago, quar ab onor",
+            "Sap tot, quant elh fai, despendre."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII"
+    ],
+    "Source": " Ernst, Willy. Die Lieder des provenzalischen Trobadors Guiraut von Calanso. \"Romanische Forschungen\", 44, 2 (1930)"
+}

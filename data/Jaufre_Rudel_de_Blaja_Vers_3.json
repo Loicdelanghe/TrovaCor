@@ -1,0 +1,111 @@
+{
+    "Author": [
+        "Jaufre_Rudel_de_Blaja"
+    ],
+    "Genre": "Canso",
+    "Title": "No sap chantar qui so non di ",
+    "FullText": [
+        "No sap chantar qui so non di,",
+        "vers trobar qui motz no fa,",
+        "onois de rima cos va",
+        "zo non enten en si;",
+        "mas lo mieus chans comensaisi:",
+        "on plus lauziretz, mais valra.",
+        "Nuils hom nos meravill de mi",
+        "u am so que ja nom veira,",
+        "quel cor joi dautramor non a",
+        "mas de cela que anc no vi,",
+        "per nuill joi aitan no ri;",
+        "o sai qual bes men venra.",
+        "Colps de joi me fer que mausi,",
+        "ponha damor quem sostra",
+        ", don lo cors magrira;",
+        "mais tan greu nom feri,",
+        "per nuill colp tan no langui,",
+        "quar no cove ni no sesca.",
+        "Anc tan suau no madurmi,",
+        "mos esperitz tost no fos la,",
+        "ira non ac de sa,",
+        "mos cors ades no fos aqui;",
+        "mais quan mi resveill al mati,",
+        "otz mos bos sabers mi desva.",
+        "Ben sai, anc de leis nom jauzi,",
+        "ja de mi nos jauzira,",
+        "per son amic nom tenra,",
+        "oven nom fara de si;",
+        "om dis ver ni nom menti,",
+        "o sai si ja o fara.",
+        "Bos es lo vers, anc noi failli,",
+        "ot so quei es ben esta;",
+        "que de mi lapenra",
+        "ol franha ni nol pessi;",
+        "vueill lauja en Caersi",
+        "En Bertrans el coms en Tolza.",
+        "Bos es lo vers, e faran hi",
+        "que re don hom chantara."
+    ],
+    "Stanzas": [
+        [
+            "No sap chantar qui so non di,",
+            "vers trobar qui motz no fa,",
+            "onois de rima cos va",
+            "zo non enten en si;",
+            "mas lo mieus chans comensaisi:",
+            "on plus lauziretz, mais valra."
+        ],
+        [
+            "Nuils hom nos meravill de mi",
+            "u am so que ja nom veira,",
+            "quel cor joi dautramor non a",
+            "mas de cela que anc no vi,",
+            "per nuill joi aitan no ri;",
+            "o sai qual bes men venra."
+        ],
+        [
+            "Colps de joi me fer que mausi,",
+            "ponha damor quem sostra",
+            ", don lo cors magrira;",
+            "mais tan greu nom feri,",
+            "per nuill colp tan no langui,",
+            "quar no cove ni no sesca."
+        ],
+        [
+            "Anc tan suau no madurmi,",
+            "mos esperitz tost no fos la,",
+            "ira non ac de sa,",
+            "mos cors ades no fos aqui;",
+            "mais quan mi resveill al mati,",
+            "otz mos bos sabers mi desva."
+        ],
+        [
+            "Ben sai, anc de leis nom jauzi,",
+            "ja de mi nos jauzira,",
+            "per son amic nom tenra,",
+            "oven nom fara de si;",
+            "om dis ver ni nom menti,",
+            "o sai si ja o fara."
+        ],
+        [
+            "Bos es lo vers, anc noi failli,",
+            "ot so quei es ben esta;",
+            "que de mi lapenra",
+            "ol franha ni nol pessi;",
+            "vueill lauja en Caersi",
+            "En Bertrans el coms en Tolza."
+        ],
+        [
+            "Bos es lo vers, e faran hi",
+            "que re don hom chantara."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+    ],
+    "Source": " Jeanroy, Alfred. Les chansons de Jaufr Rudel. Paris: Champion, 1915"
+}

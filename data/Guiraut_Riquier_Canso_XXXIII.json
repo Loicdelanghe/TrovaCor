@@ -1,0 +1,83 @@
+{
+    "Author": [
+        "Guiraut_Riquier"
+    ],
+    "Genre": "Canso",
+    "Title": "Sancta verges, maires pura ",
+    "FullText": [
+        "Sancta verges, maires pura",
+        "Ihesucrist filh de Dieu,",
+        "per vertut, non per natura,",
+        "poder plenier sieu;",
+        ", saludada",
+        ", humils trobada,",
+        "venc en tu Santz Esperitz,",
+        "Filhs, Paires, Dieus-hom, per traire",
+        "os de perilhos dezaire:",
+        "pregal quelh nos sia guitz.",
+        "Per ta gran bonaventura",
+        "fon passatz lo mans de Dieu:",
+        "quar per atemprar drechura",
+        "fes maire del filh sieu,",
+        "per tu es sobronrada",
+        "ota lumanals linhada;",
+        "quar tos precx es essauzitz,",
+        "ona sancta, filha maire,",
+        "prega ton filh e ton paire",
+        "quens fassa sos elegitz.",
+        "De totz bes agram frachura",
+        "u que nos vals ab Dieu,",
+        "ona, quar per forfachura",
+        "peran lo poder sieu",
+        "peneden. Verges lauzada,",
+        "ueg e iorn avocada",
+        "peccadors convertitz,",
+        "us nos totz bes atraire;",
+        "ot devem per que retraire,",
+        "quar de mort nos as ganditz."
+    ],
+    "Stanzas": [
+        [
+            "Sancta verges, maires pura",
+            "Ihesucrist filh de Dieu,",
+            "per vertut, non per natura,",
+            "poder plenier sieu;",
+            ", saludada",
+            ", humils trobada,",
+            "venc en tu Santz Esperitz,",
+            "Filhs, Paires, Dieus-hom, per traire",
+            "os de perilhos dezaire:",
+            "pregal quelh nos sia guitz."
+        ],
+        [
+            "Per ta gran bonaventura",
+            "fon passatz lo mans de Dieu:",
+            "quar per atemprar drechura",
+            "fes maire del filh sieu,",
+            "per tu es sobronrada",
+            "ota lumanals linhada;",
+            "quar tos precx es essauzitz,",
+            "ona sancta, filha maire,",
+            "prega ton filh e ton paire",
+            "quens fassa sos elegitz."
+        ],
+        [
+            "De totz bes agram frachura",
+            "u que nos vals ab Dieu,",
+            "ona, quar per forfachura",
+            "peran lo poder sieu",
+            "peneden. Verges lauzada,",
+            "ueg e iorn avocada",
+            "peccadors convertitz,",
+            "us nos totz bes atraire;",
+            "ot devem per que retraire,",
+            "quar de mort nos as ganditz."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III"
+    ],
+    "Source": " Longobardi, Monica. I vers del trovatore Guiraut Riquier. \"Studi Mediolatini e Volgari\", 29 (1982-1983)"
+}

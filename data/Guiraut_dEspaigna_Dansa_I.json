@@ -1,0 +1,73 @@
+{
+    "Author": [
+        "Guiraut_dEspaigna"
+    ],
+    "Genre": "Dansa",
+    "Title": "Na Ses Merce, e per que m'etz tan cara ",
+    "FullText": [
+        "Na Ses Merce,    e per que    m'etz tan cara,",
+        "Pos mal mi ve    del vostre    gen cors car.",
+        "Pero si a vos plazia,",
+        "Assatz m'acses (ja) destreg,",
+        "Dona, de cui nom part mia,",
+        "Que nous ai tort ni neleg,",
+        "Ans puesc adreg    estar dreg,    drecha cara,",
+        "C'autra non veg    nin enveg    ni tenh car.",
+        "E si d'amor m'avenia",
+        "Dousor, dousa don', aital,",
+        "Vostre gen cors (be) m'auria",
+        "Humil, franc, fin e lejal;",
+        "Mas pauc von qual,    donx per cal    razo guara,",
+        "Bel Proensal,    que nom sal    un esgar !",
+        "Del quar tener fauc folia,",
+        "Dona, don nom jauzi anc,",
+        "Quar en vos truep tal fadia,",
+        "Don son (li) mei cabeill blanc;",
+        "E pueis mi planc,     li mei flanc    dolor mara,",
+        "Car ab cor franc    tan m'afranc    en amar.",
+        "Itueil no faun re    a sel que    vostra cara",
+        "El cor non ve,    Na Berengueira,    car."
+    ],
+    "Stanzas": [
+        [
+            "Na Ses Merce,    e per que    m'etz tan cara,",
+            "Pos mal mi ve    del vostre    gen cors car."
+        ],
+        [
+            "Pero si a vos plazia,",
+            "Assatz m'acses (ja) destreg,",
+            "Dona, de cui nom part mia,",
+            "Que nous ai tort ni neleg,",
+            "Ans puesc adreg    estar dreg,    drecha cara,",
+            "C'autra non veg    nin enveg    ni tenh car."
+        ],
+        [
+            "E si d'amor m'avenia",
+            "Dousor, dousa don', aital,",
+            "Vostre gen cors (be) m'auria",
+            "Humil, franc, fin e lejal;",
+            "Mas pauc von qual,    donx per cal    razo guara,",
+            "Bel Proensal,    que nom sal    un esgar !"
+        ],
+        [
+            "Del quar tener fauc folia,",
+            "Dona, don nom jauzi anc,",
+            "Quar en vos truep tal fadia,",
+            "Don son (li) mei cabeill blanc;",
+            "E pueis mi planc,     li mei flanc    dolor mara,",
+            "Car ab cor franc    tan m'afranc    en amar."
+        ],
+        [
+            "Itueil no faun re    a sel que    vostra cara",
+            "El cor non ve,    Na Berengueira,    car."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "Source": " Bartsch, Karl. Denkmler der Provenalischen Litteratur. Stuttgart:Litterarische Verein, 1856"
+}

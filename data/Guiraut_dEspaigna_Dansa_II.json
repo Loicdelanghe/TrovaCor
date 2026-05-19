@@ -1,0 +1,82 @@
+{
+    "Author": [
+        "Guiraut_dEspaigna"
+    ],
+    "Genre": "Dansa",
+    "Title": "La gaja semblansa ",
+    "FullText": [
+        "La gaja semblansa",
+        "De Na Saisa m'agensa,",
+        "Quar gajamen m'enansa",
+        "Sa gaja cabtenensa.",
+        "E qui Na Saisa vol vezer,",
+        "A Montaigon destueilla;",
+        "Peronon si pot destoler",
+        "Hom que vezer la vueilla.",
+        "C'ab un esgart lansa",
+        "Qu'es gardatz de faillensa,",
+        "A pauc nom a semblansa",
+        "Na Tibortz de Proensa.",
+        "Bemplai quant aug matine ser",
+        "L'auzelet per la brueilla,",
+        "E vei per las brancas parer",
+        "La flor entre la fueilla,",
+        "Lai on mi plai dansa",
+        "El dous temps que comensa",
+        "Em dona alegransa,",
+        "Car Na L'Amad' agensa.",
+        "Comtessa Beatritz, per ver",
+        "Vostre fin pretz cabdueilla,",
+        "Sobre totas sabetz valer,",
+        "E nous pensetz quem tueilla",
+        "De dir vostr' onransa,",
+        "Frug d'onrada semensa,",
+        "E ges non ai duptansa",
+        "C'autra lauzors me vensa."
+    ],
+    "Stanzas": [
+        [
+            "La gaja semblansa",
+            "De Na Saisa m'agensa,",
+            "Quar gajamen m'enansa",
+            "Sa gaja cabtenensa."
+        ],
+        [
+            "E qui Na Saisa vol vezer,",
+            "A Montaigon destueilla;",
+            "Peronon si pot destoler",
+            "Hom que vezer la vueilla.",
+            "C'ab un esgart lansa",
+            "Qu'es gardatz de faillensa,",
+            "A pauc nom a semblansa",
+            "Na Tibortz de Proensa."
+        ],
+        [
+            "Bemplai quant aug matine ser",
+            "L'auzelet per la brueilla,",
+            "E vei per las brancas parer",
+            "La flor entre la fueilla,",
+            "Lai on mi plai dansa",
+            "El dous temps que comensa",
+            "Em dona alegransa,",
+            "Car Na L'Amad' agensa."
+        ],
+        [
+            "Comtessa Beatritz, per ver",
+            "Vostre fin pretz cabdueilla,",
+            "Sobre totas sabetz valer,",
+            "E nous pensetz quem tueilla",
+            "De dir vostr' onransa,",
+            "Frug d'onrada semensa,",
+            "E ges non ai duptansa",
+            "C'autra lauzors me vensa."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " Bartsch, Karl. Denkmler der Provenalischen Litteratur. Stuttgart:Litterarische Verein, 1856"
+}

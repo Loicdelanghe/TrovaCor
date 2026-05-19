@@ -1,0 +1,91 @@
+{
+    "Author": [
+        "Joand'Albuzo",
+        "Sordel"
+    ],
+    "Genre": "Tenso",
+    "Title": "Digatz mi ses vers zo com brui ",
+    "FullText": [
+        "Digatz mi ses vers zo com brui,",
+        "Sordel, qen don prenetz laltrui.",
+        "Joan, lo joi camors madui",
+        "De lautrui moiller non refui.",
+        "Sordel, paubertatz vos condui,",
+        "Zo diz om, en joglaria.",
+        "Joan, dalre joglars non sui",
+        "Mas de ben dir de mamia.",
+        "Pos joglars non es, com prezes,",
+        "Sordel, antan draps del Marques?",
+        "Joan, eu non los prezi ges",
+        "Mas per creisser joglar darnes.",
+        "Sordel, tal joglar en cregues",
+        "Qeu sai qeus sec noig e dia.",
+        "Joan, per amor sui cortes",
+        "E donei en Conha tria.",
+        "Sordel, re no vos vei donar,",
+        "Mas eus vei qerer e prejar.",
+        "Joan, molt enojos joglar",
+        "Hai en vos, nol vos puesc celar.",
+        "Sordel, lo vostre mendigar",
+        "Blasmon fort en Lumbardia.",
+        "Joan, no vos auz encolpar",
+        "Denjan ni de fellonia.",
+        "Sordel, vos respondet molt gen,",
+        "A lei de joglar aprenen.",
+        "Joan, eu respon avinen,",
+        "Ses qui mentenda davinen.",
+        "Sordel, moiller trobatz truep len",
+        "E ges no sai per qe sia.",
+        "Joan, qaicil en cui menten",
+        "Mam, e noi vueil compagnia."
+    ],
+    "Stanzas": [
+        [
+            "Digatz mi ses vers zo com brui,",
+            "Sordel, qen don prenetz laltrui.",
+            "Joan, lo joi camors madui",
+            "De lautrui moiller non refui.",
+            "Sordel, paubertatz vos condui,",
+            "Zo diz om, en joglaria.",
+            "Joan, dalre joglars non sui",
+            "Mas de ben dir de mamia."
+        ],
+        [
+            "Pos joglars non es, com prezes,",
+            "Sordel, antan draps del Marques?",
+            "Joan, eu non los prezi ges",
+            "Mas per creisser joglar darnes.",
+            "Sordel, tal joglar en cregues",
+            "Qeu sai qeus sec noig e dia.",
+            "Joan, per amor sui cortes",
+            "E donei en Conha tria."
+        ],
+        [
+            "Sordel, re no vos vei donar,",
+            "Mas eus vei qerer e prejar.",
+            "Joan, molt enojos joglar",
+            "Hai en vos, nol vos puesc celar.",
+            "Sordel, lo vostre mendigar",
+            "Blasmon fort en Lumbardia.",
+            "Joan, no vos auz encolpar",
+            "Denjan ni de fellonia."
+        ],
+        [
+            "Sordel, vos respondet molt gen,",
+            "A lei de joglar aprenen.",
+            "Joan, eu respon avinen,",
+            "Ses qui mentenda davinen.",
+            "Sordel, moiller trobatz truep len",
+            "E ges no sai per qe sia.",
+            "Joan, qaicil en cui menten",
+            "Mam, e noi vueil compagnia."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "III",
+        "IV"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato, 1931"
+}

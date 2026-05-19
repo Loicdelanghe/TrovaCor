@@ -1,0 +1,51 @@
+{
+    "Author": [
+        "Guiraut_dEspaigna"
+    ],
+    "Genre": "Dansa",
+    "Title": "Ben volgra, sesser poges ",
+    "FullText": [
+        "Ben volgra, sesser poges,",
+        "CAmors si gardes daytan:",
+        "Que non fezes fin aman",
+        "Chauzir en luec quel plages.",
+        "E per que? Car per plaser",
+        "Quieu cresia de vos aver,",
+        "Donna, vos mi fes chausir",
+        "Amors, don aviesper",
+        "Que mi degesses valer",
+        "Del joy don ieu tant sospir . . .",
+        "Dansa, car ieu ay apres",
+        "Quel reys Karles fay gent chan,",
+        "Per aquo as el ti man,",
+        "Car de fin pres es apres."
+    ],
+    "Stanzas": [
+        [
+            "Ben volgra, sesser poges,",
+            "CAmors si gardes daytan:",
+            "Que non fezes fin aman",
+            "Chauzir en luec quel plages."
+        ],
+        [
+            "E per que? Car per plaser",
+            "Quieu cresia de vos aver,",
+            "Donna, vos mi fes chausir",
+            "Amors, don aviesper",
+            "Que mi degesses valer",
+            "Del joy don ieu tant sospir . . ."
+        ],
+        [
+            "Dansa, car ieu ay apres",
+            "Quel reys Karles fay gent chan,",
+            "Per aquo as el ti man,",
+            "Car de fin pres es apres."
+        ]
+    ],
+    "Stanzas_idx": [
+        "I",
+        "II",
+        "VII"
+    ],
+    "Source": " De Bartholomaeis, Vincenzo. Poesie provenzali storiche relative all'Italia. Volume primo con ventiquattro silografie. Roma: Tipografia del Senato"
+}
